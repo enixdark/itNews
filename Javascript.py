@@ -1,28 +1,30 @@
 "Javascript":{
 		"Angular":[
+			"http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543"
+			"http://blog.npmjs.org/post/114584444410/using-angulars-new-improved-browserify-support"
 			"https://medium.com/@KamilLelonek/angularjs-and-scope-apply-best-practices-d07353175024"
 			"https://medium.com/@tomastrajan/component-paradigm-cf32e94ba78b"
 			"http://eisenbergeffect.bluespire.com/aurelia-angular-2-0-code-side-by-side-part-2/"
 			"http://www.encodedna.com/angularjs/tutorial/format-text-using-angularjs-currency-filter.htm"
-			"http://blog.crowdint.com/2015/03/18/angularjs-providers-under-the-hood.html?utm_source=blogpost&utm_medium=reddit&utm_campaign=angujarjsproviders-150318"
+			"http://blog.crowdint.com/2015/03/18/angularjs-providers-under-the-hood.html"
 			"http://www.htmlxprs.com/post/54/creating-a-super-simple-todo-app-using-angular-2-tutorial"
 			"http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications"
 			"http://angularjs.blogspot.com/2015/03/forms-in-angular-2.html"
-			"http://www.webcodegeeks.com/javascript/angular-js/interception-using-decorator-and-lazy-loading-with-angularjs/?utm_content=buffer60f40&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
-			"https://www.airpair.com/angularjs/posts/ngmodeloptions-total-model-control?utm_source=angularjobs&utm_medium=angularjobs&utm_campaign=angularjobs"
+			"http://www.webcodegeeks.com/javascript/angular-js/interception-using-decorator-and-lazy-loading-with-angularjs"
+			"https://www.airpair.com/angularjs/posts/ngmodeloptions-total-model-control"
 			"http://www.jackyen.com/unit-test-a-controller-in-angularjs/"
 			"https://angular.io/features.html"
-			"https://stormpath.com/blog/angular-node-15-minutes/?utm_content=buffer36486&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+			"https://stormpath.com/blog/angular-node-15-minutes/"
 			"http://www.ciappara.com/2015/03/20/convert-json-object-from-angularjs-to-class-object-in-webapi/"
-			"https://css-tricks.com/using-angularjs-for-data-visualisations/?utm_content=buffere8fc7&utm_medium=social&utm_source=twitter.com&utm_campaign=update"
-			"http://www.webcodegeeks.com/javascript/angular-js/angular-js-routing-example/?utm_content=bufferf20f1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+			"https://css-tricks.com/using-angularjs-for-data-visualisations/"
+			"http://www.webcodegeeks.com/javascript/angular-js/angular-js-routing-example/"
 			"http://www.jackyen.com/how-to-unit-test-an-angular-application-service-with-requests-to-backend/"
 			"http://www.aurorasolutions.io/step-by-step-guide-to-configure-angular-routing-using-angular-route/"
 			"http://www.aurorasolutions.io/angularjs-cross-component-communication/"
 			"http://frontendcollisionblog.com/angular_init/",
-			"https://www.airpair.com/angularjs/posts/angularjs-promises?utm_source=angularjobs&utm_medium=angularjobs&utm_campaign=angularjobs"
+			"https://www.airpair.com/angularjs/posts/angularjs-promises"
 			"http://blog.ionic.io/angular-2-series-introduction/",
-			"https://www.airpair.com/angularjs/posts/angularjs-promises?utm_source=angularjobs&utm_medium=angularjobs&utm_campaign=angularjobs"
+			"https://www.airpair.com/angularjs/posts/angularjs-promises"
 			"https://medium.com/@TK_CodeBear/getting-started-with-angular-part-1-bd448458566e",
 			"https://docs.google.com/document/d/1M9FmT05Q6qpsjgvH1XvCm840yn2eWEg0PMskSQz7k4E/preview?sle=true",
 			"http://trendytechhub.blogspot.com/2015/02/how-to-build-single-page-application.html",
@@ -37,30 +39,20 @@
 			"https://blog.codecentric.de/en/2015/03/five-ways-to-write-better-angular-services/"
 			"http://www.angularjsbook.com/angular-basics/chapters/basics/"
 			"http://www.pro-tekconsulting.com/blog/advancing-from-jquery-to-angularjs/"
-			"https://blog.nraboy.com/2015/03/using-oauth-2-0-in-your-web-browser-with-angularjs/?utm_content=buffer6b288&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+			"https://blog.nraboy.com/2015/03/using-oauth-2-0-in-your-web-browser-with-angularjs/"
 			"http://blog.carbonfive.com/2015/03/25/communication-between-collaborating-directives-in-angular/"
 			"https://www.airpair.com/javascript/posts/build-a-realtime-sms-call-center-with-data-mcfly-and-twilio"
 			"http://www.webcodegeeks.com/javascript/angular-js/learning-angular-set-language-culture-ui-displayed/"
 			"https://medium.com/angularjs-meetup-south-london/angular-new-router-preview-8002340e5427"
 			"https://github.com/swirlycheetah/generator-angular2"
 			"http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/#hnhttp://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/#hn"
-			"https://www.airpair.com/pubnub/posts/realtime-angularjs-pubsub-messaging-using-pubnub1?utm_source=angularjobs&utm_medium=angularjobs&utm_campaign=angularjobs"
+			"https://www.airpair.com/pubnub/posts/realtime-angularjs-pubsub-messaging-using-pubnub1"
 		],
 		"JXCore":[
 			"http://www.goland.org/jxcore/"
 		]
-		"Nodejs":[
-			"http://code.tutsplus.com/tutorials/nodejs-succinctly-arrays--cms-23291"
-			"http://omarfouad.com/blog/2015/03/21/advanced-angularjs-structure-with-gulp-node-and-browserify/?utm_content=buffer9a672&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
-			"http://blog.hiphipjorge.com/tutorial-building-a-realtime-image-sharing-app/"
-			"https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-jasmine"
-			"http://www.sys-con.com/node/3318327",
-			"http://rancher.com/nodejs-mongodb-application-with-rancher-part-2/?utm_content=bufferf4a86&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
-			"https://keymetrics.io/2015/03/26/pm2-clustering-made-easy/",
-			"http://blog.npmjs.org/post/115305091285/introducing-the-npm-semantic-version-calculator"
-			"http://www.sitepoint.com/6-nodejs-static-site-generators/"
-			"http://code.tutsplus.com/articles/social-authentication-for-nodejs-apps-with-passport--cms-21618"
-		],
+
+
 		"FireBase":[
 			"https://www.firebase.com/blog/2015-03-20-fireside-chat-testlio.html"
 			"https://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy"
@@ -72,20 +64,22 @@
 		"StrongLoop":[
 			"https://strongloop.com/strongblog/es6-variable-declarations/"
 		]
-		"iojs":[],
-		"Express":[],
-		"Sails":[
-			"https://everystack.io/#!/catalog/components/sails"
+		"iojs":[
+			"https://iojs.org/en/faq.html"
 		],
+
 		"Ember":[
+			"http://emberjs.com/blog/2015/01/08/inside-fastboot-faking-the-dom-in-node.html"
 			"http://blog.yodersolutions.com/why-i-recommend-emberjs-over-angularjs/"
 			"http://madhatted.com/2015/3/6/aligning-ember-js-with-web-standards-emberconf-2015"
 			"http://www.sitepoint.com/twitter-authentication-ember-js-torii/"
 		],
 		"Hapijs":[
+			"http://rafaelcorral.com/blog/building-a-restful-api-in-node-using-hapi-js-8"
 			"http://dailyjs.com/2015/03/16/hapijs-fullstack-stringformatter/"
 		]
 		"React":[
+			"http://scotch.io/tutorials/javascript/build-a-real-time-twitter-stream-with-node-and-react-js"
 			"https://www.codementor.io/reactjs/tutorial"
 			"https://scotch.io/tutorials/learning-react-getting-started-and-concepts"
 			"http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/"
@@ -109,13 +103,85 @@
 			"http://react-components.com/",
 			"http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript"
 			"https://www.codementor.io/reactjs/tutorial/understanding-react-js-rendering"
-			""
+			"https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi"
 		],
+
+		"Express":[
+			"http://webapplog.com/url-parameters-and-routing-in-express-js/"
+			"https://stormpath.com/blog/build-nodejs-express-stormpath-app/%20weekly&utm_medium=email&utm_campaign=express%20tutorial"
+			"https://blog.nraboy.com/2015/01/session-management-expressjs-web-application/"
+			"http://mherman.org/blog/2015/01/31/local-authentication-with-passport-and-express-4/#.VNKnnfWsWIR"
+			"http://nodejs.blog.br/2015/02/caching-views-redis-express-framework"
+			"https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skeleton"
+		],
+		"Sails":[
+			"http://www.ultrasaurus.com/2015/01/getting-started-sailsjs/"
+			"http://sanestack.com/"
+			"https://www.digitalocean.com/community/tutorials/how-to-create-an-node-js-app-using-sails-js-on-an-ubuntu-vps"
+			"https://everystack.io/#!/catalog/components/sails"
+		],
+		"Phantomjs":[
+			"http://engineering.shapesecurity.com/2015/01/detecting-phantomjs-based-visitors.html"
+		]
+		"Nodejs":[
+		"http://www.robotlovesyou.com/bdd-tdd/"
+		"http://code.tutsplus.com/tutorials/multi-instance-nodejs-app-in-paas-using-redis-pubsub--cms-22239"
+		"https://medium.com/@Philmod/debugging-node-js-29b2097df36c"
+		"http://blog.backand.com/github-webhook-node/"
+		"http://www.sitepoint.com/basics-node-js-streams/"
+		"https://stormpath.com/blog/everything-you-ever-wanted-to-know-about-node-dot-js-sessions/"
+		"http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/"
+		"http://bites.goodeggs.com/posts/selenium-webdriver-nodejs-tutorial/"
+		"http://tutorialzine.com/2015/01/your-first-node-webkit-app/"
+		"http://psteeleidem.com/node-module-factory-pattern/"
+		"https://nodesource.com/blog/understanding-the-nodejs-event-loop"
+		"https://gist.github.com/hueniverse/a06f6315ea736ed1b46d"
+		"http://nodejs.blog.br/2015/01/using-nodejs-with-mysql"
+		"http://www.sitepoint.com/deploying-heroku-using-gulp-node-git/"
+			"http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/"
+			"http://blog.robertonodi.me/managing-files-with-node-js-and-mongodb-gridfs/"
+			"http://blog.justonepixel.com/geek/2015/02/15/batch-operations-writable-streams/"
+			"http://www.datastax.com/dev/blog/nodejs-cassandra-javascript-type-support"
+			"https://engineering.gosquared.com/optimise-node-http-server"
+			"https://raygun.io/blog/2015/03/node-performance-hapi-express-js-restify/"
+			"https://egghead.io/lessons/nodejs-first-api-with-node-js-express-and-mongodb"
+			"https://strongloop.com/strongblog/nodejs-testing-documenting-apis-mocha-acquit/"
+			"http://www.bennadel.com/blog/2797-creating-objects-with-a-null-prototype-in-node-js.htm"
+			"http://rancher.com/building-a-nodejs-app-using-mongodb-and-rancher-part-1/"
+			"http://vansande.org/2015/03/22/unit_testing_with_mocks_in_node_js"
+			"https://sendgrid.com/docs/Utilities/code_workshop.html"
+			"http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/"
+			"http://code.tutsplus.com/tutorials/nodejs-succinctly-arrays--cms-23291"
+			"http://www.sitepoint.com/build-node-js-powered-chatroom-web-app-getting-started"
+			"http://omarfouad.com/blog/2015/03/21/advanced-angularjs-structure-with-gulp-node-and-browserify/"
+			"http://blog.hiphipjorge.com/tutorial-building-a-realtime-image-sharing-app/"
+			"https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-jasmine"
+			"http://www.sys-con.com/node/3318327",
+			"https://www.airpair.com/node.js/posts/microservices-nodejs-containers"
+			"http://www.sitepoint.com/getting-started-wintersmith-nodejs-static-site-generator/"
+			"https://keymetrics.io/2015/03/26/pm2-clustering-made-easy/"
+			"http://blog.ragingflame.co.za/2015/4/1/how-i-build-nodejs-applications"
+			"http://rancher.com/nodejs-mongodb-application-with-rancher-part-2/"
+			"https://keymetrics.io/2015/03/26/pm2-clustering-made-easy/",
+			"http://blog.npmjs.org/post/115305091285/introducing-the-npm-semantic-version-calculator"
+			"http://www.sitepoint.com/6-nodejs-static-site-generators/"
+			"http://code.tutsplus.com/articles/social-authentication-for-nodejs-apps-with-passport--cms-21618"
+		],
+		"Socketio":[
+			"http://www.giacomovacca.com/2015/02/websockets-over-nodejs-from-plain-to.html"
+			"http://tutorialzine.com/2015/02/smartphone-remote-control-for-presentations/"
+			"http://knowthen.com/episode-10-building-realtime-applications-just-got-easy/"
+		]
 		"BackBone":[
 			"http://www.webcodegeeks.com/javascript/backbone-js/backbone-js-events-example/"
 		],
-		"Webrtc":[],
+		"Webrtc":[
+			"http://sdelements.github.io/lets-chat/"
+			"http://thejackalofjavascript.com/node-webkit-webrtc-and-angularjs-a-video-chat-client/"
+		],
 		"Ionic":[
+			"http://thejackalofjavascript.com/ionic-twilio-and-node-scheduler-part-1/"
+			"http://www.webspeaks.in/2015/03/html5-offline-mobile-app-using-ionic-pouchdb.html"
 			"http://devdactic.com/shrinking-headers-with-ionic/"
 		],
 		"Phonegap":[],
@@ -128,24 +194,28 @@
 		],
 		"CofferScript":[],
 		"ECMASCript":[
+			"http://schempy.com/async_tasks_with_es6_generators"
 			"http://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html"
 			"http://derickbailey.com/2015/03/12/serially-iterating-an-array-asynchronously/"
 			"http://www.2ality.com/2015/03/babel-on-node.html"
 			"http://www.sitepoint.com/understanding-ecmascript-6-class-inheritance/"
 			"http://babeljs.io/blog/2015/03/31/5.0.0/"
 			"http://wiki.ecmascript.org/doku.php?id=harmony%3Aspecification_drafts#march_17_2015_rev_36_release_candidate_3"
-			"http://tonyfreed.com/blog/top_javascript_interview_question_2015?utm_content=buffer7156a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+			"http://tonyfreed.com/blog/top_javascript_interview_question_2015"
 			"http://www.2ality.com/2015/03/es6-generators.html"
 			"http://raganwald.com/2015/04/01/partial-application.html"
 		],
 		"Meteor":[
-
+			"https://www.youtube.com/watch?v=akWn_WD2cyA"
+			"http://joshowens.me/getting-started-with-meteor-js/"
 			"https://www.meteor.com/blog/2015/03/17/meteor-104-mongo-cordova-template-subscriptions"
 		],
-		"Mean":[],
+		"Mean":[
+			"https://hackhands.com/how-to-get-started-on-the-mean-stack/"
+		],
 		"Other":[
-			"http://codejets.com/javascript-best-practices-part-1/?utm_content=bufferddf18&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
-			"https://javascriptweblog.wordpress.com/2015/01/05/if-hemingway-wrote-javascript-explained/?utm_content=buffer2cc1b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+			"http://codejets.com/javascript-best-practices-part-1/"
+			"https://javascriptweblog.wordpress.com/2015/01/05/if-hemingway-wrote-javascript-explained/"
 			"http://discourse.codecombat.com/t/javascript-this-vs-self/3143"
 			"https://developers.google.com/v8/experiments"
 			"http://www.sys-con.com/node/3313595"
@@ -157,7 +227,7 @@
 			"http://burakkanber.com/blog/machine-learning-full-text-search-in-javascript-relevance-scoring/"
 			"http://www.infoq.com/news/2015/03/lodash-utility-library"
 			"https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070"
-			"http://www.webcodegeeks.com/javascript/dependency-injection-explained-via-javascript/?utm_content=bufferb31f9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+			"http://www.webcodegeeks.com/javascript/dependency-injection-explained-via-javascript/"
 			"http://www.infoworld.com/article/2901436/internet/faster-web-page-loading-without-javascript.html?phint=newt%3Dinfoworld_todays_blogs&phint=idg_eid%3D4b6859d3cf29bea2fdce1fcba704bf5e#tk.IFWNLE_nlt_blogs_2015-03-25"
 			"http://blog.chromium.org/2015/03/new-javascript-techniques-for-rapid.html"
 			"http://jakearchibald.com/2015/thats-so-fetch/"
@@ -170,11 +240,11 @@
 			"https://www.airpair.com/javascript/posts/unit-testing-ajax-requests-with-mocha"
 			"http://tonyfreed.com/blog/introduction_to_fetch_api"
 			"http://blog.webkid.io/javascript-chart-libraries/",
-			"http://caspervonb.com/javascript/an-overview-of-javascript-in-2015-ecmascript-6/?utm_content=buffer8973b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+			"http://caspervonb.com/javascript/an-overview-of-javascript-in-2015-ecmascript-6/",
 			"http://educationware.net/exercism-io-become-a-better-programmer/"
 			"https://everystack.io/#!/catalog/components/davis-js"
 			"http://nicolaiarocci.com/new-releases-for-cerberus-and-eve/"
 			"https://frontendmasters.com/courses/advanced-javascript/"
-			"http://arasatasaygin.github.io/is.js/?utm_content=buffer06988&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+			"http://arasatasaygin.github.io/is.js/"
 		]
-	},
+	}

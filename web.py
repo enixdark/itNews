@@ -1,187 +1,29 @@
 {
-	"Golang":[
-		"http://golanggo.com/post/115334564374/how-to-do-stream-multiplexing-in-go",
-		"http://golanggo.com/post/115333889744/quick-and-dirty-guide-to-deploying-go-apps",
-		"https://blog.compose.io/go-rethinkdb-and-changefeeds-part-2/?utm_content=bufferdb002&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
-	],
-	"Elixir":[
-	],
-	"Python":{
-		"Flask":[
-			"https://www.facebook.com/l.php?u=https%3A%2F%2Frealpython.com%2Fblog%2Fpython%2Fthe-ultimate-flask-front-end%2F&h=hAQEOJxLQ"
-		],
-		"Django":[
-			"https://syerram.silvrback.com/make-django-fasssst"
-		],
-		"Pyramid":[],
-		"Data":[],
-		"Others":[
-			"http://bits.citrusbyte.com/protecting-a-python-codebase/",
-			"http://davidemoro.blogspot.com/2015/04/how-to-choose-your-cms.html?utm_source=twitterfeed&utm_medium=twitter"
-		],
-	},
-	"Ruby":[
-		"https://semaphoreci.com/community/tutorials/setting-up-the-bdd-stack-on-a-new-rails-4-application",
-		"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
-	],
-	"Android":[],
-	"Javascript":{
-		"Angular":[
-			"http://frontendcollisionblog.com/angular_init/",
-			"http://blog.ionic.io/angular-2-series-introduction/",
-			"https://medium.com/@TK_CodeBear/getting-started-with-angular-part-1-bd448458566e",
-			"https://docs.google.com/document/d/1M9FmT05Q6qpsjgvH1XvCm840yn2eWEg0PMskSQz7k4E/preview?sle=true",
-		],
-		"Nodejs":[
-			"https://keymetrics.io/2015/03/26/pm2-clustering-made-easy/",
-			"http://blog.npmjs.org/post/115305091285/introducing-the-npm-semantic-version-calculator"
-		],
-		"iojs":[],
-		"Express":[],
-		"Sails":[],
-		"Ember":[],
-		"React":[
-			"http://www.syncano.com/getting-started-reactjs-tutorial/",
-			"http://react-components.com/",
-			"https://www.codementor.io/reactjs/tutorial/understanding-react-js-rendering"
-		],
-		"BackBone":[],
-		"Webrtc":[],
-		"Ionic":[],
-		"Phonegap":[],
-		"Knockout":[],
-		"Jquery":[],
-		"TYpeScript":[
-			"https://www.airpair.com/typescript/posts/typescript-development-with-gulp-and-sublime-text"
-		],
-		"CofferScript":[],
-		"ECMASCript":[
-			"http://raganwald.com/2015/04/01/partial-application.html"
-		],
-		"Other":["http://blog.webkid.io/javascript-chart-libraries/",
-			"http://caspervonb.com/javascript/an-overview-of-javascript-in-2015-ecmascript-6/?utm_content=buffer8973b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-			"http://educationware.net/exercism-io-become-a-better-programmer/"
-		]
 	},
 	
-	"Database":{
-		"SQL":[
-		"MySQL":[],
-		"Postgresql":[
-			"http://www.infoq.com/news/2015/04/Postgresql-JSON-Datastore?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-			"http://8kb.co.uk/blog/2015/04/02/being-cavalier-with-slony-nodes-and-pg_dumppg_restore/",
-		],
-		"Oracle":[],
-		"SQLServer":[]
-	],
-	"NoSQL":{
-		"Mongodb":[],
-		"CouchBase":[
-			"http://blog.couchbase.com/mongodb-rules-single-node-deployments"
-		],
-		"Redis":[
-			"https://github.com/no13bus/redispapa?utm_content=buffer949dc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-
-		],
-		"Neo4j":[
-			"http://www.markhneedham.com/blog/2015/04/01/neo4j-cypher-building-the-query-for-a-movies-profile-page/"
-		],
-		"Cassandra":[],
-		"CouchDB":[
-			"http://blog.couchdb.org/2015/04/02/couchdb-weekly-news-april-02-2015/"
-		]
-		"Hbase":[],
-		"Riak":[],
-		"ElastickSearch"
-		"Others":[
-			"http://planetnosql.blogspot.com/2015/03/query-planning-in-n1ql-sql-for-documents.html"
-		]
-	},
-	"Others":[
-		"http://www.datasciencecentral.com/profiles/blogs/lesson-4-features-common-to-most-nosql-newsql-databases"
-	]
-
-	},
-	"DataMining":[],
-	"DataScience":[],
-	"Erlang":[
-		"http://erlangcentral.org/other-erldocs-alpha/#.VR1ZsMuEi-k"
-	],
-	"CSS":[
-		"http://superdevresources.com/material-design-web-ui-frameworks/"
-	],
-	"HTML":[
-	],
-	"Java":[
-		"http://academy.javacodegeeks.com/course/java-concurrency-essentials/",
-		"http://examples.javacodegeeks.com/core-java/io/outputstream/java-io-outputstream-example/?utm_content=buffer3c398&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
-
-	],
-	"Scala":[
-	]
-	"BigData":{
-		"Hadoop":[
-			"http://www.hadoop360.com/blog/spark-shark-and-mesos-data-analytics-stack"
-		],
-		"Spark":[],
-		"Mesos":[
-			"http://www.javacodegeeks.com/2015/04/apache-mesos-marathon-and-java-ee.html",
-		],
-		"Mapr":[
-			"https://www.mapr.com/resources/videos/apache-drill-redefining-sql-hadoop-0",
-		]
-		"Others":[
-			"http://radar.oreilly.com/2015/04/a-real-time-processing-revival.html",
-		]
-	},
-	"CloudComputing":{
-		"AWS":[
-			"http://java.dzone.com/articles/working-amazon-s3-%E2%80%93-part-i?utm_content=buffer2e227&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-
-		],
-		"Docker":[
-			"https://github.com/chanezon/docker-tips/blob/master/docker-machine-docker-latest.md",
-			"https://blog.docker.com/2015/04/announcing-webhook-respository-subscriptions/",
-			"http://blog.thekingshotts.com/2015/04/02/getting-started-with-docker/",
-			"https://www.youtube.com/watch?v=bV5vbNK3Uhw&list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h"
-
-		],
-		"Openstack":[]
-	},
-	"Devops":{
-		"Apache":[],
-		"Nginx":[],
-		"LightHttp":[],
-		"Ansible":[
-			"http://www.ansible.com/blog/ansible-fundamentals-webinar?utm_campaign=Scheduled+Tweet&utm_content=13434861&utm_medium=social&utm_source=twitter",
-			"http://www.ansible.com/blog/ansible-simplicity-keeps-shining?utm_campaign=Scheduled+Tweet&utm_content=13435081&utm_medium=social&utm_source=twitter",
-		],
-		"Puppet":[],
-		"Chef":[],
-		"SaltStack":[]
-	},
-	"InternetofThing":{
-		"Microservice":[]
-	},
-	"Github":[
-		"https://github.com/telefonicaid/di-py?utm_content=buffera2303&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 	
-	],
-	"Other":{
-		"1":"http://code.tutsplus.com/tutorials/codeship-continuous-integration-and-delivery-made-simple--cms-23517",
-		"2":"https://www.paypal-engineering.com/2015/03/17/introducing-support/",
-		"3":""
-	}
-	"DistributeSystem":{
-		"AMQP":[],
-		"RabbitMQ":[],
-		"ZeroMQ":[]
-	},
-	"FaceBookGroup":[
-		"https://www.facebook.com/events/894694513886182/?ref=4&source=4"
-	],
-	"WebsiteBook":[
-		"https://onlybooks.org/"
-	]
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }

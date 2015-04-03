@@ -9,6 +9,6 @@
 		"https://everystack.io/#!/catalog/components/ratchet"
 		"http://paginas.fe.up.pt/~prodei/dsie12/papers/paper_17.pdf"
 		"http://www.bloomberg.com/company/2015-03-24/bloomberg-weve-made-brisket-can-make-anything/"
-		"http://www.infoq.com/news/2015/03/uber-realtime-market-platform?utm_source=twitter&utm_medium=link&utm_content=uber+news&utm_campaign=calendar"
-		"4":"https://www.atlassian.com/webinar-registration/jira-agile/stress-free-release?utm_=twitter&utm_medium=social&utm_campaign=jira_stress-free-release-webinar"
+		"http://www.infoq.com/news/2015/03/uber-realtime-market-platform+news&utm_campaign=calendar"
+		"4":"https://www.atlassian.com/webinar-registration/jira-agile/stress-free-release-free-release-webinar"
 	}

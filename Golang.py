@@ -3,6 +3,7 @@
 "http://golanggo.com/post/115333889744/quick-and-dirty-guide-to-deploying-go-apps",
 "https://www.kaihag.com/https-and-go/"
 "https://www.youtube.com/watch?v=gRpUfjTwSOo"
+"http://www.smartjava.org/content/using-go-build-rest-service-top-mongodb"
 "http://sinmetal-slide.appspot.com/2014/gocon1130/gaego.slide#1"
 "http://blog.altoros.com/golang-internals-part-2-diving-into-the-go-compiler.html"
 "https://www.voxxed.com/blog/2015/03/why-go-resonates-with-bdd-creator-dan-north/"

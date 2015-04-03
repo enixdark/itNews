@@ -1,5 +1,11 @@
 "Ruby":[
+	"http://neo4j.com/developer/ruby/"
+	"http://inaka.net/blog/2015/03/25/hot-score-with-ruby-postgresql-and-elastic-part-1/"
+	"http://viget.com/extend/functional-programming-in-ruby-with-contracts"
+	"http://dashing.io/"
+	"http://teotti.com/create-maintainable-mongodb-queries-in-ruby-with-query-object-and-mongoid-criterias/"
 	"https://everystack.io/#!/catalog/components/passenger"
+	"https://www.airpair.com/ruby/posts/step-aside-activesupportconcern-supermodule-is-the-new-sheriff-in-town"
 	"https://intercityup.com/blog/upcoming-changes-in-rails-5-0.html"
 	"http://alanwsmith.com/finding-things-in-rubys-objectspace",
 	"http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/"

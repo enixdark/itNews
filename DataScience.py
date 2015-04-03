@@ -5,13 +5,15 @@
 	"http://blog.sense.io/introducing-sense-a-platform-for-data-science/"
 	"https://outlookzen.wordpress.com/2015/03/15/life-lessons-from-machine-learning/"
 	"http://www.analyticbridge.com/forum/topics/semi-supervised-learnig-knn-kmeans"
+
+	"http://willwhitney.github.io/dc-ign/www/"
 	"http://www.forbes.com/sites/louiscolumbus/2015/03/15/data-analytics-dominates-enterprises-spending-plans-for-2015/"
-	"http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html?utm_content=bufferb4617&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+	"http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html.com&utm_campaign=buffer"
 	"http://vaidehijoshi.github.io/blog/2015/03/24/a-machine-state-of-mind-part-2-implementing-state-machines/"
 	"http://careers.analytictalent.com/jobs/data-manager-chicago-illinois-60611-76409893-d?contextType=rss",
 	"http://www.statslife.org.uk/the-statistics-dictionary/2148-han-solo-and-bayesian-priors",
 	"http://quantombone.blogspot.com/2015/03/deep-learning-vs-machine-learning-vs.html"
-	"http://blog.yhathq.com/posts/measuring-model-performance-1.html?utm_content=buffer67870&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+	"http://blog.yhathq.com/posts/measuring-model-performance-1.html.com&utm_campaign=buffer"
 	"http://vaidehijoshi.github.io/blog/2015/03/24/a-machine-state-of-mind-part-2-implementing-state-machines/",
-	"http://www.machinalis.com/blog/rt-notifications-gevent-gis/?utm_content=buffer0cec9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+	"http://www.machinalis.com/blog/rt-notifications-gevent-gis/.com&utm_campaign=buffer"
 ],

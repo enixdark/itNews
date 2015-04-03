@@ -1,11 +1,12 @@
 "InternetofThing":{
 		"Microservice":[
-			"http://ruslanspivak.com/lsbaws-part1/?utm_content=bufferd7d45&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
-			"http://www.infoq.com/news/2015/03/qcon-microservices-architecture?utm_source=twitter&utm_medium=link&utm_campaign=calendar"
+			"http://ruslanspivak.com/lsbaws-part1/"
+			"http://www.infoq.com/news/2015/03/qcon-microservices-architecture"
 			"http://www.infoworld.com/article/2903144/application-development/how-to-succeed-with-microservices-architecture.html"
-			"http://java.dzone.com/articles/performance-issue?utm_content=buffer51b4f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+			"http://java.dzone.com/articles/performance-issue"
 		],
 		"Others":[
+			"http://planetcassandra.org/blog/i2o-water-the-internet-of-things-and-cassandra/"
 			"http://shop.oreilly.com/product/0636920040682.do"
 			"http://www.thingstud.io/"
 			"http://www.zdnet.com/article/ten-examples-of-iot-and-big-data-working-well-together/"

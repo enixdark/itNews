@@ -2,7 +2,7 @@
 		"AWS":[
 			"http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumes.html?adbsc=docs_20150403_42955476&adbid=583799107174604804&adbpl=tw&adbpr=66780587"
 			"http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_agent.html?adbsc=docs_20150325_42653946&adbid=580761172456001536&adbpl=tw&adbpr=66780587#private-auth"
-			"http://java.dzone.com/articles/working-amazon-s3-%E2%80%93-part-i?utm_content=buffer2e227&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+			"http://java.dzone.com/articles/working-amazon-s3-%E2%80%93-part-i.com&utm_campaign=buffer",
 
 		],
 		"Heroku":[
@@ -17,7 +17,7 @@
 			"http://www.infoworld.com/article/2900832/virtualization/joyents-no-vm-docker-host-deploys-containers-on-bare-metal.html"
 			"http://blog.giantswarm.io/how-docker-made-coding-and-testing-new-projects-fun-and-accessible"
 			"https://www.joyent.com/blog/triton-docker-and-the-best-of-all-worlds"
-			"http://www.infoq.com/news/2015/03/gupta-javaee-docker-kubernetes?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+			"http://www.infoq.com/news/2015/03/gupta-javaee-docker-kubernetes"
 			"http://blog.codeship.com/using-docker-to-parallelize-rails-tests/"
 			"https://github.com/chanezon/docker-tips/blob/master/docker-machine-docker-latest.md",
 			"https://blog.docker.com/2015/04/announcing-webhook-respository-subscriptions/",
@@ -27,7 +27,7 @@
 			"https://blog.docker.com/2015/04/docker-tutorial-3-fun-with-volumes/",
 			"https://blog.docker.com/2015/03/docker-tutorial-2-docker-run-command-basics/"
 			"https://github.com/msanand/docker-workflow.git",
-			"http://www.infoq.com/interviews/Luke-Marsden-ZFS-Docker?utm_source=faceboook&utm_medium=link&utm_campaign=calendar"
+			"http://www.infoq.com/interviews/Luke-Marsden-ZFS-Docker"
 			"https://blog.docker.com/2015/03/videos-from-the-biggest-docker-meetup-ever-clocker-storage-drivers-docker-on-the-desktop-powerstrip/",
 			"http://blog.heavybit.com/blog/2015/3/23/dockermeetup"
 "http://www.javacodegeeks.com/2015/03/docker-machine-to-setup-docker-host.html"

@@ -1,19 +1,20 @@
 "Devops":{
 		"Apache":[],
 		"Nginx":[
-			"http://academy.javacodegeeks.com/news/nginx-ssl-configuration-guide/?utm_content=buffer11516&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+			"http://blog.victorquinn.com/nginx-as-a-spdy-reverse-proxy-passthrough?utm_source=nodeweekly&utm_medium=email"
+			"http://academy.javacodegeeks.com/news/nginx-ssl-configuration-guide/"
 			"http://nginx.com/solutions/load-balancing/",
 			"http://code.tutsplus.com/articles/nginx-guide-essentials--cms-22880",
 			"http://code.tutsplus.com/articles/nginx-guide-introduction--cms-21877"
 		],
 		"LightHttp":[],
 		"Ansible":[
-			"http://www.ansible.com/get-started?utm_campaign=Scheduled+Tweet&utm_content=13496145&utm_medium=social&utm_source=twitter"
-			"http://www.ansible.com/blog/ansible-fundamentals-webinar?utm_campaign=Scheduled+Tweet&utm_content=13434856&utm_medium=social&utm_source=twitter"
-			"http://www.ansible.com/how-ansible-works?utm_campaign=Scheduled+Tweet&utm_content=13436951&utm_medium=social&utm_source=twitter",
-			"http://www.ansible.com/docker?utm_campaign=Scheduled+Tweet&utm_content=13383083&utm_medium=social&utm_source=twitter",
-			"http://www.ansible.com/blog/ansible-fundamentals-webinar?utm_campaign=Scheduled+Tweet&utm_content=13434861&utm_medium=social&utm_source=twitter",
-			"http://www.ansible.com/blog/ansible-simplicity-keeps-shining?utm_campaign=Scheduled+Tweet&utm_content=13435081&utm_medium=social&utm_source=twitter",
+			"http://www.ansible.com/get-started+Tweet&utm_content=13496145&utm_medium=social&utm_source=twitter"
+			"http://www.ansible.com/blog/ansible-fundamentals-webinar+Tweet&utm_content=13434856&utm_medium=social&utm_source=twitter"
+			"http://www.ansible.com/how-ansible-works+Tweet&utm_content=13436951&utm_medium=social&utm_source=twitter",
+			"http://www.ansible.com/docker+Tweet&utm_content=13383083&utm_medium=social&utm_source=twitter",
+			"http://www.ansible.com/blog/ansible-fundamentals-webinar+Tweet&utm_content=13434861&utm_medium=social&utm_source=twitter",
+			"http://www.ansible.com/blog/ansible-simplicity-keeps-shining+Tweet&utm_content=13435081&utm_medium=social&utm_source=twitter",
 		],
 		"Puppet":[
 			"https://puppetlabs.com/blog/release-candidate-open-source-puppet-4.0?ls=social-media&ccn=twitter-product-20150318&cid=701G0000000F68P"
