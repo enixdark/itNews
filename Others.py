@@ -1,0 +1,14 @@
+"Other":{
+		"1":"http://code.tutsplus.com/tutorials/codeship-continuous-integration-and-delivery-made-simple--cms-23517",
+		"2":"https://www.paypal-engineering.com/2015/03/17/introducing-support/",
+		"3":"http://boxesandarrows.com/a-beginners-guide-to-web-site-optimization-part-1/",
+		"":"http://tom-lord.weebly.com/blog/reverse-engineering-regular-expressions",
+		"http://makethisinanhour.com/",
+		"http://school.looprecur.com/"
+		"http://hyperpolyglot.org/"
+		"https://everystack.io/#!/catalog/components/ratchet"
+		"http://paginas.fe.up.pt/~prodei/dsie12/papers/paper_17.pdf"
+		"http://www.bloomberg.com/company/2015-03-24/bloomberg-weve-made-brisket-can-make-anything/"
+		"http://www.infoq.com/news/2015/03/uber-realtime-market-platform?utm_source=twitter&utm_medium=link&utm_content=uber+news&utm_campaign=calendar"
+		"4":"https://www.atlassian.com/webinar-registration/jira-agile/stress-free-release?utm_=twitter&utm_medium=social&utm_campaign=jira_stress-free-release-webinar"
+	}

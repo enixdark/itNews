@@ -1,0 +1,35 @@
+"Java":[
+		"http://www.javacodegeeks.com/2013/09/whats-new-in-java-8-part-ii-what-might-come.html?utm_content=buffer1b332&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://academy.javacodegeeks.com/course/java-concurrency-essentials/",
+		"http://examples.javacodegeeks.com/core-java/io/outputstream/java-io-outputstream-example/?utm_content=buffer3c398&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://www.javacodegeeks.com/2013/11/why-we-shouldnt-use-more-threads-than-we-need-to.html?utm_content=buffer15e50&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+		"http://java.dzone.com/articles/getting-started-couchbase-and",
+		"https://everystack.io/#!/catalog/components/java-websocket",
+		"http://www.dre.vanderbilt.edu/~schmidt/LiveLessons/CPiJava/"
+"http://www.javacodegeeks.com/2013/07/developing-restful-services-using-apache-cxf.html?utm_content=buffer3b47f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://www.javacodegeeks.com/2015/03/netty-a-different-kind-of-websocket-server.html"
+		"http://www.javacodegeeks.com/2015/03/yet-another-java-8-lamdbas-and-streams-example.html"
+		"http://www.javacodegeeks.com/2013/08/why-rest-is-so-important.html?utm_content=buffer23374&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://javadude.com/articles/passbyvalue.htm"
+		"http://examples.javacodegeeks.com/enterprise-java/ejb3/ejb-tutorial-beginners/"
+		"http://www.javacodegeeks.com/2013/08/optional-in-java-8-cheat-sheet.html?utm_content=buffer98103&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://blog.pivotal.io/podcasts-pivotal/features/all-things-pivotal-podcast-episode-20-spring-session?utm_source=social&account_id&utm_medium=TWITTER&pivotal&utm_campaign=Engagement&20150322"
+		"http://www.javacodegeeks.com/2013/08/how-to-use-events-in-spring-3-x.html?utm_content=bufferfe696&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://www.javacodegeeks.com/2014/04/15-must-read-java-8-tutorials.html"
+		"http://www.javacodegeeks.com/2014/05/java-8-features-tutorial.html?utm_content=buffer6160e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://sdtimes.com/a-functional-programming-crash-course-for-java-developers/?utm_content=bufferee30e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://www.javacodegeeks.com/2014/11/multithreading-concurrency-interview-questions-answers.html?utm_content=buffer681a5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://examples.javacodegeeks.com/java-basics/java-enumeration-example/?utm_content=buffercd011&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://www.javacodegeeks.com/2013/10/spring-injected-beans-in-jpa-entitylisteners.html?utm_content=buffer1f6ce&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://www.javacodegeeks.com/2013/10/getting-started-with-annotation-based-spring-mvc-web-application.html?utm_content=buffer4d5e2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://www.javacodegeeks.com/2013/10/in-depth-android-shutdown-sequence.html?utm_content=buffer0d406&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-4-rest-hello-world-example/?utm_content=buffer12668&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://www.javacodegeeks.com/2013/10/10-reasons-why-you-should-not-write-unit-test-cases.html?utm_content=buffer140fb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://www.javacodegeeks.com/2013/10/1000-responses-to-java-is-not-dying.html?utm_content=buffer753fa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffe"
+		"http://examples.javacodegeeks.com/core-java/online-java-compiler-what-options-are-there/?utm_content=bufferdba1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://www.javacodegeeks.com/2013/10/non-blocking-asynchronous-java-8-and-scalas-trysuccessfailure.html?utm_content=buffere8268&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://www.javacodegeeks.com/2013/10/when-and-how-to-use-a-threadlocal.html?utm_content=buffer6ebe7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://examples.javacodegeeks.com/enterprise-java/spring/aop/spring-aop-example/?utm_content=buffer9e7c4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://sdtimes.com/a-functional-programming-crash-course-for-java-developers/?utm_content=buffer5c957&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		""
+	],

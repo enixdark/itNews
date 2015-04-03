@@ -1,0 +1,15 @@
+"Scala":[
+	"https://jazzy.id.au/2015/04/01/noop-monad.html",
+	"http://www.infoworld.com/article/2898434/javascript/scalajs-lets-you-compile-scala-to-javascript.html"
+	"http://berb.github.io/diploma-thesis/original/054_actors.html"
+	"https://medium.com/data-engineering/reactive-machine-learning-3035b83d18e9"
+	"http://letitcrash.com/post/114395138592/akka-cluster-load-balancing"
+	"http://letitcrash.com/post/113805166317/akka-cluster-load-balancing"
+	"http://www.reactivemanifesto.org/"
+	"http://readwrite.com/2015/03/12/reactive-programming-conductr-kevin-webber?utm_content=buffer00b0d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+	"http://blog.takipi.com/async-goes-mainstream-7-reactive-programming-tools-you-must-know/?utm_content=buffer051f0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+	"https://everystack.io/#!/catalog/components/scalatra"
+	"https://codewords.recurse.com/issues/two/an-introduction-to-reactive-programming"
+	"http://www.webcodegeeks.com/javascript/creating-angularjs-application-without-javascript-scalajs/"
+	"http://www.javacodegeeks.com/tutorials/scala-tutorials/?utm_content=buffer64937&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+	]
