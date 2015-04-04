@@ -4,6 +4,7 @@
 		"https://www.youtube.com/watch?v=uwpakTIg9r8",
 		"https://www.youtube.com/watch?v=XpfGptXxdRY",
 		"https://www.youtube.com/watch?v=GO_97_6w5lU"
+		"http://www.techrepublic.com/blog/european-technology/how-to-scale-online-services-for-millions-of-users-without-losing-vital-data/"
 		"https://gist.github.com/wardbekker/6876d1ed13eb40a47b55"
 		"https://everystack.io/#!/catalog/components/mochiweb"
 		"https://www.youtube.com/watch?v=txjKo93EOZs"

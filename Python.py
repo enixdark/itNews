@@ -25,7 +25,6 @@
 		 "http://morepypy.blogspot.com/2014/11/tornado-without-gil-on-pypy-stm.html"
 			"https://ultimatedjango.com/blog/how-to-consume-rest-apis-with-django-python-reques/"
 			"https://realpython.com/blog/python/deploying-a-django-app-to-aws-elastic-beanstalk"
-			"http://blog.gmludo.eu/2015/02/macro-benchmark-with-django-flask-and-asyncio.html"
 "https://gist.github.com/tbarbugli/97bf26f400ecf1443ef6"
 			"http://tech.marksblogg.com/django-admin-logins.html"
 			"http://za.github.io/2015/03/18/melb-django-dequorum/"
@@ -75,6 +74,9 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+			"hackflow.com/blog/2015/03/29/metaprogramming-beyond-decency/"
+			"https://biesnecker.com/2015/04/02/lightweight-asyncio-based-actors-for-python/"
+			"http://www.machinalis.com/blog/moving-data-between-databases/"
 			"http://nbviewer.ipython.org/github/grokcode/ipython-notebooks/blob/master/nginx-log-analysis.ipynb"
 			"http://davebehnke.com/python-asyncio-streams-client-server.html"
 			"http://radimrehurek.com/2014/03/data-streaming-in-python-generators-iterators-iterables/"
@@ -139,6 +141,8 @@
 			"http://www.reddit.com/r/Python/comments/2w64e2/when_do_you_not_use_python/"
 			"http://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python"
 			"http://www.fullstackpython.com/table-of-contents.html"
+			"http://pansop.com/1014/"
+			"https://realpython.com/blog/python/learn-python-the-methodical-way/#.VR6gPuvdAm8.twitter"
 			"http://morepypy.blogspot.com/2015/03/pydgin-using-rpython-to-generate-fast.html"
 			"http://rajeevrastogi.blogspot.com/2015/03/index-scan-optimization-for-condition.html"
 			"http://dataconomy.com/linear-regression-implementation-in-python/.com"
@@ -181,6 +185,10 @@
 				"http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb"
 			],
 			"Elasricksearch":[
+				"https://www.elastic.co/blog/using-elasticsearch-to-build-CRM"
+				"https://www.elastic.co/blog/kibana-4-for-investigating-pacs-super-pacs-and-your-neighbors/"
+				"http://www.javacodegeeks.com/2014/08/my-exprience-using-elasticsearch-nodejs-and-expressjs.html"
+				"http://unroutable.blogspot.com/2015/03/quick-example-elasticsearch-bulk-index.html"
 				"http://engineeringblog.yelp.com/2014/11/scaling-elasticsearch-to-hundreds-of-developers.html"
 			],
 			"Cassandra":[
@@ -191,4 +199,11 @@
 			]
 
 		}
+
+		"Benchmark":[
+			"http://blog.gmludo.eu/2015/02/macro-benchmark-with-django-flask-and-asyncio.html"
+			"http://www.cdotson.com/2014/08/nodejs-vs-python-vs-pypy-a-simple-performance-comparison/"
+			"http://morepypy.blogspot.com/2011/08/pypy-is-faster-than-c-again-string.html"
+			"http://blog.kgriffs.com/2012/10/23/python-vs-node-vs-pypy.html"
+		]
 	},

@@ -5,7 +5,7 @@
 	"http://blog.sense.io/introducing-sense-a-platform-for-data-science/"
 	"https://outlookzen.wordpress.com/2015/03/15/life-lessons-from-machine-learning/"
 	"http://www.analyticbridge.com/forum/topics/semi-supervised-learnig-knn-kmeans"
-
+	"http://www.analyticbridge.com/profiles/blogs/data-analysis-beginners"
 	"http://willwhitney.github.io/dc-ign/www/"
 	"http://www.forbes.com/sites/louiscolumbus/2015/03/15/data-analytics-dominates-enterprises-spending-plans-for-2015/"
 	"http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html.com&utm_campaign=buffer"

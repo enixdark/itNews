@@ -104,6 +104,7 @@
 			"http://blog.couchbase.com/mongodb-rules-single-node-deployments",
 		],
 		"Redis":[
+			"http://redis.io/topics/cluster-tutorial"
 			"http://www.everybodyhertz.co.uk/creating-a-distributed-redis-setup-using-docker/"
 			"http://www.stackify.com/implementing-cache-tagging-with-redis/"
 			"http://engineering.sharethrough.com/blog/2015/01/23/writing-a-redis-client-with-a-free-algebra/"
@@ -122,6 +123,7 @@
 			"https://www.youtube.com/watch?v=HaGJwV0lwpk"
 		]
 		"Neo4j":[
+			"http://neo4j.com/blog/march-madness-2015/"
 			"http://jexp.de/blog/2015/01/natural-language-analytics-made-simple-and-visual-with-neo4j/"
 			"https://www.youtube.com/watch?v=igDlW5nkc7M"
 			"http://graphaware.com/neo4j/2015/01/16/neo4j-graph-model-design-labels-versus-indexed-properties.html"
@@ -192,6 +194,7 @@
 			"http://recology.info/2015/03/faster-solr/"
 		]
 		"ElastickSearch":[
+			"https://blog.codecentric.de/en/2015/03/scaling-elasticsearch-index-introduction/"
 			"http://blog.pluralsight.com/elasticsearch-and-sql-server"
 			"https://www.elastic.co/blog/elasticsearch-1-5-0-released"
 		]

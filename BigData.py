@@ -54,6 +54,7 @@
 			"https://engineering.linkedin.com/kafka/running-kafka-scale"
 		]
 		"Others":[
+			"http://grigory.us/blog/rdbms-mapreduce/"
 			"https://www.youtube.com/watch?v=kRjk_Xsf7t4"
 			"http://www.hadoop360.com/blog/batch-vs-real-time-data-processing"
 			"http://www.javacodegeeks.com/2013/07/mapreduce-algorithms-understanding-data-joins-part-1.html.com&utm_campaign=buffer"

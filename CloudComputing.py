@@ -9,6 +9,8 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
+			"http://blog.doordash.com/post/115409532041/migrating-from-heroku-to-aws-using-docker"
+			"http://www.javacodegeeks.com/2015/04/httpwww-radcortez-comget-into-docker.html"
 			"http://blog.docker.com/2015/03/docker-tutorial-1-installing-docker/"
 			"http://blog.rodolfocarvalho.net/2015/02/falcon-django-pypy-docker.html?m=1"
 			"https://github.com/docker-library/pypy/blob/master/2/Dockerfile"
@@ -30,9 +32,9 @@
 			"http://www.infoq.com/interviews/Luke-Marsden-ZFS-Docker"
 			"https://blog.docker.com/2015/03/videos-from-the-biggest-docker-meetup-ever-clocker-storage-drivers-docker-on-the-desktop-powerstrip/",
 			"http://blog.heavybit.com/blog/2015/3/23/dockermeetup"
-"http://www.javacodegeeks.com/2015/03/docker-machine-to-setup-docker-host.html"
-"https://blog.docker.com/2015/03/tiny-docker-operating-systems/"
-"https://www.joyent.com/blog/container-service-preview"
+			"http://www.javacodegeeks.com/2015/03/docker-machine-to-setup-docker-host.html"
+			"https://blog.docker.com/2015/03/tiny-docker-operating-systems/"
+			"https://www.joyent.com/blog/container-service-preview"
 			"https://zwischenzugs.wordpress.com/2015/03/14/docker-in-practice-a-guide-for-engineers/"
 		],
 		"Openstack":[],

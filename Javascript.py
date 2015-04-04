@@ -1,5 +1,6 @@
 "Javascript":{
 		"Angular":[
+			"http://www.webcodegeeks.com/javascript/angular-js/angular-js-form-validation-example/"
 			"http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543"
 			"http://blog.npmjs.org/post/114584444410/using-angulars-new-improved-browserify-support"
 			"https://medium.com/@KamilLelonek/angularjs-and-scope-apply-best-practices-d07353175024"
@@ -79,6 +80,8 @@
 			"http://dailyjs.com/2015/03/16/hapijs-fullstack-stringformatter/"
 		]
 		"React":[
+			"http://madscript.com/halogen/"
+			"http://moduscreate.com/react_native_custom_components_ios/"
 			"http://scotch.io/tutorials/javascript/build-a-real-time-twitter-stream-with-node-and-react-js"
 			"https://www.codementor.io/reactjs/tutorial"
 			"https://scotch.io/tutorials/learning-react-getting-started-and-concepts"
@@ -124,6 +127,8 @@
 			"http://engineering.shapesecurity.com/2015/01/detecting-phantomjs-based-visitors.html"
 		]
 		"Nodejs":[
+		"http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/"
+		"http://blogs.ancestry.com/techroots/scaling-node-js-in-the-enterprise/"
 		"http://www.robotlovesyou.com/bdd-tdd/"
 		"http://code.tutsplus.com/tutorials/multi-instance-nodejs-app-in-paas-using-redis-pubsub--cms-22239"
 		"https://medium.com/@Philmod/debugging-node-js-29b2097df36c"
@@ -180,6 +185,7 @@
 			"http://thejackalofjavascript.com/node-webkit-webrtc-and-angularjs-a-video-chat-client/"
 		],
 		"Ionic":[
+			"http://java.dzone.com/articles/using-mobilefirst-sql-adapters"
 			"http://thejackalofjavascript.com/ionic-twilio-and-node-scheduler-part-1/"
 			"http://www.webspeaks.in/2015/03/html5-offline-mobile-app-using-ionic-pouchdb.html"
 			"http://devdactic.com/shrinking-headers-with-ionic/"
@@ -188,12 +194,15 @@
 		"Knockout":[],
 		"Jquery":[
 			"http://dailyjs.com/2015/03/30/flowtype-jquery-frontend/"
+			"http://www.webcodegeeks.com/javascript/jquery/jquery-dialog-example/"
 		],
 		"TYpeScript":[
+			"http://www.infoq.com/news/2015/04/typescript-1-5"
 			"https://www.airpair.com/typescript/posts/typescript-development-with-gulp-and-sublime-text"
 		],
 		"CofferScript":[],
 		"ECMASCript":[
+			"http://raganwald.com/2015/04/01/partial-application.html"
 			"http://schempy.com/async_tasks_with_es6_generators"
 			"http://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html"
 			"http://derickbailey.com/2015/03/12/serially-iterating-an-array-asynchronously/"
@@ -203,9 +212,9 @@
 			"http://wiki.ecmascript.org/doku.php?id=harmony%3Aspecification_drafts#march_17_2015_rev_36_release_candidate_3"
 			"http://tonyfreed.com/blog/top_javascript_interview_question_2015"
 			"http://www.2ality.com/2015/03/es6-generators.html"
-			"http://raganwald.com/2015/04/01/partial-application.html"
 		],
 		"Meteor":[
+			"http://blog.differential.com/this-week-in-meteor-8/"
 			"https://www.youtube.com/watch?v=akWn_WD2cyA"
 			"http://joshowens.me/getting-started-with-meteor-js/"
 			"https://www.meteor.com/blog/2015/03/17/meteor-104-mongo-cordova-template-subscriptions"

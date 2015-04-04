@@ -1,6 +1,7 @@
 "Devops":{
 		"Apache":[],
 		"Nginx":[
+			"http://nginx.com/blog/why-netflix-chose-nginx-as-the-heart-of-its-cdn/"
 			"http://blog.victorquinn.com/nginx-as-a-spdy-reverse-proxy-passthrough?utm_source=nodeweekly&utm_medium=email"
 			"http://academy.javacodegeeks.com/news/nginx-ssl-configuration-guide/"
 			"http://nginx.com/solutions/load-balancing/",
@@ -26,5 +27,8 @@
 			"https://docs.chef.io/#chef-dk-title"
 			"http://devops.com/blogs/automation-provisioning-configuration-management-chef/"
 		],
-		"SaltStack":[]
+		"SaltStack":[],
+		"Others":[
+			"http://www.javacodegeeks.com/tutorials/devops-tutorials/"
+		]
 	},

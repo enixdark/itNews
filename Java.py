@@ -6,6 +6,7 @@
 		"http://java.dzone.com/articles/getting-started-couchbase-and",
 		"https://everystack.io/#!/catalog/components/java-websocket",
 		"http://www.dre.vanderbilt.edu/~schmidt/LiveLessons/CPiJava/"
+		"http://www.javacodegeeks.com/2013/11/getting-started-with-spring-data-solr.html"
 "http://www.javacodegeeks.com/2013/07/developing-restful-services-using-apache-cxf.html"
 		"http://www.javacodegeeks.com/2015/03/netty-a-different-kind-of-websocket-server.html"
 		"http://www.javacodegeeks.com/2015/03/yet-another-java-8-lamdbas-and-streams-example.html"
