@@ -3,6 +3,9 @@
 	"http://inaka.net/blog/2015/03/25/hot-score-with-ruby-postgresql-and-elastic-part-1/"
 	"http://viget.com/extend/functional-programming-in-ruby-with-contracts"
 	"http://dashing.io/"
+	"http://www.sitepoint.com/rethinkdb-ruby/"
+	"http://www.sitepoint.com/build-monitoring-widgets-ruby-bitbar/"
+	"http://dev.mensfeld.pl/2015/04/ruby-global-method-cache-invalidation-impact-on-a-single-and-multithreaded-applications/"
 	"http://teotti.com/create-maintainable-mongodb-queries-in-ruby-with-query-object-and-mongoid-criterias/"
 	"https://everystack.io/#!/catalog/components/passenger"
 	"https://www.airpair.com/ruby/posts/step-aside-activesupportconcern-supermodule-is-the-new-sheriff-in-town"
@@ -11,6 +14,8 @@
 	"http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/"
 		"https://semaphoreci.com/community/tutorials/setting-up-the-bdd-stack-on-a-new-rails-4-application",
 		"https://github.com/diasks2/ruby-nlp",
+		"https://www.airpair.com/ruby/posts/step-aside-activesupportconcern-supermodule-is-the-new-sheriff-in-town"
+		"https://lob.com/blog/print-mail-custom-postcards-using-html-css-ruby-on-rails"
 		"http://astrails.com/blog/2013/7/31/running-rails-recipes-with-postgres-without-unix-socket"
 		"https://robots.thoughtbot.com/rails-coaching"
 		"http://www.monkeyandcrow.com/blog/reading_rails_time_travel/"

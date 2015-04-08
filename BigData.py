@@ -19,6 +19,9 @@
 		],
 
 		"Spark":[
+		"http://www.infoq.com/news/2015/03/pinterest-memsql-spark-streaming"
+		"http://rnowling.github.io/spark/2015/04/07/multiuser-spark-mesos.html"
+		"http://www.zdnet.com/article/sparks-success-overhyped-or-preordained/"
 		"http://developerblog.redhat.com/2015/01/20/microservice-principles-and-immutability-demonstrated-with-apache-spark-and-cassandra/"
 		"http://www.kennybastani.com/2015/01/categorical-pagerank-neo4j-spark.html"
 		"http://blog.sematext.com/2015/01/21/spark-performance-monitoring-use-case/"
@@ -48,6 +51,7 @@
 			"http://drill.apache.org/blog/2015/03/31/drill-0.8-released/"
 		],
 		"ApacheKafka":[
+			"http://blog.confluent.io/2015/04/07/hands-free-kafka-replication-a-lesson-in-operational-simplicity/"
 			"http://svds.com/post/using-docker-build-data-acquisition-pipeline-kafka-and-hbase"
 			"http://blog.cloudera.com/blog/2015/02/how-to-do-real-time-log-analytics-with-apache-kafka-cloudera-search-and-hue/"
 			"https://databricks.com/blog/2015/03/30/improvements-to-kafka-integration-of-spark-streaming.html"

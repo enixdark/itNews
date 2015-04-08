@@ -1,9 +1,11 @@
 "InternetofThing":{
 		"Microservice":[
+			"http://pivotallabs.com/how-to-talk-to-your-friends-about-microservices/"
 			"http://ruslanspivak.com/lsbaws-part1/"
 			"http://www.infoq.com/news/2015/03/qcon-microservices-architecture"
 			"http://www.infoworld.com/article/2903144/application-development/how-to-succeed-with-microservices-architecture.html"
 			"http://java.dzone.com/articles/performance-issue"
+			"http://www.infoq.com/interviews/rebecca-parsons-qcon-2015"
 		],
 		"Others":[
 			"http://planetcassandra.org/blog/i2o-water-the-internet-of-things-and-cassandra/"

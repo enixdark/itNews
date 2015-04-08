@@ -1,6 +1,7 @@
 "Devops":{
 		"Apache":[],
 		"Nginx":[
+			"https://www.conetix.com.au/blog/apache-vs-nginx-vs-openlitespeed-part-1"
 			"http://nginx.com/blog/why-netflix-chose-nginx-as-the-heart-of-its-cdn/"
 			"http://blog.victorquinn.com/nginx-as-a-spdy-reverse-proxy-passthrough?utm_source=nodeweekly&utm_medium=email"
 			"http://academy.javacodegeeks.com/news/nginx-ssl-configuration-guide/"
@@ -10,6 +11,7 @@
 		],
 		"LightHttp":[],
 		"Ansible":[
+			"http://www.ansible.com/blog/ansible-and-containers-why-and-how"
 			"http://www.ansible.com/get-started+Tweet&utm_content=13496145&utm_medium=social&utm_source=twitter"
 			"http://www.ansible.com/blog/ansible-fundamentals-webinar+Tweet&utm_content=13434856&utm_medium=social&utm_source=twitter"
 			"http://www.ansible.com/how-ansible-works+Tweet&utm_content=13436951&utm_medium=social&utm_source=twitter",
@@ -25,10 +27,15 @@
 			"http://www.flexiant.com/2015/03/13/learn-how-to-use-chef-on-any-cloud-today/"
 			"https://learn.chef.io/learn-the-basics/rhel/get-set-up/"
 			"https://docs.chef.io/#chef-dk-title"
+			
 			"http://devops.com/blogs/automation-provisioning-configuration-management-chef/"
+		],
+		"JIRA":[
+			"https://www.atlassian.com/software/jira/whats-new"
 		],
 		"SaltStack":[],
 		"Others":[
+			"http://redmonk.com/dberkholz/2015/04/02/quantifying-configuration-management-communities/"
 			"http://www.javacodegeeks.com/tutorials/devops-tutorials/"
 		]
 	},

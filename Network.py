@@ -8,5 +8,6 @@
 	"http://sites.inka.de/~W1011/devel/tcp-tcp.html"
 	"http://www.sajalkayan.com/post/http2-wordcount.html"
 	"http://daniel.haxx.se/blog/2015/03/06/tls-in-http2/"
+	"http://techcrunch.com/2015/04/07/introducing-the-tc-network-and-editorial-calendar/"
 	"https://www.youtube.com/watch?v=SF9BFf0mL4E&utm_content=bufferf2f10&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 ]

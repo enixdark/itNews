@@ -10,6 +10,10 @@
 		]
 		"Docker":[
 			"http://blog.doordash.com/post/115409532041/migrating-from-heroku-to-aws-using-docker"
+			"http://java.dzone.com/articles/logging-docker-what-you-need"
+			"http://blog.hypriot.com/post/docker-compose-nodejs-haproxy"
+			"http://blog.viktorpetersson.com/post/115562026784/using-cgroups-with-docker-on-ubuntu-14-04"
+			"http://blog.doordash.com/post/115409532041/migrating-from-heroku-to-aws-using-docker"
 			"http://www.javacodegeeks.com/2015/04/httpwww-radcortez-comget-into-docker.html"
 			"http://blog.docker.com/2015/03/docker-tutorial-1-installing-docker/"
 			"http://blog.rodolfocarvalho.net/2015/02/falcon-django-pypy-docker.html?m=1"
@@ -36,9 +40,11 @@
 			"https://blog.docker.com/2015/03/tiny-docker-operating-systems/"
 			"https://www.joyent.com/blog/container-service-preview"
 			"https://zwischenzugs.wordpress.com/2015/03/14/docker-in-practice-a-guide-for-engineers/"
+			"http://www.conductor.com/nightlight/running-selenium-grid-using-docker-compose/"
 		],
 		"Openstack":[],
 		"Others":[
+			"http://www.datasciencecentral.com/profiles/blogs/6-cloud-based-machine-learning-services?xg_source=activity"
 			"http://www.dataplumbing.com/blog/example-of-architecture-for-aaas-analytics-as-a-service"
 			"http://hwit.org/scalable-design-is-within-grasp.html"
 		]

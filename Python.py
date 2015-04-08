@@ -19,6 +19,8 @@
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
+		"http://blog.dscpl.com.au/2015/04/using-modwsgi-express-with-django.html"
+		"http://tech.donghao.org/2014/09/24/running-django-in-docker/"
 "https://www.twilio.com/blog/2014/04/building-a-simple-sms-message-application-with-twilio-and-django-2.html"
 "http://jamesbrewer.io/2014/09/22/json-web-token-authentication-part-one/"
 			"http://tech.marksblogg.com/crushing-caching-cdn-django.html"
@@ -45,6 +47,9 @@
 			"https://everystack.io/#!/catalog/components/pyramid"
 		],
 		"Data":[
+			"http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb"
+			"http://ioam.github.io/holoviews/"
+			"http://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/"
 			"http://www.youtube.com/watch?v=QLAVHlelkJQ"
 			"http://www.machinalis.com/blog/embedding-interactive-maps-into-an-ipython-nb/"
 			"http://nbviewer.ipython.org/github/hugadams/twitter_play/blob/master/FACESANDFRIENDS.ipynb"
@@ -74,6 +79,16 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+			"http://www.infoworld.com/article/2613828/python/why-netflix-is-embracing-python-over-java.html"
+			"http://emptysqua.re/blog/talk-python-podcast-python-and-mongodb/"
+			"http://blog.dscpl.com.au/2015/03/ordering-issues-when-monkey-patching-in.html"
+			"http://emptysqua.re/blog/pymongo-key-order/"
+			"http://ruslanspivak.com/lsbaws-part2/"
+			"http://hackflow.com/blog/2015/03/29/metaprogramming-beyond-decency/"
+			"https://nebrios.com/?utm_content=bufferbb501&utm_medium=social"
+			"http://emptysqua.re/blog/pypy-garbage-collection-and-a-deadlock/"
+			"http://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python"
+			"http://picat-lang.org/"
 			"hackflow.com/blog/2015/03/29/metaprogramming-beyond-decency/"
 			"https://biesnecker.com/2015/04/02/lightweight-asyncio-based-actors-for-python/"
 			"http://www.machinalis.com/blog/moving-data-between-databases/"
@@ -149,6 +164,8 @@
 			"http://pydev.blogspot.ca/2015/02/design-for-client-side-applications-in.html.com"
 			"http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/.com"
 			"http://nedbatchelder.com/blog/201503/finding_temp_file_creators.html.com"
+			"http://charlesleifer.com/blog"
+			"http://www.willmcgugan.com/blog/tech/2015/3/14/saving-processes-and-threads-in-a-wsgi-server/"
 		],
 		"CherryPy":[
 			"http://blog.joel.mx/posts/cherrypy-as-a-wsgi-server"
@@ -168,6 +185,7 @@
 				"http://jamesls.com/writing-redis-in-python-with-asyncio-part-1.html"
 			],
 			"RabbitMQ":[
+				""
 				"http://www.machinalis.com/blog/rt-notifications-gevent-gis/"
 			],
 			"Docker":[

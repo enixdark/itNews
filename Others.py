@@ -1,4 +1,7 @@
 "Other":{
+		"http://developerblog.redhat.com/2015/04/07/jit-compilation-using-gcc-5-2/"
+		"http://www.sitepoint.com/web-designers-guide-to-programming/"
+		"http://lambda-nights.com/"
 		"1":"http://code.tutsplus.com/tutorials/codeship-continuous-integration-and-delivery-made-simple--cms-23517",
 		"2":"https://www.paypal-engineering.com/2015/03/17/introducing-support/",
 		"3":"http://boxesandarrows.com/a-beginners-guide-to-web-site-optimization-part-1/",
@@ -6,6 +9,9 @@
 		"http://makethisinanhour.com/",
 		"http://school.looprecur.com/"
 		"http://hyperpolyglot.org/"
+		"http://boundary2.org/2015/03/25/artificial-intelligence-as-alien-intelligence/"
+		"http://www.javacodegeeks.com/2015/04/5-simple-rules-for-securely-storing-passwords.html"
+		"http://www.infoq.com/news/2015/03/uber-realtime-market-platform"
 		"https://everystack.io/#!/catalog/components/ratchet"
 		"http://paginas.fe.up.pt/~prodei/dsie12/papers/paper_17.pdf"
 		"http://www.bloomberg.com/company/2015-03-24/bloomberg-weve-made-brisket-can-make-anything/"

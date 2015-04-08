@@ -4,6 +4,10 @@
 			"http://use-the-index-luke.com/blog/2014-04-01/thank-you-mysql-we-will-miss-you"
 		],
 		"Postgresql":[
+			"http://adpgtech.blogspot.com/2015/04/dynamically-disabling-triggers-without.html"
+			"http://stormatics.com/howto-use-json-functionality-in-postgresql/"
+			"http://blog.heapanalytics.com/dont-iterate-over-a-postgres-array-with-a-loop/"
+			"http://pgeoghegan.blogspot.com/2015/04/abbreviated-keys-for-numeric-to.html"
 			"http://www.linuxjournal.com/content/postgresql-nosql-database"
 			"https://www.youtube.com/watch?v=NILlys4h7Fs"
 			"http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/"
@@ -18,6 +22,7 @@
 			"http://thebuild.com/blog/2015/03/28/postgresql-and-json-2015/"
 			"http://blog.honeybadger.io/using-temporary-tables-in-postgresql-with-rails/"
 			"http://www.infoq.com/news/2015/04/Postgresql-JSON-Datastore",
+			"http://michael.otacoo.com/postgresql-2/postgres-9-5-feature-highlight-pgctl-default-mode/"
 			"http://8kb.co.uk/blog/2015/04/02/being-cavalier-with-slony-nodes-and-pg_dumppg_restore/",
 		],
 		"Oracle":[],
@@ -38,6 +43,8 @@
 			"http://pizzaconnections.net/2015/03/27/148/"
 		]
 		"VoltDB":[
+			"http://voltdb.com/community/demo?n=a&utm_expid=66808973-1.O562mQS1TnKG3RbsGkKu5Q.1&utm_referrer=http%3A%2F%2Ft.co%2F4HsC5zS1Oh"
+			"http://voltdb.com/blog/foundationdbs-lesson-fast-key-value-store-not-enough?n=a"
 			"http://voltdb.com/blog/lambda-complexity-why-fast-data-needs-new-thinking"
 			"http://learn.voltdb.com/WRFull360.html"
 		]
@@ -78,6 +85,8 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
+			"http://blog.couchbase.com/hortonworks-and-couchbase-nosql-fueled-hadoop"
+			"http://blog.couchbase.com/ios-background-fetch-to-sync-hacker-news-stories"
 			"http://vimeo.com/114175161"
 			"http://blog.couchbase.com/pure-storage-and-couchbase"
 			"http://developer.telerik.com/featured/powering-hybrid-mobile-apps-couchbase/"
@@ -104,6 +113,7 @@
 			"http://blog.couchbase.com/mongodb-rules-single-node-deployments",
 		],
 		"Redis":[
+			"https://blog.sdslabs.co/2015/04/announcing-phoenix/"
 			"http://redis.io/topics/cluster-tutorial"
 			"http://www.everybodyhertz.co.uk/creating-a-distributed-redis-setup-using-docker/"
 			"http://www.stackify.com/implementing-cache-tagging-with-redis/"
@@ -123,6 +133,10 @@
 			"https://www.youtube.com/watch?v=HaGJwV0lwpk"
 		]
 		"Neo4j":[
+			"http://www.markhneedham.com/blog/2015/04/07/neo4j-the-learning-to-cycle-dependency-graph/"
+			"http://vmturbo.com/about-virtualization/devs-are-from-venus-ops-are-from-mars-big-data-neo4j-part-2/"
+			"https://strendly.wordpress.com/2015/04/01/neo4j-and-py2neo-getting-started/"
+			"https://strendly.wordpress.com/2015/04/01/graph-database-neo4j-on-aws/"
 			"http://neo4j.com/blog/march-madness-2015/"
 			"http://jexp.de/blog/2015/01/natural-language-analytics-made-simple-and-visual-with-neo4j/"
 			"https://www.youtube.com/watch?v=igDlW5nkc7M"
@@ -146,6 +160,8 @@
 			"http://www.markhneedham.com/blog/2015/04/01/neo4j-cypher-building-the-query-for-a-movies-profile-page/"
 		],
 		"Cassandra":[
+			"http://java.dzone.com/articles/introduction-apache-cassandras"
+			"http://www.javacodegeeks.com/2015/04/high-performance-computing-clusters-hpcc-and-cassandra-on-os-x.html"
 			"https://blog.codecentric.de/en/2014/12/combining-apache-cassandra-apache-karaf/"
 			"https://labs.spotify.com/2014/12/18/date-tiered-compaction/"
 			"http://planetcassandra.org/blog/personalization-at-spotify-using-apache-cassandra/"
@@ -154,17 +170,20 @@
 			"http://www.datastax.com/dev/blog/basic-rules-of-cassandra-data-modeling"
 			"http://www.codesandnotes.be/2015/02/26/cassandraunit-not-reloaded-making-cassandra-testing-faster/"
 			"https://www.youtube.com/watch?v=QjstUPdnlaM"
+			"http://planetcassandra.org/blog/kindling-part-2-an-introduction-to-spark-with-cassandra/"
 			"http://highscalability.com/blog/2015/3/11/cassandra-migration-to-ec2.html"
 			"http://www.datastax.com/dev/blog/role-based-access-control-in-cassandra"
 			"https://www.youtube.com/watch?t=30&v=eqOPn5EtR7Q&utm_content=bufferc4c9d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 		],
 		"CouchDB":[
+
 			"http://www.staticshin.com/programming/what-does-_security-secure-in-couchdb/"
 			"http://www.fanciullimassimiliano.it/2015/02/01/coucbdb-on-a-raspberrypi/"
 			"http://fiatjaf.alhur.es/programming/couchdb-view-patterns/"
 			"http://blog.couchdb.org/2015/04/02/couchdb-weekly-news-april-02-2015/"
 		]
 		"Hbase":[
+			"http://www.infoq.com/news/2015/04/apache-hbase-1-0"
 			"https://www.mapr.com/blog/how-use-sql-hadoop-drill-rest-json-nosql-and-hbase-simple-rest-client"
 			"http://channel9.msdn.com/Shows/Data-Exposed/Building-Big-Data-Apps-with-HBase"
 			"http://www.rittmanmead.com/2014/05/trickle-feeding-log-data-into-hbase-using-flume/"
@@ -194,6 +213,7 @@
 			"http://recology.info/2015/03/faster-solr/"
 		]
 		"ElastickSearch":[
+			"https://www.elastic.co/blog/2015-04-07-this-week-in-elasticsearch-and-apache-lucene"
 			"https://blog.codecentric.de/en/2015/03/scaling-elasticsearch-index-introduction/"
 			"http://blog.pluralsight.com/elasticsearch-and-sql-server"
 			"https://www.elastic.co/blog/elasticsearch-1-5-0-released"
@@ -211,6 +231,10 @@
 			"https://aws.amazon.com/blogs/aws/simplify-your-dynamodb-queries-using-secondary-index-scans/"
 		]
 		"Others":[
+			"https://vimeo.com/123640016"
+			"http://www.information-management.com/news/Relational-Database-Big-Data-Migration-Guide-10026758-1.html"
+			"http://www.hadoop360.com/blog/list-of-nosql-databases"
+			"http://jaxenter.com/evaluating-nosql-performance-which-database-is-right-for-your-data-107481.html"
 			"http://in.relation.to/Bloggers/NoSQLWithHibernateOGM101PersistingYourFirstEntities"
 			"http://rethinkdb.com/blog/realtime-web/"
 			"http://blog.couchbase.com/manual-secondary-indexes"
@@ -231,6 +255,10 @@
 		]
 	},
 	"Others":[
+
+	"http://mangolassi.it/topic/4545/when-to-use-sql-or-nosql"
+	"http://www.aerospike.com/get-started/"
+	"https://everystack.io/#!/catalog/components/phoenix"
 		"https://vimeo.com/123640016"
 		"http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture"
 		"http://blog.infoadvisors.com/index.php/2015/03/10/7-databases-in-70-minutes/"
@@ -246,4 +274,11 @@
 		"https://www.linkedin.com/pulse/nosql-smackdown-couchbase-dominates-mongodb-benchmark-kurt-cagle"
 		"http://www.datasciencecentral.com/profiles/blogs/lesson-4-features-common-to-most-nosql-newsql-databases",
 		"http://www.aptuz.com/blog/is-postgres-nosql-database-better-than-mongodb/"
+	]
+	,
+	"Scheduled":[
+		"https://academy.datastax.com/"
+		"http://www.datastax.com/what-we-offer/products-services/training?utm_source=twitter&utm_name=Social&utm_medium=Free&utm_term=datastaxhttp://www.datastax.com/what-we-offer/products-services/training?utm_source=twitter&utm_name=Social&utm_medium=Free&utm_term=datastax"
+		"http://www.datastax.com/what-we-offer/products-services/training?utm_source=twitter&utm_name=Social&utm_medium=Free&utm_term=datastax"
+		"https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&eventid=962553&sessionid=1&key=BF768351857B2B98B46A1CADD226C8C8&sourcepage=register"
 	]

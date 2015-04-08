@@ -5,13 +5,23 @@
 		"http://www.javacodegeeks.com/2013/11/why-we-shouldnt-use-more-threads-than-we-need-to.html",
 		"http://java.dzone.com/articles/getting-started-couchbase-and",
 		"https://everystack.io/#!/catalog/components/java-websocket",
+		"http://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-view-resolver-example"
 		"http://www.dre.vanderbilt.edu/~schmidt/LiveLessons/CPiJava/"
+		"http://www.javacodegeeks.com/2013/12/create-a-simpe-restful-service-with-vert-x-2-0-rxjava-and-mongodb.html"
 		"http://www.javacodegeeks.com/2013/11/getting-started-with-spring-data-solr.html"
 "http://www.javacodegeeks.com/2013/07/developing-restful-services-using-apache-cxf.html"
 		"http://www.javacodegeeks.com/2015/03/netty-a-different-kind-of-websocket-server.html"
 		"http://www.javacodegeeks.com/2015/03/yet-another-java-8-lamdbas-and-streams-example.html"
 		"http://www.javacodegeeks.com/2013/08/why-rest-is-so-important.html"
 		"http://javadude.com/articles/passbyvalue.htm"
+		"http://netty.io/wiki/using-as-a-generic-library.html"
+		"http://java.dzone.com/articles/adopting-microservices-netflix"
+		"http://www.javacodegeeks.com/2013/12/why-i-stopped-using-spring.html"
+		"http://www.javacodegeeks.com/2013/12/anatomy-of-a-java-decompiler.html"
+		"http://www.javacodegeeks.com/2015/04/caching-of-web-content-with-springs-cache-manager.html"
+		"http://www.javacodegeeks.com/2013/12/java-nested-transaction-using-threadlocal-in-pojo.html"
+		"http://www.javacodegeeks.com/2013/12/mastering-java-bytecode.html"
+		"http://www.javacodegeeks.com/2013/12/investigating-memory-leaks-part-1-writing-leaky-code.html"
 		"http://examples.javacodegeeks.com/enterprise-java/ejb3/ejb-tutorial-beginners/"
 		"http://www.javacodegeeks.com/2013/08/optional-in-java-8-cheat-sheet.html"
 		"http://blog.pivotal.io/podcasts-pivotal/features/all-things-pivotal-podcast-episode-20-spring-session"

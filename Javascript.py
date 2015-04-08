@@ -1,5 +1,14 @@
 "Javascript":{
 		"Angular":[
+			"http://www.webcodegeeks.com/javascript/angular-js/angular-js-controller-example/"
+			"http://thejackalofjavascript.com/getting-started-with-angular-2-0/"
+			"http://www.webcodegeeks.com/javascript/angular-js/real-time-communication-angularjs-qorlate/"
+			"http://www.webcodegeeks.com/javascript/angular-js/learning-angular-access-directive-scope-variables-from-directive-controllers-and-vice-versa/"
+			"http://www.webcodegeeks.com/javascript/angular-js/angularjs-ui-router-components/"
+			"http://www.knowarth.com/single-page-application-angular-js/"
+			"http://www.webcodegeeks.com/javascript/angular-js/angular-not-single-page-web-apps/"
+			"www.techtalky.com/modules-angular-js/"
+			"http://blog.mgechev.com/2015/04/06/angular2-first-impressions/"
 			"http://www.webcodegeeks.com/javascript/angular-js/angular-js-form-validation-example/"
 			"http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543"
 			"http://blog.npmjs.org/post/114584444410/using-angulars-new-improved-browserify-support"
@@ -55,6 +64,8 @@
 
 
 		"FireBase":[
+			"http://java.dzone.com/articles/sign-firebase-facebook-using"
+			"https://www.firebase.com/docs/ios/examples.html"
 			"https://www.firebase.com/blog/2015-03-20-fireside-chat-testlio.html"
 			"https://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy"
 			"https://www.youtube.com/watch?v=D-k0MeWdpao&list=PLT-DLWOBKbB6gEvXXbznfNY_opQonXMsk"
@@ -66,6 +77,7 @@
 			"https://strongloop.com/strongblog/es6-variable-declarations/"
 		]
 		"iojs":[
+			"https://medium.com/node-js-javascript/io-js-week-of-april-3rd-a4e1fe0c38c1"
 			"https://iojs.org/en/faq.html"
 		],
 
@@ -79,7 +91,14 @@
 			"http://rafaelcorral.com/blog/building-a-restful-api-in-node-using-hapi-js-8"
 			"http://dailyjs.com/2015/03/16/hapijs-fullstack-stringformatter/"
 		]
+
 		"React":[
+			"http://fluxxor.com/what-is-flux.html"
+			"http://attackofzach.com/react-components-for-google-maps-part-2/"
+			"http://blog.tryolabs.com/2015/04/07/react-examples-mailbox"
+			"https://medium.com/@PhilPlckthun/react-to-this-nonsense-and-move-on-3d9f9111a77d"
+			"http://react.parts/native-ios"
+			"http://almostobsolete.net/react-native/custom-ios-views-with-react-native.html"
 			"http://madscript.com/halogen/"
 			"http://moduscreate.com/react_native_custom_components_ios/"
 			"http://scotch.io/tutorials/javascript/build-a-real-time-twitter-stream-with-node-and-react-js"
@@ -127,6 +146,11 @@
 			"http://engineering.shapesecurity.com/2015/01/detecting-phantomjs-based-visitors.html"
 		]
 		"Nodejs":[
+		"http://www.mongodb.com/blog/post/introducing-version-40-mongoose-nodejs-odm"
+		"http://www.sitepoint.com/building-recipe-search-site-angular-elasticsearch/"
+		"http://www.sitepoint.com/build-node-js-powered-chatroom-web-app-getting-started/"
+		"https://strongloop.com/strongblog/node-js-performance-heap-profiling-tip/"
+		"https://strongloop.com/strongblog/node-js-performance-tip-of-the-week-memory-leak-diagnosis/"
 		"http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/"
 		"http://blogs.ancestry.com/techroots/scaling-node-js-in-the-enterprise/"
 		"http://www.robotlovesyou.com/bdd-tdd/"
@@ -200,8 +224,14 @@
 			"http://www.infoq.com/news/2015/04/typescript-1-5"
 			"https://www.airpair.com/typescript/posts/typescript-development-with-gulp-and-sublime-text"
 		],
-		"CofferScript":[],
+		"CofferScript":[
+			"http://www.developwithpurpose.com/coffeescript-is-dead-long-live-coffeescript/"
+		],
 		"ECMASCript":[
+			"http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/"
+			"http://tech.pro/blog/6742/callback-to-future-functor-applicative-monad"
+			"http://es6-features.org/"
+			"http://www.2ality.com/2015/04/webpack-es6.html"
 			"http://raganwald.com/2015/04/01/partial-application.html"
 			"http://schempy.com/async_tasks_with_es6_generators"
 			"http://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html"
@@ -213,7 +243,11 @@
 			"http://tonyfreed.com/blog/top_javascript_interview_question_2015"
 			"http://www.2ality.com/2015/03/es6-generators.html"
 		],
+
 		"Meteor":[
+			"http://docs.meteor.com/#/full/blaze_render"
+			"http://blog.percolatestudio.com/engineering/reactive-user-interfaces/"
+			"https://medium.com/@stubailo/data-flow-from-the-database-to-the-ui-three-layers-of-meteor-d5e208b466c3"
 			"http://blog.differential.com/this-week-in-meteor-8/"
 			"https://www.youtube.com/watch?v=akWn_WD2cyA"
 			"http://joshowens.me/getting-started-with-meteor-js/"
@@ -223,6 +257,11 @@
 			"https://hackhands.com/how-to-get-started-on-the-mean-stack/"
 		],
 		"Other":[
+			"http://examples.javacodegeeks.com/enterprise-java/rest/resteasy/json-example-with-resteasy-jackson/"
+			"http://www.webcodegeeks.com/javascript/javascript-promises-essentials/"
+			"http://www.json2yaml.com/"
+			"http://www.sitepoint.com/simple-inheritance-javascript/"
+			"https://medium.com/@jyotiska/json-vs-simplejson-vs-ujson-a115a63a9e26"
 			"http://codejets.com/javascript-best-practices-part-1/"
 			"https://javascriptweblog.wordpress.com/2015/01/05/if-hemingway-wrote-javascript-explained/"
 			"http://discourse.codecombat.com/t/javascript-this-vs-self/3143"
@@ -255,5 +294,8 @@
 			"http://nicolaiarocci.com/new-releases-for-cerberus-and-eve/"
 			"https://frontendmasters.com/courses/advanced-javascript/"
 			"http://arasatasaygin.github.io/is.js/"
+		],
+		"Compiler&Interpyer":[
+			"http://howjs.com/zFiG/2"
 		]
 	}
