@@ -1,6 +1,7 @@
 "Python":{
 		"Flask":[
-"http://charlesleifer.com/blog/saturday-morning-hacks-building-an-analytics-app-with-flask/"
+			"http://python.talkera.org/login-authentication-with-flask/"
+			"http://charlesleifer.com/blog/saturday-morning-hacks-building-an-analytics-app-with-flask/"
 			"http://blog.miguelgrinberg.com/post/video-streaming-with-flask"
 			"http://blog.miguelgrinberg.com/post/oauth-authentication-with-flask"
 			"http://massover.com/getting-started-with-flask-assets-less-and-bootstrap.html"
@@ -19,15 +20,16 @@
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
-		"http://blog.dscpl.com.au/2015/04/using-modwsgi-express-with-django.html"
-		"http://tech.donghao.org/2014/09/24/running-django-in-docker/"
-"https://www.twilio.com/blog/2014/04/building-a-simple-sms-message-application-with-twilio-and-django-2.html"
-"http://jamesbrewer.io/2014/09/22/json-web-token-authentication-part-one/"
+			"http://www.whoisnicoleharris.com/2015/03/16/bdd-part-one.html"
+			"http://blog.dscpl.com.au/2015/04/using-modwsgi-express-with-django.html"
+			"http://tech.donghao.org/2014/09/24/running-django-in-docker/"
+			"https://www.twilio.com/blog/2014/04/building-a-simple-sms-message-application-with-twilio-and-django-2.html"
+			"http://jamesbrewer.io/2014/09/22/json-web-token-authentication-part-one/"
 			"http://tech.marksblogg.com/crushing-caching-cdn-django.html"
-		 "http://morepypy.blogspot.com/2014/11/tornado-without-gil-on-pypy-stm.html"
+		 	"http://morepypy.blogspot.com/2014/11/tornado-without-gil-on-pypy-stm.html"
 			"https://ultimatedjango.com/blog/how-to-consume-rest-apis-with-django-python-reques/"
 			"https://realpython.com/blog/python/deploying-a-django-app-to-aws-elastic-beanstalk"
-"https://gist.github.com/tbarbugli/97bf26f400ecf1443ef6"
+			"https://gist.github.com/tbarbugli/97bf26f400ecf1443ef6"
 			"http://tech.marksblogg.com/django-admin-logins.html"
 			"http://za.github.io/2015/03/18/melb-django-dequorum/"
 			"http://www.lexev.org/en/2015/debug-sql-django-test/.com"
@@ -39,16 +41,21 @@
 			"http://lukeplant.me.uk/blog/posts/my-approach-to-class-based-views/"
 			"https://coderwall.com/p/mwhmfg/posting-from-angular-to-django"
 			"http://www.willmcgugan.com/blog/tech/2015/3/14/saving-processes-and-threads-in-a-wsgi-server/"
-			"https://realpython.com/blog/python/api-integration-in-python/.com#.VPXPZ1WlN0c.reddit"
-		],
+ 		],
 		"Pyramid":[
 			"http://www.ibm.com/developerworks/cloud/library/cl-chatapp-bluemix-app/index.html"
 			"http://davidemoro.blogspot.com/2015/03/kotti-cms-events-insert-subobjects.html"
 			"https://everystack.io/#!/catalog/components/pyramid"
+			"http://davidemoro.blogspot.com/2015/04/kotti-multilingual.html"
 		],
 		"Data":[
+			"https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/"
+			"http://www.dataplumbing.com/blog/pandas-powerful-python-data-analysis-toolkit"
+			"http://pbpython.com/improve-pandas-excel-output.html"
+			"http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/"
 			"http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb"
 			"http://ioam.github.io/holoviews/"
+			"http://blog.monkeylearn.com/how-to-create-an-employment-analytics-visualization-in-less-than-10-minutes/"
 			"http://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/"
 			"http://www.youtube.com/watch?v=QLAVHlelkJQ"
 			"http://www.machinalis.com/blog/embedding-interactive-maps-into-an-ipython-nb/"
@@ -66,6 +73,7 @@
 			"http://matthewrocklin.com/blog/work/2015/03/16/Fast-Serialization/.com"
 		],
 		"Zope":[
+			"http://davidemoro.blogspot.com/2015/04/pip-for-buildout-folks.html"
 			"https://metaclassical.com/what-the-zope-transaction-manager-means-to-me-and-you/"
 			"http://docs.zope.org/zope2/releases/2.12/INSTALL.html"
 		]
@@ -79,6 +87,12 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+			"https://clusterhq.com/blog/flocker-0-4-new-api-centos-7-support-and-more/"
+			"https://www.youtube.com/watch?v=KXkThJVbTdU"
+			"http://continuum.io/blog/blaze-whats-new"
+			"http://myownhat.blogspot.com/2015/04/stml-loading-and-working-with-data.html"
+			"http://www.giantflyingsaucer.com/blog/?p=5557"
+			"http://dailytechvideo.com/sarah-mount-message-passing-concurrency-for-python/"
 			"http://www.infoworld.com/article/2613828/python/why-netflix-is-embracing-python-over-java.html"
 			"http://emptysqua.re/blog/talk-python-podcast-python-and-mongodb/"
 			"http://blog.dscpl.com.au/2015/03/ordering-issues-when-monkey-patching-in.html"
@@ -165,13 +179,18 @@
 			"http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/.com"
 			"http://nedbatchelder.com/blog/201503/finding_temp_file_creators.html.com"
 			"http://charlesleifer.com/blog"
+			"https://www.paypal-engineering.com/2015/03/17/introducing-support/"
 			"http://www.willmcgugan.com/blog/tech/2015/3/14/saving-processes-and-threads-in-a-wsgi-server/"
 		],
 		"CherryPy":[
 			"http://blog.joel.mx/posts/cherrypy-as-a-wsgi-server"
 		],
 		"Tornado":[
+			"http://emptysqua.re/blog/eventually-correct-async-testing-tornado/"
 			"http://emptysqua.re/blog/refactoring-tornado-coroutines/"
+		]
+		"Plone":[
+			"http://maurits.vanrees.org/weblog/archive/2015/04/plog-thursday-restapi-current-status"
 		]
 		"Celety":[
 			"https://denibertovic.com/posts/celery-best-practices/"
@@ -181,6 +200,7 @@
 		]
 		"NoSQL&DistributeSystem&Cloud":{
 			"Redis":[
+				"https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html"
 				"http://opensourcehacker.com/2014/07/09/rolling-time-window-counters-with-redis-and-mitigating-botnet-driven-login-attacks/"
 				"http://jamesls.com/writing-redis-in-python-with-asyncio-part-1.html"
 			],
@@ -198,6 +218,8 @@
 				"https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python"
 			],
 			"Mongodb":[
+
+				"http://www.talkpythontome.com/episodes/show/2/python-and-mongodb"
 				"http://tech.plug.dj/2014/09/24/how-to-migrate-50mm-records-from-mongo-to-postgresql-in-less-than-a-day/"
 				"http://www.pubnub.com/blog/realtime-mongodb-to-fetch-and-stream-report-data/"
 				"http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb"

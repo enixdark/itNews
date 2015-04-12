@@ -1,5 +1,8 @@
 "CloudComputing":{
 		"AWS":[
+			"https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/"
+			"http://aws.amazon.com/efs/"
+			"http://techcrunch.com/2015/04/09/amazon-launches-new-efs-file-storage-service-for-ec2"
 			"http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumes.html?adbsc=docs_20150403_42955476&adbid=583799107174604804&adbpl=tw&adbpr=66780587"
 			"http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_agent.html?adbsc=docs_20150325_42653946&adbid=580761172456001536&adbpl=tw&adbpr=66780587#private-auth"
 			"http://java.dzone.com/articles/working-amazon-s3-%E2%80%93-part-i.com&utm_campaign=buffer",
@@ -9,6 +12,12 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
+			"http://www.javacodegeeks.com/2014/10/getting-started-with-docker.html"
+			"http://linoxide.com/linux-how-to/important-docker-commands/"
+			"https://www.airpair.com/node.js/posts/getting-started-with-docker-for-the-nodejs-dev"
+			"http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/"
+			"http://azure.microsoft.com/blog/2015/04/08/microsoft-unveils-new-container-technologies-for-the-next-generation-cloud/"
+			"https://blog.docker.com/2015/04/docker-tutorial-4-more-run-with-a-couple-of-extra-goodies/"
 			"http://blog.doordash.com/post/115409532041/migrating-from-heroku-to-aws-using-docker"
 			"http://java.dzone.com/articles/logging-docker-what-you-need"
 			"http://blog.hypriot.com/post/docker-compose-nodejs-haproxy"
@@ -41,9 +50,12 @@
 			"https://www.joyent.com/blog/container-service-preview"
 			"https://zwischenzugs.wordpress.com/2015/03/14/docker-in-practice-a-guide-for-engineers/"
 			"http://www.conductor.com/nightlight/running-selenium-grid-using-docker-compose/"
+			"http://java.dzone.com/articles/docker-how-jboss-integration"
 		],
 		"Openstack":[],
 		"Others":[
+			"http://techcrunch.com/2015/04/11/whatever-happened-to-paas"
+			"http://appaloud.com/cloudian-storage-scaled-for-big-data/"
 			"http://www.datasciencecentral.com/profiles/blogs/6-cloud-based-machine-learning-services?xg_source=activity"
 			"http://www.dataplumbing.com/blog/example-of-architecture-for-aaas-analytics-as-a-service"
 			"http://hwit.org/scalable-design-is-within-grasp.html"

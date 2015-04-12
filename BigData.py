@@ -19,30 +19,33 @@
 		],
 
 		"Spark":[
-		"http://www.infoq.com/news/2015/03/pinterest-memsql-spark-streaming"
-		"http://rnowling.github.io/spark/2015/04/07/multiuser-spark-mesos.html"
-		"http://www.zdnet.com/article/sparks-success-overhyped-or-preordained/"
-		"http://developerblog.redhat.com/2015/01/20/microservice-principles-and-immutability-demonstrated-with-apache-spark-and-cassandra/"
-		"http://www.kennybastani.com/2015/01/categorical-pagerank-neo4j-spark.html"
-		"http://blog.sematext.com/2015/01/21/spark-performance-monitoring-use-case/"
-		"https://www.youtube.com/watch?v=z7bIt143smw"
-		"http://blog.couchbase.com/introducing-the-couchbase-spark-connector"
-		"http://www.cakesolutions.net/teamblogs/using-spark-to-analyse-akka-persistence-events-in-cassandra"
-		"http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/"
-		"http://java.dzone.com/articles/big-data-processing-spark"
-		"https://databricks.com/blog/2015/03/13/announcing-spark-1-3.html"
-		"http://www.infoworld.com/article/2903432/application-development/spark-big-datas-brightest-star-needs-to-grow-up.html"
-		"http://tech.marksblogg.com/recommendation-engine-spark-python.html"
-		"http://www.informationweek.com/big-data/big-data-analytics/apache-spark-three-promising-use-cases/a/d-id/1319660?_mc=sm_iwk"
+			"http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/"
+			"http://www.infoq.com/news/2015/03/pinterest-memsql-spark-streaming"
+			"http://rnowling.github.io/spark/2015/04/07/multiuser-spark-mesos.html"
+			"http://www.zdnet.com/article/sparks-success-overhyped-or-preordained/"
+			"http://developerblog.redhat.com/2015/01/20/microservice-principles-and-immutability-demonstrated-with-apache-spark-and-cassandra/"
+			"http://www.kennybastani.com/2015/01/categorical-pagerank-neo4j-spark.html"
+			"http://blog.sematext.com/2015/01/21/spark-performance-monitoring-use-case/"
+			"https://www.youtube.com/watch?v=z7bIt143smw"
+			"http://blog.couchbase.com/introducing-the-couchbase-spark-connector"
+			"http://www.cakesolutions.net/teamblogs/using-spark-to-analyse-akka-persistence-events-in-cassandra"
+			"http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/"
+			"http://java.dzone.com/articles/big-data-processing-spark"
+			"https://databricks.com/blog/2015/03/13/announcing-spark-1-3.html"
+			"http://www.infoworld.com/article/2903432/application-development/spark-big-datas-brightest-star-needs-to-grow-up.html"
+			"http://tech.marksblogg.com/recommendation-engine-spark-python.html"
+			"http://www.informationweek.com/big-data/big-data-analytics/apache-spark-three-promising-use-cases/a/d-id/1319660?_mc=sm_iwk"
 			"https://haifengl.wordpress.com/2014/09/07/big-data-analytics-shark-and-spark-sql/"
 			"http://www.infoq.com/news/2015/03/pinterest-memsql-spark-streaming+news&utm_campaign=calendar"
 		],
 		"Mesos":[
+			"http://www.javacodegeeks.com/2014/01/getting-started-with-apache-mesos-and-apache-aurora-using-vagrant.html"
 			"http://radar.oreilly.com/2015/02/a-tale-of-two-clusters-mesos-and-yarn.html"
 			"http://www.antonlindstrom.com/2015/03/29/introduction-to-apache-mesos.html"
 			"http://www.javacodegeeks.com/2015/04/apache-mesos-marathon-and-java-ee.html",
 		],
 		"Mapr":[
+			"https://www.mapr.com/blog/strategic-data-beyond-hadoop-and-big-data#.VSWDCuSEi-k"
 			"https://www.mapr.com/blog/how-use-mapreduce-api"
 			"https://www.mapr.com/blog/polyglot-data-management-big-data-everywhere-recap#.VQ0LIFmNDec"
 			"https://www.mapr.com/resources/videos/apache-drill-redefining-sql-hadoop-0",
@@ -51,6 +54,7 @@
 			"http://drill.apache.org/blog/2015/03/31/drill-0.8-released/"
 		],
 		"ApacheKafka":[
+
 			"http://blog.confluent.io/2015/04/07/hands-free-kafka-replication-a-lesson-in-operational-simplicity/"
 			"http://svds.com/post/using-docker-build-data-acquisition-pipeline-kafka-and-hbase"
 			"http://blog.cloudera.com/blog/2015/02/how-to-do-real-time-log-analytics-with-apache-kafka-cloudera-search-and-hue/"

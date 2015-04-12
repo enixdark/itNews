@@ -4,7 +4,14 @@
 		"https://www.youtube.com/watch?v=uwpakTIg9r8",
 		"https://www.youtube.com/watch?v=XpfGptXxdRY",
 		"https://www.youtube.com/watch?v=GO_97_6w5lU"
+		"https://www.youtube.com/watch?v=Dgbm3BRmzuI&list=PLWbHc_FXPo2hAfi8bz65wpBrCjeKtncB-&index=4"
 		"http://www.basho.com/bet365/"
+		"http://www.proctor-it.com/erlang-thursday-calendar-day_of_the_week-3/"
+		"https://medium.com/@jlouis666/breaking-erlang-maps-4-4ebc3c64068c"
+		"http://www.erlangpatterns.org/index.html"
+		"http://blog.layer.com/building-the-internets-next-messaging-system/"
+		"https://everystack.io/#!/catalog/components/nitrogen"
+		"https://blog.spideroak.com/20100628192232-an-erlangotp-ssl-proxy-and-load-balancer-for-python-twisteds-perspective-broker"
 		"http://rustyrazorblade.com/2010/09/smarter-erlang-programming-with-emakefile-options-and-user_default/"
 		"http://www.techrepublic.com/blog/european-technology/how-to-scale-online-services-for-millions-of-users-without-losing-vital-data/"
 		"https://gist.github.com/wardbekker/6876d1ed13eb40a47b55"

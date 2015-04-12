@@ -1,6 +1,8 @@
 "Database":{
 		"SQL":[
 		"MySQL":[
+			"http://java.dzone.com/articles/mysql-shell-prompt-vs-mongodb"
+			"https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/"
 			"http://use-the-index-luke.com/blog/2014-04-01/thank-you-mysql-we-will-miss-you"
 		],
 		"Postgresql":[
@@ -13,7 +15,7 @@
 			"http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/"
 			"https://blog.compose.io/is-postgresql-your-next-json-database/.com&utm_campaign=buffer"
 			"http://engineering.tilt.com/7-postgresql-data-migration-hacks/"
-		"http://developers.slashdot.org/story/15/03/19/1930226/why-i-choose-postgresql-over-mysqlmariadb"
+			"http://developers.slashdot.org/story/15/03/19/1930226/why-i-choose-postgresql-over-mysqlmariadb"
 			"http://www.citusdata.com/blog/21-jason/139-announcing-pg-shard-1-1"
 			"http://rajeevrastogi.blogspot.com/2015/03/overview-of-postgresql-sql-engine.html"
 			"http://www.citusdata.com/blog/14-marco/122-pgconf-russia-talk-on-pg-shard"
@@ -49,6 +51,10 @@
 			"http://learn.voltdb.com/WRFull360.html"
 		]
 		"Mongodb":[
+			"http://java.dzone.com/articles/why-field-level-updates-matter"
+			"http://www.mongodb.com/blog/post/announcing-next-generation-drivers-mongodb"
+			"http://tech.gc.com/distributed-processing-with-mongodb-and-mongothon/"
+			"http://www.mongodb.com/blog/post/tailing-mongodb-oplog-sharded-clusters"
 			"https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/"
 			"https://www.voxxed.com/blog/2014/12/creating-rest-api-spring-boot-mongodb/"
 			"http://miamicoder.com/2014/using-mongodb-and-mongoose-for-user-registration-login-and-logout-in-a-mobile-application/"
@@ -85,6 +91,10 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
+		"http://blog.couchbase.com/first-steps-with-node.js-and-couchbase-server"
+		"https://www.youtube.com/watch?v=kwmGM1TmHho"
+			"http://blog.couchbase.com/introducing-the-couchbase-spark-connector"
+			"http://www.datacenterknowledge.com/archives/2015/03/23/couchbase-rethinks-nosql-database-architecture/"
 			"http://blog.couchbase.com/hortonworks-and-couchbase-nosql-fueled-hadoop"
 			"http://blog.couchbase.com/ios-background-fetch-to-sync-hacker-news-stories"
 			"http://vimeo.com/114175161"
@@ -111,6 +121,7 @@
 			"http://builder.hq.couchbase.com/",
 			"http://blog.couchbase.com/mongodb-rules-single-node-deployments",
 			"http://blog.couchbase.com/mongodb-rules-single-node-deployments",
+			"http://jamiltz.github.io/simple-model-class-for-couchbase-lite-android/"
 		],
 		"Redis":[
 			"https://blog.sdslabs.co/2015/04/announcing-phoenix/"
@@ -133,6 +144,10 @@
 			"https://www.youtube.com/watch?v=HaGJwV0lwpk"
 		]
 		"Neo4j":[
+			"http://jexp.de/blog/2015/04/on-neo4j-indexes-match-merge/"
+			"http://java.dzone.com/articles/introducing-new-cypher-query"
+			"http://www.javacodegeeks.com/2015/04/neo4j-the-learning-to-cycle-dependency-graph.html"
+			"http://neo4j.com/blog/introducing-new-cypher-query-optimizer/"
 			"http://www.markhneedham.com/blog/2015/04/07/neo4j-the-learning-to-cycle-dependency-graph/"
 			"http://vmturbo.com/about-virtualization/devs-are-from-venus-ops-are-from-mars-big-data-neo4j-part-2/"
 			"https://strendly.wordpress.com/2015/04/01/neo4j-and-py2neo-getting-started/"
@@ -176,7 +191,7 @@
 			"https://www.youtube.com/watch?t=30&v=eqOPn5EtR7Q&utm_content=bufferc4c9d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 		],
 		"CouchDB":[
-
+			"https://medium.com/@th0maswe1ss/distributed-event-log-with-couchdb-a36a63cdf337"
 			"http://www.staticshin.com/programming/what-does-_security-secure-in-couchdb/"
 			"http://www.fanciullimassimiliano.it/2015/02/01/coucbdb-on-a-raspberrypi/"
 			"http://fiatjaf.alhur.es/programming/couchdb-view-patterns/"
@@ -200,6 +215,8 @@
 			"http://channel9.msdn.com/Blogs/Windows-Azure/Azure-Demo-Getting-started-with-Azure-DocumentDB-on-Nodejs-in-Linux"
 		]
 		"Riak":[
+			"https://gigaom.com/2015/01/12/basho-creator-of-nosql-riak-database-raises-25m/"
+			"http://basho.com/riak-2-1-and-riak-cs-2-0-increased-performance-and-product-enhancements/"
 			"http://basho.com/how-to-build-a-client-library-for-riak-2-0/"
 			"http://basho.com/data-modeling-with-riak/"
 			"http://www.aosabook.org/en/riak.html"
@@ -212,12 +229,7 @@
 			"http://www.zdnet.com/article/why-apache-solr-search-is-on-the-rise-and-why-its-going-solo/"
 			"http://recology.info/2015/03/faster-solr/"
 		]
-		"ElastickSearch":[
-			"https://www.elastic.co/blog/2015-04-07-this-week-in-elasticsearch-and-apache-lucene"
-			"https://blog.codecentric.de/en/2015/03/scaling-elasticsearch-index-introduction/"
-			"http://blog.pluralsight.com/elasticsearch-and-sql-server"
-			"https://www.elastic.co/blog/elasticsearch-1-5-0-released"
-		]
+		
 		"ArrangoDB":[
 			"https://www.arangodb.com/2014/12/18/getting-started-guacamole-rails"
 			"https://www.arangodb.com/tutorial-node-js"
@@ -231,6 +243,7 @@
 			"https://aws.amazon.com/blogs/aws/simplify-your-dynamodb-queries-using-secondary-index-scans/"
 		]
 		"Others":[
+			"http://www.computing.co.uk/ctg/analysis/2403031/expletives-deleted-how-nosql-is-helping-ryanair-change-its-customer-service-reputation"
 			"https://vimeo.com/123640016"
 			"http://www.information-management.com/news/Relational-Database-Big-Data-Migration-Guide-10026758-1.html"
 			"http://www.hadoop360.com/blog/list-of-nosql-databases"
@@ -255,25 +268,25 @@
 		]
 	},
 	"Others":[
-
-	"http://mangolassi.it/topic/4545/when-to-use-sql-or-nosql"
-	"http://www.aerospike.com/get-started/"
-	"https://everystack.io/#!/catalog/components/phoenix"
-		"https://vimeo.com/123640016"
-		"http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture"
-		"http://blog.infoadvisors.com/index.php/2015/03/10/7-databases-in-70-minutes/"
-		"http://blog.confluent.io/2015/03/04/turning-the-database-inside-out-with-apache-samza/"
-	"https://www.pinterest.com/pin/473370610808082933/"
-		"http://use-the-index-luke.com/blog/2013-10-01/mysql-is-to-sql-like-mongodb-to-nosql"
-		"http://blog.dancrisan.com/intro-to-database-systems-indexing"
-		"http://www.datasciencecentral.com/forum/topics/sql-to-nosql-translator"
-		"http://blog.zerodb.io/hello-world-zerodb-here/"
-		"http://www.infoq.com/vendorcontent/show.action?vcr=3117"
-		"http://www.javacodegeeks.com/2013/10/the-10-most-popular-db-engines-sql-and-nosql.html.com&utm_campaign=buffer"
-		"http://venturebeat.com/2015/03/23/nosql-software-player-couchbase-will-launch-sql-for-documents-this-summer/"
-		"https://www.linkedin.com/pulse/nosql-smackdown-couchbase-dominates-mongodb-benchmark-kurt-cagle"
-		"http://www.datasciencecentral.com/profiles/blogs/lesson-4-features-common-to-most-nosql-newsql-databases",
-		"http://www.aptuz.com/blog/is-postgres-nosql-database-better-than-mongodb/"
+			"http://www.slideshare.net/8kdata/toro-db-pgconfny2015"
+			"http://mangolassi.it/topic/4545/when-to-use-sql-or-nosql"
+			"http://www.aerospike.com/get-started/"
+			"https://everystack.io/#!/catalog/components/phoenix"
+			"https://vimeo.com/123640016"
+			"http://kukuruku.co/hub/programming/do-not-learn-frameworks-learn-the-architecture"
+			"http://blog.infoadvisors.com/index.php/2015/03/10/7-databases-in-70-minutes/"
+			"http://blog.confluent.io/2015/03/04/turning-the-database-inside-out-with-apache-samza/"
+			"https://www.pinterest.com/pin/473370610808082933/"
+			"http://use-the-index-luke.com/blog/2013-10-01/mysql-is-to-sql-like-mongodb-to-nosql"
+			"http://blog.dancrisan.com/intro-to-database-systems-indexing"
+			"http://www.datasciencecentral.com/forum/topics/sql-to-nosql-translator"
+			"http://blog.zerodb.io/hello-world-zerodb-here/"
+			"http://www.infoq.com/vendorcontent/show.action?vcr=3117"
+			"http://www.javacodegeeks.com/2013/10/the-10-most-popular-db-engines-sql-and-nosql.html.com&utm_campaign=buffer"
+			"http://venturebeat.com/2015/03/23/nosql-software-player-couchbase-will-launch-sql-for-documents-this-summer/"
+			"https://www.linkedin.com/pulse/nosql-smackdown-couchbase-dominates-mongodb-benchmark-kurt-cagle"
+			"http://www.datasciencecentral.com/profiles/blogs/lesson-4-features-common-to-most-nosql-newsql-databases",
+			"http://www.aptuz.com/blog/is-postgres-nosql-database-better-than-mongodb/"
 	]
 	,
 	"Scheduled":[

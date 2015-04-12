@@ -9,6 +9,7 @@
 		"http://makethisinanhour.com/",
 		"http://school.looprecur.com/"
 		"http://hyperpolyglot.org/"
+		"http://www.sitepoint.com/client-testimonials/"
 		"http://boundary2.org/2015/03/25/artificial-intelligence-as-alien-intelligence/"
 		"http://www.javacodegeeks.com/2015/04/5-simple-rules-for-securely-storing-passwords.html"
 		"http://www.infoq.com/news/2015/03/uber-realtime-market-platform"

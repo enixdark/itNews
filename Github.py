@@ -5,4 +5,5 @@
 		"https://github.com/kolodny/jsan"
 		"https://github.com/gerryyang"
 		"https://github.com/xyproto/algernon"
+		"https://git-lfs.github.com/"
 	],

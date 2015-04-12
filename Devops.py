@@ -1,6 +1,9 @@
 "Devops":{
 		"Apache":[],
 		"Nginx":[
+			"http://java.dzone.com/articles/live-activity-monitoring-nginx"
+			"http://www.sitepoint.com/set-automatic-virtual-hosts-nginx-apache/"
+			"http://nginx.org/en/CHANGES"
 			"https://www.conetix.com.au/blog/apache-vs-nginx-vs-openlitespeed-part-1"
 			"http://nginx.com/blog/why-netflix-chose-nginx-as-the-heart-of-its-cdn/"
 			"http://blog.victorquinn.com/nginx-as-a-spdy-reverse-proxy-passthrough?utm_source=nodeweekly&utm_medium=email"
@@ -10,7 +13,9 @@
 			"http://code.tutsplus.com/articles/nginx-guide-introduction--cms-21877"
 		],
 		"LightHttp":[],
+
 		"Ansible":[
+			"http://www.ansible.com/blog/managing-vmware-vsphere-guests-with-ansible-tower"
 			"http://www.ansible.com/blog/ansible-and-containers-why-and-how"
 			"http://www.ansible.com/get-started+Tweet&utm_content=13496145&utm_medium=social&utm_source=twitter"
 			"http://www.ansible.com/blog/ansible-fundamentals-webinar+Tweet&utm_content=13434856&utm_medium=social&utm_source=twitter"
@@ -27,6 +32,7 @@
 			"http://www.flexiant.com/2015/03/13/learn-how-to-use-chef-on-any-cloud-today/"
 			"https://learn.chef.io/learn-the-basics/rhel/get-set-up/"
 			"https://docs.chef.io/#chef-dk-title"
+			"https://www.chef.io/blog/2015/04/08/hugops-and-community-post-chefconf/"
 			
 			"http://devops.com/blogs/automation-provisioning-configuration-management-chef/"
 		],
@@ -34,7 +40,15 @@
 			"https://www.atlassian.com/software/jira/whats-new"
 		],
 		"SaltStack":[],
+		"ElastickSearch":[
+			"http://www.sitepoint.com/integrate-elasticsearch-silex/"
+			"https://www.elastic.co/blog/2015-04-07-this-week-in-elasticsearch-and-apache-lucene"
+			"https://blog.codecentric.de/en/2015/03/scaling-elasticsearch-index-introduction/"
+			"http://blog.pluralsight.com/elasticsearch-and-sql-server"
+			"https://www.elastic.co/blog/elasticsearch-1-5-0-released"
+		]
 		"Others":[
+			"blogs.technet.com/b/windowsserver/archive/2015/04/08/microsoft-announces-nano-server-for-modern-apps-and-cloud.aspx"
 			"http://redmonk.com/dberkholz/2015/04/02/quantifying-configuration-management-communities/"
 			"http://www.javacodegeeks.com/tutorials/devops-tutorials/"
 		]

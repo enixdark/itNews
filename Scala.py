@@ -1,4 +1,7 @@
 "Scala":[
+	"http://docs.scala-lang.org/overviews/macros/changelog211.html"
+	"http://scala-lang.org/news/2.11.1"
+	"http://www.scala-lang.org/download/changelog.html#changes_in_version_211"
 	"https://medium.com/@kvnwbbr/transitioning-to-scala-d1818f25b2b7"
 	"https://jazzy.id.au/2015/04/01/noop-monad.html",
 	"http://www.infoworld.com/article/2898434/javascript/scalajs-lets-you-compile-scala-to-javascript.html"
@@ -18,6 +21,11 @@
 	"https://typesafe.com/activator/template/akka-http-microservice"
 	"http://scala-exercises.47deg.com/"
 	"https://di-in-scala.github.io/#akka"
+	"http://www.javacodegeeks.com/2013/12/playing-with-futures.html"
+	"http://www.cakesolutions.net/teamblogs/category-theory-patterns-in-scala"
+	"http://vkostyukov.ru/posts/designing-a-pfds/"
+	"http://www.bimeanalytics.com/engineering-blog/retrying-http-request-in-scala/"
+	"http://ktoso.github.io/scala-types-of-types/"
 	"http://japgolly.blogspot.com.au/2015/02/zero-overhead-recursive-adt-coproducts.html"
 	"http://bertails.org/2015/02/15/abstract-algebraic-data-type"
 	"https://pavelfatin.com/scala-collections-tips-and-tricks/"
@@ -30,3 +38,7 @@
 	"http://www.webcodegeeks.com/javascript/creating-angularjs-application-without-javascript-scalajs/"
 	"http://www.javacodegeeks.com/tutorials/scala-tutorials/.com&utm_campaign=buffer"
 	]
+
+"Slide":[
+	"http://www.slideshare.net/helenaedelson/lambda-architecture-with-spark-spark-streaming-kafka-cassandra-akka-and-scala"
+]

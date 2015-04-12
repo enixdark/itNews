@@ -1,4 +1,5 @@
 "CSS":[
+		"http://www.webcodegeeks.com/css/css-table-design-example/"
 		"http://superdevresources.com/material-design-web-ui-frameworks/",
 		"http://bootstrap-growl.remabledesigns.com/",
 		"https://everystack.io/#!/catalog/components/blueprint-css"

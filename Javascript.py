@@ -1,5 +1,8 @@
 "Javascript":{
 		"Angular":[
+			"https://qconnewyork.com/workshop/introduction-angularjs"
+			"http://blog.backand.com/time-saving-angularjs-tips"
+			"http://blog.mgechev.com/2015/04/06/angular2-first-impressions/"
 			"http://www.webcodegeeks.com/javascript/angular-js/angular-js-controller-example/"
 			"http://thejackalofjavascript.com/getting-started-with-angular-2-0/"
 			"http://www.webcodegeeks.com/javascript/angular-js/real-time-communication-angularjs-qorlate/"
@@ -8,6 +11,8 @@
 			"http://www.knowarth.com/single-page-application-angular-js/"
 			"http://www.webcodegeeks.com/javascript/angular-js/angular-not-single-page-web-apps/"
 			"www.techtalky.com/modules-angular-js/"
+			"http://www.webcodegeeks.com/javascript/angular-js/angularjs-borrow-concepts-jsf/"
+			"http://java.dzone.com/articles/using-oauth-20-your-web"
 			"http://blog.mgechev.com/2015/04/06/angular2-first-impressions/"
 			"http://www.webcodegeeks.com/javascript/angular-js/angular-js-form-validation-example/"
 			"http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543"
@@ -44,6 +49,7 @@
 			"http://conceptf1.blogspot.com/p/learning-angularjs.html",
 			"http://jpeyatt.com/angularjs-ui-bootstrap-modals/"
 			"http://aakilfernandes.github.io/angular-scopelogger/"
+			"http://www.webcodegeeks.com/javascript/angular-js/learning-angular-useful-utility-functions/"
 			"http://victorsavkin.com/post/114050927521/two-phases-of-angular-2-applications"
 			"http://www.zainabed.com/2015/03/angularjs-tutorials-bootstrap.html"
 			"https://blog.codecentric.de/en/2015/03/five-ways-to-write-better-angular-services/"
@@ -55,8 +61,10 @@
 			"http://www.webcodegeeks.com/javascript/angular-js/learning-angular-set-language-culture-ui-displayed/"
 			"https://medium.com/angularjs-meetup-south-london/angular-new-router-preview-8002340e5427"
 			"https://github.com/swirlycheetah/generator-angular2"
+			"http://blog.jhades.org/what-every-angular-project-likely-needs-and-a-gulp-build-to-provide-it/"
 			"http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/#hnhttp://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/#hn"
 			"https://www.airpair.com/pubnub/posts/realtime-angularjs-pubsub-messaging-using-pubnub1"
+			"http://blog.sodhanalibrary.com/2015/04/angularjs-directive-for-mouse-wheel.html"
 		],
 		"JXCore":[
 			"http://www.goland.org/jxcore/"
@@ -64,6 +72,7 @@
 
 
 		"FireBase":[
+			"https://www.firebase.com/blog/2015-04-10-realtime-maps-cartodb-firebase.html"
 			"http://java.dzone.com/articles/sign-firebase-facebook-using"
 			"https://www.firebase.com/docs/ios/examples.html"
 			"https://www.firebase.com/blog/2015-03-20-fireside-chat-testlio.html"
@@ -74,6 +83,7 @@
 			"http://futurice.com/blog/declarative-apps-with-polymers-two-way-data-binding"
 		]
 		"StrongLoop":[
+			"https://strongloop.com/strongblog/node-js-process-manager-production-docker/"
 			"https://strongloop.com/strongblog/es6-variable-declarations/"
 		]
 		"iojs":[
@@ -93,6 +103,8 @@
 		]
 
 		"React":[
+			"https://codepicnic.com/posts/a-quick-start-to-react-in-4-steps-i-a5e00132373a7031000fd987a3c9f87b/"
+			"http://zippyui.github.io/react-datagrid/#/"
 			"http://fluxxor.com/what-is-flux.html"
 			"http://attackofzach.com/react-components-for-google-maps-part-2/"
 			"http://blog.tryolabs.com/2015/04/07/react-examples-mailbox"
@@ -145,28 +157,33 @@
 		"Phantomjs":[
 			"http://engineering.shapesecurity.com/2015/01/detecting-phantomjs-based-visitors.html"
 		]
-		"Nodejs":[
-		"http://www.mongodb.com/blog/post/introducing-version-40-mongoose-nodejs-odm"
-		"http://www.sitepoint.com/building-recipe-search-site-angular-elasticsearch/"
-		"http://www.sitepoint.com/build-node-js-powered-chatroom-web-app-getting-started/"
-		"https://strongloop.com/strongblog/node-js-performance-heap-profiling-tip/"
-		"https://strongloop.com/strongblog/node-js-performance-tip-of-the-week-memory-leak-diagnosis/"
-		"http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/"
-		"http://blogs.ancestry.com/techroots/scaling-node-js-in-the-enterprise/"
-		"http://www.robotlovesyou.com/bdd-tdd/"
-		"http://code.tutsplus.com/tutorials/multi-instance-nodejs-app-in-paas-using-redis-pubsub--cms-22239"
-		"https://medium.com/@Philmod/debugging-node-js-29b2097df36c"
-		"http://blog.backand.com/github-webhook-node/"
-		"http://www.sitepoint.com/basics-node-js-streams/"
-		"https://stormpath.com/blog/everything-you-ever-wanted-to-know-about-node-dot-js-sessions/"
-		"http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/"
-		"http://bites.goodeggs.com/posts/selenium-webdriver-nodejs-tutorial/"
-		"http://tutorialzine.com/2015/01/your-first-node-webkit-app/"
-		"http://psteeleidem.com/node-module-factory-pattern/"
-		"https://nodesource.com/blog/understanding-the-nodejs-event-loop"
-		"https://gist.github.com/hueniverse/a06f6315ea736ed1b46d"
-		"http://nodejs.blog.br/2015/01/using-nodejs-with-mysql"
-		"http://www.sitepoint.com/deploying-heroku-using-gulp-node-git/"
+		"Cylon.js":[
+			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
+		]
+		"Nodejs":["http://www.javacodegeeks.com/2013/12/node-js-synchronous-and-asynchronous-functions.html"
+			"http://www.sitepoint.com/build-node-js-powered-chatroom-web-app-connecting-websockets/"
+			"http://www.sitepoint.com/build-node-js-powered-chatroom-web-app-chatroom-ui-bootstrap/"
+			"http://www.mongodb.com/blog/post/introducing-version-40-mongoose-nodejs-odm"
+			"http://www.sitepoint.com/building-recipe-search-site-angular-elasticsearch/"
+			"http://www.sitepoint.com/build-node-js-powered-chatroom-web-app-getting-started/"
+			"https://strongloop.com/strongblog/node-js-performance-heap-profiling-tip/"
+			"https://strongloop.com/strongblog/node-js-performance-tip-of-the-week-memory-leak-diagnosis/"
+			"http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/"
+			"http://blogs.ancestry.com/techroots/scaling-node-js-in-the-enterprise/"
+			"http://www.robotlovesyou.com/bdd-tdd/"
+			"http://code.tutsplus.com/tutorials/multi-instance-nodejs-app-in-paas-using-redis-pubsub--cms-22239"
+			"https://medium.com/@Philmod/debugging-node-js-29b2097df36c"
+			"http://blog.backand.com/github-webhook-node/"
+			"http://www.sitepoint.com/basics-node-js-streams/"
+			"https://stormpath.com/blog/everything-you-ever-wanted-to-know-about-node-dot-js-sessions/"
+			"http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/"
+			"http://bites.goodeggs.com/posts/selenium-webdriver-nodejs-tutorial/"
+			"http://tutorialzine.com/2015/01/your-first-node-webkit-app/"
+			"http://psteeleidem.com/node-module-factory-pattern/"
+			"https://nodesource.com/blog/understanding-the-nodejs-event-loop"
+			"https://gist.github.com/hueniverse/a06f6315ea736ed1b46d"
+			"http://nodejs.blog.br/2015/01/using-nodejs-with-mysql"
+			"http://www.sitepoint.com/deploying-heroku-using-gulp-node-git/"
 			"http://mherman.org/blog/2015/02/12/postgresql-and-nodejs/"
 			"http://blog.robertonodi.me/managing-files-with-node-js-and-mongodb-gridfs/"
 			"http://blog.justonepixel.com/geek/2015/02/15/batch-operations-writable-streams/"
@@ -202,6 +219,8 @@
 			"http://knowthen.com/episode-10-building-realtime-applications-just-got-easy/"
 		]
 		"BackBone":[
+
+			"https://code.mixpanel.com/2015/04/08/straightening-our-backbone-a-lesson-in-event-driven-ui-development/"
 			"http://www.webcodegeeks.com/javascript/backbone-js/backbone-js-events-example/"
 		],
 		"Webrtc":[
@@ -209,6 +228,7 @@
 			"http://thejackalofjavascript.com/node-webkit-webrtc-and-angularjs-a-video-chat-client/"
 		],
 		"Ionic":[
+			"http://www.gajotres.net/storing-data-in-ionic-framework-and-onsenui/"
 			"http://java.dzone.com/articles/using-mobilefirst-sql-adapters"
 			"http://thejackalofjavascript.com/ionic-twilio-and-node-scheduler-part-1/"
 			"http://www.webspeaks.in/2015/03/html5-offline-mobile-app-using-ionic-pouchdb.html"
@@ -217,17 +237,28 @@
 		"Phonegap":[],
 		"Knockout":[],
 		"Jquery":[
+			"http://java.dzone.com/articles/packaging-jquery-mobile"
+			"http://genius.it/ejohn.org/blog/annotated-version-of-the-original-jquery-release/"
 			"http://dailyjs.com/2015/03/30/flowtype-jquery-frontend/"
 			"http://www.webcodegeeks.com/javascript/jquery/jquery-dialog-example/"
 		],
 		"TYpeScript":[
+			"http://blog.mgechev.com/2015/04/06/angular2-first-impressions/"
+					"http://cacodaemon.de/index.php?id=67
 			"http://www.infoq.com/news/2015/04/typescript-1-5"
 			"https://www.airpair.com/typescript/posts/typescript-development-with-gulp-and-sublime-text"
 		],
 		"CofferScript":[
 			"http://www.developwithpurpose.com/coffeescript-is-dead-long-live-coffeescript/"
 		],
+		"Gulp":[
+			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
+		]
 		"ECMASCript":[
+			"http://www.2ality.com/2015/04/deploying-es6.html"
+			"http://www.noupe.com/development/understanding-ecmascript-6-class-and-inheritance-90966.html"
+			"http://www.2ality.com/2015/04/node-es6-transpiled.html"
+			"http://www.ifwe.co/code/posts/easing-the-transition-to-es6/"
 			"http://www.sitepoint.com/simplifying-asynchronous-coding-es7-async-functions/"
 			"http://tech.pro/blog/6742/callback-to-future-functor-applicative-monad"
 			"http://es6-features.org/"
@@ -243,8 +274,12 @@
 			"http://tonyfreed.com/blog/top_javascript_interview_question_2015"
 			"http://www.2ality.com/2015/03/es6-generators.html"
 		],
-
+		"D3":[
+			"http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
+		]
 		"Meteor":[
+			"http://dataconomy.com/meteor-unleashes-1-1-allowing-one-codebase-for-windows-os-x-and-linux/"
+			"https://www.youtube.com/watch?v=-QtrkXKvQFc&feature=youtu.be&list=PLTUf4ytkmI8Q3mSRIrkPfjkERTxHopzKG"
 			"http://docs.meteor.com/#/full/blaze_render"
 			"http://blog.percolatestudio.com/engineering/reactive-user-interfaces/"
 			"https://medium.com/@stubailo/data-flow-from-the-database-to-the-ui-three-layers-of-meteor-d5e208b466c3"
@@ -257,6 +292,7 @@
 			"https://hackhands.com/how-to-get-started-on-the-mean-stack/"
 		],
 		"Other":[
+			"http://jlongster.com/Stop-Trying-to-Catch-Me"
 			"http://examples.javacodegeeks.com/enterprise-java/rest/resteasy/json-example-with-resteasy-jackson/"
 			"http://www.webcodegeeks.com/javascript/javascript-promises-essentials/"
 			"http://www.json2yaml.com/"
@@ -294,6 +330,8 @@
 			"http://nicolaiarocci.com/new-releases-for-cerberus-and-eve/"
 			"https://frontendmasters.com/courses/advanced-javascript/"
 			"http://arasatasaygin.github.io/is.js/"
+			"http://www.objectplayground.com"
+			"https://www.twilio.com/blog/2015/03/create-a-browser-based-photobooth-with-javascript-php-and-twilio.html"
 		],
 		"Compiler&Interpyer":[
 			"http://howjs.com/zFiG/2"
