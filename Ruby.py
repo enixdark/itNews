@@ -16,11 +16,15 @@
 		"http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/"
 		"https://semaphoreci.com/community/tutorials/setting-up-the-bdd-stack-on-a-new-rails-4-application",
 		"https://github.com/diasks2/ruby-nlp",
+		"http://www.sitepoint.com/jekyll-rails/"
+		"http://www.leighhalliday.com/ruby-metaprogramming-method-missing"
+		"http://dev.mensfeld.pl/2015/04/ruby-global-method-cache-invalidation-impact-on-a-single-and-multithreaded-applications/"
 		"http://rubylogs.com/template-method-pattern-in-ruby/"
 		"https://www.airpair.com/ruby/posts/step-aside-activesupportconcern-supermodule-is-the-new-sheriff-in-town"
 		"https://lob.com/blog/print-mail-custom-postcards-using-html-css-ruby-on-rails"
 		"http://astrails.com/blog/2013/7/31/running-rails-recipes-with-postgres-without-unix-socket"
 		"https://robots.thoughtbot.com/rails-coaching"
+		
 		"http://www.monkeyandcrow.com/blog/reading_rails_time_travel/"
 		"https://everystack.io/#!/catalog/components/whenever"
 		"https://everystack.io/#!/catalog/components/vines"

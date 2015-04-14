@@ -21,6 +21,10 @@
 	"https://typesafe.com/activator/template/akka-http-microservice"
 	"http://scala-exercises.47deg.com/"
 	"https://di-in-scala.github.io/#akka"
+	"http://kc.my-junk.info/di-ioc-dip/"
+
+
+	"http://www.javacodegeeks.com/2014/01/i-dont-like-scala.html"
 	"http://www.javacodegeeks.com/2013/12/playing-with-futures.html"
 	"http://www.cakesolutions.net/teamblogs/category-theory-patterns-in-scala"
 	"http://vkostyukov.ru/posts/designing-a-pfds/"

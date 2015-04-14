@@ -6,9 +6,11 @@
 		"https://www.youtube.com/watch?v=GO_97_6w5lU"
 		"https://www.youtube.com/watch?v=Dgbm3BRmzuI&list=PLWbHc_FXPo2hAfi8bz65wpBrCjeKtncB-&index=4"
 		"http://www.basho.com/bet365/"
+		"http://www.erlangpatterns.org/patterns.html"
 		"http://www.proctor-it.com/erlang-thursday-calendar-day_of_the_week-3/"
 		"https://medium.com/@jlouis666/breaking-erlang-maps-4-4ebc3c64068c"
 		"http://www.erlangpatterns.org/index.html"
+		"http://erlangcentral.org/erlang-factory-sf-2015-joseph-blomstedt-data-structure-adventure/#.VSu5--SEi-k"
 		"http://blog.layer.com/building-the-internets-next-messaging-system/"
 		"https://everystack.io/#!/catalog/components/nitrogen"
 		"https://blog.spideroak.com/20100628192232-an-erlangotp-ssl-proxy-and-load-balancer-for-python-twisteds-perspective-broker"
@@ -17,6 +19,9 @@
 		"https://gist.github.com/wardbekker/6876d1ed13eb40a47b55"
 		"https://everystack.io/#!/catalog/components/mochiweb"
 		"https://www.youtube.com/watch?v=txjKo93EOZs"
+		
+
+		""
 		"http://www.infoq.com/presentations/erlang-http-connections"
 		"https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang-problem-erlang&utm_content=buffer7a489&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 		"https://medium.com/@jlouis666/solving-the-go-challenge-1-in-erlang-8b1e0a0a5044"

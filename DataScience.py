@@ -1,4 +1,5 @@
 "DataScience":[
+	"http://www.datavizualization.com/blog/using-decision-trees-in-evidence-based-medicine"
 	"http://www.datasciencecentral.com/profiles/blogs/an-introduction-to-social-network-analysis",
 	"https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/"
 	"https://jessesw.com/Data-Science-Skills/",
@@ -7,6 +8,7 @@
 	"http://www.analyticbridge.com/forum/topics/semi-supervised-learnig-knn-kmeans"
 	"http://www.analyticbridge.com/profiles/blogs/data-analysis-beginners"
 	"http://willwhitney.github.io/dc-ign/www/"
+	
 	"http://www.forbes.com/sites/louiscolumbus/2015/03/15/data-analytics-dominates-enterprises-spending-plans-for-2015/"
 	"http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html.com&utm_campaign=buffer"
 	"http://vaidehijoshi.github.io/blog/2015/03/24/a-machine-state-of-mind-part-2-implementing-state-machines/"

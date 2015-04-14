@@ -1,5 +1,6 @@
 "BigData":{
 		"Hadoop":[
+			"http://www.datasciencecentral.com/profiles/blogs/hadoop-2-helps-systems-integration"
 			"http://www.infoq.com/articles/Hadoop-Cluster"
 			"http://blog.cloudera.com/blog/2015/01/how-to-deploy-apache-hadoop-clusters-like-a-boss/"
 			"https://developer.rackspace.com/blog/monitoring-hadoop-with-rackspace-cloud-services/"
@@ -19,6 +20,7 @@
 		],
 
 		"Spark":[
+			"https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html"
 			"http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/"
 			"http://www.infoq.com/news/2015/03/pinterest-memsql-spark-streaming"
 			"http://rnowling.github.io/spark/2015/04/07/multiuser-spark-mesos.html"
@@ -51,6 +53,9 @@
 			"https://www.mapr.com/resources/videos/apache-drill-redefining-sql-hadoop-0",
 		]
 		"ApacheDrill":[
+			"https://www.youtube.com/watch?v=FkcegazNuio"
+			"http://www.datasciencecentral.com/profiles/blogs/drill-data-with-apache-drill"
+			"http://www.dbta.com/BigDataQuarterly/Articles/The-Importance-of-Apache-Drill-to-the-Big-Data-Ecosystem-103000.aspx"
 			"http://drill.apache.org/blog/2015/03/31/drill-0.8-released/"
 		],
 		"ApacheKafka":[

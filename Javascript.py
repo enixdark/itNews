@@ -1,5 +1,6 @@
 "Javascript":{
 		"Angular":[
+			"http://blog.mgechev.com/2015/04/11/immutability-in-angularjs-immutablejs-part-2/"
 			"https://qconnewyork.com/workshop/introduction-angularjs"
 			"http://blog.backand.com/time-saving-angularjs-tips"
 			"http://blog.mgechev.com/2015/04/06/angular2-first-impressions/"
@@ -65,6 +66,7 @@
 			"http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/#hnhttp://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/#hn"
 			"https://www.airpair.com/pubnub/posts/realtime-angularjs-pubsub-messaging-using-pubnub1"
 			"http://blog.sodhanalibrary.com/2015/04/angularjs-directive-for-mouse-wheel.html"
+			
 		],
 		"JXCore":[
 			"http://www.goland.org/jxcore/"
@@ -103,6 +105,9 @@
 		]
 
 		"React":[
+
+			"fsdf"
+			"https://codepicnic.com/posts/a-quick-start-to-react-in-4-steps-iii-f2217062e9a397a1dca429e7d70bc6ca/"
 			"https://codepicnic.com/posts/a-quick-start-to-react-in-4-steps-i-a5e00132373a7031000fd987a3c9f87b/"
 			"http://zippyui.github.io/react-datagrid/#/"
 			"http://fluxxor.com/what-is-flux.html"
@@ -149,6 +154,7 @@
 			"https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skeleton"
 		],
 		"Sails":[
+			"http://www.hutchinson.io/ember-and-sails-js-getting-started/"
 			"http://www.ultrasaurus.com/2015/01/getting-started-sailsjs/"
 			"http://sanestack.com/"
 			"https://www.digitalocean.com/community/tutorials/how-to-create-an-node-js-app-using-sails-js-on-an-ubuntu-vps"
@@ -160,7 +166,10 @@
 		"Cylon.js":[
 			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 		]
-		"Nodejs":["http://www.javacodegeeks.com/2013/12/node-js-synchronous-and-asynchronous-functions.html"
+		"Nodejs":[
+
+			"http://www.sitepoint.com/build-node-js-powered-chatroom-web-app-node-mongodb-socket/"
+			"http://www.javacodegeeks.com/2013/12/node-js-synchronous-and-asynchronous-functions.html"
 			"http://www.sitepoint.com/build-node-js-powered-chatroom-web-app-connecting-websockets/"
 			"http://www.sitepoint.com/build-node-js-powered-chatroom-web-app-chatroom-ui-bootstrap/"
 			"http://www.mongodb.com/blog/post/introducing-version-40-mongoose-nodejs-odm"
@@ -255,6 +264,7 @@
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
+			"http://martyjs.org/guides/fetching-state/index.html"
 			"http://www.2ality.com/2015/04/deploying-es6.html"
 			"http://www.noupe.com/development/understanding-ecmascript-6-class-and-inheritance-90966.html"
 			"http://www.2ality.com/2015/04/node-es6-transpiled.html"
@@ -278,6 +288,7 @@
 			"http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
 		]
 		"Meteor":[
+			"http://meteortips.com/"
 			"http://dataconomy.com/meteor-unleashes-1-1-allowing-one-codebase-for-windows-os-x-and-linux/"
 			"https://www.youtube.com/watch?v=-QtrkXKvQFc&feature=youtu.be&list=PLTUf4ytkmI8Q3mSRIrkPfjkERTxHopzKG"
 			"http://docs.meteor.com/#/full/blaze_render"
@@ -292,6 +303,9 @@
 			"https://hackhands.com/how-to-get-started-on-the-mean-stack/"
 		],
 		"Other":[
+			"https://blog.korelogic.com/blog/2015/01/12/javascript_deobfuscation"
+			"http://noeticforce.com/best-Javascript-frameworks-for-single-page-modern-web-applications"
+			"http://codingatwork.com/2015/03/promises-cookbook/"
 			"http://jlongster.com/Stop-Trying-to-Catch-Me"
 			"http://examples.javacodegeeks.com/enterprise-java/rest/resteasy/json-example-with-resteasy-jackson/"
 			"http://www.webcodegeeks.com/javascript/javascript-promises-essentials/"
@@ -331,6 +345,7 @@
 			"https://frontendmasters.com/courses/advanced-javascript/"
 			"http://arasatasaygin.github.io/is.js/"
 			"http://www.objectplayground.com"
+			"http://www.webcodegeeks.com/javascript/javascript-history-back-example/"
 			"https://www.twilio.com/blog/2015/03/create-a-browser-based-photobooth-with-javascript-php-and-twilio.html"
 		],
 		"Compiler&Interpyer":[

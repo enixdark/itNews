@@ -15,6 +15,8 @@
 			"http://planetcassandra.org/blog/i2o-water-the-internet-of-things-and-cassandra/"
 			"http://shop.oreilly.com/product/0636920040682.do"
 			"http://www.thingstud.io/"
+			""
+			
 			"http://www.zdnet.com/article/ten-examples-of-iot-and-big-data-working-well-together/"
 			"http://www.informationweek.com/wireless-infrastructure/iot-standardization-why-the-network-matters/a/d-id/1319418?_mc=sm_iwk"
 		]

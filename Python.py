@@ -1,5 +1,6 @@
 "Python":{
 		"Flask":[
+			"http://skybert.net/python/developing-a-restful-micro-service-in-python/"
 			"http://python.talkera.org/login-authentication-with-flask/"
 			"http://charlesleifer.com/blog/saturday-morning-hacks-building-an-analytics-app-with-flask/"
 			"http://blog.miguelgrinberg.com/post/video-streaming-with-flask"
@@ -49,6 +50,7 @@
 			"http://davidemoro.blogspot.com/2015/04/kotti-multilingual.html"
 		],
 		"Data":[
+			"http://aliquote.org/memos/2011/02/07/python-for-statistical-computing"
 			"https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/"
 			"http://www.dataplumbing.com/blog/pandas-powerful-python-data-analysis-toolkit"
 			"http://pbpython.com/improve-pandas-excel-output.html"
@@ -69,6 +71,7 @@
 			"http://desilinguist.org/pdf/crossroads.pdf.com"
 			"http://kachkach.com/data-processing-and-machine-learning-with-python/.com"
 			"http://dataconomy.com/14-best-python-pandas-features/"
+			"https://jmetzen.github.io/2015-01-29/ml_advice.html"
 			"http://kukuruku.co/hub/python/introduction-to-machine-learning-with-python-andscikit-learn.com"
 			"http://matthewrocklin.com/blog/work/2015/03/16/Fast-Serialization/.com"
 		],
@@ -87,6 +90,9 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+			"http://keras.io/"
+			"https://everystack.io/#!/catalog/components/pykka"
+			"http://nedbatchelder.com/text/names1.html"
 			"https://clusterhq.com/blog/flocker-0-4-new-api-centos-7-support-and-more/"
 			"https://www.youtube.com/watch?v=KXkThJVbTdU"
 			"http://continuum.io/blog/blaze-whats-new"
@@ -171,6 +177,7 @@
 			"http://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python"
 			"http://www.fullstackpython.com/table-of-contents.html"
 			"http://pansop.com/1014/"
+			"https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development"
 			"https://realpython.com/blog/python/learn-python-the-methodical-way/#.VR6gPuvdAm8.twitter"
 			"http://morepypy.blogspot.com/2015/03/pydgin-using-rpython-to-generate-fast.html"
 			"http://rajeevrastogi.blogspot.com/2015/03/index-scan-optimization-for-condition.html"
@@ -186,6 +193,7 @@
 			"http://blog.joel.mx/posts/cherrypy-as-a-wsgi-server"
 		],
 		"Tornado":[
+			"http://emptysqua.re/blog/screencast-of-eventually-correct-async-testing-with-tornado/"
 			"http://emptysqua.re/blog/eventually-correct-async-testing-tornado/"
 			"http://emptysqua.re/blog/refactoring-tornado-coroutines/"
 		]
@@ -234,6 +242,7 @@
 			"Cassandra":[
 				"https://www.youtube.com/watch?v=2RpYLu8mjlw"
 			],
+			
 			"Fabric":[
 				"https://vimeo.com/89115276"
 			]
@@ -246,4 +255,10 @@
 			"http://morepypy.blogspot.com/2011/08/pypy-is-faster-than-c-again-string.html"
 			"http://blog.kgriffs.com/2012/10/23/python-vs-node-vs-pypy.html"
 		]
+
+		"PyCon":{
+			"2015":[
+				"https://www.youtube.com/watch?v=GVVtR_hrdKI&list=PLkA60AVN3hh9Sh-5OENT8RsFHjwtk2Z_l"
+			]
+		}
 	},

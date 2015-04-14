@@ -1,11 +1,14 @@
 "Database":{
 		"SQL":[
 		"MySQL":[
+			"http://blog.mclaughlinsoftware.com/2015/04/11/mysql-json-functions/"
 			"http://java.dzone.com/articles/mysql-shell-prompt-vs-mongodb"
 			"https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/"
 			"http://use-the-index-luke.com/blog/2014-04-01/thank-you-mysql-we-will-miss-you"
 		],
 		"Postgresql":[
+			"http://michael.otacoo.com/postgresql-2/postgres-9-5-feature-highlight-log-autovacuum-min-duration-relation/"
+			"http://stormatics.com/howto-create-reports-in-tableau-with-postgresql-database/"
 			"http://adpgtech.blogspot.com/2015/04/dynamically-disabling-triggers-without.html"
 			"http://stormatics.com/howto-use-json-functionality-in-postgresql/"
 			"http://blog.heapanalytics.com/dont-iterate-over-a-postgres-array-with-a-loop/"
@@ -29,9 +32,17 @@
 		],
 		"Oracle":[],
 		"SQLServer":[]
+		"Others":[
+			"http://www.wikivs.com/wiki/MySQL_vs_PostgreSQL"
+			"http://www.hadoop360.com/blog/accumulo-sqrrl-nosql-secure-database"
+			"http://www.brentozar.com/archive/2013/08/query-plans-what-happens-when-row-estimates-get-high/"
+			"http://use-the-index-luke.com/sql/where-clause/null/index"
+		]
 	],
 	"NoSQL":{
 		"RethinkDB":[
+			"http://rethinkdb.com/blog/2.0-release/"
+			"https://www.airpair.com/rethinkdb/posts/moving-from-sql-to-rethinkdb"
 			"http://www.sitepoint.com/rethinkdb-ruby/"
 			"http://blog.workshape.io/we-use-rethinkdb-at-workshapeio/"
 			"http://rethinkdb.com/blog/realtime-cluster-monitoring/"
@@ -51,6 +62,9 @@
 			"http://learn.voltdb.com/WRFull360.html"
 		]
 		"Mongodb":[
+			"http://use-the-index-luke.com/blog/2013-10/mysql-is-to-sql-like-mongodb-to-nosql"
+			"http://www.mongodb.com/blog/post/how-create-pubsub-application-mongodb"
+			"http://www.javacodegeeks.com/2014/01/mongodb-and-the-fine-art-of-data-modelling.html"
 			"http://java.dzone.com/articles/why-field-level-updates-matter"
 			"http://www.mongodb.com/blog/post/announcing-next-generation-drivers-mongodb"
 			"http://tech.gc.com/distributed-processing-with-mongodb-and-mongothon/"
@@ -91,8 +105,11 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
-		"http://blog.couchbase.com/first-steps-with-node.js-and-couchbase-server"
-		"https://www.youtube.com/watch?v=kwmGM1TmHho"
+			"http://blog.couchbase.com/hosting-couchbase-server-in-windows-azure-part-2"
+			"http://planetnosql.blogspot.com/2015/03/query-planning-in-n1ql-sql-for-documents.html"
+			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
+			"http://blog.couchbase.com/first-steps-with-node.js-and-couchbase-server"
+			"https://www.youtube.com/watch?v=kwmGM1TmHho"
 			"http://blog.couchbase.com/introducing-the-couchbase-spark-connector"
 			"http://www.datacenterknowledge.com/archives/2015/03/23/couchbase-rethinks-nosql-database-architecture/"
 			"http://blog.couchbase.com/hortonworks-and-couchbase-nosql-fueled-hadoop"
@@ -141,9 +158,13 @@
 
 		],
 		"PouchDB":[
+
 			"https://www.youtube.com/watch?v=HaGJwV0lwpk"
 		]
 		"Neo4j":[
+			"http://www.springio.net/building-high-performance-applications-with-spring-data-neo4j-4-0/"
+			"http://42talents.com/trainings.html"
+			"http://retrography.github.io/2015/04/11/so-what-if-you-have-to-migrate-from-neo4j-to-orientdb/"
 			"http://jexp.de/blog/2015/04/on-neo4j-indexes-match-merge/"
 			"http://java.dzone.com/articles/introducing-new-cypher-query"
 			"http://www.javacodegeeks.com/2015/04/neo4j-the-learning-to-cycle-dependency-graph.html"
@@ -175,6 +196,7 @@
 			"http://www.markhneedham.com/blog/2015/04/01/neo4j-cypher-building-the-query-for-a-movies-profile-page/"
 		],
 		"Cassandra":[
+			"www.datastax.com/dev/blog/benchmarking-larger-than-memory-workloads"
 			"http://java.dzone.com/articles/introduction-apache-cassandras"
 			"http://www.javacodegeeks.com/2015/04/high-performance-computing-clusters-hpcc-and-cassandra-on-os-x.html"
 			"https://blog.codecentric.de/en/2014/12/combining-apache-cassandra-apache-karaf/"
@@ -215,6 +237,7 @@
 			"http://channel9.msdn.com/Blogs/Windows-Azure/Azure-Demo-Getting-started-with-Azure-DocumentDB-on-Nodejs-in-Linux"
 		]
 		"Riak":[
+			"http://www.slideshare.net/sargund/erlangotp-and-some-of-riak"
 			"https://gigaom.com/2015/01/12/basho-creator-of-nosql-riak-database-raises-25m/"
 			"http://basho.com/riak-2-1-and-riak-cs-2-0-increased-performance-and-product-enhancements/"
 			"http://basho.com/how-to-build-a-client-library-for-riak-2-0/"
@@ -243,6 +266,7 @@
 			"https://aws.amazon.com/blogs/aws/simplify-your-dynamodb-queries-using-secondary-index-scans/"
 		]
 		"Others":[
+			"https://gigaom.com/2013/11/02/next-gen-nosql-the-demise-of-eventual-consistency/"
 			"http://www.computing.co.uk/ctg/analysis/2403031/expletives-deleted-how-nosql-is-helping-ryanair-change-its-customer-service-reputation"
 			"https://vimeo.com/123640016"
 			"http://www.information-management.com/news/Relational-Database-Big-Data-Migration-Guide-10026758-1.html"
@@ -268,6 +292,7 @@
 		]
 	},
 	"Others":[
+			"http://blogs.the451group.com/information_management/2015/04/07/nosql-linkedin-skills-index-march-2015/"
 			"http://www.slideshare.net/8kdata/toro-db-pgconfny2015"
 			"http://mangolassi.it/topic/4545/when-to-use-sql-or-nosql"
 			"http://www.aerospike.com/get-started/"
