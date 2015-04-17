@@ -8,6 +8,9 @@
 	"http://www.analyticbridge.com/forum/topics/semi-supervised-learnig-knn-kmeans"
 	"http://www.analyticbridge.com/profiles/blogs/data-analysis-beginners"
 	"http://willwhitney.github.io/dc-ign/www/"
+	"http://www.datasciencecentral.com/profiles/blogs/tutorial-how-to-detect-spurious-correlations-and-how-to-find-the-"
+	"http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free"
+	"http://tomtunguz.com/data-science-demystified/"
 	
 	"http://www.forbes.com/sites/louiscolumbus/2015/03/15/data-analytics-dominates-enterprises-spending-plans-for-2015/"
 	"http://sebastianraschka.com/Articles/2015_singlelayer_neurons.html.com&utm_campaign=buffer"

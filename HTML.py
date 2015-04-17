@@ -6,6 +6,7 @@
 		"http://www.infoq.com/news/2015/03/html6-without-javascript"
 		"http://www.webcodegeeks.com/html5/html5-file-upload-example/"
 		"http://www.webcodegeeks.com/html5/html5-websocket-example/"
+		"http://www.webcodegeeks.com/html5/html5-input-types-example/"
 		"https://thomashunter.name/blog/tips-for-building-mobile-games-in-html5"
 		"http://www.webcodegeeks.com/html5/html5-dropdown-menu-example-with-css3"
 		"http://www.webcodegeeks.com/html5/html5-geolocation-example-weather-widget-demo/"

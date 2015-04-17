@@ -4,7 +4,10 @@
 		"http://examples.javacodegeeks.com/core-java/io/outputstream/java-io-outputstream-example/"
 		"http://www.javacodegeeks.com/2013/11/why-we-shouldnt-use-more-threads-than-we-need-to.html",
 		"http://java.dzone.com/articles/getting-started-couchbase-and",
+		"http://www.javacodegeeks.com/2015/04/on-servlets-and-async-servlets.html"
 		"https://everystack.io/#!/catalog/components/java-websocket",
+		"http://www.javacodegeeks.com/2014/03/5-techniques-to-improve-your-server-logging.html"
+		"http://www.javacodegeeks.com/2014/03/detecting-write-failures-when-using-memory-mapped-files-in-java.html"
 		"http://www.javacodegeeks.com/2014/01/clean-code-dont-mix-different-levels-of-abstractions.html"
 		"http://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-view-resolver-example"
 		"http://www.dre.vanderbilt.edu/~schmidt/LiveLessons/CPiJava/"
@@ -15,12 +18,18 @@
 		"http://www.javacodegeeks.com/2015/03/yet-another-java-8-lamdbas-and-streams-example.html"
 		"http://www.javacodegeeks.com/2013/08/why-rest-is-so-important.html"
 		"http://javadude.com/articles/passbyvalue.htm"
-
+		"http://www.javacodegeeks.com/2014/02/dynamic-programming-introduction.html"
+		"http://java.dzone.com/articles/using-multiple-grok-statements"
+		"http://www.javacodegeeks.com/2015/04/scalable-robust-and-standard-java-web-services-with-fibers.html"
 		"http://www.javacodegeeks.com/2015/04/whats-new-in-grails-3.html"
 		"http://www.javacodegeeks.com/2014/02/building-your-personal-programmer-brand.html"
 		"http://examples.javacodegeeks.com/java-basics/web-start/java-web-start-getting-started/"
 		"http://examples.javacodegeeks.com/core-java/reflection/java-reflection-example"
 		"http://www.javacodegeeks.com/2014/02/redis-sort-with-jedis.html"
+		"http://www.javacodegeeks.com/2014/10/apache-commons-io-tutorial.html"
+
+		
+		"http://www.javacodegeeks.com/2014/03/java-8-lambda-expressions-vs-auto-closeable.html"
 		"http://www.javacodegeeks.com/2015/04/how-to-flatmap-a-jdbc-resultset-with-java-8.html"
 		"http://www.javacodegeeks.com/2014/01/upgrading-to-java-7-on-googles-appengine.html"
 		"http://www.javacodegeeks.com/2014/01/how-to-configure-an-ssl-certificate-with-play-framework-for-https.html"

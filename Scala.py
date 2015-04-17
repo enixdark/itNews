@@ -10,6 +10,10 @@
 	"http://letitcrash.com/post/114395138592/akka-cluster-load-balancing"
 	"http://letitcrash.com/post/113805166317/akka-cluster-load-balancing"
 	"http://www.reactivemanifesto.org/"
+	"http://virtuslab.com/blog/debugging-implicits/"
+	"http://bandrzejczak.com/blog/2015/04/13/ternary-operator-in-scala/"
+	"http://blog.jaceklaskowski.pl/2015/04/12/using-autoplugin-in-sbt-for-common-settings-across-projects-in-multi-project-build.html"
+	"http://www.javacodegeeks.com/2015/04/scala-snippet-object-companion-object-and-static-methods.html"
 	"https://www.innoq.com/en/blog/validate-your-domain-in-scala/"
 	"http://michalostruszka.pl/blog/2015/03/30/scala-case-classes-to-and-from-tuples/"
 	"http://www.scala-lang.org/news/2015/02/05/scala-js-no-longer-experimental.html"
@@ -22,6 +26,9 @@
 	"http://scala-exercises.47deg.com/"
 	"https://di-in-scala.github.io/#akka"
 	"http://kc.my-junk.info/di-ioc-dip/"
+
+
+
 
 
 	"http://www.javacodegeeks.com/2014/01/i-dont-like-scala.html"

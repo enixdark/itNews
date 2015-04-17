@@ -3,6 +3,7 @@
 		"http://inaka.net/blog/2015/03/25/hot-score-with-ruby-postgresql-and-elastic-part-1/"
 		"http://viget.com/extend/functional-programming-in-ruby-with-contracts"
 		"http://dashing.io/"
+		"http://code.tutsplus.com/tutorials/service-objects-with-rails-using-aldous--cms-23689"
 		"http://www.justinweiss.com/blog/2015/04/06/how-to-debug-ruby-performance-problems-in-production/"
 		"http://www.sitepoint.com/rethinkdb-ruby/"
 		"http://www.sitepoint.com/build-monitoring-widgets-ruby-bitbar/"
@@ -17,6 +18,7 @@
 		"https://semaphoreci.com/community/tutorials/setting-up-the-bdd-stack-on-a-new-rails-4-application",
 		"https://github.com/diasks2/ruby-nlp",
 		"http://www.sitepoint.com/jekyll-rails/"
+		"http://www.sitepoint.com/rubygems-slow/"
 		"http://www.leighhalliday.com/ruby-metaprogramming-method-missing"
 		"http://dev.mensfeld.pl/2015/04/ruby-global-method-cache-invalidation-impact-on-a-single-and-multithreaded-applications/"
 		"http://rubylogs.com/template-method-pattern-in-ruby/"
@@ -24,7 +26,7 @@
 		"https://lob.com/blog/print-mail-custom-postcards-using-html-css-ruby-on-rails"
 		"http://astrails.com/blog/2013/7/31/running-rails-recipes-with-postgres-without-unix-socket"
 		"https://robots.thoughtbot.com/rails-coaching"
-		
+		"http://chriskottom.com/blog/2015/04/unexpected-the-new-minitest-spec-syntax/"
 		"http://www.monkeyandcrow.com/blog/reading_rails_time_travel/"
 		"https://everystack.io/#!/catalog/components/whenever"
 		"https://everystack.io/#!/catalog/components/vines"

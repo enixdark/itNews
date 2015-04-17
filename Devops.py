@@ -5,6 +5,8 @@
 			"http://java.dzone.com/articles/live-activity-monitoring-nginx"
 			"http://www.sitepoint.com/set-automatic-virtual-hosts-nginx-apache/"
 			"http://nginx.org/en/CHANGES"
+			
+			"http://nginx.com/blog/nginx-open-source-reflecting-back-and-looking-ahead/"
 			"https://www.conetix.com.au/blog/apache-vs-nginx-vs-openlitespeed-part-1"
 			"http://nginx.com/blog/why-netflix-chose-nginx-as-the-heart-of-its-cdn/"
 			"http://blog.victorquinn.com/nginx-as-a-spdy-reverse-proxy-passthrough?utm_source=nodeweekly&utm_medium=email"
@@ -16,6 +18,8 @@
 		"LightHttp":[],
 
 		"Ansible":[
+			"http://www.ansible.com/how-ansible-works"
+			"http://www.ansible.com/government"
 			"http://docs.ansible.com/playbooks_intro.html"
 			"www.ansible.com/webinars-training"
 			"http://www.ansible.com/blog/managing-vmware-vsphere-guests-with-ansible-tower"
@@ -29,6 +33,7 @@
 		],
 		"Puppet":[
 			""
+			
 			"https://puppetlabs.com/blog/release-candidate-open-source-puppet-4.0?ls=social-media&ccn=twitter-product-20150318&cid=701G0000000F68P"
 		],
 		

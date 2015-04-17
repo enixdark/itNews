@@ -1,5 +1,6 @@
 "BigData":{
 		"Hadoop":[
+			"http://hortonworks.com/blog/hortonworks-acquires-sequenceiq-to-provide-automated-deployment-of-hadoop-everywhere/"
 			"http://www.datasciencecentral.com/profiles/blogs/hadoop-2-helps-systems-integration"
 			"http://www.infoq.com/articles/Hadoop-Cluster"
 			"http://blog.cloudera.com/blog/2015/01/how-to-deploy-apache-hadoop-clusters-like-a-boss/"
@@ -9,6 +10,7 @@
 			"https://districtdatalabs.silvrback.com/creating-a-hadoop-pseudo-distributed-environment"
 			"http://engineering.viki.com/blog/2015/analytics-infrastracture-updates/"
 			"http://saphanatutorial.com/hadoop-1-0-vs-hadoop-2-0/"
+			""
 			"http://www.hadoop360.com/blog/hadoop-technology-stack"
 			"http://blog.cloudera.com/blog/2015/03/understanding-hdfs-recovery-processes-part-2/.com&utm_campaign=buffer"
 			"http://www.hadoop360.com/xn/detail/6623215:BlogEntry:9496"
@@ -19,7 +21,9 @@
 			"http://vision.cloudera.com/data-governance-in-hadoop-part-2/"
 		],
 
+
 		"Spark":[
+			"http://www.hadoop360.com/blog/spark-shark-and-mesos-data-analytics-stack"
 			"https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html"
 			"http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/"
 			"http://www.infoq.com/news/2015/03/pinterest-memsql-spark-streaming"
@@ -47,6 +51,7 @@
 			"http://www.javacodegeeks.com/2015/04/apache-mesos-marathon-and-java-ee.html",
 		],
 		"Mapr":[
+			"https://www.mapr.com/services/mapr-academy/big-data-hadoop-online-training"
 			"https://www.mapr.com/blog/strategic-data-beyond-hadoop-and-big-data#.VSWDCuSEi-k"
 			"https://www.mapr.com/blog/how-use-mapreduce-api"
 			"https://www.mapr.com/blog/polyglot-data-management-big-data-everywhere-recap#.VQ0LIFmNDec"
@@ -66,7 +71,12 @@
 			"https://databricks.com/blog/2015/03/30/improvements-to-kafka-integration-of-spark-streaming.html"
 			"https://engineering.linkedin.com/kafka/running-kafka-scale"
 		]
+		"ApacheCamel":[
+			"http://examples.javacodegeeks.com/core-java/apache-camel-hello-world-example/"
+		]
 		"Others":[
+			"http://blog.algorithmia.com/post/116365814879/how-machines-see-the-web-exploring-the-web"
+			"http://www.datasciencecentral.com/profiles/blogs/the-7-most-unusual-applications-of-big-data-you-ve-ever-seen"
 			"http://grigory.us/blog/rdbms-mapreduce/"
 			"https://www.youtube.com/watch?v=kRjk_Xsf7t4"
 			"http://www.hadoop360.com/blog/batch-vs-real-time-data-processing"

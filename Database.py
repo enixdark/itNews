@@ -1,12 +1,18 @@
 "Database":{
 		"SQL":[
 		"MySQL":[
+			"http://www.datanami.com/2015/04/14/mysql-leader-percona-takes-aim-at-mongodb/"
 			"http://blog.mclaughlinsoftware.com/2015/04/11/mysql-json-functions/"
 			"http://java.dzone.com/articles/mysql-shell-prompt-vs-mongodb"
 			"https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/"
 			"http://use-the-index-luke.com/blog/2014-04-01/thank-you-mysql-we-will-miss-you"
 		],
 		"Postgresql":[
+			"http://adpgtech.blogspot.com/2015/04/new-postgresql-buildfarm-client-release.html"
+			"http://bonesmoses.org/2015/04/17/pg-phriday-anonymous-blocks-and-object-manipulation/"
+			"https://periscope.io/blog/hyperloglog-in-pure-sql.html"
+			"http://www.databasesoup.com/2015/04/expressions-vs-advanced-aggregates.html"
+			"http://peter.eisentraut.org/blog/2015/04/16/storing-uris-in-postgresql/"
 			"http://michael.otacoo.com/postgresql-2/postgres-9-5-feature-highlight-log-autovacuum-min-duration-relation/"
 			"http://stormatics.com/howto-create-reports-in-tableau-with-postgresql-database/"
 			"http://adpgtech.blogspot.com/2015/04/dynamically-disabling-triggers-without.html"
@@ -31,6 +37,7 @@
 			"http://8kb.co.uk/blog/2015/04/02/being-cavalier-with-slony-nodes-and-pg_dumppg_restore/",
 		],
 		"Oracle":[],
+
 		"SQLServer":[]
 		"Others":[
 			"http://www.wikivs.com/wiki/MySQL_vs_PostgreSQL"
@@ -41,6 +48,7 @@
 	],
 	"NoSQL":{
 		"RethinkDB":[
+			"http://www.datacenterknowledge.com/archives/2015/04/14/rethinkdbs-open-source-nosql-now-production-ready/"
 			"http://rethinkdb.com/blog/2.0-release/"
 			"https://www.airpair.com/rethinkdb/posts/moving-from-sql-to-rethinkdb"
 			"http://www.sitepoint.com/rethinkdb-ruby/"
@@ -53,15 +61,22 @@
 			"https://foundationdb.com/key-value-store/versus"
 		],
 		"Oritendb":[
+			"http://pizzaconnections.net/2015/04/09/analyze-a-class-diagram-with-orientdb/"
 			"http://pizzaconnections.net/2015/03/27/148/"
 		]
 		"VoltDB":[
+			"http://highscalability.com/blog/2015/4/13/three-fast-data-application-patterns.html"
 			"http://voltdb.com/community/demo?n=a&utm_expid=66808973-1.O562mQS1TnKG3RbsGkKu5Q.1&utm_referrer=http%3A%2F%2Ft.co%2F4HsC5zS1Oh"
 			"http://voltdb.com/blog/foundationdbs-lesson-fast-key-value-store-not-enough?n=a"
 			"http://voltdb.com/blog/lambda-complexity-why-fast-data-needs-new-thinking"
 			"http://learn.voltdb.com/WRFull360.html"
 		]
 		"Mongodb":[
+			"http://www.mongodb.com/webinar/backups-disaster-recovery"
+			"https://blog.compose.io/separating-collections-to-improve-mongodb-measurability/"
+			"http://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-1"
+			"http://www.mongodb.com/blog/post/tailing-mongodb-oplog-sharded-clusters"
+			"http://www.mongodb.com/blog/post/server-discovery-and-monitoring-next-generation-mongodb-drivers"
 			"http://use-the-index-luke.com/blog/2013-10/mysql-is-to-sql-like-mongodb-to-nosql"
 			"http://www.mongodb.com/blog/post/how-create-pubsub-application-mongodb"
 			"http://www.javacodegeeks.com/2014/01/mongodb-and-the-fine-art-of-data-modelling.html"
@@ -105,6 +120,8 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
+			"https://www.youtube.com/watch?v=alp2KQFnSa0"
+			"http://www.infoworld.com/article/2900123/nosql/couchbase-server-4-superior-scale-out.html"
 			"http://blog.couchbase.com/hosting-couchbase-server-in-windows-azure-part-2"
 			"http://planetnosql.blogspot.com/2015/03/query-planning-in-n1ql-sql-for-documents.html"
 			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
@@ -140,7 +157,23 @@
 			"http://blog.couchbase.com/mongodb-rules-single-node-deployments",
 			"http://jamiltz.github.io/simple-model-class-for-couchbase-lite-android/"
 		],
+		"CouchDB":[
+			"http://blog.couchdb.org/2015/04/17/couchdb-weekly-news-april-17-2015/"
+			"http://madhukaudantha.blogspot.com/2015/04/couchdb-20-developer-preview-with-http.html"
+			"https://medium.com/@th0maswe1ss/distributed-event-log-with-couchdb-a36a63cdf337"
+			"http://www.staticshin.com/programming/what-does-_security-secure-in-couchdb/"
+			"http://www.fanciullimassimiliano.it/2015/02/01/coucbdb-on-a-raspberrypi/"
+			"http://fiatjaf.alhur.es/programming/couchdb-view-patterns/"
+			"http://blog.couchdb.org/2015/04/02/couchdb-weekly-news-april-02-2015/"
+		]
+		"PouchDB":[
+			"https://www.youtube.com/watch?v=HaGJwV0lwpk"
+			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
+		]
 		"Redis":[
+			"http://www.redisgreen.net/docs.html"
+			"https://digitalserb.me/writing-a-redis-client-in-pure-bash/"
+			"http://martinmicunda.com/2015/04/10/build-ionic-photo-gallery-app-I/"
 			"https://blog.sdslabs.co/2015/04/announcing-phoenix/"
 			"http://redis.io/topics/cluster-tutorial"
 			"http://www.everybodyhertz.co.uk/creating-a-distributed-redis-setup-using-docker/"
@@ -157,11 +190,11 @@
 			"https://github.com/no13bus/redispapa.com&utm_campaign=buffer",
 
 		],
-		"PouchDB":[
-
-			"https://www.youtube.com/watch?v=HaGJwV0lwpk"
-		]
+		
 		"Neo4j":[
+			"http://vmturbo.com/about-virtualization/devs-are-from-venus-ops-are-from-mars-big-data-neo4j-part-3"
+			"http://blog.bruggen.com/2015/04/querying-snap-beeradvocate-dataset-in.html"
+			"http://blog.bruggen.com/2015/04/importing-snap-beeradvocate-dataset_15.html"
 			"http://www.springio.net/building-high-performance-applications-with-spring-data-neo4j-4-0/"
 			"http://42talents.com/trainings.html"
 			"http://retrography.github.io/2015/04/11/so-what-if-you-have-to-migrate-from-neo4j-to-orientdb/"
@@ -196,6 +229,7 @@
 			"http://www.markhneedham.com/blog/2015/04/01/neo4j-cypher-building-the-query-for-a-movies-profile-page/"
 		],
 		"Cassandra":[
+			"http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store#.VS7k6ien4Cs.hackernews"
 			"www.datastax.com/dev/blog/benchmarking-larger-than-memory-workloads"
 			"http://java.dzone.com/articles/introduction-apache-cassandras"
 			"http://www.javacodegeeks.com/2015/04/high-performance-computing-clusters-hpcc-and-cassandra-on-os-x.html"
@@ -212,13 +246,7 @@
 			"http://www.datastax.com/dev/blog/role-based-access-control-in-cassandra"
 			"https://www.youtube.com/watch?t=30&v=eqOPn5EtR7Q&utm_content=bufferc4c9d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 		],
-		"CouchDB":[
-			"https://medium.com/@th0maswe1ss/distributed-event-log-with-couchdb-a36a63cdf337"
-			"http://www.staticshin.com/programming/what-does-_security-secure-in-couchdb/"
-			"http://www.fanciullimassimiliano.it/2015/02/01/coucbdb-on-a-raspberrypi/"
-			"http://fiatjaf.alhur.es/programming/couchdb-view-patterns/"
-			"http://blog.couchdb.org/2015/04/02/couchdb-weekly-news-april-02-2015/"
-		]
+
 		"Hbase":[
 			"http://www.infoq.com/news/2015/04/apache-hbase-1-0"
 			"https://www.mapr.com/blog/how-use-sql-hadoop-drill-rest-json-nosql-and-hbase-simple-rest-client"
@@ -254,6 +282,7 @@
 		]
 		
 		"ArrangoDB":[
+			"https://www.arangodb.com/2015/04/digital-ocean-cluster/"
 			"https://www.arangodb.com/2014/12/18/getting-started-guacamole-rails"
 			"https://www.arangodb.com/tutorial-node-js"
 			"https://github.com/ArangoDB/guesser"
@@ -262,6 +291,7 @@
 			"https://www.arangodb.com/2015/02/24/sparse-indexes-in-arangodb"
 		]
 		"DynamoDB":[
+			"https://www.youtube.com/watch?v=VuKu23oZp9Q"
 			"http://www.infoq.com/articles/mars-rover-application-DynamoDB"
 			"https://aws.amazon.com/blogs/aws/simplify-your-dynamodb-queries-using-secondary-index-scans/"
 		]
@@ -315,8 +345,14 @@
 	]
 	,
 	"Scheduled":[
+		"http://java.dzone.com/articles/its-little-things-plsql-null"
 		"https://academy.datastax.com/"
 		"http://www.datastax.com/what-we-offer/products-services/training?utm_source=twitter&utm_name=Social&utm_medium=Free&utm_term=datastaxhttp://www.datastax.com/what-we-offer/products-services/training?utm_source=twitter&utm_name=Social&utm_medium=Free&utm_term=datastax"
 		"http://www.datastax.com/what-we-offer/products-services/training?utm_source=twitter&utm_name=Social&utm_medium=Free&utm_term=datastax"
 		"https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&eventid=962553&sessionid=1&key=BF768351857B2B98B46A1CADD226C8C8&sourcepage=register"
+	]
+
+	"Online":[
+
+		"http://query.pub.couchbase.com/tutorial/#1"
 	]

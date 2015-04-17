@@ -19,9 +19,10 @@
 		"https://gist.github.com/wardbekker/6876d1ed13eb40a47b55"
 		"https://everystack.io/#!/catalog/components/mochiweb"
 		"https://www.youtube.com/watch?v=txjKo93EOZs"
-		
-
-		""
+		"http://lfe.io/"
+		"http://erlangcentral.org/erlang-factory-sf-2015-daniel-pezely-ldb-10x-performance-increase/#.VS5jEuSEi-k"
+		"http://www.lambdadays.org/lambdadays2015/alvaro-videla"
+		"http://www.techrepublic.com/article/functional-programming-is-about-to-go-mainstream/"
 		"http://www.infoq.com/presentations/erlang-http-connections"
 		"https://www.airpair.com/erlang/posts/solving-the-stable-marriage-problem-with-erlang-problem-erlang&utm_content=buffer7a489&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 		"https://medium.com/@jlouis666/solving-the-go-challenge-1-in-erlang-8b1e0a0a5044"
@@ -29,6 +30,7 @@
 		"http://stefanalfbo.github.io/blog/2013/04/23/erlang-shell-cheat-sheet/"
 		"http://aerosol.github.io/anxibits/vim-as-your-erlang-ide/"
 "https://navaspot.wordpress.com/2015/03/15/erlang-day1/"
+		"https://www.youtube.com/watch?v=PSbIpQapXQo"
 		"https://medium.com/@jlouis666/solving-the-go-challenge-1-in-erlang-8b1e0a0a5044?source=tw-725a20c9f371-1426783051509"
 		"http://roberto-aloi.com/erlang/notes-on-erlang-quickcheck-part-2/"
 		"http://www.information-age.com/technology/applications-and-development/123459196/why-bet365-swapped-java-erlang"

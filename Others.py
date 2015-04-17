@@ -9,6 +9,7 @@
 		"http://makethisinanhour.com/",
 		"http://school.looprecur.com/"
 		"http://hyperpolyglot.org/"
+		"http://www.infoq.com/minibooks/emag-web-api"
 		"http://www.tonymarston.net/php-mysql/dependency-injection-is-evil.html"
 		"http://www.javacodegeeks.com/2014/01/9-technologies-to-be-discussed-in-2014.html"
 		"http://www.javacodegeeks.com/2014/01/wtf-is-an-architect-anyway.html"
@@ -19,6 +20,8 @@
 		"https://everystack.io/#!/catalog/components/ratchet"
 		"https://ngrok.com/?v=2"
 		
+		"http://internals.rust-lang.org/t/priorities-after-1-0/1901"
+		"http://homepage.divms.uiowa.edu/~jones/voting/pictures/"
 		"http://paginas.fe.up.pt/~prodei/dsie12/papers/paper_17.pdf"
 		"http://www.bloomberg.com/company/2015-03-24/bloomberg-weve-made-brisket-can-make-anything/"
 		"http://www.infoq.com/news/2015/03/uber-realtime-market-platform+news&utm_campaign=calendar"

@@ -1,7 +1,9 @@
 "CloudComputing":{
 		"AWS":[
+			"https://aws.amazon.com/blogs/compute/running-executables-in-aws-lambda/"
 			"https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/"
 			"http://aws.amazon.com/efs/"
+			"http://tech.gilt.com/post/116560048224/tips-for-debugging-ec2-container-service"
 			"http://techcrunch.com/2015/04/09/amazon-launches-new-efs-file-storage-service-for-ec2"
 			"http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumes.html?adbsc=docs_20150403_42955476&adbid=583799107174604804&adbpl=tw&adbpr=66780587"
 			"http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_agent.html?adbsc=docs_20150325_42653946&adbid=580761172456001536&adbpl=tw&adbpr=66780587#private-auth"
@@ -12,6 +14,9 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
+			"https://puppetlabs.com/blog/simplify-managing-docker-puppet"
+			"http://www.informationweek.com/cloud/infrastructure-as-a-service/docker-16-emerges-as-a-platform"
+			"https://blog.docker.com/2015/04/easily-configure-apps-for-multiple-environments-with-compose-1-2-and-much-more/"
 			"http://www.javacodegeeks.com/2014/10/getting-started-with-docker.html"
 			"http://linoxide.com/linux-how-to/important-docker-commands/"
 			"https://www.airpair.com/node.js/posts/getting-started-with-docker-for-the-nodejs-dev"
@@ -29,6 +34,7 @@
 			"https://github.com/docker-library/pypy/blob/master/2/Dockerfile"
 			"http://blog.earlyclaim.com/get-your-javascript-website-perfectly-crawled-with-docker/"
 			"https://www.joyent.com/"
+			"http://gliderlabs.com/blog/2015/04/14/docker-events-explained/"
 			"http://www.infoq.com/interviews/Luke-Marsden-ZFS-Docker"
 			"http://www.infoworld.com/article/2900832/virtualization/joyents-no-vm-docker-host-deploys-containers-on-bare-metal.html"
 			"http://blog.giantswarm.io/how-docker-made-coding-and-testing-new-projects-fun-and-accessible"
@@ -55,6 +61,11 @@
 		],
 		"Openstack":[],
 		"Others":[
+			"http://www.cloudcomputing-news.net/news/2015/apr/17/arm-based-servers-next-evolution-cloud/"
+			"http://www.information-management.com/news/ERP-Cloud-Computing-Strategies-10026802-1.html"
+			"http://cloudtweaks.com/2015/04/teach-yourself-the-cloud-brush-up-cloud-computing-knowledge/"
+			"http://trove.com/a/3-Megatrends-in-Technology.9KdIv"
+			"http://www.bigdatanews.com/profiles/blogs/the-value-of-data-platform-as-a-service-dpaas"
 			"http://techcrunch.com/2015/04/11/whatever-happened-to-paas"
 			"http://appaloud.com/cloudian-storage-scaled-for-big-data/"
 			"http://www.datasciencecentral.com/profiles/blogs/6-cloud-based-machine-learning-services?xg_source=activity"

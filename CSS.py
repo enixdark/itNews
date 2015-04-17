@@ -5,7 +5,8 @@
 		"http://www.cssreflex.com/css-generators/"
 		"http://www.helloerik.com/bootstrap-3-less-workflow-tutorial"
 		"http://www.sitepoint.com/build-css-preprocessor-postcss/"
-		
+		"https://medium.com/@patrickbrosset/do-you-really-understand-css-linear-gradients-631d9a895caf"
+
 		"http://www.webcodegeeks.com/css/css-multiple-classes-example/"
 		"https://everystack.io/#!/catalog/components/blueprint-css"
 		"https://navaspot.wordpress.com/2015/03/31/erlang-maps-basics/",
