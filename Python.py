@@ -21,10 +21,14 @@
 			"http://techstonia.github.io/twilio-voice-blog.html.com"
 			"http://www.matthieuamiguet.ch/blog/synchronize-clients-flask-application-websockets.com"
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/"
+			""
+			""
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
-		
+
+
+			"http://www.lexev.org/en/2015/listen-wifi-with-wireshark/"
 			"http://blog.idego.pl/2015/02/10/how-django-uses-metaclasses/"
 			"http://crossbar.io/docs/Adding-Real-Time-to-Django-Applications/"
 			"http://httplambda.com/a-rest-api-with-django-and-oauthw-authentication/"
@@ -43,6 +47,7 @@
 			"http://www.lexev.org/en/2015/debug-sql-django-test/.com"
 			"http://www.caktusgroup.com/blog/2015/03/20/astro-code-school-now-accepting-applications-intermediate-django-python/"
 			"http://djangowos.com/.com"
+
 			"http://code.tutsplus.com/tutorials/building-rest-apis-using-eve--cms-22961.com"
 			"http://www.maxburstein.com/blog/realtime-django-using-nodejs-and-socketio/",
 			"https://syerram.silvrback.com/make-django-fasssst"
@@ -90,21 +95,28 @@
 			"http://matthewrocklin.com/blog/work/2015/03/16/Fast-Serialization/.com"
 		],
 		"Zope":[
+
 			"http://davidemoro.blogspot.com/2015/04/pip-for-buildout-folks.html"
 			"https://metaclassical.com/what-the-zope-transaction-manager-means-to-me-and-you/"
 			"http://docs.zope.org/zope2/releases/2.12/INSTALL.html"
 		]
 		"Raspberry":[
-			""		
+
+
+			""
 			"http://matthewkwilliams.com/index.php/2015/03/21/swarming-raspberry-pi-part-1/"
 			"http://matthewkwilliams.com/index.php/2015/03/29/swarming-raspberry-pi-part-2-registry-mirror/"
 		]
 		"PEP":[
+
+			"https://www.python.org/dev/peps/pep-0492/"
 			"https://www.python.org/dev/peps/pep-0487/#trait-descriptors"
 			"https://www.python.org/dev/peps/pep-0486/"
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+			"https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/"
+			"http://eli.thegreenplace.net/2015/calling-back-into-python-from-llvmlite-jited-code/"
 			"https://eight.readthedocs.org/en/latest/"
 			"https://opensourcehacker.com/2015/04/16/inspecting-thread-dumps-of-hung-python-processes-and-test-runs/"
 			"http://blog.yhathq.com/posts/building-a-client-side-search-algorithm.html"

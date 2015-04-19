@@ -6,7 +6,5 @@
 		"https://github.com/gerryyang"
 		"https://github.com/xyproto/algernon"
 		"https://git-lfs.github.com/"
-		
-		
 		"http://www.javacodegeeks.com/2014/01/git-flow-with-jenkins-and-gitlab.html"
 	],

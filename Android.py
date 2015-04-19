@@ -2,7 +2,9 @@
 	"http://www.javacodegeeks.com/2013/12/storing-objects-in-android.html"
 	"http://java.dzone.com/articles/how-hybrid-mobile-apps-deliver"
 	"https://developer.chrome.com/apps/getstarted_arc"
-	"http://examples.javacodegeeks.com/android/core/ui/android-user-interface-controls-example"
+
+	"http://examples.javacodegeeks.
+	/android/core/ui/android-user-interface-controls-example"
 	"http://java.dzone.com/articles/android-rx-and-kotlin-part-3"
 	"http://jamiltz.github.io/simple-model-class-for-couchbase-lite-android/"
 	"http://examples.javacodegeeks.com/android/core/ui/android-user-inteface-layout-example/"

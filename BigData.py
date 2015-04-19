@@ -10,7 +10,7 @@
 			"https://districtdatalabs.silvrback.com/creating-a-hadoop-pseudo-distributed-environment"
 			"http://engineering.viki.com/blog/2015/analytics-infrastracture-updates/"
 			"http://saphanatutorial.com/hadoop-1-0-vs-hadoop-2-0/"
-			""
+			"http://appaloud.com/splice-machine-takes-big-step-releasing-version-1-0-hadoop-rdbms/"
 			"http://www.hadoop360.com/blog/hadoop-technology-stack"
 			"http://blog.cloudera.com/blog/2015/03/understanding-hdfs-recovery-processes-part-2/.com&utm_campaign=buffer"
 			"http://www.hadoop360.com/xn/detail/6623215:BlogEntry:9496"
@@ -51,6 +51,7 @@
 			"http://www.javacodegeeks.com/2015/04/apache-mesos-marathon-and-java-ee.html",
 		],
 		"Mapr":[
+			"https://www.mapr.com/blog/4-critical-things-consider-when-building-hadoop-rfp#.VTHF8OSEi-k"
 			"https://www.mapr.com/services/mapr-academy/big-data-hadoop-online-training"
 			"https://www.mapr.com/blog/strategic-data-beyond-hadoop-and-big-data#.VSWDCuSEi-k"
 			"https://www.mapr.com/blog/how-use-mapreduce-api"
@@ -64,7 +65,8 @@
 			"http://drill.apache.org/blog/2015/03/31/drill-0.8-released/"
 		],
 		"ApacheKafka":[
-
+		
+			"http://java.dzone.com/articles/using-apache-kafka-integration"
 			"http://blog.confluent.io/2015/04/07/hands-free-kafka-replication-a-lesson-in-operational-simplicity/"
 			"http://svds.com/post/using-docker-build-data-acquisition-pipeline-kafka-and-hbase"
 			"http://blog.cloudera.com/blog/2015/02/how-to-do-real-time-log-analytics-with-apache-kafka-cloudera-search-and-hue/"
@@ -75,6 +77,8 @@
 			"http://examples.javacodegeeks.com/core-java/apache-camel-hello-world-example/"
 		]
 		"Others":[
+		
+			"http://www.hadoop360.com/blog/accumulo-sqrrl-nosql-secure-database"
 			"http://blog.algorithmia.com/post/116365814879/how-machines-see-the-web-exploring-the-web"
 			"http://www.datasciencecentral.com/profiles/blogs/the-7-most-unusual-applications-of-big-data-you-ve-ever-seen"
 			"http://grigory.us/blog/rdbms-mapreduce/"

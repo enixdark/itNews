@@ -1,13 +1,18 @@
 "Database":{
 		"SQL":[
 		"MySQL":[
+			"http://java.dzone.com/articles/profiling-mysql-queries"
 			"http://www.datanami.com/2015/04/14/mysql-leader-percona-takes-aim-at-mongodb/"
 			"http://blog.mclaughlinsoftware.com/2015/04/11/mysql-json-functions/"
 			"http://java.dzone.com/articles/mysql-shell-prompt-vs-mongodb"
 			"https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/"
 			"http://use-the-index-luke.com/blog/2014-04-01/thank-you-mysql-we-will-miss-you"
+			"http://www.dzone.com/articles/future-mysql-interview-peter"
 		],
 		"Postgresql":[
+			"http://bajis-postgres.blogspot.com/2015/04/woohoo-packt-publishing-has-published.html"
+			"http://bajis-postgres.blogspot.com/2015/04/aha-you-can-count-rows-for-copy-command.html"
+			"http://amitkapila16.blogspot.com/2015/04/write-scalability-in-postgresql.html"
 			"http://adpgtech.blogspot.com/2015/04/new-postgresql-buildfarm-client-release.html"
 			"http://bonesmoses.org/2015/04/17/pg-phriday-anonymous-blocks-and-object-manipulation/"
 			"https://periscope.io/blog/hyperloglog-in-pure-sql.html"
@@ -48,6 +53,7 @@
 	],
 	"NoSQL":{
 		"RethinkDB":[
+			"http://rob.conery.io/2015/04/17/rethinkdb-2-0-is-amazing/"
 			"http://www.datacenterknowledge.com/archives/2015/04/14/rethinkdbs-open-source-nosql-now-production-ready/"
 			"http://rethinkdb.com/blog/2.0-release/"
 			"https://www.airpair.com/rethinkdb/posts/moving-from-sql-to-rethinkdb"
@@ -72,6 +78,8 @@
 			"http://learn.voltdb.com/WRFull360.html"
 		]
 		"Mongodb":[
+		
+			"https://www.youtube.com/watch?v=N9fDxuohdy8"
 			"http://www.mongodb.com/webinar/backups-disaster-recovery"
 			"https://blog.compose.io/separating-collections-to-improve-mongodb-measurability/"
 			"http://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-1"
@@ -120,6 +128,7 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
+			"http://blog.couchbase.com/inside-couchbase-server---database-change-protocol-the-super-conductor-that-wires-couchbase-server"
 			"https://www.youtube.com/watch?v=alp2KQFnSa0"
 			"http://www.infoworld.com/article/2900123/nosql/couchbase-server-4-superior-scale-out.html"
 			"http://blog.couchbase.com/hosting-couchbase-server-in-windows-azure-part-2"
@@ -167,10 +176,12 @@
 			"http://blog.couchdb.org/2015/04/02/couchdb-weekly-news-april-02-2015/"
 		]
 		"PouchDB":[
+			""
 			"https://www.youtube.com/watch?v=HaGJwV0lwpk"
 			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
 		]
 		"Redis":[
+			"http://www.redisgreen.net/blog/reading-and-writing-redis-protocol/"
 			"http://www.redisgreen.net/docs.html"
 			"https://digitalserb.me/writing-a-redis-client-in-pure-bash/"
 			"http://martinmicunda.com/2015/04/10/build-ionic-photo-gallery-app-I/"

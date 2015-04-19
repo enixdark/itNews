@@ -14,6 +14,7 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
+			""
 			"https://puppetlabs.com/blog/simplify-managing-docker-puppet"
 			"http://www.informationweek.com/cloud/infrastructure-as-a-service/docker-16-emerges-as-a-platform"
 			"https://blog.docker.com/2015/04/easily-configure-apps-for-multiple-environments-with-compose-1-2-and-much-more/"

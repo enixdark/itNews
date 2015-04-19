@@ -19,6 +19,8 @@
 		"https://github.com/diasks2/ruby-nlp",
 		"http://www.sitepoint.com/jekyll-rails/"
 		"http://www.sitepoint.com/rubygems-slow/"
+		"http://nithinbekal.com/posts/mongodb-aggregation-pipeline-ruby/"
+		"https://everystack.io/#!/catalog/components/erlectricity"
 		"http://www.leighhalliday.com/ruby-metaprogramming-method-missing"
 		"http://dev.mensfeld.pl/2015/04/ruby-global-method-cache-invalidation-impact-on-a-single-and-multithreaded-applications/"
 		"http://rubylogs.com/template-method-pattern-in-ruby/"
@@ -30,6 +32,7 @@
 		"http://www.monkeyandcrow.com/blog/reading_rails_time_travel/"
 		"https://everystack.io/#!/catalog/components/whenever"
 		"https://everystack.io/#!/catalog/components/vines"
+		"http://www.justinweiss.com/blog/2015/04/13/how-to-see-your-minitest-failures-instantly/"
 		"https://everystack.io/#!/catalog/components/webrat"
 		"http://blog.tdg5.com/introducing-the-tco_method-gem/"
 		"http://www.justinweiss.com/blog/2015/03/17/how-rails-sessions-work/"

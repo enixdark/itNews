@@ -27,8 +27,6 @@
 		"http://examples.javacodegeeks.com/core-java/reflection/java-reflection-example"
 		"http://www.javacodegeeks.com/2014/02/redis-sort-with-jedis.html"
 		"http://www.javacodegeeks.com/2014/10/apache-commons-io-tutorial.html"
-
-		
 		"http://www.javacodegeeks.com/2014/03/java-8-lambda-expressions-vs-auto-closeable.html"
 		"http://www.javacodegeeks.com/2015/04/how-to-flatmap-a-jdbc-resultset-with-java-8.html"
 		"http://www.javacodegeeks.com/2014/01/upgrading-to-java-7-on-googles-appengine.html"
@@ -41,10 +39,14 @@
 		"http://java.dzone.com/articles/how-avoid-dreaded-dead-lock"
 		"http://www.javacodegeeks.com/2015/04/java-8-lambdas-in-one-line.html"
 		"http://netty.io/wiki/using-as-a-generic-library.html"
+
+
+		"http://examples.javacodegeeks.com/java-basics/java-heap-space-everything-you-need-to-know/"
 		"http://examples.javacodegeeks.com/core-java/util/java-iterator-and-listiterator-example/"
 		"http://examples.javacodegeeks.com/core-java/net/sockettimeoutexception/java-net-sockettimeoutexception-how-to-solve-sockettimeoutexception/"
 		"http://examples.javacodegeeks.com/enterprise-java/logback/logback-syslog-example/"
 		"http://java.dzone.com/articles/adopting-microservices-netflix"
+		"http://www.javacodegeeks.com/2015/03/hibernate-tutorial.html"
 		"http://www.javacodegeeks.com/2013/12/why-i-stopped-using-spring.html"
 		"http://www.javacodegeeks.com/2013/12/anatomy-of-a-java-decompiler.html"
 		"http://www.javacodegeeks.com/2015/04/caching-of-web-content-with-springs-cache-manager.html"
@@ -59,6 +61,8 @@
 		"http://www.javacodegeeks.com/2013/08/how-to-use-events-in-spring-3-x.html"
 		"http://www.javacodegeeks.com/2014/04/15-must-read-java-8-tutorials.html"
 		"http://www.javacodegeeks.com/2014/05/java-8-features-tutorial.html"
+		"http://examples.javacodegeeks.com/core-java/xml/java-xml-parser-tutorial"
+		"http://blog.jamesdbloom.com/JVMInternals.html"
 		"http://sdtimes.com/a-functional-programming-crash-course-for-java-developers/"
 		"http://www.javacodegeeks.com/2014/11/multithreading-concurrency-interview-questions-answers.html"
 		"http://examples.javacodegeeks.com/java-basics/java-enumeration-example/"
@@ -73,5 +77,4 @@
 		"http://www.javacodegeeks.com/2013/10/when-and-how-to-use-a-threadlocal.html"
 		"http://examples.javacodegeeks.com/enterprise-java/spring/aop/spring-aop-example/"
 		"http://sdtimes.com/a-functional-programming-crash-course-for-java-developers/"
-		""
-	],
+],

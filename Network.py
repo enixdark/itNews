@@ -11,6 +11,7 @@
 	"http://globenewswire.com/news-release/2015/04/15/724934/10129148/en/Zappix-Announces-Visual-IVR-Big-Data-Analytics-Suite.html"
 	"http://daniel.haxx.se/blog/2015/03/06/tls-in-http2/"
 	"https://http2.golang.org/gophertiles?latency=0"
+	"https://packetzoom.com/blog/lets-not-use-http-over-tcp-for-mobile-apps-anymore.html"
 	"http://open.blogs.nytimes.com/2014/11/13/embracing-https/?_r=0"
 	"https://www.logintc.com/blog/2015-04-08-LoginTC-Chrome-2-factor-for-desktops.html"
 	"http://techcrunch.com/2015/04/07/introducing-the-tc-network-and-editorial-calendar/"

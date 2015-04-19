@@ -12,6 +12,8 @@
 			"http://www.knowarth.com/single-page-application-angular-js/"
 			"http://www.webcodegeeks.com/javascript/angular-js/angular-not-single-page-web-apps/"
 			"www.techtalky.com/modules-angular-js/"
+			"http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/"
+			"https://www.youtube.com/watch?v=z8UgDZ4rXBU&feature=youtu.be"
 			"http://www.pro-tekconsulting.com/blog/scope-inheritance-in-angular-js/"
 			"http://www.infoq.com/news/2015/04/angular-react-collaborate"
 			"http://www.webcodegeeks.com/javascript/angular-js/angularjs-borrow-concepts-jsf/"
@@ -107,7 +109,10 @@
 			"http://dailyjs.com/2015/03/16/hapijs-fullstack-stringformatter/"
 		]
 
+
+
 		"React":[
+			"https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/"
 			"http://blog.risingstack.com/the-react-way-getting-started-tutorial/"
 			"https://scotch.io/courses/getting-started-with-facebooks-react-js"
 			"https://reactjsnews.com/building-components-with-react-js-and-flux/"
@@ -254,6 +259,8 @@
 		"Phonegap":[],
 		"Knockout":[],
 		"Jquery":[
+
+			"http://sachinchoolur.github.io/lightslider/"
 			"http://java.dzone.com/articles/packaging-jquery-mobile"
 			"http://genius.it/ejohn.org/blog/annotated-version-of-the-original-jquery-release/"
 			"http://dailyjs.com/2015/03/30/flowtype-jquery-frontend/"
@@ -330,6 +337,10 @@
 			"http://examples.javacodegeeks.com/enterprise-java/rest/resteasy/json-example-with-resteasy-jackson/"
 			"http://www.webcodegeeks.com/javascript/javascript-promises-essentials/"
 			"http://www.json2yaml.com/"
+
+
+
+			"http://codecanyon.net/item/sismo-navigation/10985032"
 			"http://www.sitepoint.com/simple-inheritance-javascript/"
 			"https://medium.com/@jyotiska/json-vs-simplejson-vs-ujson-a115a63a9e26"
 			"http://codejets.com/javascript-best-practices-part-1/"

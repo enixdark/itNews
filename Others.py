@@ -19,7 +19,8 @@
 		"http://www.infoq.com/news/2015/03/uber-realtime-market-platform"
 		"https://everystack.io/#!/catalog/components/ratchet"
 		"https://ngrok.com/?v=2"
-		
+		"http://www.forbes.com/sites/roberthof/2015/04/17/at-50-moores-law-has-only-started-to-disrupt-everything-we-do/"
+		"https://adcaes.wordpress.com/2015/04/18/switching-to-atom-from-sublime-text/"
 		"http://internals.rust-lang.org/t/priorities-after-1-0/1901"
 		"http://homepage.divms.uiowa.edu/~jones/voting/pictures/"
 		"http://paginas.fe.up.pt/~prodei/dsie12/papers/paper_17.pdf"

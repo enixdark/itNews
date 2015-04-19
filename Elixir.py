@@ -3,5 +3,10 @@
 	"http://newsletter.elixir-devs.com/?edition_id=1300bef0-dad6-11e4-a46b-0cc47a0d164b"
 	"http://pages.plataformatec.com.br/latest-elixir-news-on-the-radar-issue-5"
 	"http://www.selectedintelligence.com/post/116327140769/parallel-map-in-elixir"
+	"http://cs.wheaton.edu/~tvandrun/dmfp/"
+	"http://blog.plataformatec.com.br/2014/06/comparing-protocols-and-extensions-in-swift-and-elixir/"
+	"http://reefpoints.dockyard.com/2015/04/08/elixir-come-for-the-syntax-stay-for-everything-else.html"
+	"http://blog.plataformatec.com.br/2015/04/build-embedded-and-start-permanent-in-elixir-1-0-4/"
 	"https://blog.process-one.net/embedding-ejabberd-into-an-elixir-phoenix-web-application/"
 ],
+

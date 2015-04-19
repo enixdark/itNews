@@ -3,7 +3,7 @@
 	"http://golanggo.com/post/115333889744/quick-and-dirty-guide-to-deploying-go-apps",
 	"https://www.kaihag.com/https-and-go/"
 	"https://www.youtube.com/watch?v=gRpUfjTwSOo"
-	
+	"https://www.hakkalabs.co/articles/getting-started-gopherjs"
 	"http://biasedbit.com/blog/golang-custom-transports/"
 	"http://www.smartjava.org/content/using-go-build-rest-service-top-mongodb"
 	"http://sinmetal-slide.appspot.com/2014/gocon1130/gaego.slide#1"
@@ -12,8 +12,8 @@
 	"http://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf"
 	"https://www.kaihag.com/external-assets-working-directories-and-go/"
 	"https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf"
-	"https://blog.compose.io/go-rethinkdb-and-changefeeds-part-2/?utm_content=bufferdb002&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
-	"https://blog.compose.io/go-rethinkdb-and-change-feeds-part-1/?utm_content=bufferaa613&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
-]
-
+	"https://blog.compose.io/go-rethinkdb-and-changefeeds-part-2"
+	"https://blog.compose.io/go-rethinkdb-and-change-feeds-part-1",
+	"http://mkaczanowski.com/golang-build-dynamic-dns-service-go/"
+	
 }
