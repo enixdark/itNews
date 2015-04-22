@@ -1,6 +1,8 @@
 "Database":{
 		"SQL":[
 		"MySQL":[
+			"http://java.dzone.com/articles/5-steps-migrate-mysql"
+			"http://blog.scoutapp.com/articles/2014/12/19/from-mysql-full-text-search-to-elasticsearch"
 			"http://java.dzone.com/articles/profiling-mysql-queries"
 			"http://www.datanami.com/2015/04/14/mysql-leader-percona-takes-aim-at-mongodb/"
 			"http://blog.mclaughlinsoftware.com/2015/04/11/mysql-json-functions/"
@@ -78,7 +80,8 @@
 			"http://learn.voltdb.com/WRFull360.html"
 		]
 		"Mongodb":[
-		
+			"https://aphyr.com/posts/322-call-me-maybe-mongodb-stale-reads"
+			"http://www.mongodb.com/webinar/backups-disaster-recovery"
 			"https://www.youtube.com/watch?v=N9fDxuohdy8"
 			"http://www.mongodb.com/webinar/backups-disaster-recovery"
 			"https://blog.compose.io/separating-collections-to-improve-mongodb-measurability/"
@@ -128,6 +131,7 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
+			"http://blog.couchbase.com/ios-background-fetch-to-sync-hacker-news-stories"
 			"http://blog.couchbase.com/inside-couchbase-server---database-change-protocol-the-super-conductor-that-wires-couchbase-server"
 			"https://www.youtube.com/watch?v=alp2KQFnSa0"
 			"http://www.infoworld.com/article/2900123/nosql/couchbase-server-4-superior-scale-out.html"
@@ -181,6 +185,7 @@
 			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
 		]
 		"Redis":[
+			"https://digitalserb.me/writing-a-redis-client-in-pure-bash/"
 			"http://www.redisgreen.net/blog/reading-and-writing-redis-protocol/"
 			"http://www.redisgreen.net/docs.html"
 			"https://digitalserb.me/writing-a-redis-client-in-pure-bash/"

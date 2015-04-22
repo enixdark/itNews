@@ -5,7 +5,7 @@
 			"http://java.dzone.com/articles/live-activity-monitoring-nginx"
 			"http://www.sitepoint.com/set-automatic-virtual-hosts-nginx-apache/"
 			"http://nginx.org/en/CHANGES"
-			
+			"https://blog.docker.com/2015/04/tips-for-deploying-nginx-official-image-with-docker/"
 			"http://nginx.com/blog/nginx-open-source-reflecting-back-and-looking-ahead/"
 			"https://www.conetix.com.au/blog/apache-vs-nginx-vs-openlitespeed-part-1"
 			"http://nginx.com/blog/why-netflix-chose-nginx-as-the-heart-of-its-cdn/"
@@ -18,6 +18,7 @@
 		"LightHttp":[],
 
 		"Ansible":[
+			"http://www.ansible.com/blog/ansible-at-pycon-achieving-continuous-delivery-an-automation-story-video"
 			"http://www.ansible.com/how-ansible-works"
 			"http://www.ansible.com/government"
 			"http://docs.ansible.com/playbooks_intro.html"
@@ -33,7 +34,7 @@
 		],
 		"Puppet":[
 			""
-			
+			"http://blog.2ndquadrant.com/automating-barman-with-puppet-it2ndqbarman-part-three/"
 			"https://puppetlabs.com/blog/release-candidate-open-source-puppet-4.0?ls=social-media&ccn=twitter-product-20150318&cid=701G0000000F68P"
 		],
 		
@@ -71,5 +72,8 @@
 			"blogs.technet.com/b/windowsserver/archive/2015/04/08/microsoft-announces-nano-server-for-modern-apps-and-cloud.aspx"
 			"http://redmonk.com/dberkholz/2015/04/02/quantifying-configuration-management-communities/"
 			"http://www.javacodegeeks.com/tutorials/devops-tutorials/"
+		]
+		"Sphinx":[
+			"http://sphinxsearch.com/blog/2015/04/22/sphinx-2-2-9-release/"
 		]
 	},

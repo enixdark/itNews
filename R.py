@@ -5,3 +5,7 @@
 "http://www.r-bloggers.com/magrittr/"
 "http://www.r-bloggers.com/remember-the-rseek/"
 "http://www.r-bloggers.com/r-package-data-tree-published-to-cran/"
+"http://www.r-bloggers.com/parse-and-process-xml-and-html-with-xml2/"
+"http://www.datasciencecentral.com/forum/topics/r-in-the-cloud-1"
+"http://www.r-bloggers.com/r-for-more-powerful-clustering/"
+"http://www.r-bloggers.com/accelerating-r-with-multi-node-parallelism-rmpi-batchjobs-and-openlava/"

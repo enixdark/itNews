@@ -17,8 +17,11 @@
 		"http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/"
 		"https://semaphoreci.com/community/tutorials/setting-up-the-bdd-stack-on-a-new-rails-4-application",
 		"https://github.com/diasks2/ruby-nlp",
+		"http://richonrails.com/articles/allowing-file-uploads-with-carrierwave"
 		"http://www.sitepoint.com/jekyll-rails/"
+		"https://hackhands.com/pagination-rails-will_paginate-gem/"
 		"http://www.sitepoint.com/rubygems-slow/"
+		"http://www.codeomnib.us/rails-4-carrierwave-throws-uninitialized-uploader-console/"
 		"http://nithinbekal.com/posts/mongodb-aggregation-pipeline-ruby/"
 		"https://everystack.io/#!/catalog/components/erlectricity"
 		"http://www.leighhalliday.com/ruby-metaprogramming-method-missing"

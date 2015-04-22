@@ -77,7 +77,8 @@
 			"http://examples.javacodegeeks.com/core-java/apache-camel-hello-world-example/"
 		]
 		"Others":[
-		
+			"http://www.bigdatanews.com/profiles/blogs/big-data-s-real-3vs"
+			"http://www.vbprofiles.com/press_releases/55367cb8b4e919dc55000c5c"
 			"http://www.hadoop360.com/blog/accumulo-sqrrl-nosql-secure-database"
 			"http://blog.algorithmia.com/post/116365814879/how-machines-see-the-web-exploring-the-web"
 			"http://www.datasciencecentral.com/profiles/blogs/the-7-most-unusual-applications-of-big-data-you-ve-ever-seen"

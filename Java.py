@@ -18,6 +18,9 @@
 		"http://www.javacodegeeks.com/2015/03/yet-another-java-8-lamdbas-and-streams-example.html"
 		"http://www.javacodegeeks.com/2013/08/why-rest-is-so-important.html"
 		"http://javadude.com/articles/passbyvalue.htm"
+		"http://java.dzone.com/articles/things-consider-jumping"
+		"http://www.infoq.com/news/2015/04/spring-security-4"
+		"http://java.dzone.com/articles/automated-testing-rest"
 		"http://www.javacodegeeks.com/2014/02/dynamic-programming-introduction.html"
 		"http://java.dzone.com/articles/using-multiple-grok-statements"
 		"http://www.javacodegeeks.com/2015/04/scalable-robust-and-standard-java-web-services-with-fibers.html"
@@ -39,7 +42,7 @@
 		"http://java.dzone.com/articles/how-avoid-dreaded-dead-lock"
 		"http://www.javacodegeeks.com/2015/04/java-8-lambdas-in-one-line.html"
 		"http://netty.io/wiki/using-as-a-generic-library.html"
-
+		"http://examples.javacodegeeks.com/enterprise-java/ejb3/transactions/ejb-transaction-management-example/"
 
 		"http://examples.javacodegeeks.com/java-basics/java-heap-space-everything-you-need-to-know/"
 		"http://examples.javacodegeeks.com/core-java/util/java-iterator-and-listiterator-example/"

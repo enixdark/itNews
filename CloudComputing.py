@@ -14,7 +14,7 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
-			""
+			"https://blog.docker.com/2015/04/start-contributing-to-docker-in-5-easy-steps/#more-5188"
 			"https://puppetlabs.com/blog/simplify-managing-docker-puppet"
 			"http://www.informationweek.com/cloud/infrastructure-as-a-service/docker-16-emerges-as-a-platform"
 			"https://blog.docker.com/2015/04/easily-configure-apps-for-multiple-environments-with-compose-1-2-and-much-more/"
@@ -60,7 +60,9 @@
 			"http://www.conductor.com/nightlight/running-selenium-grid-using-docker-compose/"
 			"http://java.dzone.com/articles/docker-how-jboss-integration"
 		],
-		"Openstack":[],
+		"Openstack":[
+			"http://java.dzone.com/articles/dzone-refcardz-getting-started?mz=62447-cloud"
+		],
 		"Others":[
 			"http://www.cloudcomputing-news.net/news/2015/apr/17/arm-based-servers-next-evolution-cloud/"
 			"http://www.information-management.com/news/ERP-Cloud-Computing-Strategies-10026802-1.html"

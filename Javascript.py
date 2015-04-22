@@ -112,6 +112,8 @@
 
 
 		"React":[
+			"http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/"
+			"http://arc.applause.com/2015/04/21/facebook-app-developers-react-native/"
 			"https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/"
 			"http://blog.risingstack.com/the-react-way-getting-started-tutorial/"
 			"https://scotch.io/courses/getting-started-with-facebooks-react-js"
@@ -259,7 +261,9 @@
 		"Phonegap":[],
 		"Knockout":[],
 		"Jquery":[
-
+			"http://dimsemenov.com/plugins/magnific-popup/"
+			"http://www.jqueryrain.com/demo/jquery-file-upload/"
+			"http://blueimp.github.io/jQuery-File-Upload/index.html"
 			"http://sachinchoolur.github.io/lightslider/"
 			"http://java.dzone.com/articles/packaging-jquery-mobile"
 			"http://genius.it/ejohn.org/blog/annotated-version-of-the-original-jquery-release/"
@@ -310,6 +314,7 @@
 			"http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
 		]
 		"Meteor":[
+			"http://kipalog.com/posts/A93eb-IvcpGoFM1FS1LFgQ"
 			"https://www.youtube.com/watch?v=kI_GLX2Qq-Y&feature=youtu.be&list=PLTUf4ytkmI8TntQ72WVvQIHKja4KaAXUc"
 			"http://meteortips.com/"
 			"http://dataconomy.com/meteor-unleashes-1-1-allowing-one-codebase-for-windows-os-x-and-linux/"
@@ -326,6 +331,7 @@
 			"https://hackhands.com/how-to-get-started-on-the-mean-stack/"
 		],
 		"Others":[
+			"http://thatmikeflynn.com/egg.js/"
 			"https://www.box.com/blog/introducing-t3-enabling-large-scale-javascript-applications/"
 			"http://www.rq.crockford.com/"
 			"http://www.webcodegeeks.com/javascript/pack-it-up-pack-it-in/"
@@ -337,9 +343,7 @@
 			"http://examples.javacodegeeks.com/enterprise-java/rest/resteasy/json-example-with-resteasy-jackson/"
 			"http://www.webcodegeeks.com/javascript/javascript-promises-essentials/"
 			"http://www.json2yaml.com/"
-
-
-
+			"http://tholman.com/elevator.js/"
 			"http://codecanyon.net/item/sismo-navigation/10985032"
 			"http://www.sitepoint.com/simple-inheritance-javascript/"
 			"https://medium.com/@jyotiska/json-vs-simplejson-vs-ujson-a115a63a9e26"

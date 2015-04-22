@@ -10,4 +10,5 @@
 		"https://thomashunter.name/blog/tips-for-building-mobile-games-in-html5"
 		"http://www.webcodegeeks.com/html5/html5-dropdown-menu-example-with-css3"
 		"http://www.webcodegeeks.com/html5/html5-geolocation-example-weather-widget-demo/"
+		"http://sandersk.github.io/reading-w3c/#/"
 	],

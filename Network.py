@@ -15,5 +15,6 @@
 	"http://open.blogs.nytimes.com/2014/11/13/embracing-https/?_r=0"
 	"https://www.logintc.com/blog/2015-04-08-LoginTC-Chrome-2-factor-for-desktops.html"
 	"http://techcrunch.com/2015/04/07/introducing-the-tc-network-and-editorial-calendar/"
+	"https://semaphoreci.com/community/tutorials/getting-started-with-ssh"
 	"https://www.youtube.com/watch?v=SF9BFf0mL4E&utm_content=bufferf2f10&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 ]

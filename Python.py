@@ -115,6 +115,10 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+			"http://aleph.nu/blog/2015/the-python-road-not-taken/"
+			"http://inventwithpython.com/blog/2015/04/21/celebrating-the-release-of-automate-the-boring-stuff-with-python-with-discount-codes/"
+			"http://automatetheboringstuff.com/"
+			"http://nafiulis.me/the-deceptive-anagram-question.html"
 			"https://www.loggly.com/blog/exceptional-logging-of-exceptions-in-python/"
 			"http://eli.thegreenplace.net/2015/calling-back-into-python-from-llvmlite-jited-code/"
 			"https://eight.readthedocs.org/en/latest/"
@@ -282,6 +286,9 @@
 			
 			"Fabric":[
 				"https://vimeo.com/89115276"
+			]
+			"R":[
+				"http://www.hadoop360.com/blog/programming-for-data-science-the-polyglot-approach-python-r-sql"
 			]
 
 		}

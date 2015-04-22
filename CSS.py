@@ -3,13 +3,19 @@
 		"http://superdevresources.com/material-design-web-ui-frameworks/",
 		"http://bootstrap-growl.remabledesigns.com/",
 		"http://www.cssreflex.com/css-generators/"
+		"http://silviomoreto.github.io/bootstrap-select/"
+		"http://markusslima.github.io/bootstrap-filestyle/"
 		"http://www.helloerik.com/bootstrap-3-less-workflow-tutorial"
 		"http://www.sitepoint.com/build-css-preprocessor-postcss/"
 		"https://medium.com/@patrickbrosset/do-you-really-understand-css-linear-gradients-631d9a895caf"
-
+		"http://markusslima.github.io/bootstrap-filestyle/http://markusslima.github.io/bootstrap-filestyle/"
 		"http://www.webcodegeeks.com/css/css-multiple-classes-example/"
 		"https://everystack.io/#!/catalog/components/blueprint-css"
+		"http://designsparkle.com/css-hover-effects/"
+		"http://cssmatter.com/blog/the-top-5-bootstrap-themes-free/"
+		"http://www.designsrazzi.com/2015/free-image-hover-effects/"
 		"https://navaspot.wordpress.com/2015/03/31/erlang-maps-basics/",
+		"http://www.abeautifulsite.net/whipping-file-inputs-into-shape-with-bootstrap-3/"
 		"http://dolftax.com/2015/04/Designing-a-document-based-collaboration-interface_v2/"
 		"http://java.dzone.com/articles/3-saas-applications-try-2015?utm_content=buffer274c9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 	],

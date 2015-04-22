@@ -17,7 +17,7 @@
 			"http://shop.oreilly.com/product/0636920040682.do"
 			"http://www.thingstud.io/"
 			"http://www.techrepublic.com/article/surge-in-real-time-big-data-and-iot-analytics-is-changing-corporate-thinking/"
-			
+			"http://java.dzone.com/articles/protocols-security-and-iot"
 			"http://www.zdnet.com/article/ten-examples-of-iot-and-big-data-working-well-together/"
 			"http://www.informationweek.com/wireless-infrastructure/iot-standardization-why-the-network-matters/a/d-id/1319418?_mc=sm_iwk"
 		]
