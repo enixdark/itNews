@@ -2,13 +2,14 @@
 		"http://developerblog.redhat.com/2015/04/07/jit-compilation-using-gcc-5-2/"
 		"http://www.sitepoint.com/web-designers-guide-to-programming/"
 		"http://lambda-nights.com/"
-		"1":"http://code.tutsplus.com/tutorials/codeship-continuous-integration-and-delivery-made-simple--cms-23517",
-		"2":"https://www.paypal-engineering.com/2015/03/17/introducing-support/",
-		"3":"http://boxesandarrows.com/a-beginners-guide-to-web-site-optimization-part-1/",
+		"http://code.tutsplus.com/tutorials/codeship-continuous-integration-and-delivery-made-simple--cms-23517",
+		"https://www.paypal-engineering.com/2015/03/17/introducing-support/",
+		"http://boxesandarrows.com/a-beginners-guide-to-web-site-optimization-part-1/",
 		"":"http://tom-lord.weebly.com/blog/reverse-engineering-regular-expressions",
 		"http://makethisinanhour.com/",
 		"http://school.looprecur.com/"
 		"http://hyperpolyglot.org/"
+		"http://ferd.ca/lessons-learned-while-working-on-large-scale-server-software.html"
 		"http://www.infoq.com/minibooks/emag-web-api"
 		"http://www.tonymarston.net/php-mysql/dependency-injection-is-evil.html"
 		"http://www.javacodegeeks.com/2014/01/9-technologies-to-be-discussed-in-2014.html"

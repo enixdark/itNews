@@ -23,6 +23,8 @@
 
 
 		"Spark":[
+			"http://www.enterpriseappstoday.com/data-management/is-apache-spark-enterprise-ready.html"
+			"http://www.duchess-france.org/analyze-accelerometer-data-with-apache-spark-and-mllib/"
 			"http://www.hadoop360.com/blog/spark-shark-and-mesos-data-analytics-stack"
 			"https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html"
 			"http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/"
@@ -45,6 +47,7 @@
 			"http://www.infoq.com/news/2015/03/pinterest-memsql-spark-streaming+news&utm_campaign=calendar"
 		],
 		"Mesos":[
+			"www.datasciencecentral.com/profiles/blogs/spark-shark-and-mesos-data-analytics-stack"
 			"http://www.javacodegeeks.com/2014/01/getting-started-with-apache-mesos-and-apache-aurora-using-vagrant.html"
 			"http://radar.oreilly.com/2015/02/a-tale-of-two-clusters-mesos-and-yarn.html"
 			"http://www.antonlindstrom.com/2015/03/29/introduction-to-apache-mesos.html"
@@ -65,7 +68,7 @@
 			"http://drill.apache.org/blog/2015/03/31/drill-0.8-released/"
 		],
 		"ApacheKafka":[
-		
+			"http://blog.confluent.io/2015/02/25/stream-data-platform-1/"
 			"http://java.dzone.com/articles/using-apache-kafka-integration"
 			"http://blog.confluent.io/2015/04/07/hands-free-kafka-replication-a-lesson-in-operational-simplicity/"
 			"http://svds.com/post/using-docker-build-data-acquisition-pipeline-kafka-and-hbase"
@@ -77,6 +80,9 @@
 			"http://examples.javacodegeeks.com/core-java/apache-camel-hello-world-example/"
 		]
 		"Others":[
+
+			"http://www.analyticbridge.com/profiles/blogs/what-mapreduce-can-t-do"
+			"http://www.datasciencecentral.com/profiles/blogs/s3-instead-of-hdfs-with-hadoop"
 			"http://www.bigdatanews.com/profiles/blogs/big-data-s-real-3vs"
 			"http://www.vbprofiles.com/press_releases/55367cb8b4e919dc55000c5c"
 			"http://www.hadoop360.com/blog/accumulo-sqrrl-nosql-secure-database"
@@ -91,5 +97,6 @@
 			"http://www.datameer.com/blog/webinars/datameer-bigstep-big-data-analytics-for-your-department-now-not-in-months.html"
 			"http://radar.oreilly.com/2015/04/a-real-time-processing-revival.html",
 			"http://blogs.teradata.com/tdmo/best-practices-big-data-strategy-execution/"
+			"http://blog.swiftype.com/building-an-asynchronous-api-to-improve-performance"
 		]
 	},

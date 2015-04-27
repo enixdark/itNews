@@ -1,8 +1,15 @@
 "Javascript":{
 		"Angular":[
+			"http://www.infoq.com/news/2015/04/angularjs-14-ngAnimate"
+			"http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase-part-5--cms-22809"
+			"http://brianhann.com/pass-data-to-a-ui-bootstrap-modal-without-scope/"
+			"http://www.toptal.com/web/cookie-free-authentication-with-json-web-tokens-an-example-in-laravel-and-angularjs"
+			"http://tutorials.jenkov.com/angularjs/dependency-injection.html"
+			"https://github.com/angular/angular.js/wiki/Understanding-Dependency-Injection"
 			"http://blog.mgechev.com/2015/04/11/immutability-in-angularjs-immutablejs-part-2/"
 			"https://qconnewyork.com/workshop/introduction-angularjs"
 			"http://blog.backand.com/time-saving-angularjs-tips"
+			"http://stackoverflow.com/questions/17922557/angularjs-how-to-check-for-changes-in-file-input-fields"
 			"http://blog.mgechev.com/2015/04/06/angular2-first-impressions/"
 			"http://www.webcodegeeks.com/javascript/angular-js/angular-js-controller-example/"
 			"http://thejackalofjavascript.com/getting-started-with-angular-2-0/"
@@ -12,6 +19,7 @@
 			"http://www.knowarth.com/single-page-application-angular-js/"
 			"http://www.webcodegeeks.com/javascript/angular-js/angular-not-single-page-web-apps/"
 			"www.techtalky.com/modules-angular-js/"
+			"http://www.jasonwatmore.com/post/2014/05/26/AngularJS-Basic-HTTP-Authentication-Example.aspx"
 			"http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/"
 			"https://www.youtube.com/watch?v=z8UgDZ4rXBU&feature=youtu.be"
 			"http://www.pro-tekconsulting.com/blog/scope-inheritance-in-angular-js/"
@@ -112,6 +120,7 @@
 
 
 		"React":[
+			"http://brentvatne.ca/react-native-newsletter/23-04-2015.html"
 			"http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/"
 			"http://arc.applause.com/2015/04/21/facebook-app-developers-react-native/"
 			"https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/"
@@ -178,6 +187,8 @@
 			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 		]
 		"Nodejs":[
+			"http://tech.pro/tutorial/6781/series-getting-started-node-part-2-basic-routing"
+			"https://www.airpair.com/docker/posts/getting-started-with-docker-for-the-nodejs-dev"
 			"http://binary-studio.com/2015/04/16/handle-http-code-express-like-pro"
 			"https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha"
 			"http://js-for.ninja/simple-way-to-manage-local-node-module-using-npm-link.html"
@@ -285,7 +296,7 @@
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
-
+			"https://medium.com/@mrzepinski/es6-destructuring-13ca399f993a"
 			"https://webpack.github.io/docs/hot-module-replacement.html"
 			"http://shiroyasha.github.io/oop-in-the-age-of-es6.html"
 			"http://www.2ality.com/2015/04/numbers-math-es6.html"
@@ -314,6 +325,8 @@
 			"http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
 		]
 		"Meteor":[
+			"http://learntocodewith.me/women/ciara-burkett/"
+			"https://medium.com/@grigi0/todomvc-meteor-react-with-router-animations-ae3836efe0b1"
 			"http://kipalog.com/posts/A93eb-IvcpGoFM1FS1LFgQ"
 			"https://www.youtube.com/watch?v=kI_GLX2Qq-Y&feature=youtu.be&list=PLTUf4ytkmI8TntQ72WVvQIHKja4KaAXUc"
 			"http://meteortips.com/"
@@ -331,6 +344,9 @@
 			"https://hackhands.com/how-to-get-started-on-the-mean-stack/"
 		],
 		"Others":[
+			"https://www.codepunker.com/blog/the-basics-of-variable-scope-in-javascript"
+			"http://www.infoq.com/news/2015/04/t3-javascript-framework-box"
+			"https://laracasts.com/lessons"
 			"http://thatmikeflynn.com/egg.js/"
 			"https://www.box.com/blog/introducing-t3-enabling-large-scale-javascript-applications/"
 			"http://www.rq.crockford.com/"
@@ -343,6 +359,7 @@
 			"http://examples.javacodegeeks.com/enterprise-java/rest/resteasy/json-example-with-resteasy-jackson/"
 			"http://www.webcodegeeks.com/javascript/javascript-promises-essentials/"
 			"http://www.json2yaml.com/"
+			"https://www.airpair.com/sendgrid/posts/making-a-dashboard-with-keen-io-sendgrid-events"
 			"http://tholman.com/elevator.js/"
 			"http://codecanyon.net/item/sismo-navigation/10985032"
 			"http://www.sitepoint.com/simple-inheritance-javascript/"
@@ -385,5 +402,9 @@
 		],
 		"Compiler&Interpyer":[
 			"http://howjs.com/zFiG/2"
+		]
+
+		"Framework":[
+			"http://jsblocks.com/"
 		]
 	}

@@ -54,6 +54,9 @@
 		]
 	],
 	"NoSQL":{
+		"InnoDB":[
+			"http://java.dzone.com/articles/illustrating-primary-key"
+		]
 		"RethinkDB":[
 			"http://rob.conery.io/2015/04/17/rethinkdb-2-0-is-amazing/"
 			"http://www.datacenterknowledge.com/archives/2015/04/14/rethinkdbs-open-source-nosql-now-production-ready/"
@@ -73,6 +76,7 @@
 			"http://pizzaconnections.net/2015/03/27/148/"
 		]
 		"VoltDB":[
+			"http://radar.oreilly.com/2015/04/a-real-time-tool-for-a-real-time-problem.html"
 			"http://highscalability.com/blog/2015/4/13/three-fast-data-application-patterns.html"
 			"http://voltdb.com/community/demo?n=a&utm_expid=66808973-1.O562mQS1TnKG3RbsGkKu5Q.1&utm_referrer=http%3A%2F%2Ft.co%2F4HsC5zS1Oh"
 			"http://voltdb.com/blog/foundationdbs-lesson-fast-key-value-store-not-enough?n=a"
@@ -80,6 +84,7 @@
 			"http://learn.voltdb.com/WRFull360.html"
 		]
 		"Mongodb":[
+			"https://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-2"
 			"https://aphyr.com/posts/322-call-me-maybe-mongodb-stale-reads"
 			"http://www.mongodb.com/webinar/backups-disaster-recovery"
 			"https://www.youtube.com/watch?v=N9fDxuohdy8"
@@ -131,6 +136,7 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
+			"http://blog.couchbase.com/introducing-developer-preview-for-couchbase-server-4.0"
 			"http://blog.couchbase.com/ios-background-fetch-to-sync-hacker-news-stories"
 			"http://blog.couchbase.com/inside-couchbase-server---database-change-protocol-the-super-conductor-that-wires-couchbase-server"
 			"https://www.youtube.com/watch?v=alp2KQFnSa0"
@@ -169,8 +175,14 @@
 			"http://blog.couchbase.com/mongodb-rules-single-node-deployments",
 			"http://blog.couchbase.com/mongodb-rules-single-node-deployments",
 			"http://jamiltz.github.io/simple-model-class-for-couchbase-lite-android/"
+
+
+			"http://blog.couchbase.com/introducing-developer-preview-for-couchbase-server-4.0"
 		],
-		"CouchDB":[
+		"CouchDB":[	
+			"http://blogs.the451group.com/information_management/2011/12/09/the-geographic-distribution-of-nosql-skills-couchdb-and-neo4j/"
+			"http://blog.couchdb.org/2015/04/23/couchdb-weekly-news-april-23-2015/"
+			"https://www.smileupps.com/couchapp-tutorial-chatty"
 			"http://blog.couchdb.org/2015/04/17/couchdb-weekly-news-april-17-2015/"
 			"http://madhukaudantha.blogspot.com/2015/04/couchdb-20-developer-preview-with-http.html"
 			"https://medium.com/@th0maswe1ss/distributed-event-log-with-couchdb-a36a63cdf337"
@@ -185,6 +197,8 @@
 			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
 		]
 		"Redis":[
+			"https://www.arangodb.com/2015/04/creating-multi-game-highscore-lists/"
+			"https://redislabs.com/blog/redis-ram-ramifications-i"
 			"https://digitalserb.me/writing-a-redis-client-in-pure-bash/"
 			"http://www.redisgreen.net/blog/reading-and-writing-redis-protocol/"
 			"http://www.redisgreen.net/docs.html"
@@ -208,6 +222,8 @@
 		],
 		
 		"Neo4j":[
+			"http://java.dzone.com/articles/neo4j-learning-cycle?"
+			"https://www.youtube.com/watch?v=3Yn587XTNA4"
 			"http://vmturbo.com/about-virtualization/devs-are-from-venus-ops-are-from-mars-big-data-neo4j-part-3"
 			"http://blog.bruggen.com/2015/04/querying-snap-beeradvocate-dataset-in.html"
 			"http://blog.bruggen.com/2015/04/importing-snap-beeradvocate-dataset_15.html"
@@ -338,6 +354,9 @@
 		]
 	},
 	"Others":[
+		"http://java.dzone.com/articles/what-dataops-why-you-need-it"
+		"https://linkurio.us/announcing-linkurious-enterprise-the-first-data-visualization-platform-for-graph-databases/"
+		"https://seroter.wordpress.com/2015/04/21/using-multiple-nosql-database-models-with-orchestrate-and-node-js/"
 			"http://blogs.the451group.com/information_management/2015/04/07/nosql-linkedin-skills-index-march-2015/"
 			"http://www.slideshare.net/8kdata/toro-db-pgconfny2015"
 			"http://mangolassi.it/topic/4545/when-to-use-sql-or-nosql"
@@ -361,6 +380,7 @@
 	]
 	,
 	"Scheduled":[
+
 		"http://java.dzone.com/articles/its-little-things-plsql-null"
 		"https://academy.datastax.com/"
 		"http://www.datastax.com/what-we-offer/products-services/training?utm_source=twitter&utm_name=Social&utm_medium=Free&utm_term=datastaxhttp://www.datastax.com/what-we-offer/products-services/training?utm_source=twitter&utm_name=Social&utm_medium=Free&utm_term=datastax"

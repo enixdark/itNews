@@ -3,6 +3,7 @@
 		"https://www.mecr.org/?referrer=abhisheksanjaydutta1%40yahoo.com"
 		"http://www.foxebook.net/"
 		"http://aosabook.org/en/index.html"
+		"http://www.letscodejavascript.com/v3/episodes/live"
 		"http://www.w3bees.com/2013/09/jquery-infinite-scroll-with-php-mysql.html"
 		"http://web.stanford.edu/class/ee380/Abstracts/150408.html"
 		"https://www.techempower.com/benchmarks/#section=data-r10"

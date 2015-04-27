@@ -11,4 +11,5 @@
 		"http://www.webcodegeeks.com/html5/html5-dropdown-menu-example-with-css3"
 		"http://www.webcodegeeks.com/html5/html5-geolocation-example-weather-widget-demo/"
 		"http://sandersk.github.io/reading-w3c/#/"
+		"http://www.sitepoint.com/getting-started-html5-video/"
 	],

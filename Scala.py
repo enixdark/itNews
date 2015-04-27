@@ -1,4 +1,5 @@
 "Scala":[
+	"https://www.parleys.com/channel/scala-days-san-francisco-2015"
 	"http://docs.scala-lang.org/overviews/macros/changelog211.html"
 	"http://scala-lang.org/news/2.11.1"
 	"http://www.scala-lang.org/download/changelog.html#changes_in_version_211"
@@ -10,7 +11,11 @@
 	"http://letitcrash.com/post/114395138592/akka-cluster-load-balancing"
 	"http://letitcrash.com/post/113805166317/akka-cluster-load-balancing"
 	"http://www.reactivemanifesto.org/"
+	"https://vimeo.com/125440021"
+
+	"https://developerblog.redhat.com/2015/04/22/scala-vs-node-js-as-a-restful-backend-server/"
 	"http://virtuslab.com/blog/debugging-implicits/"
+	"https://engineering.linkedin.com/play/developing-play-applications-using-gradle"
 	"http://bandrzejczak.com/blog/2015/04/13/ternary-operator-in-scala/"
 	"http://blog.jaceklaskowski.pl/2015/04/12/using-autoplugin-in-sbt-for-common-settings-across-projects-in-multi-project-build.html"
 	"http://www.javacodegeeks.com/2015/04/scala-snippet-object-companion-object-and-static-methods.html"

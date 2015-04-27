@@ -1,5 +1,6 @@
 "CloudComputing":{
 		"AWS":[
+			"https://medium.com/aws-activate-startup-blog/cluster-based-architectures-using-docker-and-amazon-ec2-container-service-f74fa86254bf"
 			"https://aws.amazon.com/blogs/compute/running-executables-in-aws-lambda/"
 			"https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/"
 			"http://aws.amazon.com/efs/"
@@ -14,6 +15,8 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
+			"http://www.javacodegeeks.com/2015/04/docker-1-6-released-docker-machine-0-2-0.html"
+			"https://www.youtube.com/watch?v=pyooKSmuCrE&list=PLcHZXHMeDzxUhStxW31CtiMcCbrgfrzuH&index=5"
 			"https://blog.docker.com/2015/04/start-contributing-to-docker-in-5-easy-steps/#more-5188"
 			"https://puppetlabs.com/blog/simplify-managing-docker-puppet"
 			"http://www.informationweek.com/cloud/infrastructure-as-a-service/docker-16-emerges-as-a-platform"
@@ -59,11 +62,15 @@
 			"https://zwischenzugs.wordpress.com/2015/03/14/docker-in-practice-a-guide-for-engineers/"
 			"http://www.conductor.com/nightlight/running-selenium-grid-using-docker-compose/"
 			"http://java.dzone.com/articles/docker-how-jboss-integration"
+			"https://blog.jtlebi.fr/2015/04/25/how-i-shrunk-a-docker-image-by-98-8-featuring-fanotify/"
+			"http://java.dzone.com/articles/workflow-automation-pt-ii"
 		],
 		"Openstack":[
+			"http://java.dzone.com/articles/openstack-startup-series-1"
 			"http://java.dzone.com/articles/dzone-refcardz-getting-started?mz=62447-cloud"
 		],
 		"Others":[
+			"https://redskyvision.wistia.com/medias/b63qbipp40"
 			"http://www.cloudcomputing-news.net/news/2015/apr/17/arm-based-servers-next-evolution-cloud/"
 			"http://www.information-management.com/news/ERP-Cloud-Computing-Strategies-10026802-1.html"
 			"http://cloudtweaks.com/2015/04/teach-yourself-the-cloud-brush-up-cloud-computing-knowledge/"
@@ -74,5 +81,9 @@
 			"http://www.datasciencecentral.com/profiles/blogs/6-cloud-based-machine-learning-services?xg_source=activity"
 			"http://www.dataplumbing.com/blog/example-of-architecture-for-aaas-analytics-as-a-service"
 			"http://hwit.org/scalable-design-is-within-grasp.html"
+		]
+
+		"Books":[
+			"http://www.redbooks.ibm.com/redpapers/abstracts/redp5189.html?Open"
 		]
 	},

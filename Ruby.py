@@ -3,6 +3,9 @@
 		"http://inaka.net/blog/2015/03/25/hot-score-with-ruby-postgresql-and-elastic-part-1/"
 		"http://viget.com/extend/functional-programming-in-ruby-with-contracts"
 		"http://dashing.io/"
+		"http://madebymany.com/blog/replacing-rails-part-1-lets-go"
+		"http://sudo-science.com/starting-a-new-rails-4-2-project-with-postgresql-and-rspec/"
+		"http://www.webascender.com/Blog/ID/566/Testing-Rails-4-Apps-With-RSpec-3-Part-I#.VTkq2eSEi-k"
 		"http://code.tutsplus.com/tutorials/service-objects-with-rails-using-aldous--cms-23689"
 		"http://www.justinweiss.com/blog/2015/04/06/how-to-debug-ruby-performance-problems-in-production/"
 		"http://www.sitepoint.com/rethinkdb-ruby/"
@@ -17,8 +20,11 @@
 		"http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/"
 		"https://semaphoreci.com/community/tutorials/setting-up-the-bdd-stack-on-a-new-rails-4-application",
 		"https://github.com/diasks2/ruby-nlp",
+		"https://docs.compose.io/tutorials/rails-4-mongoid-heroku.html"
+		"http://suvankar.svbtle.com/devise-and-mongoid-in-rails-4"
 		"http://richonrails.com/articles/allowing-file-uploads-with-carrierwave"
 		"http://www.sitepoint.com/jekyll-rails/"
+
 		"https://hackhands.com/pagination-rails-will_paginate-gem/"
 		"http://www.sitepoint.com/rubygems-slow/"
 		"http://www.codeomnib.us/rails-4-carrierwave-throws-uninitialized-uploader-console/"
@@ -44,6 +50,14 @@
 		"http://benjamintan.io/blog/2015/03/28/ruby-block-patterns-and-how-to-implement-file-open/"
 		"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		"http://awesome-ruby.com/"
+		"http://www.justinweiss.com/blog/2015/04/20/how-to-select-database-records-in-an-arbitrary-order/"
+		"http://www.saturnflyer.com/blog/jim/2015/04/22/the-difference-between-instance_eval-and-instance_exec/"
+		"http://blog.xindervella.com/rails/2014/10/23/user_system/"
 		"http://web.archive.org/web/20130729205129id_/http://itc.conversationsnetwork.org/shows/detail1638.html"
 		"http://mixandgo.com/blog/7-steps-to-better-cucumber-tests"
+		"http://blog.arkency.com/2015/04/the-event-store-for-rails-developers/"
 	],
+
+"Rails":[
+
+]

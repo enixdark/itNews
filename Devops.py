@@ -1,6 +1,7 @@
 "Devops":{
 		"Apache":[],
 		"Nginx":[
+			"http://java.dzone.com/articles/nginx-open-source-reflecting"
 			"http://www.infoworld.com/article/2909532/servers/nginxs-new-version-goes-beyond-web-serving.html"
 			"http://java.dzone.com/articles/live-activity-monitoring-nginx"
 			"http://www.sitepoint.com/set-automatic-virtual-hosts-nginx-apache/"
@@ -18,6 +19,7 @@
 		"LightHttp":[],
 
 		"Ansible":[
+			"http://tjelvarolsson.com/blog/ansible-playbook-for-installing-the-gbrowse-genome-browser/"
 			"http://www.ansible.com/blog/ansible-at-pycon-achieving-continuous-delivery-an-automation-story-video"
 			"http://www.ansible.com/how-ansible-works"
 			"http://www.ansible.com/government"
@@ -57,6 +59,7 @@
 		],
 		"SaltStack":[],
 		"ElastickSearch":[
+			"https://www.elastic.co/blog/logstash-user-survey-results"
 			"https://www.elastic.co/blog/kurrently-kibana-2015-04-17"
 			"https://www.elastic.co/blog/2015-04-14-this-week-in-elasticsearch-and-apache-lucene"
 			"http://www.sitepoint.com/integrate-elasticsearch-silex/"
@@ -69,6 +72,7 @@
 			"http://java.dzone.com/articles/vagrant-cloud-creating-vagrant"
 		]
 		"Others":[
+			"http://blog.kubernetes.io/2015/04/borg-predecessor-to-kubernetes.html"
 			"blogs.technet.com/b/windowsserver/archive/2015/04/08/microsoft-announces-nano-server-for-modern-apps-and-cloud.aspx"
 			"http://redmonk.com/dberkholz/2015/04/02/quantifying-configuration-management-communities/"
 			"http://www.javacodegeeks.com/tutorials/devops-tutorials/"

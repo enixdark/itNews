@@ -1,8 +1,11 @@
 "CSS":[
+		"http://www.webcodegeeks.com/css/css-multiple-classes-example/"
 		"http://www.webcodegeeks.com/css/css-table-design-example/"
 		"http://superdevresources.com/material-design-web-ui-frameworks/",
 		"http://bootstrap-growl.remabledesigns.com/",
 		"http://www.cssreflex.com/css-generators/"
+		"http://www.webcodegeeks.com/css/css-text-shadow-example/"
+		"http://www.arkaroy.net/blog/15-best-bootstrap-alternatives-web-developers/"
 		"http://silviomoreto.github.io/bootstrap-select/"
 		"http://markusslima.github.io/bootstrap-filestyle/"
 		"http://www.helloerik.com/bootstrap-3-less-workflow-tutorial"

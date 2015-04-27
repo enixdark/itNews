@@ -1,5 +1,6 @@
 "InternetofThing":{
 		"Microservice":[
+			"http://java.dzone.com/articles/5-microservices-resources-you?"
 			"http://www.javacodegeeks.com/2015/04/microservice-design-patterns.html"
 			"http://www.javacodegeeks.com/2015/04/microservices-for-enterprises-part-i.html"
 			"http://pivotallabs.com/how-to-talk-to-your-friends-about-microservices/"

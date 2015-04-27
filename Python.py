@@ -1,5 +1,7 @@
 "Python":{
 		"Flask":[
+			"http://techarena51.com/index.php/one-to-many-relationships-with-flask-sqlalchemy/"
+			"https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?"
 			"https://realpython.com/blog/python/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/"
 			"http://www.blog.pythonlibrary.org/2015/04/16/using-pygal-graphs-in-flask/"
 			"http://code.tutsplus.com/tutorials/flask-authentication-with-ldap--cms-23101"
@@ -27,7 +29,7 @@
 		],
 		"Django":[
 
-
+			"http://httplambda.com/a-rest-api-with-django-and-oauthw-authentication/"
 			"http://www.lexev.org/en/2015/listen-wifi-with-wireshark/"
 			"http://blog.idego.pl/2015/02/10/how-django-uses-metaclasses/"
 			"http://crossbar.io/docs/Adding-Real-Time-to-Django-Applications/"
@@ -109,12 +111,18 @@
 		]
 		"PEP":[
 
+		
+
 			"https://www.python.org/dev/peps/pep-0492/"
 			"https://www.python.org/dev/peps/pep-0487/#trait-descriptors"
 			"https://www.python.org/dev/peps/pep-0486/"
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+			"http://www.toplisttips.com/cpanel-alternative-free-web-hosting-control-panel/"
+			"https://codefisher.org/catch/blog/2015/04/22/python-how-group-and-count-dictionaries/"
+			"http://pythonhash.fx5.net/"
+			"http://importpython.com/blog/post/conversation-albert-sweigart-author-automate-boring-stuff-python"
 			"http://aleph.nu/blog/2015/the-python-road-not-taken/"
 			"http://inventwithpython.com/blog/2015/04/21/celebrating-the-release-of-automate-the-boring-stuff-with-python-with-discount-codes/"
 			"http://automatetheboringstuff.com/"
@@ -218,6 +226,7 @@
 			"http://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python"
 			"http://www.fullstackpython.com/table-of-contents.html"
 			"http://pansop.com/1014/"
+			"https://freepythontips.wordpress.com/2015/04/19/nifty-python-tricks/"
 			"https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development"
 			"https://realpython.com/blog/python/learn-python-the-methodical-way/#.VR6gPuvdAm8.twitter"
 			"http://morepypy.blogspot.com/2015/03/pydgin-using-rpython-to-generate-fast.html"
@@ -229,6 +238,8 @@
 			"http://charlesleifer.com/blog"
 			"https://www.paypal-engineering.com/2015/03/17/introducing-support/"
 			"http://www.willmcgugan.com/blog/tech/2015/3/14/saving-processes-and-threads-in-a-wsgi-server/"
+			"http://datamelon.io/blog/2015/secure-symmetric-encryption-in-python.html"
+			"http://rpiai.com/2015/04/18/python-beowulf-cluster-find-a-use-for-those-computers-that-are-10-years-old/"
 		],
 		"CherryPy":[
 			"http://blog.joel.mx/posts/cherrypy-as-a-wsgi-server"
@@ -248,6 +259,7 @@
 			"http://www.caktusgroup.com/blog/2014/09/29/celery-production/"
 		]
 		"NoSQL&DistributeSystem&Cloud":{
+			"http://eli.thegreenplace.net/2015/calling-back-into-python-from-llvmlite-jited-code/"
 			"Redis":[
 				"https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html"
 				"http://opensourcehacker.com/2014/07/09/rolling-time-window-counters-with-redis-and-mitigating-botnet-driven-login-attacks/"
@@ -258,6 +270,7 @@
 				"http://www.machinalis.com/blog/rt-notifications-gevent-gis/"
 			],
 			"Docker":[
+				"https://realpython.com/blog/python/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/"
 				"http://www.defuze.org/archives/315-create-a-docker-container-for-your-cherrypy-application.html"
 				"http://www.syncano.com/configuring-running-django-celery-docker-containers-pt-1/"
 				"https://realpython.com/blog/python/docker-in-action-fitter-happier-more-productive"
@@ -302,9 +315,14 @@
 
 		"PyCon":{
 			"2015":[
+				"https://www.youtube.com/watch?v=IsXXlYVBt1M"
+				"https://www.youtube.com/watch?v=YFexUDjHO6w"
 				"https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/videos"
 				"https://www.youtube.com/watch?v=JN-78stRNhA"
 				"https://www.youtube.com/watch?v=GVVtR_hrdKI&list=PLkA60AVN3hh9Sh-5OENT8RsFHjwtk2Z_l"
 			]
-		}
+			"OThers":[
+				"http://astrocodeschool.com/blog/video-func-prog/"
+			]
+		}	
 	},

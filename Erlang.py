@@ -1,4 +1,9 @@
 "Erlang":[
+
+
+
+		"http://inaka.net/blog/2015/04/20/beautiful-code/"
+		"http://inaka.net/blog/2015/04/20/gadget/"
 		"http://erlangcentral.org/other-erldocs-alpha/#.VR1ZsMuEi-k",
 		"https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ&app=desktop",
 		"https://www.youtube.com/watch?v=uwpakTIg9r8",

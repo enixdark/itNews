@@ -2,6 +2,7 @@
 	"http://golanggo.com/post/115334564374/how-to-do-stream-multiplexing-in-go",
 	"http://golanggo.com/post/115333889744/quick-and-dirty-guide-to-deploying-go-apps",
 	"https://www.kaihag.com/https-and-go/"
+	"http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/"
 	"https://www.youtube.com/watch?v=gRpUfjTwSOo"
 	"https://www.hakkalabs.co/articles/getting-started-gopherjs"
 	"http://biasedbit.com/blog/golang-custom-transports/"
