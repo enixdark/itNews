@@ -24,7 +24,7 @@
 		"http://suvankar.svbtle.com/devise-and-mongoid-in-rails-4"
 		"http://richonrails.com/articles/allowing-file-uploads-with-carrierwave"
 		"http://www.sitepoint.com/jekyll-rails/"
-
+		"http://everydayrails.com/2012/07/31/rails-admin-panel-from-scratch.html"
 		"https://hackhands.com/pagination-rails-will_paginate-gem/"
 		"http://www.sitepoint.com/rubygems-slow/"
 		"http://www.codeomnib.us/rails-4-carrierwave-throws-uninitialized-uploader-console/"
@@ -50,14 +50,18 @@
 		"http://benjamintan.io/blog/2015/03/28/ruby-block-patterns-and-how-to-implement-file-open/"
 		"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		"http://awesome-ruby.com/"
+		"https://www.twilio.com/blog/2015/04/validate-phone-numbers-in-ruby-using-the-lookup-api.html"
 		"http://www.justinweiss.com/blog/2015/04/20/how-to-select-database-records-in-an-arbitrary-order/"
 		"http://www.saturnflyer.com/blog/jim/2015/04/22/the-difference-between-instance_eval-and-instance_exec/"
 		"http://blog.xindervella.com/rails/2014/10/23/user_system/"
 		"http://web.archive.org/web/20130729205129id_/http://itc.conversationsnetwork.org/shows/detail1638.html"
 		"http://mixandgo.com/blog/7-steps-to-better-cucumber-tests"
 		"http://blog.arkency.com/2015/04/the-event-store-for-rails-developers/"
+		"http://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/"
 	],
 
 "Rails":[
-
+	"https://bugsnag.com/blog/replacing-the-rails-asset-pipeline-with-gulp"
+	"https://nulogy.com/articles/replacing-rails-asset-pipeline#.VUSFIeSEi-k"
+	"http://weblog.rubyonrails.org/2015/5/2/welcome-to-gsoc-15/"
 ]

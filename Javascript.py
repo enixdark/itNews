@@ -33,6 +33,8 @@
 			"https://medium.com/@KamilLelonek/angularjs-and-scope-apply-best-practices-d07353175024"
 			"https://medium.com/@tomastrajan/component-paradigm-cf32e94ba78b"
 			"http://eisenbergeffect.bluespire.com/aurelia-angular-2-0-code-side-by-side-part-2/"
+
+			"http://blog.durandal.io/2015/05/01/aurelia-may-status-and-releases/"
 			"http://www.encodedna.com/angularjs/tutorial/format-text-using-angularjs-currency-filter.htm"
 			"http://blog.crowdint.com/2015/03/18/angularjs-providers-under-the-hood.html"
 			"http://www.htmlxprs.com/post/54/creating-a-super-simple-todo-app-using-angular-2-tutorial"
@@ -98,6 +100,7 @@
 			"http://futurice.com/blog/declarative-apps-with-polymers-two-way-data-binding"
 		]
 		"StrongLoop":[
+			"https://strongloop.com/strongblog/rethinkdb-connector-loopback-node-js-framework/"
 			"https://strongloop.com/strongblog/node-js-process-manager-production-docker/"
 			"https://strongloop.com/strongblog/es6-variable-declarations/"
 		]
@@ -120,6 +123,8 @@
 
 
 		"React":[
+			"http://www.tabforacause.org/blog/2015/01/29/using-reactjs-and-application-cache-fast-synced-app/"
+			"https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html"
 			"http://brentvatne.ca/react-native-newsletter/23-04-2015.html"
 			"http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/"
 			"http://arc.applause.com/2015/04/21/facebook-app-developers-react-native/"
@@ -187,6 +192,7 @@
 			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 		]
 		"Nodejs":[
+			"https://medium.com/@nodesource/node-and-arm-b5e3eebf449"
 			"http://tech.pro/tutorial/6781/series-getting-started-node-part-2-basic-routing"
 			"https://www.airpair.com/docker/posts/getting-started-with-docker-for-the-nodejs-dev"
 			"http://binary-studio.com/2015/04/16/handle-http-code-express-like-pro"
@@ -282,6 +288,7 @@
 			"http://www.webcodegeeks.com/javascript/jquery/jquery-dialog-example/"
 		],
 		"TYpeScript":[
+			"http://blogs.msdn.com/b/typescript/archive/2015/04/30/announcing-typescript-1-5-beta.aspx"
 			"http://blog.mgechev.com/2015/04/06/angular2-first-impressions/"
 					"http://cacodaemon.de/index.php?id=67
 			"http://www.infoq.com/news/2015/04/typescript-1-5"
@@ -292,7 +299,7 @@
 		],
 		"Gulp":[
 
-
+			"https://bugsnag.com/blog/replacing-the-rails-asset-pipeline-with-gulp"
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
@@ -343,7 +350,14 @@
 		"Mean":[
 			"https://hackhands.com/how-to-get-started-on-the-mean-stack/"
 		],
+		"FOAM":[
+			"http://foam-framework.github.io/foam/"
+		]
 		"Others":[
+			"www.infoq.com/research/javascript-frameworks-2015"
+			"http://dailyjs.com/2015/05/01/flyd-reactive-functional-programming"
+			"http://www.theregister.co.uk/2015/05/01/google_password_alert_easily_disabled_6_lines_javascript/"
+			"https://hacks.mozilla.org/2015/04/es6-in-depth-iterators-and-the-for-of-loop/"
 			"https://www.codepunker.com/blog/the-basics-of-variable-scope-in-javascript"
 			"http://www.infoq.com/news/2015/04/t3-javascript-framework-box"
 			"https://laracasts.com/lessons"
@@ -406,5 +420,9 @@
 
 		"Framework":[
 			"http://jsblocks.com/"
+		]
+
+		"video":[
+			"https://www.youtube.com/watch?v=Mxalg0ZN5XY"
 		]
 	}

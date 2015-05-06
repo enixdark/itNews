@@ -15,6 +15,8 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
+			"https://www.airpair.com/docker/posts/getting-started-with-docker-for-the-nodejs-dev"
+			"http://blog.docker.com/2015/05/online-meetup-video-docker-machine-0-2-0/"
 			"http://www.javacodegeeks.com/2015/04/docker-1-6-released-docker-machine-0-2-0.html"
 			"https://www.youtube.com/watch?v=pyooKSmuCrE&list=PLcHZXHMeDzxUhStxW31CtiMcCbrgfrzuH&index=5"
 			"https://blog.docker.com/2015/04/start-contributing-to-docker-in-5-easy-steps/#more-5188"
@@ -64,6 +66,7 @@
 			"http://java.dzone.com/articles/docker-how-jboss-integration"
 			"https://blog.jtlebi.fr/2015/04/25/how-i-shrunk-a-docker-image-by-98-8-featuring-fanotify/"
 			"http://java.dzone.com/articles/workflow-automation-pt-ii"
+			"https://www.calazan.com/using-docker-and-docker-compose-for-local-django-development-replacing-virtualenv/"
 		],
 		"Openstack":[
 			"http://java.dzone.com/articles/openstack-startup-series-1"

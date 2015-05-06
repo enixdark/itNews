@@ -12,6 +12,8 @@
 			"http://www.dzone.com/articles/future-mysql-interview-peter"
 		],
 		"Postgresql":[
+			"http://bonesmoses.org/2015/05/01/pg-phriday-reducing-writes-with-unlogged-tables/"
+			"http://postgis.net/2015/05/02/tip_enable_raster_drivers"
 			"http://bajis-postgres.blogspot.com/2015/04/woohoo-packt-publishing-has-published.html"
 			"http://bajis-postgres.blogspot.com/2015/04/aha-you-can-count-rows-for-copy-command.html"
 			"http://amitkapila16.blogspot.com/2015/04/write-scalability-in-postgresql.html"
@@ -84,6 +86,9 @@
 			"http://learn.voltdb.com/WRFull360.html"
 		]
 		"Mongodb":[
+			"https://www.mongodb.com/blog/post/meteor-build-ios-and-android-apps-are-delight-use"
+			"http://www.mongodb.com/blog/post/new-compression-options-mongodb-30"
+			"https://speakerdeck.com/jamestyj/automate-production-ready-mongodb-deployments-and-more"
 			"https://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-2"
 			"https://aphyr.com/posts/322-call-me-maybe-mongodb-stale-reads"
 			"http://www.mongodb.com/webinar/backups-disaster-recovery"
@@ -136,6 +141,7 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
+			"http://blog.couchbase.com/ruby-and-n1ql-first-taste"
 			"http://blog.couchbase.com/introducing-developer-preview-for-couchbase-server-4.0"
 			"http://blog.couchbase.com/ios-background-fetch-to-sync-hacker-news-stories"
 			"http://blog.couchbase.com/inside-couchbase-server---database-change-protocol-the-super-conductor-that-wires-couchbase-server"
@@ -197,6 +203,7 @@
 			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
 		]
 		"Redis":[
+			"http://blog.pivotal.io/cloud-foundry-pivotal/products/chaos-lemur-testing-high-availability-on-pivotal-cloud-foundry"
 			"https://www.arangodb.com/2015/04/creating-multi-game-highscore-lists/"
 			"https://redislabs.com/blog/redis-ram-ramifications-i"
 			"https://digitalserb.me/writing-a-redis-client-in-pure-bash/"

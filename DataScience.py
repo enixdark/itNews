@@ -1,4 +1,5 @@
 "DataScience":[
+
 	"http://thomaz.me/data/visualizing-census-data-with-google-fusion-tables-tutorial/"
 	"http://www.datasciencecentral.com/profiles/blogs/big-data-and-education-data-mining"
 	"http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist"
@@ -7,6 +8,8 @@
 	"http://www.datasciencecentral.com/profiles/blogs/an-introduction-to-social-network-analysis",
 	"https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/"
 	"https://jessesw.com/Data-Science-Skills/",
+	"http://www.analyticbridge.com/profiles/blogs/the-top-ten-worst-graphs"
+	"http://www.datasciencecentral.com/profiles/blogs/markov-logic-networks-for-better-decisions"
 	"http://www.analyticbridge.com/profiles/blogs/fake-data-science"
 	"http://www.analyticbridge.com/profiles/blogs/a-statistician-s-view-on-data-and-data-science"
 	"http://blog.sense.io/introducing-sense-a-platform-for-data-science/"
@@ -14,6 +17,8 @@
 	"http://www.analyticbridge.com/forum/topics/semi-supervised-learnig-knn-kmeans"
 	"http://www.analyticbridge.com/profiles/blogs/data-analysis-beginners"
 	"http://willwhitney.github.io/dc-ign/www/"
+	"http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free"
+	"http://www.datasciencecentral.com/profiles/blogs/privacy-vs-security-and-data-science"
 	"http://www.r-bloggers.com/scale-acceleration/"
 	"http://www.datavizualization.com/blog/why-is-data-now-called-big-part-1"
 	"http://www.datasciencecentral.com/profiles/blogs/tutorial-how-to-detect-spurious-correlations-and-how-to-find-the-"
@@ -39,6 +44,7 @@
 ],
 
 "MachineLearning":[
+"http://tech.gc.com/bayesian-statistics-and-multi-armed-bandits/"
 	"http://www.datasciencecentral.com/profiles/blogs/all-machine-learning-models-have-flaws-1"
 	"http://www.datasciencecentral.com/profiles/blogs/machine-learning-an-overview"
 ]

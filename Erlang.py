@@ -37,6 +37,7 @@
 		"http://aerosol.github.io/anxibits/vim-as-your-erlang-ide/"
 		"https://navaspot.wordpress.com/2015/03/15/erlang-day1/"
 		"https://www.youtube.com/watch?v=PSbIpQapXQo"
+		"https://www.parallella.org/2015/03/20/erlang-otp-and-the-parallella-board/"
 		"https://medium.com/@jlouis666/solving-the-go-challenge-1-in-erlang-8b1e0a0a5044?source=tw-725a20c9f371-1426783051509"
 		"http://roberto-aloi.com/erlang/notes-on-erlang-quickcheck-part-2/"
 		"http://www.information-age.com/technology/applications-and-development/123459196/why-bet365-swapped-java-erlang"

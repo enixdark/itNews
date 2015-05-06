@@ -1,5 +1,7 @@
 "BigData":{
 		"Hadoop":[
+			"http://www.datasciencecentral.com/profiles/blogs/get-started-with-hadoop-and-spark-in-10-minutes"
+			"http://hortonworks.com/blog/resilience-of-yarn-applications-across-nodemanager-restarts/"
 			"http://hortonworks.com/blog/hortonworks-acquires-sequenceiq-to-provide-automated-deployment-of-hadoop-everywhere/"
 			"http://www.datasciencecentral.com/profiles/blogs/hadoop-2-helps-systems-integration"
 			"http://www.infoq.com/articles/Hadoop-Cluster"
@@ -80,7 +82,7 @@
 			"http://examples.javacodegeeks.com/core-java/apache-camel-hello-world-example/"
 		]
 		"Others":[
-
+			"http://www.theregister.co.uk/2012/11/07/big_data_analytics"
 			"http://www.analyticbridge.com/profiles/blogs/what-mapreduce-can-t-do"
 			"http://www.datasciencecentral.com/profiles/blogs/s3-instead-of-hdfs-with-hadoop"
 			"http://www.bigdatanews.com/profiles/blogs/big-data-s-real-3vs"

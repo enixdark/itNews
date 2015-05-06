@@ -60,6 +60,8 @@
 		"http://java.dzone.com/articles/adopting-microservices-netflix"
 		"http://www.javacodegeeks.com/2014/05/java-ee7-and-maven-project-for-newbies-part-2-defining-a-simple-war-for-our-application.html"
 		"http://java.dzone.com/articles/performance-comparison"
+		"http://www.javacodegeeks.com/2014/06/java-8-optional-how-to-use-it.html"
+		"http://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-textbox-example/"
 		"http://java.dzone.com/articles/design-patterns-21st-century"
 		"http://www.javacodegeeks.com/2015/03/hibernate-tutorial.html"
 		"http://www.javacodegeeks.com/2013/12/why-i-stopped-using-spring.html"

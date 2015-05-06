@@ -18,6 +18,6 @@
 "http://www.r-bloggers.com/supplementing-your-r-package-with-a-shiny-app-2/"
 "http://www.r-bloggers.com/parallel-simulation-of-heckman-selection-model/"
 "http://www.r-bloggers.com/introducing-shinyjs-perform-common-javascript-operations-in-shiny-apps-using-plain-r-code/"
-
-
+"http://www.r-bloggers.com/revolution-r-open-8-0-3-now-available/"
+"http://www.r-bloggers.com/rstanmulticore-a-cross-platform-r-package-to-automatically-run-rstan-mcmc-chains-in-parallel/"
 
