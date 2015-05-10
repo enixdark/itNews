@@ -59,6 +59,8 @@
 		],
 		"SaltStack":[],
 		"ElastickSearch":[
+			"https://www.elastic.co/blog/how-to-handle-elasticsearch-virtualization"
+			"https://www.elastic.co/blog/nest-1-5-released"
 			"https://www.elastic.co/blog/2015-05-01-logstash-lines"
 			"https://www.elastic.co/blog/kurrently-kibana-2015-05-01"
 			"https://www.elastic.co/blog/logstash-user-survey-results"

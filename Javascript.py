@@ -1,5 +1,6 @@
 "Javascript":{
 		"Angular":[
+			"http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2"
 			"http://www.infoq.com/news/2015/04/angularjs-14-ngAnimate"
 			"http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase-part-5--cms-22809"
 			"http://brianhann.com/pass-data-to-a-ui-bootstrap-modal-without-scope/"
@@ -33,7 +34,7 @@
 			"https://medium.com/@KamilLelonek/angularjs-and-scope-apply-best-practices-d07353175024"
 			"https://medium.com/@tomastrajan/component-paradigm-cf32e94ba78b"
 			"http://eisenbergeffect.bluespire.com/aurelia-angular-2-0-code-side-by-side-part-2/"
-
+			"http://www.javacodegeeks.com/2014/07/server-vs-client-side-rendering-angularjs-vs-server-side-mvc.html"
 			"http://blog.durandal.io/2015/05/01/aurelia-may-status-and-releases/"
 			"http://www.encodedna.com/angularjs/tutorial/format-text-using-angularjs-currency-filter.htm"
 			"http://blog.crowdint.com/2015/03/18/angularjs-providers-under-the-hood.html"
@@ -88,7 +89,7 @@
 
 
 		"FireBase":[
-		
+			"https://www.twilio.com/blog/2015/04/get-notified-when-someone-posts-an-article-from-your-domain-on-hacker-news-using-node-js-firebase-and-twilio.html"
 			"https://www.firebase.com/blog/2015-04-10-realtime-maps-cartodb-firebase.html"
 			"http://java.dzone.com/articles/sign-firebase-facebook-using"
 			"https://www.firebase.com/docs/ios/examples.html"
@@ -105,6 +106,7 @@
 			"https://strongloop.com/strongblog/es6-variable-declarations/"
 		]
 		"iojs":[
+			"https://www.codeschool.com/blog/2015/05/08/whats-new-in-io-js-2-0-0/"
 			"https://medium.com/node-js-javascript/io-js-week-of-april-3rd-a4e1fe0c38c1"
 			"https://iojs.org/en/faq.html"
 		],
@@ -123,6 +125,8 @@
 
 
 		"React":[
+			"http://www.sitepoint.com/immutability-react/"
+			"https://facebook.github.io/react/blog/2015/05/08/react-v0.13.3.html"
 			"http://www.tabforacause.org/blog/2015/01/29/using-reactjs-and-application-cache-fast-synced-app/"
 			"https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html"
 			"http://brentvatne.ca/react-native-newsletter/23-04-2015.html"
@@ -278,6 +282,7 @@
 		"Phonegap":[],
 		"Knockout":[],
 		"Jquery":[
+			"http://jquerymy.com/"
 			"http://dimsemenov.com/plugins/magnific-popup/"
 			"http://www.jqueryrain.com/demo/jquery-file-upload/"
 			"http://blueimp.github.io/jQuery-File-Upload/index.html"
@@ -288,6 +293,7 @@
 			"http://www.webcodegeeks.com/javascript/jquery/jquery-dialog-example/"
 		],
 		"TYpeScript":[
+			"http://jj09.net/building-large-scale-web-applications-with-typescript/"
 			"http://blogs.msdn.com/b/typescript/archive/2015/04/30/announcing-typescript-1-5-beta.aspx"
 			"http://blog.mgechev.com/2015/04/06/angular2-first-impressions/"
 					"http://cacodaemon.de/index.php?id=67

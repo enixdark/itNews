@@ -12,6 +12,7 @@
 			"http://www.dzone.com/articles/future-mysql-interview-peter"
 		],
 		"Postgresql":[
+			"http://bonesmoses.org/2015/05/08/pg-phriday-functions-and-performance-attributes/"
 			"http://bonesmoses.org/2015/05/01/pg-phriday-reducing-writes-with-unlogged-tables/"
 			"http://postgis.net/2015/05/02/tip_enable_raster_drivers"
 			"http://bajis-postgres.blogspot.com/2015/04/woohoo-packt-publishing-has-published.html"
@@ -60,6 +61,8 @@
 			"http://java.dzone.com/articles/illustrating-primary-key"
 		]
 		"RethinkDB":[
+	        "http://rethinkdb.com/blog/realtime-web/"
+			"https://www.compose.io/articles/re-updates-for-redis-and-rethinkdb/"
 			"http://rob.conery.io/2015/04/17/rethinkdb-2-0-is-amazing/"
 			"http://www.datacenterknowledge.com/archives/2015/04/14/rethinkdbs-open-source-nosql-now-production-ready/"
 			"http://rethinkdb.com/blog/2.0-release/"
@@ -78,6 +81,7 @@
 			"http://pizzaconnections.net/2015/03/27/148/"
 		]
 		"VoltDB":[
+			"http://docs.voltdb.com/UsingVoltDB/sqlref_upsert.php"
 			"http://radar.oreilly.com/2015/04/a-real-time-tool-for-a-real-time-problem.html"
 			"http://highscalability.com/blog/2015/4/13/three-fast-data-application-patterns.html"
 			"http://voltdb.com/community/demo?n=a&utm_expid=66808973-1.O562mQS1TnKG3RbsGkKu5Q.1&utm_referrer=http%3A%2F%2Ft.co%2F4HsC5zS1Oh"
@@ -85,7 +89,11 @@
 			"http://voltdb.com/blog/lambda-complexity-why-fast-data-needs-new-thinking"
 			"http://learn.voltdb.com/WRFull360.html"
 		]
+		"ClearDb":[
+			"http://www.cleardb.com/blog/entry?id=pr/5-8-2015/cleardb-iron-live-workload-performance-metrics"
+		]
 		"Mongodb":[
+			"http://onefold.io/article/MTg="
 			"https://www.mongodb.com/blog/post/meteor-build-ios-and-android-apps-are-delight-use"
 			"http://www.mongodb.com/blog/post/new-compression-options-mongodb-30"
 			"https://speakerdeck.com/jamestyj/automate-production-ready-mongodb-deployments-and-more"
@@ -141,6 +149,7 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
+			"http://blog.couchbase.com/dropbox-drops-sync"
 			"http://blog.couchbase.com/ruby-and-n1ql-first-taste"
 			"http://blog.couchbase.com/introducing-developer-preview-for-couchbase-server-4.0"
 			"http://blog.couchbase.com/ios-background-fetch-to-sync-hacker-news-stories"
@@ -268,6 +277,7 @@
 			"http://www.markhneedham.com/blog/2015/04/01/neo4j-cypher-building-the-query-for-a-movies-profile-page/"
 		],
 		"Cassandra":[
+			"http://www.datastax.com/dev/blog/performance-doubling-with-message-coalescing"
 			"http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store#.VS7k6ien4Cs.hackernews"
 			"www.datastax.com/dev/blog/benchmarking-larger-than-memory-workloads"
 			"http://java.dzone.com/articles/introduction-apache-cassandras"
@@ -342,7 +352,6 @@
 			"http://www.hadoop360.com/blog/list-of-nosql-databases"
 			"http://jaxenter.com/evaluating-nosql-performance-which-database-is-right-for-your-data-107481.html"
 			"http://in.relation.to/Bloggers/NoSQLWithHibernateOGM101PersistingYourFirstEntities"
-			"http://rethinkdb.com/blog/realtime-web/"
 			"http://blog.couchbase.com/manual-secondary-indexes"
 			"http://vimeo.com/107188786"
 			"https://blog.compose.io/your-drivers-are-not-magic-testing-your-application-for-high-availability/"

@@ -56,6 +56,7 @@
 			"http://www.javacodegeeks.com/2015/04/apache-mesos-marathon-and-java-ee.html",
 		],
 		"Mapr":[
+			"https://www.mapr.com/blog/5-core-business-functions-can-benefit-hadoop#.VU1smeSEi-k"
 			"https://www.mapr.com/blog/4-critical-things-consider-when-building-hadoop-rfp#.VTHF8OSEi-k"
 			"https://www.mapr.com/services/mapr-academy/big-data-hadoop-online-training"
 			"https://www.mapr.com/blog/strategic-data-beyond-hadoop-and-big-data#.VSWDCuSEi-k"
@@ -82,6 +83,7 @@
 			"http://examples.javacodegeeks.com/core-java/apache-camel-hello-world-example/"
 		]
 		"Others":[
+			"http://www.datasciencecentral.com/group/resources/forum/topics/big-data-poster"
 			"http://www.theregister.co.uk/2012/11/07/big_data_analytics"
 			"http://www.analyticbridge.com/profiles/blogs/what-mapreduce-can-t-do"
 			"http://www.datasciencecentral.com/profiles/blogs/s3-instead-of-hdfs-with-hadoop"

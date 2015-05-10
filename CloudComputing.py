@@ -15,6 +15,7 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
+			"http://blog.codefresh.io/docker-machine-basics/"
 			"https://www.airpair.com/docker/posts/getting-started-with-docker-for-the-nodejs-dev"
 			"http://blog.docker.com/2015/05/online-meetup-video-docker-machine-0-2-0/"
 			"http://www.javacodegeeks.com/2015/04/docker-1-6-released-docker-machine-0-2-0.html"
@@ -73,6 +74,7 @@
 			"http://java.dzone.com/articles/dzone-refcardz-getting-started?mz=62447-cloud"
 		],
 		"Others":[
+			"http://java.dzone.com/articles/selecting-cloud-monitoring"
 			"https://redskyvision.wistia.com/medias/b63qbipp40"
 			"http://www.cloudcomputing-news.net/news/2015/apr/17/arm-based-servers-next-evolution-cloud/"
 			"http://www.information-management.com/news/ERP-Cloud-Computing-Strategies-10026802-1.html"

@@ -41,6 +41,8 @@
 	"http://blog.yhathq.com/posts/measuring-model-performance-1.html.com&utm_campaign=buffer"
 	"http://vaidehijoshi.github.io/blog/2015/03/24/a-machine-state-of-mind-part-2-implementing-state-machines/",
 	"http://www.machinalis.com/blog/rt-notifications-gevent-gis/.com&utm_campaign=buffer"
+	"http://www.datasciencecentral.com/profiles/blogs/text-analysis-101-explicit-semantic-analysis-esa-explained"
+	"http://www.analyticbridge.com/profiles/blogs/exploratory-data-analysis-kernel-density-estimation-conceptual"
 ],
 
 "MachineLearning":[

@@ -58,6 +58,8 @@
 		"http://mixandgo.com/blog/7-steps-to-better-cucumber-tests"
 		"http://blog.arkency.com/2015/04/the-event-store-for-rails-developers/"
 		"http://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/"
+
+		"https://intercityup.com/blog/integrate-rubocop-in-your-workflow.html"
 	],
 
 "Rails":[

@@ -20,4 +20,5 @@
 "http://www.r-bloggers.com/introducing-shinyjs-perform-common-javascript-operations-in-shiny-apps-using-plain-r-code/"
 "http://www.r-bloggers.com/revolution-r-open-8-0-3-now-available/"
 "http://www.r-bloggers.com/rstanmulticore-a-cross-platform-r-package-to-automatically-run-rstan-mcmc-chains-in-parallel/"
-
+"http://www.analyticbridge.com/profiles/blogs/build-basic-recommendation-engine-using-r"
+"http://www.r-bloggers.com/tidyr-challenge-update/"
