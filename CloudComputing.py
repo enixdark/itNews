@@ -15,6 +15,7 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
+			"https://www.youtube.com/watch?v=GVVtR_hrdKI&list=WL&index=6"
 			"http://blog.codefresh.io/docker-machine-basics/"
 			"https://www.airpair.com/docker/posts/getting-started-with-docker-for-the-nodejs-dev"
 			"http://blog.docker.com/2015/05/online-meetup-video-docker-machine-0-2-0/"

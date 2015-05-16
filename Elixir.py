@@ -9,5 +9,6 @@
 	"http://reefpoints.dockyard.com/2015/04/08/elixir-come-for-the-syntax-stay-for-everything-else.html"
 	"http://blog.plataformatec.com.br/2015/04/build-embedded-and-start-permanent-in-elixir-1-0-4/"
 	"https://blog.process-one.net/embedding-ejabberd-into-an-elixir-phoenix-web-application/"
+	"http://erlangcentral.org/martin-kavalar-martin-schurrer-fast-continuous-deployment-of-an-elixir-gameserver-and-phoenix-web-app-using-hot-code-upgrades/#.VVbjUOSli1E"
 ],
 

@@ -1,7 +1,7 @@
 "Erlang":[
 
 
-
+		"http://erlangcentral.org/lambda-days-2015-alexei-sholik-functional-survival-in-the-world-of-concurrent-io/#.VVbt6uSli1E"
 		"http://inaka.net/blog/2015/04/20/beautiful-code/"
 		"http://inaka.net/blog/2015/04/20/gadget/"
 		"http://erlangcentral.org/other-erldocs-alpha/#.VR1ZsMuEi-k",
@@ -25,7 +25,7 @@
 		"https://everystack.io/#!/catalog/components/mochiweb"
 		"https://www.youtube.com/watch?v=txjKo93EOZs"
 		"http://lfe.io/"
-		
+		"http://www.erlang.org/workshop/2015/ErlangWorkshop2015.html"
 		"http://erlangcentral.org/erlang-factory-sf-2015-daniel-pezely-ldb-10x-performance-increase/#.VS5jEuSEi-k"
 		"http://www.lambdadays.org/lambdadays2015/alvaro-videla"
 		"http://www.techrepublic.com/article/functional-programming-is-about-to-go-mainstream/"

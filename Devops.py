@@ -76,6 +76,7 @@
 			"http://java.dzone.com/articles/vagrant-cloud-creating-vagrant"
 		]
 		"Others":[
+			"http://java.dzone.com/articles/devops-diy-vs-commercial"
 			"http://blog.kubernetes.io/2015/04/borg-predecessor-to-kubernetes.html"
 			"blogs.technet.com/b/windowsserver/archive/2015/04/08/microsoft-announces-nano-server-for-modern-apps-and-cloud.aspx"
 			"http://redmonk.com/dberkholz/2015/04/02/quantifying-configuration-management-communities/"

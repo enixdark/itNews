@@ -1,5 +1,9 @@
 "DataScience":[
-
+	"http://www.benstopford.com/2015/04/28/elements-of-scale-composing-and-scaling-data-platforms/"
+	"http://www.datasciencecentral.com/profiles/blogs/new-in-plotly-interactive-graphs-with-ipython"
+	"http://www.analyticbridge.com/forum/topics/clustering-idea-for-very-large-datasets"
+	"http://closecalldatabase.com/"
+	"http://www.datasciencecentral.com/profiles/blogs/introduction-to-predictive-analytics-for-the-absolute-beginner"
 	"http://thomaz.me/data/visualizing-census-data-with-google-fusion-tables-tutorial/"
 	"http://www.datasciencecentral.com/profiles/blogs/big-data-and-education-data-mining"
 	"http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist"
@@ -17,6 +21,7 @@
 	"http://www.analyticbridge.com/forum/topics/semi-supervised-learnig-knn-kmeans"
 	"http://www.analyticbridge.com/profiles/blogs/data-analysis-beginners"
 	"http://willwhitney.github.io/dc-ign/www/"
+	"http://www.datasciencecentral.com/profiles/blogs/polyglot-persistence"
 	"http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free"
 	"http://www.datasciencecentral.com/profiles/blogs/privacy-vs-security-and-data-science"
 	"http://www.r-bloggers.com/scale-acceleration/"

@@ -120,6 +120,8 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+			"https://wrongsideofmemphis.wordpress.com/2014/06/09/compendium-of-wondrous-links-vi/"
+			"https://wrongsideofmemphis.wordpress.com/2014/04/19/compendium-of-wondrous-links-vol-v/"
 			"http://www.toplisttips.com/cpanel-alternative-free-web-hosting-control-panel/"
 			"https://codefisher.org/catch/blog/2015/04/22/python-how-group-and-count-dictionaries/"
 			"http://pythonhash.fx5.net/"

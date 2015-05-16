@@ -1,5 +1,8 @@
 "Javascript":{
 		"Angular":[
+			"http://ngmodules.com/"
+			"http://conceptf1.blogspot.com/p/learning-angularjs.html"
+			"http://ryanchenkie.com/angularjs-custom-filters/"
 			"http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2"
 			"http://www.infoq.com/news/2015/04/angularjs-14-ngAnimate"
 			"http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase-part-5--cms-22809"
@@ -89,6 +92,7 @@
 
 
 		"FireBase":[
+			"https://www.firebase.com/blog/2015-05-15-introducing-firebase-queue.html"
 			"https://www.twilio.com/blog/2015/04/get-notified-when-someone-posts-an-article-from-your-domain-on-hacker-news-using-node-js-firebase-and-twilio.html"
 			"https://www.firebase.com/blog/2015-04-10-realtime-maps-cartodb-firebase.html"
 			"http://java.dzone.com/articles/sign-firebase-facebook-using"
@@ -98,6 +102,7 @@
 			"https://www.youtube.com/watch?v=D-k0MeWdpao&list=PLT-DLWOBKbB6gEvXXbznfNY_opQonXMsk"
 		],
 		"Polymer":[
+			"https://blog.polymer-project.org/announcements/2015/05/14/0.9-release/"
 			"http://futurice.com/blog/declarative-apps-with-polymers-two-way-data-binding"
 		]
 		"StrongLoop":[
@@ -125,6 +130,8 @@
 
 
 		"React":[
+			"http://blog.atom.io/2015/05/15/new-autocomplete.html"
+			"http://firstdoit.com/react-1/"
 			"http://www.sitepoint.com/immutability-react/"
 			"https://facebook.github.io/react/blog/2015/05/08/react-v0.13.3.html"
 			"http://www.tabforacause.org/blog/2015/01/29/using-reactjs-and-application-cache-fast-synced-app/"
@@ -196,6 +203,7 @@
 			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 		]
 		"Nodejs":[
+			"http://blog.nodejs.org/2015/05/15/the-nodejs-foundation-benefits-all/"
 			"https://medium.com/@nodesource/node-and-arm-b5e3eebf449"
 			"http://tech.pro/tutorial/6781/series-getting-started-node-part-2-basic-routing"
 			"https://www.airpair.com/docker/posts/getting-started-with-docker-for-the-nodejs-dev"
@@ -309,6 +317,7 @@
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
+			"http://babeljs.io/blog/2015/05/14/function-bind/"
 			"https://medium.com/@mrzepinski/es6-destructuring-13ca399f993a"
 			"https://webpack.github.io/docs/hot-module-replacement.html"
 			"http://shiroyasha.github.io/oop-in-the-age-of-es6.html"
@@ -360,6 +369,9 @@
 			"http://foam-framework.github.io/foam/"
 		]
 		"Others":[
+			"http://www.sitepoint.com/comparison-javascript-http-libraries/"
+			"http://code.tutsplus.com/tutorials/javascript-loop-optimization--cms-23997"
+			"http://java.dzone.com/articles/php-dumper-using-websockets"
 			"www.infoq.com/research/javascript-frameworks-2015"
 			"http://dailyjs.com/2015/05/01/flyd-reactive-functional-programming"
 			"http://www.theregister.co.uk/2015/05/01/google_password_alert_easily_disabled_6_lines_javascript/"

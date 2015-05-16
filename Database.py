@@ -12,6 +12,7 @@
 			"http://www.dzone.com/articles/future-mysql-interview-peter"
 		],
 		"Postgresql":[
+			"http://michael.otacoo.com/postgresql-2/postgres-9-5-feature-highlight-skip-locked-row-level/"
 			"http://bonesmoses.org/2015/05/08/pg-phriday-functions-and-performance-attributes/"
 			"http://bonesmoses.org/2015/05/01/pg-phriday-reducing-writes-with-unlogged-tables/"
 			"http://postgis.net/2015/05/02/tip_enable_raster_drivers"
@@ -50,6 +51,7 @@
 
 		"SQLServer":[]
 		"Others":[
+			"https://www.periscope.io/blog/hyperloglog-in-pure-sql.html"
 			"http://www.wikivs.com/wiki/MySQL_vs_PostgreSQL"
 			"http://www.hadoop360.com/blog/accumulo-sqrrl-nosql-secure-database"
 			"http://www.brentozar.com/archive/2013/08/query-plans-what-happens-when-row-estimates-get-high/"
@@ -149,6 +151,7 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
+			"http://blog.couchbase.com/inside-couchbase-server---database-change-protocol-the-super-conductor-that-wires-couchbase-server"
 			"http://blog.couchbase.com/dropbox-drops-sync"
 			"http://blog.couchbase.com/ruby-and-n1ql-first-taste"
 			"http://blog.couchbase.com/introducing-developer-preview-for-couchbase-server-4.0"
@@ -238,6 +241,7 @@
 		],
 		
 		"Neo4j":[
+			"http://java.dzone.com/articles/visualizing-ties-between-big"
 			"http://java.dzone.com/articles/neo4j-learning-cycle?"
 			"https://www.youtube.com/watch?v=3Yn587XTNA4"
 			"http://vmturbo.com/about-virtualization/devs-are-from-venus-ops-are-from-mars-big-data-neo4j-part-3"

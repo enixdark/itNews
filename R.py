@@ -22,3 +22,5 @@
 "http://www.r-bloggers.com/rstanmulticore-a-cross-platform-r-package-to-automatically-run-rstan-mcmc-chains-in-parallel/"
 "http://www.analyticbridge.com/profiles/blogs/build-basic-recommendation-engine-using-r"
 "http://www.r-bloggers.com/tidyr-challenge-update/"
+"http://www.r-bloggers.com/in-database-r-coming-to-sql-server-2016/"
+"http://www.r-bloggers.com/because-its-friday-love-in-the-land-of-facebook/"

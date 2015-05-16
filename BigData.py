@@ -56,6 +56,7 @@
 			"http://www.javacodegeeks.com/2015/04/apache-mesos-marathon-and-java-ee.html",
 		],
 		"Mapr":[
+			"https://www.mapr.com/blog/hadoop-adoption-is-the-cluster-half-full#.VVbvlOSli1E"
 			"https://www.mapr.com/blog/5-core-business-functions-can-benefit-hadoop#.VU1smeSEi-k"
 			"https://www.mapr.com/blog/4-critical-things-consider-when-building-hadoop-rfp#.VTHF8OSEi-k"
 			"https://www.mapr.com/services/mapr-academy/big-data-hadoop-online-training"
