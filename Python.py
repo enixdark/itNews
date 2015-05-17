@@ -1,5 +1,7 @@
 "Python":{
 		"Flask":[
+			"http://blog.miguelgrinberg.com/post/celery-and-the-flask-application-factory-pattern"
+			"https://realpython.com/blog/python/the-ultimate-flask-front-end/"
 			"http://techarena51.com/index.php/one-to-many-relationships-with-flask-sqlalchemy/"
 			"http://techarena51.com/index.php/one-to-many-relationships-with-flask-sqlalchemy/"
 			"https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?"
@@ -29,7 +31,7 @@
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
-
+			"http://michal.karzynski.pl/blog/2013/06/09/django-nginx-gunicorn-virtualenv-supervisor/"
 			"http://httplambda.com/a-rest-api-with-django-and-oauthw-authentication/"
 			"http://www.lexev.org/en/2015/listen-wifi-with-wireshark/"
 			"http://blog.idego.pl/2015/02/10/how-django-uses-metaclasses/"
@@ -66,6 +68,7 @@
 			"http://davidemoro.blogspot.com/2015/04/kotti-multilingual.html"
 		],
 		"Data":[
+			"http://techartsurvival.blogspot.com/2015/05/spelchek_16.html"
 			"http://www.sqlalchemy.org/blog/2015/04/16/sqlalchemy-1.0.0-released/"
 			"https://www.youtube.com/watch?t=90&v=ja4Qj9-l6WQ"
 			"http://pbpython.com/improve-pandas-excel-output.html"
@@ -120,6 +123,9 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+		"http://www.lexev.org/en/2015/oauth-step-step/"
+		"http://blog.dscpl.com.au/2015/05/using-modwsgi-express-as-development.html"
+			"http://sahandsaba.com/combinatorial-generation-using-coroutines-in-python.html"
 			"https://wrongsideofmemphis.wordpress.com/2014/06/09/compendium-of-wondrous-links-vi/"
 			"https://wrongsideofmemphis.wordpress.com/2014/04/19/compendium-of-wondrous-links-vol-v/"
 			"http://www.toplisttips.com/cpanel-alternative-free-web-hosting-control-panel/"

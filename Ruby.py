@@ -50,6 +50,9 @@
 		"http://benjamintan.io/blog/2015/03/28/ruby-block-patterns-and-how-to-implement-file-open/"
 		"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		"http://awesome-ruby.com/"
+		"http://www.justinweiss.com/blog/2015/05/11/a-new-way-to-understand-your-rails-apps-performance/"
+		"http://www.sitepoint.com/ruby-uses-memory/"
+		"http://blog.plataformatec.com.br/2015/05/nobody-told-me-minitest-was-this-fun/"
 		"https://www.twilio.com/blog/2015/04/validate-phone-numbers-in-ruby-using-the-lookup-api.html"
 		"http://www.justinweiss.com/blog/2015/04/20/how-to-select-database-records-in-an-arbitrary-order/"
 		"http://www.saturnflyer.com/blog/jim/2015/04/22/the-difference-between-instance_eval-and-instance_exec/"
@@ -58,7 +61,7 @@
 		"http://mixandgo.com/blog/7-steps-to-better-cucumber-tests"
 		"http://blog.arkency.com/2015/04/the-event-store-for-rails-developers/"
 		"http://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/"
-
+		"https://www.rubycasts.io/episodes/decorating-ruby-classes-to-extend-behavior"
 		"https://intercityup.com/blog/integrate-rubocop-in-your-workflow.html"
 	],
 

@@ -1,5 +1,6 @@
 "Javascript":{
 		"Angular":[
+			"https://www.airpair.com/angularjs/posts/material-design-with-angularjs"
 			"http://ngmodules.com/"
 			"http://conceptf1.blogspot.com/p/learning-angularjs.html"
 			"http://ryanchenkie.com/angularjs-custom-filters/"
@@ -116,7 +117,9 @@
 			"https://iojs.org/en/faq.html"
 		],
 
-		"Ember":[
+		"Emberjs":[
+			'http://emberjs.com/blog/2015/05/10/run-up-to-two-oh.html'
+			"http://emberjs.com/blog/2015/05/13/ember-1-12-released.html"
 			"http://emberjs.com/blog/2015/01/08/inside-fastboot-faking-the-dom-in-node.html"
 			"http://blog.yodersolutions.com/why-i-recommend-emberjs-over-angularjs/"
 			"http://madhatted.com/2015/3/6/aligning-ember-js-with-web-standards-emberconf-2015"
@@ -203,6 +206,7 @@
 			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 		]
 		"Nodejs":[
+			"http://java.dzone.com/articles/websockets-support-apache"
 			"http://blog.nodejs.org/2015/05/15/the-nodejs-foundation-benefits-all/"
 			"https://medium.com/@nodesource/node-and-arm-b5e3eebf449"
 			"http://tech.pro/tutorial/6781/series-getting-started-node-part-2-basic-routing"
@@ -347,6 +351,7 @@
 			"http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
 		]
 		"Meteor":[
+			"https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV"
 			"http://learntocodewith.me/women/ciara-burkett/"
 			"https://medium.com/@grigi0/todomvc-meteor-react-with-router-animations-ae3836efe0b1"
 			"http://kipalog.com/posts/A93eb-IvcpGoFM1FS1LFgQ"
@@ -369,6 +374,8 @@
 			"http://foam-framework.github.io/foam/"
 		]
 		"Others":[
+			"http://java.dzone.com/articles/front-end-logging-made-easy"
+			"http://java.dzone.com/articles/9-unavoidable-reasons-which-0"
 			"http://www.sitepoint.com/comparison-javascript-http-libraries/"
 			"http://code.tutsplus.com/tutorials/javascript-loop-optimization--cms-23997"
 			"http://java.dzone.com/articles/php-dumper-using-websockets"

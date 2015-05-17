@@ -1,5 +1,6 @@
 "http://java.dzone.com/articles/r-removing-loops"
 "http://adv-r.had.co.nz/"
+"http://www.r-bloggers.com/r-recipe-reordering-columns-in-a-flexible-way/"
 "http://www.r-bloggers.com/a-simple-explanation-of-rejection-sampling-in-r/"
 "http://www.r-bloggers.com/write-an-r-journal-article-with-knitr/"
 "http://www.r-bloggers.com/id3-classification-using-data-tree/"

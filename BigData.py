@@ -1,5 +1,7 @@
 "BigData":{
 		"Hadoop":[
+			"http://appaloud.com/splice-machine-takes-big-step-releasing-version-1-0-hadoop-rdbms/"
+			"http://siliconangle.com/blog/2015/05/15/oracle-announces-new-spatial-graph-tools-for-hadoop-and-nosql/"
 			"http://www.datasciencecentral.com/profiles/blogs/get-started-with-hadoop-and-spark-in-10-minutes"
 			"http://hortonworks.com/blog/resilience-of-yarn-applications-across-nodemanager-restarts/"
 			"http://hortonworks.com/blog/hortonworks-acquires-sequenceiq-to-provide-automated-deployment-of-hadoop-everywhere/"
@@ -84,6 +86,7 @@
 			"http://examples.javacodegeeks.com/core-java/apache-camel-hello-world-example/"
 		]
 		"Others":[
+			"http://www.dzone.com/mz/big-data"
 			"http://www.datasciencecentral.com/group/resources/forum/topics/big-data-poster"
 			"http://www.theregister.co.uk/2012/11/07/big_data_analytics"
 			"http://www.analyticbridge.com/profiles/blogs/what-mapreduce-can-t-do"

@@ -16,5 +16,6 @@
 	"https://blog.compose.io/go-rethinkdb-and-changefeeds-part-2"
 	"https://blog.compose.io/go-rethinkdb-and-change-feeds-part-1",
 	"http://mkaczanowski.com/golang-build-dynamic-dns-service-go/"
+	"http://java.dzone.com/articles/exploring-go-template-engine"
 	
 }

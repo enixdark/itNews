@@ -48,9 +48,10 @@
 	"http://www.machinalis.com/blog/rt-notifications-gevent-gis/.com&utm_campaign=buffer"
 	"http://www.datasciencecentral.com/profiles/blogs/text-analysis-101-explicit-semantic-analysis-esa-explained"
 	"http://www.analyticbridge.com/profiles/blogs/exploratory-data-analysis-kernel-density-estimation-conceptual"
-],
+],"http://grail.cs.washington.edu/projects/timelapse/"
 
 "MachineLearning":[
+"http://www.analyticbridge.com/profiles/blogs/machine-learning-in-python-has-never-been-easier"
 "http://tech.gc.com/bayesian-statistics-and-multi-armed-bandits/"
 	"http://www.datasciencecentral.com/profiles/blogs/all-machine-learning-models-have-flaws-1"
 	"http://www.datasciencecentral.com/profiles/blogs/machine-learning-an-overview"

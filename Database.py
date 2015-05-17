@@ -12,6 +12,10 @@
 			"http://www.dzone.com/articles/future-mysql-interview-peter"
 		],
 		"Postgresql":[
+			"http://joelonsql.com/2015/05/16/finding-missing-foreign-keys/"
+			"http://www.thatguyfromdelhi.com/2015/05/postgres-finally-has-cube-rollup.html"
+			"http://www.thatguyfromdelhi.com/2015/05/basic-olap-support-in-postgresql.html"
+			"http://www.technology-ebay.de/the-teams/mobile-de/blog/postgresql-table-partitioning-hibernate.html"
 			"http://michael.otacoo.com/postgresql-2/postgres-9-5-feature-highlight-skip-locked-row-level/"
 			"http://bonesmoses.org/2015/05/08/pg-phriday-functions-and-performance-attributes/"
 			"http://bonesmoses.org/2015/05/01/pg-phriday-reducing-writes-with-unlogged-tables/"
@@ -151,6 +155,7 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
+		`"http://blog.cloudera.com/blog/2015/05/scan-improvements-in-apache-hbase-1-1-0/"
 			"http://blog.couchbase.com/inside-couchbase-server---database-change-protocol-the-super-conductor-that-wires-couchbase-server"
 			"http://blog.couchbase.com/dropbox-drops-sync"
 			"http://blog.couchbase.com/ruby-and-n1ql-first-taste"

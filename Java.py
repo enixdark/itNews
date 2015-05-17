@@ -1,4 +1,7 @@
 "Java":[
+"http://www.javacodegeeks.com/2014/08/java-concurrency-tutorial-thread-safe-designs.html"
+		"http://java.dzone.com/articles/logstash-sequence-grok-blocks"
+		"http://examples.javacodegeeks.com/core-java/json-jax-rs-example/"
 		"http://examples.javacodegeeks.com/core-java/util/concurrent/java-8-concurrency-tutorial/"
 		"http://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-4-rest-hello-world-example"
 		"http://www.javacodegeeks.com/2013/09/whats-new-in-java-8-part-ii-what-might-come.html"
