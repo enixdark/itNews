@@ -75,6 +75,7 @@
 			"http://java.dzone.com/articles/dzone-refcardz-getting-started?mz=62447-cloud"
 		],
 		"Others":[
+			"https://cloudant.com/product/why-dbaas/"
 			"http://java.dzone.com/articles/selecting-cloud-monitoring"
 			"https://redskyvision.wistia.com/medias/b63qbipp40"
 			"http://www.cloudcomputing-news.net/news/2015/apr/17/arm-based-servers-next-evolution-cloud/"

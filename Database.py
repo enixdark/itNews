@@ -155,6 +155,7 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
+		"http://blog.couchbase.com/sql-for-documents-n1ql-brief-introduction-to-query-planning"
 		`"http://blog.cloudera.com/blog/2015/05/scan-improvements-in-apache-hbase-1-1-0/"
 			"http://blog.couchbase.com/inside-couchbase-server---database-change-protocol-the-super-conductor-that-wires-couchbase-server"
 			"http://blog.couchbase.com/dropbox-drops-sync"
@@ -246,6 +247,8 @@
 		],
 		
 		"Neo4j":[
+			"http://www.markhneedham.com/blog/2015/05/16/neo4j-bbc-football-live-text-fouls-graph/"
+			"http://blog.bruggen.com/2015/05/cycling-tweets-part-3-adding-friends-to.html"
 			"http://java.dzone.com/articles/visualizing-ties-between-big"
 			"http://java.dzone.com/articles/neo4j-learning-cycle?"
 			"https://www.youtube.com/watch?v=3Yn587XTNA4"
@@ -286,6 +289,7 @@
 			"http://www.markhneedham.com/blog/2015/04/01/neo4j-cypher-building-the-query-for-a-movies-profile-page/"
 		],
 		"Cassandra":[
+			"http://www.datasciencecentral.com/profiles/blogs/cassandra-modeling-for-real-time-analytics"
 			"http://www.datastax.com/dev/blog/performance-doubling-with-message-coalescing"
 			"http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store#.VS7k6ien4Cs.hackernews"
 			"www.datastax.com/dev/blog/benchmarking-larger-than-memory-workloads"

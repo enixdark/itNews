@@ -51,6 +51,7 @@
 			"http://www.infoq.com/news/2015/03/pinterest-memsql-spark-streaming+news&utm_campaign=calendar"
 		],
 		"Mesos":[
+			"http://www.datasciencecentral.com/profiles/blogs/spark-shark-and-mesos-data-analytics-stack"
 			"www.datasciencecentral.com/profiles/blogs/spark-shark-and-mesos-data-analytics-stack"
 			"http://www.javacodegeeks.com/2014/01/getting-started-with-apache-mesos-and-apache-aurora-using-vagrant.html"
 			"http://radar.oreilly.com/2015/02/a-tale-of-two-clusters-mesos-and-yarn.html"

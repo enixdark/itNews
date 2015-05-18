@@ -26,11 +26,12 @@
 			"http://techstonia.github.io/twilio-voice-blog.html.com"
 			"http://www.matthieuamiguet.ch/blog/synchronize-clients-flask-application-websockets.com"
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/"
-			""
+			"https://realpython.com/blog/python/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/#.VVk65rJUgX0.twitter"
 			""
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
+			"http://adamj.eu/tech/2015/05/17/building-a-better-databasecache-for-django-on-mysql/"
 			"http://michal.karzynski.pl/blog/2013/06/09/django-nginx-gunicorn-virtualenv-supervisor/"
 			"http://httplambda.com/a-rest-api-with-django-and-oauthw-authentication/"
 			"http://www.lexev.org/en/2015/listen-wifi-with-wireshark/"
@@ -68,6 +69,7 @@
 			"http://davidemoro.blogspot.com/2015/04/kotti-multilingual.html"
 		],
 		"Data":[
+			"http://pbpython.com/github-notebooks-other-updates.html"
 			"http://techartsurvival.blogspot.com/2015/05/spelchek_16.html"
 			"http://www.sqlalchemy.org/blog/2015/04/16/sqlalchemy-1.0.0-released/"
 			"https://www.youtube.com/watch?t=90&v=ja4Qj9-l6WQ"
@@ -123,6 +125,10 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+
+		"http://late.am/post/2015/05/07/optimize-python-with-closures.html"
+		"http://rustyrazorblade.com/2015/05/spark-streaming-with-python-and-kafka/"
+		"http://motherboard.vice.com/read/how-to-make-a-human-brain-in-python"
 		"http://www.lexev.org/en/2015/oauth-step-step/"
 		"http://blog.dscpl.com.au/2015/05/using-modwsgi-express-as-development.html"
 			"http://sahandsaba.com/combinatorial-generation-using-coroutines-in-python.html"

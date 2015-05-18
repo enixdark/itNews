@@ -1,4 +1,5 @@
 "Java":[
+"http://examples.javacodegeeks.com/core-java/util/concurrent/java-8-parallel-arrays-example/"
 "http://www.javacodegeeks.com/2014/08/java-concurrency-tutorial-thread-safe-designs.html"
 		"http://java.dzone.com/articles/logstash-sequence-grok-blocks"
 		"http://examples.javacodegeeks.com/core-java/json-jax-rs-example/"

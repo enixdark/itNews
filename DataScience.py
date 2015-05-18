@@ -1,4 +1,5 @@
 "DataScience":[
+	"http://www.datasciencecentral.com/forum/topics/how-to-determine-the-optimum-number-of-variables"
 	"http://www.benstopford.com/2015/04/28/elements-of-scale-composing-and-scaling-data-platforms/"
 	"http://www.datasciencecentral.com/profiles/blogs/new-in-plotly-interactive-graphs-with-ipython"
 	"http://www.analyticbridge.com/forum/topics/clustering-idea-for-very-large-datasets"

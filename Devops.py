@@ -19,6 +19,7 @@
 		"LightHttp":[],
 
 		"Ansible":[
+			"http://www.ansible.com/blog/ansible-vagrant"
 			"http://tjelvarolsson.com/blog/ansible-playbook-for-installing-the-gbrowse-genome-browser/"
 			"http://www.ansible.com/blog/ansible-at-pycon-achieving-continuous-delivery-an-automation-story-video"
 			"http://www.ansible.com/how-ansible-works"
