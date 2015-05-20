@@ -60,6 +60,8 @@
 		],
 		"SaltStack":[],
 		"ElastickSearch":[
+			"https://www.elastic.co/blog/elasticsearch-at-predikto?blade=tw"
+			"https://www.elastic.co/blog/how-to-check-logstashs-pulse"
 			"https://www.elastic.co/blog/how-to-handle-elasticsearch-virtualization"
 			"https://www.elastic.co/blog/nest-1-5-released"
 			"https://www.elastic.co/blog/2015-05-01-logstash-lines"

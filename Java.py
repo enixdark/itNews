@@ -1,6 +1,10 @@
 "Java":[
+"http://psy-lob-saw.blogspot.com/2015/05/degrees-of-lockwait-freedom.html"
+"https://docs.newrelic.com/docs/release-notes/agent-release-notes/java-release-notes"
+"http://java.dzone.com/articles/r-replacing-loops-data-frames"
 "http://examples.javacodegeeks.com/core-java/util/concurrent/java-8-parallel-arrays-example/"
 "http://www.javacodegeeks.com/2014/08/java-concurrency-tutorial-thread-safe-designs.html"
+		"http://examples.javacodegeeks.com/core-java/java-recursion-example"
 		"http://java.dzone.com/articles/logstash-sequence-grok-blocks"
 		"http://examples.javacodegeeks.com/core-java/json-jax-rs-example/"
 		"http://examples.javacodegeeks.com/core-java/util/concurrent/java-8-concurrency-tutorial/"

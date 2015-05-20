@@ -1,4 +1,8 @@
 "Erlang":[
+
+		"https://www.erlang-solutions.com/downloads/download-elixir"
+		"http://sibilantjs.info/"
+		"http://mostlyerlang.com/"
 		"https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/From-Parallel-to-Concurrent"
 		"http://blog.lfe.io/tutorials/2015/05/15/2306-lfe-friday---filelibis_file1/"
 		"http://erlangcentral.org/lambda-days-2015-alexei-sholik-functional-survival-in-the-world-of-concurrent-io/#.VVbt6uSli1E"

@@ -1,4 +1,5 @@
 "Scala":[
+	"http://www.typesafe.com/blog/the-3-pains-operations-feels-when-deploying-and-managing-reactive-applications"
 	"https://www.parleys.com/channel/scala-days-san-francisco-2015"
 	"http://docs.scala-lang.org/overviews/macros/changelog211.html"
 	"http://scala-lang.org/news/2.11.1"
@@ -12,7 +13,7 @@
 	"http://letitcrash.com/post/113805166317/akka-cluster-load-balancing"
 	"http://www.reactivemanifesto.org/"
 	"https://vimeo.com/125440021"
-
+	"http://underscore.io/blog/posts/2015/05/15/slick-enrichment.html"
 	"https://developerblog.redhat.com/2015/04/22/scala-vs-node-js-as-a-restful-backend-server/"
 	"http://virtuslab.com/blog/debugging-implicits/"
 	"https://engineering.linkedin.com/play/developing-play-applications-using-gradle"

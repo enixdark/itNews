@@ -1,3 +1,9 @@
+
+
+"http://www.inside-r.org/r-doc/base/pmax"
+"http://www.r-bloggers.com/fast-parallel-computing-with-intel-phi-coprocessors/"
+"http://www.r-bloggers.com/basic-text-string-functions-in-r/"
+"http://www.r-bloggers.com/unsupervised-google-maps-image-classification/"
 "http://java.dzone.com/articles/r-removing-loops"
 "http://adv-r.had.co.nz/"
 "http://www.r-bloggers.com/r-recipe-reordering-columns-in-a-flexible-way/"

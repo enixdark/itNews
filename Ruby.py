@@ -1,4 +1,5 @@
 "Ruby":[
+		"http://jnape.com/kolmogorov-complexity/"
 		"http://blog.codeship.com/ruby-class-to-write-functional-code/"
 		"http://neo4j.com/developer/ruby/"
 		"http://inaka.net/blog/2015/03/25/hot-score-with-ruby-postgresql-and-elastic-part-1/"

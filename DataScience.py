@@ -59,5 +59,6 @@
 ]
 
 "Book":[
+	"http://designimag.com/best-free-machine-learning-ebooks/"
 	"http://www.datasciencecentral.com/profiles/blogs/my-data-science-book"
 ]

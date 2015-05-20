@@ -5,6 +5,6 @@
 	"http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html"
 	"http://huonw.github.io/blog/2015/05/finding-closure-in-rust/"
 	"http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html"
-
+	"http://www.hashmismatch.net/2015/05/18/pragmatic-bare-metal-rust.html"
 	"http://code.tutsplus.com/tutorials/javascript-loop-optimization--cms-23997"
 ]

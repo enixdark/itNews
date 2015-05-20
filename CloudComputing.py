@@ -70,6 +70,9 @@
 			"http://java.dzone.com/articles/workflow-automation-pt-ii"
 			"https://www.calazan.com/using-docker-and-docker-compose-for-local-django-development-replacing-virtualenv/"
 		],
+		"CoreOS":[
+			"http://blog.force12.io/2015/05/19/monitoring-docker-with-new-relic-on-coreos-and-ecs.html"
+		]
 		"Openstack":[
 			"http://java.dzone.com/articles/openstack-startup-series-1"
 			"http://java.dzone.com/articles/dzone-refcardz-getting-started?mz=62447-cloud"

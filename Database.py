@@ -99,6 +99,7 @@
 			"http://www.cleardb.com/blog/entry?id=pr/5-8-2015/cleardb-iron-live-workload-performance-metrics"
 		]
 		"Mongodb":[
+			"http://www.mongodb.com/webinar/scaling-mongodb-may-2015"
 			"http://onefold.io/article/MTg="
 			"https://www.mongodb.com/blog/post/meteor-build-ios-and-android-apps-are-delight-use"
 			"http://www.mongodb.com/blog/post/new-compression-options-mongodb-30"
@@ -288,7 +289,10 @@
 			"http://neo4j.com/blog/due-ceo-demand-neo4j-2-2-features-ascii-art-graph-browser/",
 			"http://www.markhneedham.com/blog/2015/04/01/neo4j-cypher-building-the-query-for-a-movies-profile-page/"
 		],
+
 		"Cassandra":[
+			"http://www.cascading.org/2015/05/19/cascading-2-7-release/"
+			"http://www.datastax.com/2015/05/datastax-announces-dse-4-7-with-integrated-search-analytics-and-in-memory"
 			"http://www.datasciencecentral.com/profiles/blogs/cassandra-modeling-for-real-time-analytics"
 			"http://www.datastax.com/dev/blog/performance-doubling-with-message-coalescing"
 			"http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store#.VS7k6ien4Cs.hackernews"
@@ -327,6 +331,7 @@
 			"http://channel9.msdn.com/Blogs/Windows-Azure/Azure-Demo-Getting-started-with-Azure-DocumentDB-on-Nodejs-in-Linux"
 		]
 		"Riak":[
+			"http://basho.com/understanding-riak_core-building-handoff/"
 			"http://www.slideshare.net/sargund/erlangotp-and-some-of-riak"
 			"https://gigaom.com/2015/01/12/basho-creator-of-nosql-riak-database-raises-25m/"
 			"http://basho.com/riak-2-1-and-riak-cs-2-0-increased-performance-and-product-enhancements/"
@@ -383,10 +388,12 @@
 		]
 	},
 	"Others":[
+		"http://www.datasciencecentral.com/profiles/blogs/list-of-nosql-databases"
 		"http://java.dzone.com/articles/what-dataops-why-you-need-it"
 		"https://linkurio.us/announcing-linkurious-enterprise-the-first-data-visualization-platform-for-graph-databases/"
 		"https://seroter.wordpress.com/2015/04/21/using-multiple-nosql-database-models-with-orchestrate-and-node-js/"
 			"http://blogs.the451group.com/information_management/2015/04/07/nosql-linkedin-skills-index-march-2015/"
+			"https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
 			"http://www.slideshare.net/8kdata/toro-db-pgconfny2015"
 			"http://mangolassi.it/topic/4545/when-to-use-sql-or-nosql"
 			"http://www.aerospike.com/get-started/"

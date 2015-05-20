@@ -31,6 +31,7 @@
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
+			"https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-real-time-data"
 			"http://adamj.eu/tech/2015/05/17/building-a-better-databasecache-for-django-on-mysql/"
 			"http://michal.karzynski.pl/blog/2013/06/09/django-nginx-gunicorn-virtualenv-supervisor/"
 			"http://httplambda.com/a-rest-api-with-django-and-oauthw-authentication/"
@@ -69,6 +70,7 @@
 			"http://davidemoro.blogspot.com/2015/04/kotti-multilingual.html"
 		],
 		"Data":[
+			"https://beta.oreilly.com/learning/intro-to-svm"
 			"http://pbpython.com/github-notebooks-other-updates.html"
 			"http://techartsurvival.blogspot.com/2015/05/spelchek_16.html"
 			"http://www.sqlalchemy.org/blog/2015/04/16/sqlalchemy-1.0.0-released/"
@@ -125,7 +127,12 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
-
+		"https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/"
+		"https://lwn.net/SubscriberLink/643786/9c0bd83dff0df3b8/"
+		"http://ruslanspivak.com/lsbaws-part3/"
+		"http://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/"
+		"http://blog.dscpl.com.au/2015/05/returning-string-as-iterable-from-wsgi.html"
+		"http://lgiordani.com/blog/2015/05/13/python-oop-tdd-example-part1/#.VVvxaryli1F"
 		"http://late.am/post/2015/05/07/optimize-python-with-closures.html"
 		"http://rustyrazorblade.com/2015/05/spark-streaming-with-python-and-kafka/"
 		"http://motherboard.vice.com/read/how-to-make-a-human-brain-in-python"

@@ -1,5 +1,6 @@
 "BigData":{
 		"Hadoop":[
+			"http://www.hadoop360.com/blog/hadoop-whose-to-choose"
 			"http://appaloud.com/splice-machine-takes-big-step-releasing-version-1-0-hadoop-rdbms/"
 			"http://siliconangle.com/blog/2015/05/15/oracle-announces-new-spatial-graph-tools-for-hadoop-and-nosql/"
 			"http://www.datasciencecentral.com/profiles/blogs/get-started-with-hadoop-and-spark-in-10-minutes"
@@ -24,9 +25,14 @@
 			"http://www.hadoop360.com/blog/8-hadoop-articles-that-you-should-read"
 			"http://vision.cloudera.com/data-governance-in-hadoop-part-2/"
 		],
+		"ApacheStorm":[
+			"http://lucidworks.com/blog/integrating-storm-and-solr/"
+		]
 
 
 		"Spark":[
+			"http://java.dzone.com/articles/spark-sql-against-cassandra"
+			"http://emerginginsightsnow.com/2015/05/17/apache-spark-ecosystem-grows-rapidly-has-hadoop-met-its-match/"
 			"http://www.enterpriseappstoday.com/data-management/is-apache-spark-enterprise-ready.html"
 			"http://www.duchess-france.org/analyze-accelerometer-data-with-apache-spark-and-mllib/"
 			"http://www.hadoop360.com/blog/spark-shark-and-mesos-data-analytics-stack"
@@ -59,6 +65,7 @@
 			"http://www.javacodegeeks.com/2015/04/apache-mesos-marathon-and-java-ee.html",
 		],
 		"Mapr":[
+			"http://www.itbusinessedge.com/blogs/it-unmasked/mapr-ships-drill-sql-engine.html"
 			"https://www.mapr.com/blog/hadoop-adoption-is-the-cluster-half-full#.VVbvlOSli1E"
 			"https://www.mapr.com/blog/5-core-business-functions-can-benefit-hadoop#.VU1smeSEi-k"
 			"https://www.mapr.com/blog/4-critical-things-consider-when-building-hadoop-rfp#.VTHF8OSEi-k"
@@ -69,6 +76,7 @@
 			"https://www.mapr.com/resources/videos/apache-drill-redefining-sql-hadoop-0",
 		]
 		"ApacheDrill":[
+			"https://www.mapr.com/blog/industrys-first-schema-free-sql-engine-apache-drill-10-now-generally-available#.VVvwOryli1F"
 			"https://www.youtube.com/watch?v=FkcegazNuio"
 			"http://www.datasciencecentral.com/profiles/blogs/drill-data-with-apache-drill"
 			"http://www.dbta.com/BigDataQuarterly/Articles/The-Importance-of-Apache-Drill-to-the-Big-Data-Ecosystem-103000.aspx"
@@ -84,6 +92,7 @@
 			"https://engineering.linkedin.com/kafka/running-kafka-scale"
 		]
 		"ApacheCamel":[
+			"http://examples.javacodegeeks.com/core-java/apache-camel-timer-example/"
 			"http://examples.javacodegeeks.com/core-java/apache-camel-hello-world-example/"
 		]
 		"Others":[

@@ -1,5 +1,6 @@
 "Javascript":{
 		"Angular":[
+			"http://www.webcodegeeks.com/javascript/angular-js/top-5-mistakes-angularjs-developers-make-part-1-relying-scope/"
 			"https://www.airpair.com/angularjs/posts/material-design-with-angularjs"
 			"http://ngmodules.com/"
 			"http://conceptf1.blogspot.com/p/learning-angularjs.html"
@@ -94,6 +95,7 @@
 
 		"FireBase":[
 			"https://www.firebase.com/blog/2015-05-15-introducing-firebase-queue.html"
+			"https://www.firebase.com/blog/2015-05-15-introducing-firebase-queue.html"
 			"https://www.twilio.com/blog/2015/04/get-notified-when-someone-posts-an-article-from-your-domain-on-hacker-news-using-node-js-firebase-and-twilio.html"
 			"https://www.firebase.com/blog/2015-04-10-realtime-maps-cartodb-firebase.html"
 			"http://java.dzone.com/articles/sign-firebase-facebook-using"
@@ -118,6 +120,7 @@
 		],
 
 		"Emberjs":[
+			""
 			'http://emberjs.com/blog/2015/05/10/run-up-to-two-oh.html'
 			"http://emberjs.com/blog/2015/05/13/ember-1-12-released.html"
 			"http://emberjs.com/blog/2015/01/08/inside-fastboot-faking-the-dom-in-node.html"
@@ -278,8 +281,8 @@
 			"http://tutorialzine.com/2015/02/smartphone-remote-control-for-presentations/"
 			"http://knowthen.com/episode-10-building-realtime-applications-just-got-easy/"
 		]
-		"BackBone":[
-
+		"BackBonejs":[
+			"http://www.webcodegeeks.com/javascript/backbone-js/backbone-js-events-example"
 			"https://code.mixpanel.com/2015/04/08/straightening-our-backbone-a-lesson-in-event-driven-ui-development/"
 			"http://www.webcodegeeks.com/javascript/backbone-js/backbone-js-events-example/"
 		],
@@ -324,6 +327,8 @@
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
+			"http://blog.codepen.io/2015/05/19/babel-now-on-codepen-write-es6-javascript-and-react-jsx/"
+			"http://codemix.com/blog/why-babel-matters"
 			"http://babeljs.io/blog/2015/05/14/function-bind/"
 			"https://medium.com/@mrzepinski/es6-destructuring-13ca399f993a"
 			"https://webpack.github.io/docs/hot-module-replacement.html"
@@ -354,6 +359,7 @@
 			"http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
 		]
 		"Meteor":[
+			"http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/"
 			"https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV"
 			"http://learntocodewith.me/women/ciara-burkett/"
 			"https://medium.com/@grigi0/todomvc-meteor-react-with-router-animations-ae3836efe0b1"

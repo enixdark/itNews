@@ -1,4 +1,5 @@
 "CSS":[
+		"http://www.webcodegeeks.com/css/css-text-shadow-example/"
 		"http://www.webcodegeeks.com/css/css-multiple-classes-example/"
 		"http://www.webcodegeeks.com/css/css-table-design-example/"
 		"http://superdevresources.com/material-design-web-ui-frameworks/",
