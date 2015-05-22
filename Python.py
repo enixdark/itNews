@@ -1,5 +1,6 @@
 "Python":{
 		"Flask":[
+			"http://hackingdistributed.com/2015/05/20/hyperdex-flask/"
 			"http://blog.miguelgrinberg.com/post/celery-and-the-flask-application-factory-pattern"
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/"
 			"http://techarena51.com/index.php/one-to-many-relationships-with-flask-sqlalchemy/"
@@ -31,6 +32,9 @@
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
+			"http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/"
+			"http://www.marinamele.com/taskbuster-django-tutorial"
+			"https://realpython.com/blog/python/fun-with-djangos-new-postgres-features/"
 			"https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-real-time-data"
 			"http://adamj.eu/tech/2015/05/17/building-a-better-databasecache-for-django-on-mysql/"
 			"http://michal.karzynski.pl/blog/2013/06/09/django-nginx-gunicorn-virtualenv-supervisor/"
@@ -127,6 +131,7 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+		"http://late.am/post/2015/05/07/optimize-python-with-closures.html"
 		"https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/"
 		"https://lwn.net/SubscriberLink/643786/9c0bd83dff0df3b8/"
 		"http://ruslanspivak.com/lsbaws-part3/"

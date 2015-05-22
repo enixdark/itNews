@@ -1,9 +1,13 @@
 "Java":[
+"http://examples.javacodegeeks.com/enterprise-java/spring/spring-data-tutorial-beginners/"
+"http://www.jooq.org/java-8-and-sql"
 "http://psy-lob-saw.blogspot.com/2015/05/degrees-of-lockwait-freedom.html"
 "https://docs.newrelic.com/docs/release-notes/agent-release-notes/java-release-notes"
 "http://java.dzone.com/articles/r-replacing-loops-data-frames"
+"http://www.javacodegeeks.com/2014/09/5-error-tracking-tools-java-developers-should-know.html"
 "http://examples.javacodegeeks.com/core-java/util/concurrent/java-8-parallel-arrays-example/"
 "http://www.javacodegeeks.com/2014/08/java-concurrency-tutorial-thread-safe-designs.html"
+		"http://www.javacodegeeks.com/2014/09/garbage-collection-increasing-the-throughput.html?"
 		"http://examples.javacodegeeks.com/core-java/java-recursion-example"
 		"http://java.dzone.com/articles/logstash-sequence-grok-blocks"
 		"http://examples.javacodegeeks.com/core-java/json-jax-rs-example/"

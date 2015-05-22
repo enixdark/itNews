@@ -1,6 +1,8 @@
 "Database":{
 		"SQL":[
 		"MySQL":[
+			"http://githubengineering.com/using-mysql-performance-schema-for-workload-analysis/"
+			"http://mysqlserverteam.com/the-mysql-optimizer-cost-model-project/"
 			"http://java.dzone.com/articles/5-steps-migrate-mysql"
 			"http://blog.scoutapp.com/articles/2014/12/19/from-mysql-full-text-search-to-elasticsearch"
 			"http://java.dzone.com/articles/profiling-mysql-queries"
@@ -12,6 +14,7 @@
 			"http://www.dzone.com/articles/future-mysql-interview-peter"
 		],
 		"Postgresql":[
+			"http://vitesse-timing-on.blogspot.com/2015/05/comparing-two-tables.html"
 			"http://joelonsql.com/2015/05/16/finding-missing-foreign-keys/"
 			"http://www.thatguyfromdelhi.com/2015/05/postgres-finally-has-cube-rollup.html"
 			"http://www.thatguyfromdelhi.com/2015/05/basic-olap-support-in-postgresql.html"
@@ -52,9 +55,13 @@
 			"http://8kb.co.uk/blog/2015/04/02/being-cavalier-with-slony-nodes-and-pg_dumppg_restore/",
 		],
 		"Oracle":[],
+		"MemSQL":[
+			"http://www.memsql.com/releases/memsql-4/"
+		]
 
 		"SQLServer":[]
 		"Others":[
+			"http://blog.memsql.com/memsql-community-edition/"
 			"https://www.periscope.io/blog/hyperloglog-in-pure-sql.html"
 			"http://www.wikivs.com/wiki/MySQL_vs_PostgreSQL"
 			"http://www.hadoop360.com/blog/accumulo-sqrrl-nosql-secure-database"
@@ -67,6 +74,10 @@
 			"http://java.dzone.com/articles/illustrating-primary-key"
 		]
 		"RethinkDB":[
+			"https://strongloop.com/strongblog/rethinkdb-connector-loopback-node-js-framework/"
+			"http://blog.fanout.io/2015/05/20/building-a-realtime-api-with-rethinkdb/"
+			"http://www.rethinkdb.com/blog/rethinkdb-pubnub/"
+			"http://blog.fanout.io/2015/05/20/building-a-realtime-api-with-rethinkdb/"
 	        "http://rethinkdb.com/blog/realtime-web/"
 			"https://www.compose.io/articles/re-updates-for-redis-and-rethinkdb/"
 			"http://rob.conery.io/2015/04/17/rethinkdb-2-0-is-amazing/"
@@ -87,6 +98,7 @@
 			"http://pizzaconnections.net/2015/03/27/148/"
 		]
 		"VoltDB":[
+			"http://voltdb.com/blog/voltdb-memory-database-achieves-best-class-results-running-cloud-ycsb-benchmark"
 			"http://docs.voltdb.com/UsingVoltDB/sqlref_upsert.php"
 			"http://radar.oreilly.com/2015/04/a-real-time-tool-for-a-real-time-problem.html"
 			"http://highscalability.com/blog/2015/4/13/three-fast-data-application-patterns.html"
@@ -99,6 +111,16 @@
 			"http://www.cleardb.com/blog/entry?id=pr/5-8-2015/cleardb-iron-live-workload-performance-metrics"
 		]
 		"Mongodb":[
+			"http://www.mongodb.com/blog/post/new-compression-options-mongodb-30"
+			"http://www.bennadel.com/blog/2830-learning-node-js-building-a-simple-api-powered-by-mongodb.htm"
+			"http://blazemeter.com/blog/how-load-test-mongodb-jmeter"
+			"https://strongloop.com/strongblog/getting-started-with-node-js-loopback-connector-for-arangodb/"
+			"https://www.mongodb.com/blog/post/thinking-documents-part-2"
+			"http://www.codeproject.com/Articles/987203/Best-Practices-for-GUID-data-in-MongoDB"
+			"http://www.mongodb.com/blog/post/retail-reference-architecture-part-3-query-optimization-and-scaling"
+			"http://java.dzone.com/articles/creating-test-data-mongodb-0"
+			"https://www.mongodb.com/blog/post/retail-reference-architecture-part-3-query-optimization-and-scaling"
+			"http://www.mongodb.com/blog/post/how-mongodb-powers-social-platform-taking-london-storm"
 			"http://www.mongodb.com/webinar/scaling-mongodb-may-2015"
 			"http://onefold.io/article/MTg="
 			"https://www.mongodb.com/blog/post/meteor-build-ios-and-android-apps-are-delight-use"
@@ -156,6 +178,12 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
+			""https://strongloop.com/strongblog/node-js-loopback-js-couchbase-connector/"
+			"http://blog.couchbase.com/manual-secondary-indexes"
+			"http://blog.couchbase.com/tutorial-implement-android-push-notifications-in-your-couchbase-mobile-app""
+			"http://blog.couchbase.com/tutorial-dropbox-datastore-sync"
+			"http://highscalability.com/blog/2015/5/20/database-scaling-redefined-scaling-demanding-queries-high-ve.html"
+			"http://blog.couchbase.com/introducing-developer-preview-for-couchbase-server-4.0"
 		"http://blog.couchbase.com/sql-for-documents-n1ql-brief-introduction-to-query-planning"
 		`"http://blog.cloudera.com/blog/2015/05/scan-improvements-in-apache-hbase-1-1-0/"
 			"http://blog.couchbase.com/inside-couchbase-server---database-change-protocol-the-super-conductor-that-wires-couchbase-server"
@@ -205,6 +233,8 @@
 			"http://blog.couchbase.com/introducing-developer-preview-for-couchbase-server-4.0"
 		],
 		"CouchDB":[	
+			"http://docs.ehealthafrica.org/couchdb-best-practices/"
+			"http://www.terlici.com/2015/04/28/couchdb-node-express.html"
 			"http://blogs.the451group.com/information_management/2011/12/09/the-geographic-distribution-of-nosql-skills-couchdb-and-neo4j/"
 			"http://blog.couchdb.org/2015/04/23/couchdb-weekly-news-april-23-2015/"
 			"https://www.smileupps.com/couchapp-tutorial-chatty"
@@ -222,6 +252,9 @@
 			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
 		]
 		"Redis":[
+			"https://www.youtube.com/watch?v=pvNrK2ln0Dw"
+			"https://blog.newrelic.com/2015/05/11/redis-performance-metrics/"
+			"https://www.youtube.com/watch?v=yS-Z9JnkWsA"
 			"http://blog.pivotal.io/cloud-foundry-pivotal/products/chaos-lemur-testing-high-availability-on-pivotal-cloud-foundry"
 			"https://www.arangodb.com/2015/04/creating-multi-game-highscore-lists/"
 			"https://redislabs.com/blog/redis-ram-ramifications-i"
@@ -248,6 +281,12 @@
 		],
 		
 		"Neo4j":[
+			"https://www.youtube.com/watch?v=2IjIMCJbLhc"
+			"https://www.youtube.com/watch?v=Nkd6Ei-xuxI"
+			"http://www.kennybastani.com/2015/05/graph-analysis-microservice-neo4j.html"
+			"https://www.youtube.com/watch?v=IRTgsxL9V8g"
+			"http://www.infoq.com/articles/full-stack-web-development-using-neo4j"
+			"http://www.lyonwj.com/using-neo4j-spatial-and-leaflet-js-with-mapbox/"
 			"http://www.markhneedham.com/blog/2015/05/16/neo4j-bbc-football-live-text-fouls-graph/"
 			"http://blog.bruggen.com/2015/05/cycling-tweets-part-3-adding-friends-to.html"
 			"http://java.dzone.com/articles/visualizing-ties-between-big"
@@ -291,6 +330,10 @@
 		],
 
 		"Cassandra":[
+			"https://www.airpair.com/cassandra/posts/vetting-apache-cassandra"
+			"http://www.datastax.com/dev/blog/performance-doubling-with-message-coalescing"
+			"http://www.n2ws.com/blog/how-to-backup-cassandra-hosted-on-the-aws-cloud-part-2.html"
+			"http://www.n2ws.com/blog/how-to-backup-cassandra-hosted-on-the-aws-cloud-part-1.html"
 			"http://www.cascading.org/2015/05/19/cascading-2-7-release/"
 			"http://www.datastax.com/2015/05/datastax-announces-dse-4-7-with-integrated-search-analytics-and-in-memory"
 			"http://www.datasciencecentral.com/profiles/blogs/cassandra-modeling-for-real-time-analytics"
@@ -314,6 +357,8 @@
 		],
 
 		"Hbase":[
+			"https://www.dynamicyield.com/2015/05/apache-hbase-for-the-win-2/"
+			"http://www.rittmanmead.com/2015/05/using-hbase-impala-dw-offloading/"
 			"http://www.infoq.com/news/2015/04/apache-hbase-1-0"
 			"https://www.mapr.com/blog/how-use-sql-hadoop-drill-rest-json-nosql-and-hbase-simple-rest-client"
 			"http://channel9.msdn.com/Shows/Data-Exposed/Building-Big-Data-Apps-with-HBase"
@@ -331,6 +376,7 @@
 			"http://channel9.msdn.com/Blogs/Windows-Azure/Azure-Demo-Getting-started-with-Azure-DocumentDB-on-Nodejs-in-Linux"
 		]
 		"Riak":[
+			"https://www.youtube.com/watch?v=aYaz17qf7cE"
 			"http://basho.com/understanding-riak_core-building-handoff/"
 			"http://www.slideshare.net/sargund/erlangotp-and-some-of-riak"
 			"https://gigaom.com/2015/01/12/basho-creator-of-nosql-riak-database-raises-25m/"
@@ -349,6 +395,7 @@
 		]
 		
 		"ArrangoDB":[
+			"https://www.youtube.com/watch?v=DKoaRbDUbgM"
 			"https://www.arangodb.com/2015/04/digital-ocean-cluster/"
 			"https://www.arangodb.com/2014/12/18/getting-started-guacamole-rails"
 			"https://www.arangodb.com/tutorial-node-js"
@@ -370,7 +417,7 @@
 			"http://www.hadoop360.com/blog/list-of-nosql-databases"
 			"http://jaxenter.com/evaluating-nosql-performance-which-database-is-right-for-your-data-107481.html"
 			"http://in.relation.to/Bloggers/NoSQLWithHibernateOGM101PersistingYourFirstEntities"
-			"http://blog.couchbase.com/manual-secondary-indexes"
+
 			"http://vimeo.com/107188786"
 			"https://blog.compose.io/your-drivers-are-not-magic-testing-your-application-for-high-availability/"
 			"http://www.infoq.com/presentations/nosql-commonalities"
@@ -388,6 +435,9 @@
 		]
 	},
 	"Others":[
+		"http://www.infoworld.com/article/2887754/mobile-technology/how-to-choose-a-database-for-your-mobile-apps.html"
+		"https://www.youtube.com/watch?v=DkT5lbHlO1k&feature=youtu.be"
+		"https://ropensci.org/blog/2015/05/20/database-interfaces/"
 		"http://www.datasciencecentral.com/profiles/blogs/list-of-nosql-databases"
 		"http://java.dzone.com/articles/what-dataops-why-you-need-it"
 		"https://linkurio.us/announcing-linkurious-enterprise-the-first-data-visualization-platform-for-graph-databases/"

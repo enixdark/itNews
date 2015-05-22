@@ -1,4 +1,5 @@
 "CSS":[
+		"https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284"
 		"http://www.webcodegeeks.com/css/css-text-shadow-example/"
 		"http://www.webcodegeeks.com/css/css-multiple-classes-example/"
 		"http://www.webcodegeeks.com/css/css-table-design-example/"

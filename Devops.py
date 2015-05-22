@@ -19,6 +19,7 @@
 		"LightHttp":[],
 
 		"Ansible":[
+			"http://www.ansible.com/docker"
 			"http://www.ansible.com/blog/ansible-vagrant"
 			"http://tjelvarolsson.com/blog/ansible-playbook-for-installing-the-gbrowse-genome-browser/"
 			"http://www.ansible.com/blog/ansible-at-pycon-achieving-continuous-delivery-an-automation-story-video"
@@ -60,6 +61,7 @@
 		],
 		"SaltStack":[],
 		"ElastickSearch":[
+			"https://www.elastic.co/blog/this-week-in-elastic-2015-05-20"
 			"https://www.elastic.co/blog/elasticsearch-at-predikto?blade=tw"
 			"https://www.elastic.co/blog/how-to-check-logstashs-pulse"
 			"https://www.elastic.co/blog/how-to-handle-elasticsearch-virtualization"

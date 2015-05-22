@@ -1,5 +1,6 @@
 "CloudComputing":{
 		"AWS":[
+			"https://cloudnative.io/blog/2015/05/lambda-chat/"
 			"https://medium.com/aws-activate-startup-blog/cluster-based-architectures-using-docker-and-amazon-ec2-container-service-f74fa86254bf"
 			"https://aws.amazon.com/blogs/compute/running-executables-in-aws-lambda/"
 			"https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/"
@@ -15,6 +16,7 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
+			"https://blog.docker.com/2015/05/docker-tutorial-10-docker-compose/"
 			"https://www.youtube.com/watch?v=GVVtR_hrdKI&list=WL&index=6"
 			"http://blog.codefresh.io/docker-machine-basics/"
 			"https://www.airpair.com/docker/posts/getting-started-with-docker-for-the-nodejs-dev"

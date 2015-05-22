@@ -38,6 +38,7 @@
 			"http://blog.npmjs.org/post/114584444410/using-angulars-new-improved-browserify-support"
 			"https://medium.com/@KamilLelonek/angularjs-and-scope-apply-best-practices-d07353175024"
 			"https://medium.com/@tomastrajan/component-paradigm-cf32e94ba78b"
+			"http://blog.durandal.io/2015/05/20/porting-an-angular-2-0-app-to-aurelia/"
 			"http://eisenbergeffect.bluespire.com/aurelia-angular-2-0-code-side-by-side-part-2/"
 			"http://www.javacodegeeks.com/2014/07/server-vs-client-side-rendering-angularjs-vs-server-side-mvc.html"
 			"http://blog.durandal.io/2015/05/01/aurelia-may-status-and-releases/"
@@ -135,7 +136,9 @@
 
 
 
+
 		"React":[
+			"https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918"
 			"http://www.sitepoint.com/video-getting-started-react/"
 			"http://blog.atom.io/2015/05/15/new-autocomplete.html"
 			"http://firstdoit.com/react-1/"
@@ -147,6 +150,7 @@
 			"http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/"
 			"http://arc.applause.com/2015/04/21/facebook-app-developers-react-native/"
 			"https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/"
+			"http://facebook.github.io/flux/docs/overview.html#content"
 			"http://blog.risingstack.com/the-react-way-getting-started-tutorial/"
 			"https://scotch.io/courses/getting-started-with-facebooks-react-js"
 			"https://reactjsnews.com/building-components-with-react-js-and-flux/"
@@ -210,7 +214,8 @@
 			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 		]
 		"Nodejs":[
-
+			"https://changelog.com/155/"
+			"https://changelog.com/155/"
 			"http://java.dzone.com/articles/websockets-support-apache"
 			"http://blog.nodejs.org/2015/05/15/the-nodejs-foundation-benefits-all/"
 			"https://medium.com/@nodesource/node-and-arm-b5e3eebf449"
@@ -291,6 +296,7 @@
 			"http://thejackalofjavascript.com/node-webkit-webrtc-and-angularjs-a-video-chat-client/"
 		],
 		"Ionic":[
+			"https://devcenter.appery.io/2015/05/new-ionic-angularjs-tutorial/"
 			"http://www.gajotres.net/storing-data-in-ionic-framework-and-onsenui/"
 			"http://java.dzone.com/articles/using-mobilefirst-sql-adapters"
 			"http://thejackalofjavascript.com/ionic-twilio-and-node-scheduler-part-1/"
@@ -327,6 +333,7 @@
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
+			"http://es6-features.org/#Constants"
 			"http://blog.codepen.io/2015/05/19/babel-now-on-codepen-write-es6-javascript-and-react-jsx/"
 			"http://codemix.com/blog/why-babel-matters"
 			"http://babeljs.io/blog/2015/05/14/function-bind/"
@@ -383,6 +390,7 @@
 			"http://foam-framework.github.io/foam/"
 		]
 		"Others":[
+			"https://back.io/#docs/basics"
 			"http://java.dzone.com/articles/front-end-logging-made-easy"
 			"http://java.dzone.com/articles/9-unavoidable-reasons-which-0"
 			"http://www.sitepoint.com/comparison-javascript-http-libraries/"

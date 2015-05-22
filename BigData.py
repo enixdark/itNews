@@ -1,5 +1,7 @@
 "BigData":{
 		"Hadoop":[
+			"http://cscarioni.blogspot.com/2015/02/clustering-customers-for-machine.html"
+			"http://hortonworks.com/blog/apache-hadoop-infrastructure-considerations-and-best-practices/"
 			"http://www.hadoop360.com/blog/hadoop-whose-to-choose"
 			"http://appaloud.com/splice-machine-takes-big-step-releasing-version-1-0-hadoop-rdbms/"
 			"http://siliconangle.com/blog/2015/05/15/oracle-announces-new-spatial-graph-tools-for-hadoop-and-nosql/"
@@ -31,6 +33,9 @@
 
 
 		"Spark":[
+			"http://blog.cloudera.com/blog/2015/04/how-to-translate-from-mapreduce-to-apache-spark-part-2/"
+			"http://spark-packages.org/package/Stratio/RabbitMQ-Receiver"
+			"http://snowplowanalytics.com/blog/2015/05/21/first-experiments-with-apache-spark/"
 			"http://java.dzone.com/articles/spark-sql-against-cassandra"
 			"http://emerginginsightsnow.com/2015/05/17/apache-spark-ecosystem-grows-rapidly-has-hadoop-met-its-match/"
 			"http://www.enterpriseappstoday.com/data-management/is-apache-spark-enterprise-ready.html"
@@ -76,6 +81,8 @@
 			"https://www.mapr.com/resources/videos/apache-drill-redefining-sql-hadoop-0",
 		]
 		"ApacheDrill":[
+			"http://drill.apache.org/"
+			"http://www.zdnet.com/article/sql-and-hadoop-its-complicated"
 			"https://www.mapr.com/blog/industrys-first-schema-free-sql-engine-apache-drill-10-now-generally-available#.VVvwOryli1F"
 			"https://www.youtube.com/watch?v=FkcegazNuio"
 			"http://www.datasciencecentral.com/profiles/blogs/drill-data-with-apache-drill"
@@ -83,6 +90,7 @@
 			"http://drill.apache.org/blog/2015/03/31/drill-0.8-released/"
 		],
 		"ApacheKafka":[
+			"https://cwiki.apache.org/confluence/display/KAFKA/KIP-11+-+Authorization+Interface"
 			"http://blog.confluent.io/2015/02/25/stream-data-platform-1/"
 			"http://java.dzone.com/articles/using-apache-kafka-integration"
 			"http://blog.confluent.io/2015/04/07/hands-free-kafka-replication-a-lesson-in-operational-simplicity/"

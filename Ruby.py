@@ -1,4 +1,5 @@
 "Ruby":[
+		"http://ilyabylich.svbtle.com/experimental-mysql-http-api-and-ruby"
 		"http://jnape.com/kolmogorov-complexity/"
 		"http://blog.codeship.com/ruby-class-to-write-functional-code/"
 		"http://neo4j.com/developer/ruby/"
