@@ -4,3 +4,6 @@
 "http://www.tomjewett.com/dbdesign/dbdesign.php"
 "https://www.massdrop.com/article/introduction-to-keyboard-programming"
 "http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/"
+"http://synsem.com/SyncNotAsync/"
+"http://www.datasciencecentral.com/profiles/blogs/latest-moocs-on-data-science"
+"http://developer.marklogic.com/blog/data-integration-with-fields"

@@ -1,7 +1,9 @@
 "Erlang":[
+		"http://www.erlang.org/article/15"
 		"http://erlangcentral.org/jeff-weiss-chat-bot-a-practical-walkthrough-of-the-powerful-features-elixirerlangotp/#.VV0ye7yli1E"
 		"https://www.erlang-solutions.com/downloads/download-elixir"
 		"http://sibilantjs.info/"
+		"http://blog.lfe.io/tutorials/2015/05/22/0224-lfe-friday---queuecons2/"
 		"http://mostlyerlang.com/"
 		"https://www.youtube.com/watch?v=YKA9TUIFq00"
 		"https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/From-Parallel-to-Concurrent"

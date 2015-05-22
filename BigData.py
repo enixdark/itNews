@@ -1,5 +1,6 @@
 "BigData":{
 		"Hadoop":[
+			"https://adtmag.com/articles/2015/05/21/mapr-adds-drill.aspx"
 			"http://cscarioni.blogspot.com/2015/02/clustering-customers-for-machine.html"
 			"http://hortonworks.com/blog/apache-hadoop-infrastructure-considerations-and-best-practices/"
 			"http://www.hadoop360.com/blog/hadoop-whose-to-choose"

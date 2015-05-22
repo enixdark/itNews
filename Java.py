@@ -4,6 +4,7 @@
 "http://psy-lob-saw.blogspot.com/2015/05/degrees-of-lockwait-freedom.html"
 "https://docs.newrelic.com/docs/release-notes/agent-release-notes/java-release-notes"
 "http://java.dzone.com/articles/r-replacing-loops-data-frames"
+"http://www.javaworld.com/article/2076075/learn-java/core-java-learn-java-from-the-ground-up.html"
 "http://www.javacodegeeks.com/2014/09/5-error-tracking-tools-java-developers-should-know.html"
 "http://examples.javacodegeeks.com/core-java/util/concurrent/java-8-parallel-arrays-example/"
 "http://www.javacodegeeks.com/2014/08/java-concurrency-tutorial-thread-safe-designs.html"

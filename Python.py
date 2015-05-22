@@ -74,6 +74,7 @@
 			"http://davidemoro.blogspot.com/2015/04/kotti-multilingual.html"
 		],
 		"Data":[
+			"http://pythonsweetness.tumblr.com/post/119568339102/block-range-brin-indexes-in-postgresql-9-5"
 			"https://beta.oreilly.com/learning/intro-to-svm"
 			"http://pbpython.com/github-notebooks-other-updates.html"
 			"http://techartsurvival.blogspot.com/2015/05/spelchek_16.html"

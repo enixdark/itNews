@@ -306,6 +306,7 @@
 		"Phonegap":[],
 		"Knockout":[],
 		"Jquery":[
+			"http://www.sitepoint.com/10-jqueryhtmlcss-presentation-slides-plugins/"
 			"http://jquerymy.com/"
 			"http://dimsemenov.com/plugins/magnific-popup/"
 			"http://www.jqueryrain.com/demo/jquery-file-upload/"
