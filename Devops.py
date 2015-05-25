@@ -19,6 +19,8 @@
 		"LightHttp":[],
 
 		"Ansible":[
+			"http://www.reddit.com/tb/2en3tc"
+			"https://coreos.com/blog/managing-coreos-with-ansible/#inventory-setup"
 			"http://www.ansible.com/docker"
 			"http://www.ansible.com/blog/ansible-vagrant"
 			"http://tjelvarolsson.com/blog/ansible-playbook-for-installing-the-gbrowse-genome-browser/"

@@ -1,4 +1,5 @@
 "BigData":{
+		"http://www.dzone.com/mz/big-data"
 		"Hadoop":[
 			"https://adtmag.com/articles/2015/05/21/mapr-adds-drill.aspx"
 			"http://cscarioni.blogspot.com/2015/02/clustering-customers-for-machine.html"

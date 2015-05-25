@@ -281,6 +281,7 @@
 		],
 		
 		"Neo4j":[
+			"http://blog.bruggen.com/2015/05/cycling-tweets-part-5-querying.html"
 			"https://www.youtube.com/watch?v=2IjIMCJbLhc"
 			"https://www.youtube.com/watch?v=Nkd6Ei-xuxI"
 			"http://www.kennybastani.com/2015/05/graph-analysis-microservice-neo4j.html"

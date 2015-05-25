@@ -1,5 +1,6 @@
 "Scala":[
 	"http://scalacheck.org/"
+	"http://boldradius.com/blog-post/U6A9eCwAACwAFHXh/functional-state-in-scala"
 	"https://www.typesafe.com/blog/conductr-v1-released-now-available-for-trial"
 	"http://www.typesafe.com/blog/the-3-pains-operations-feels-when-deploying-and-managing-reactive-applications"
 	"https://www.parleys.com/channel/scala-days-san-francisco-2015"

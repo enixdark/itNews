@@ -1,4 +1,5 @@
 "Erlang":[
+		"http://www.rebar3.org/v3.0/docs/publishing-packages"
 		"http://www.erlang.org/article/15"
 		"http://erlangcentral.org/jeff-weiss-chat-bot-a-practical-walkthrough-of-the-powerful-features-elixirerlangotp/#.VV0ye7yli1E"
 		"https://www.erlang-solutions.com/downloads/download-elixir"

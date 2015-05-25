@@ -7,3 +7,5 @@
 "http://synsem.com/SyncNotAsync/"
 "http://www.datasciencecentral.com/profiles/blogs/latest-moocs-on-data-science"
 "http://developer.marklogic.com/blog/data-integration-with-fields"
+"http://restcookbook.com/"
+"http://www.puppetcookbook.com/"

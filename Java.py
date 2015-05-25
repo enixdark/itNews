@@ -1,4 +1,5 @@
 "Java":[
+"http://www.javacodegeeks.com/2015/05/quasar-and-akka-a-comparison.html"
 "http://examples.javacodegeeks.com/enterprise-java/spring/spring-data-tutorial-beginners/"
 "http://www.jooq.org/java-8-and-sql"
 "http://psy-lob-saw.blogspot.com/2015/05/degrees-of-lockwait-freedom.html"

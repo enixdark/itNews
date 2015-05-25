@@ -121,7 +121,7 @@
 		],
 
 		"Emberjs":[
-			""
+			"http://www.emberscreencasts.com/"
 			'http://emberjs.com/blog/2015/05/10/run-up-to-two-oh.html'
 			"http://emberjs.com/blog/2015/05/13/ember-1-12-released.html"
 			"http://emberjs.com/blog/2015/01/08/inside-fastboot-faking-the-dom-in-node.html"
@@ -193,6 +193,8 @@
 		],
 
 		"Express":[
+			"http://webapplog.com/jade-handlebars-express"
+			"http://throwerr.com/2015/05/15/get-started-with-routing-in-express-4-0/"
 			"http://webapplog.com/url-parameters-and-routing-in-express-js/"
 			"https://stormpath.com/blog/build-nodejs-express-stormpath-app/%20weekly&utm_medium=email&utm_campaign=express%20tutorial"
 			"https://blog.nraboy.com/2015/01/session-management-expressjs-web-application/"
@@ -214,6 +216,8 @@
 			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 		]
 		"Nodejs":[
+			"http://blog.turret.io/hmac-in-go-python-ruby-php-and-nodejs"
+			"https://blog.indutny.com/c.cpp-in-node"
 			"https://changelog.com/155/"
 			"https://changelog.com/155/"
 			"http://java.dzone.com/articles/websockets-support-apache"
@@ -287,6 +291,7 @@
 			"http://knowthen.com/episode-10-building-realtime-applications-just-got-easy/"
 		]
 		"BackBonejs":[
+			"https://roost.bocoup.com/2015/austin/blog/why-backbone/"
 			"http://www.webcodegeeks.com/javascript/backbone-js/backbone-js-events-example"
 			"https://code.mixpanel.com/2015/04/08/straightening-our-backbone-a-lesson-in-event-driven-ui-development/"
 			"http://www.webcodegeeks.com/javascript/backbone-js/backbone-js-events-example/"
@@ -391,6 +396,7 @@
 			"http://foam-framework.github.io/foam/"
 		]
 		"Others":[
+			"http://www.sitepoint.com/using-closure-space-create-real-private-members-javascript/"
 			"https://back.io/#docs/basics"
 			"http://java.dzone.com/articles/front-end-logging-made-easy"
 			"http://java.dzone.com/articles/9-unavoidable-reasons-which-0"

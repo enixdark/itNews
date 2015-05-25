@@ -74,6 +74,8 @@
 			"http://davidemoro.blogspot.com/2015/04/kotti-multilingual.html"
 		],
 		"Data":[
+			"http://rustyrazorblade.com/2015/05/spark-streaming-with-python-and-kafka/"
+			"http://blog.rtwilson.com/how-to-log-electricity-usage-from-a-currentcost-envir-part-1/"
 			"http://pythonsweetness.tumblr.com/post/119568339102/block-range-brin-indexes-in-postgresql-9-5"
 			"https://beta.oreilly.com/learning/intro-to-svm"
 			"http://pbpython.com/github-notebooks-other-updates.html"
@@ -110,7 +112,7 @@
 			"http://matthewrocklin.com/blog/work/2015/03/16/Fast-Serialization/.com"
 		],
 		"Zope":[
-
+			"http://datakurre.pandala.org/2015/05/customize-plone-5-default-theme-on-fly.html?"
 			"http://davidemoro.blogspot.com/2015/04/pip-for-buildout-folks.html"
 			"https://metaclassical.com/what-the-zope-transaction-manager-means-to-me-and-you/"
 			"http://docs.zope.org/zope2/releases/2.12/INSTALL.html"
@@ -132,6 +134,10 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+		"http://lwn.net/Articles/643786/"
+		"http://blog.ldlework.com/2015/05/01/writing-safe-twisted-code/"
+		"http://willdrevo.com/downloading-youtube-and-soundcloud-audio-with-python-and-pandas/"
+		"http://blog.hakril.net/articles/2-understanding-python-execution-tracer.html"
 		"http://late.am/post/2015/05/07/optimize-python-with-closures.html"
 		"https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/"
 		"https://lwn.net/SubscriberLink/643786/9c0bd83dff0df3b8/"
