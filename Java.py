@@ -2,6 +2,8 @@
 "http://www.javacodegeeks.com/2015/05/quasar-and-akka-a-comparison.html"
 "http://examples.javacodegeeks.com/enterprise-java/spring/spring-data-tutorial-beginners/"
 "http://www.jooq.org/java-8-and-sql"
+"http://www.drdobbs.com/jvm/dynamic-distributed-systems-in-java/184410535"
+"http://java.dzone.com/articles/enabling-shards-existing"
 "http://psy-lob-saw.blogspot.com/2015/05/degrees-of-lockwait-freedom.html"
 "https://docs.newrelic.com/docs/release-notes/agent-release-notes/java-release-notes"
 "http://java.dzone.com/articles/r-replacing-loops-data-frames"

@@ -1,6 +1,8 @@
 "Devops":{
 		"Apache":[],
 		"Nginx":[
+			"http://nginx.com/blog/socket-sharding-nginx-release-1-9-1/"
+			"https://www.scalyr.com/community/guides/an-in-depth-guide-to-nginx-metrics"
 			"http://java.dzone.com/articles/nginx-open-source-reflecting"
 			"http://www.infoworld.com/article/2909532/servers/nginxs-new-version-goes-beyond-web-serving.html"
 			"http://java.dzone.com/articles/live-activity-monitoring-nginx"
@@ -63,6 +65,7 @@
 		],
 		"SaltStack":[],
 		"ElastickSearch":[
+
 			"https://www.elastic.co/blog/this-week-in-elastic-2015-05-20"
 			"https://www.elastic.co/blog/elasticsearch-at-predikto?blade=tw"
 			"https://www.elastic.co/blog/how-to-check-logstashs-pulse"

@@ -138,6 +138,7 @@
 
 
 		"React":[
+			"http://www.christianalfoni.com/articles/2015_05_18_Cerebral-developer-preview"
 			"https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918"
 			"http://www.sitepoint.com/video-getting-started-react/"
 			"http://blog.atom.io/2015/05/15/new-autocomplete.html"
@@ -291,6 +292,7 @@
 			"http://knowthen.com/episode-10-building-realtime-applications-just-got-easy/"
 		]
 		"BackBonejs":[
+			"http://danhough.com/blog/backbone-mixins/"
 			"https://roost.bocoup.com/2015/austin/blog/why-backbone/"
 			"http://www.webcodegeeks.com/javascript/backbone-js/backbone-js-events-example"
 			"https://code.mixpanel.com/2015/04/08/straightening-our-backbone-a-lesson-in-event-driven-ui-development/"
@@ -326,19 +328,22 @@
 			"http://jj09.net/building-large-scale-web-applications-with-typescript/"
 			"http://blogs.msdn.com/b/typescript/archive/2015/04/30/announcing-typescript-1-5-beta.aspx"
 			"http://blog.mgechev.com/2015/04/06/angular2-first-impressions/"
-					"http://cacodaemon.de/index.php?id=67
+			"http://cacodaemon.de/index.php?id=67
 			"http://www.infoq.com/news/2015/04/typescript-1-5"
 			"https://www.airpair.com/typescript/posts/typescript-development-with-gulp-and-sublime-text"
 		],
 		"CofferScript":[
+			""
 			"http://www.developwithpurpose.com/coffeescript-is-dead-long-live-coffeescript/"
 		],
 		"Gulp":[
-
+			"http://www.webcodegeeks.com/javascript/node-js/boilerplate-template-node-js-backbone-using-gulp-browserify/"
 			"https://bugsnag.com/blog/replacing-the-rails-asset-pipeline-with-gulp"
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
+			"http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6"
+			"http://reactjsnews.com/es6-gotchas/"
 			"http://es6-features.org/#Constants"
 			"http://blog.codepen.io/2015/05/19/babel-now-on-codepen-write-es6-javascript-and-react-jsx/"
 			"http://codemix.com/blog/why-babel-matters"
@@ -372,6 +377,7 @@
 			"http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
 		]
 		"Meteor":[
+			"https://www.compose.io/articles/meteor-sql-and-other-databases"
 			"http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/"
 			"https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV"
 			"http://learntocodewith.me/women/ciara-burkett/"
@@ -396,6 +402,10 @@
 			"http://foam-framework.github.io/foam/"
 		]
 		"Others":[
+			"http://babeljs.io/users/#React"
+			"http://ryanmorr.com/true-hash-maps-in-javascript/"
+			"http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly"
+			"http://www.sitepoint.com/introduction-functional-javascript/"
 			"http://www.sitepoint.com/using-closure-space-create-real-private-members-javascript/"
 			"https://back.io/#docs/basics"
 			"http://java.dzone.com/articles/front-end-logging-made-easy"

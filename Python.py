@@ -1,5 +1,6 @@
 "Python":{
 		"Flask":[
+			""
 			"http://hackingdistributed.com/2015/05/20/hyperdex-flask/"
 			"http://blog.miguelgrinberg.com/post/celery-and-the-flask-application-factory-pattern"
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/"
@@ -74,6 +75,8 @@
 			"http://davidemoro.blogspot.com/2015/04/kotti-multilingual.html"
 		],
 		"Data":[
+			"http://cloudacademy.com/blog/aws-machine-learning/"
+			"https://www.youtube.com/watch?v=ZMOHEh-caTc&feature=youtu.be"
 			"http://rustyrazorblade.com/2015/05/spark-streaming-with-python-and-kafka/"
 			"http://blog.rtwilson.com/how-to-log-electricity-usage-from-a-currentcost-envir-part-1/"
 			"http://pythonsweetness.tumblr.com/post/119568339102/block-range-brin-indexes-in-postgresql-9-5"
@@ -134,6 +137,7 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+		"http://blog.dscpl.com.au/2015/05/performance-monitoring-of-real-wsgi.html"
 		"http://lwn.net/Articles/643786/"
 		"http://blog.ldlework.com/2015/05/01/writing-safe-twisted-code/"
 		"http://willdrevo.com/downloading-youtube-and-soundcloud-audio-with-python-and-pandas/"

@@ -1,6 +1,7 @@
 "Database":{
 		"SQL":[
 		"MySQL":[
+			"https://www.youtube.com/watch?v=IRTgsxL9V8g"
 			"http://githubengineering.com/using-mysql-performance-schema-for-workload-analysis/"
 			"http://mysqlserverteam.com/the-mysql-optimizer-cost-model-project/"
 			"http://java.dzone.com/articles/5-steps-migrate-mysql"
@@ -56,6 +57,7 @@
 		],
 		"Oracle":[],
 		"MemSQL":[
+			"https://www.youtube.com/watch?v=OQAMxG7NRt4"
 			"http://www.memsql.com/releases/memsql-4/"
 		]
 
@@ -111,6 +113,7 @@
 			"http://www.cleardb.com/blog/entry?id=pr/5-8-2015/cleardb-iron-live-workload-performance-metrics"
 		]
 		"Mongodb":[
+			"http://www.devbattles.com/en/sand/post-1268-Why+You+Should+Never+Use+MongoDB"
 			"http://www.mongodb.com/blog/post/new-compression-options-mongodb-30"
 			"http://www.bennadel.com/blog/2830-learning-node-js-building-a-simple-api-powered-by-mongodb.htm"
 			"http://blazemeter.com/blog/how-load-test-mongodb-jmeter"
@@ -252,6 +255,7 @@
 			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
 		]
 		"Redis":[
+			"https://www.youtube.com/watch?v=aotCPUtahDU"
 			"https://www.youtube.com/watch?v=pvNrK2ln0Dw"
 			"https://blog.newrelic.com/2015/05/11/redis-performance-metrics/"
 			"https://www.youtube.com/watch?v=yS-Z9JnkWsA"
@@ -391,6 +395,7 @@
 			"http://sphinxsearch.com/blog/2015/03/11/sphinx-2-2-8-release/"
 		]
 		"Solr":[
+			"http://lucidworks.com/blog/hyperloglog-field-value-cardinality-stats/"
 			"http://www.zdnet.com/article/why-apache-solr-search-is-on-the-rise-and-why-its-going-solo/"
 			"http://recology.info/2015/03/faster-solr/"
 		]

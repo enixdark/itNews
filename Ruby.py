@@ -75,4 +75,5 @@
 	"https://bugsnag.com/blog/replacing-the-rails-asset-pipeline-with-gulp"
 	"https://nulogy.com/articles/replacing-rails-asset-pipeline#.VUSFIeSEi-k"
 	"http://weblog.rubyonrails.org/2015/5/2/welcome-to-gsoc-15/"
+	"https://dev.firmafon.dk/blog/rails-5-much-faster-collection-rendering/"
 ]

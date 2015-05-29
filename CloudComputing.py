@@ -16,6 +16,7 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
+			"http://blog.codeship.com/automate-your-dev-workflow-with-docker/"
 			"https://blog.docker.com/2015/05/docker-tutorial-10-docker-compose/"
 			"https://www.youtube.com/watch?v=GVVtR_hrdKI&list=WL&index=6"
 			"http://blog.codefresh.io/docker-machine-basics/"

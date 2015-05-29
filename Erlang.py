@@ -1,4 +1,6 @@
 "Erlang":[
+		"http://erlangcentral.org/lambda-days-2015-iurii-petrov-implementing-graph-representation-model-for-parallel-and-distributed-systems-using-erlang/#.VWPLf7yli1E"
+		"http://blog.lfe.io/tutorials/2015/05/25/0929-prelude-to-otp/"
 		"http://www.rebar3.org/v3.0/docs/publishing-packages"
 		"http://www.erlang.org/article/15"
 		"http://erlangcentral.org/jeff-weiss-chat-bot-a-practical-walkthrough-of-the-powerful-features-elixirerlangotp/#.VV0ye7yli1E"

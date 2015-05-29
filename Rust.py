@@ -1,4 +1,5 @@
 "Rust":[
+	"http://xania.org/201505/on-rust-performance"
 	"http://blog.rust-lang.org/2015/04/03/Rust-1.0-beta.html"
 	"https://rnestler.github.io/more-rust-compared-to-c.html"
 	"http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html"
@@ -7,4 +8,6 @@
 	"http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html"
 	"http://www.hashmismatch.net/2015/05/18/pragmatic-bare-metal-rust.html"
 	"http://code.tutsplus.com/tutorials/javascript-loop-optimization--cms-23997"
+	"http://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/"
+	"http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/"
 ]

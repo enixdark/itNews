@@ -1,4 +1,5 @@
 {"Golang":[
+	"https://deferpanic.com/blog/manual-memory-management-in-go/"
 	"https://www.socketloop.com/tutorials/golang-web-routing-multiplex-example"
 	"http://golanggo.com/post/115334564374/how-to-do-stream-multiplexing-in-go",
 	"http://golanggo.com/post/115333889744/quick-and-dirty-guide-to-deploying-go-apps",

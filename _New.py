@@ -9,3 +9,6 @@
 "http://developer.marklogic.com/blog/data-integration-with-fields"
 "http://restcookbook.com/"
 "http://www.puppetcookbook.com/"
+"https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/"
+"http://lush.sourceforge.net/"
+"http://www.infoq.com/news/2015/05/ioda-architecture"

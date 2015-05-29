@@ -35,6 +35,8 @@
 
 
 		"Spark":[
+			"http://hortonworks.com/hadoop-tutorial/using-apache-spark-technical-preview-with-hdp-2-2/"
+			"http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/"
 			"http://blog.cloudera.com/blog/2015/04/how-to-translate-from-mapreduce-to-apache-spark-part-2/"
 			"http://spark-packages.org/package/Stratio/RabbitMQ-Receiver"
 			"http://snowplowanalytics.com/blog/2015/05/21/first-experiments-with-apache-spark/"

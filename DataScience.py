@@ -1,4 +1,9 @@
 "DataScience":[
+	"http://www.datasciencecentral.com/profiles/blogs/lesson-8-graph-databases"
+`	"http://www.datasciencecentral.com/profiles/blogs/must-read-before-attending-any-data-science-interview"
+	"http://www.datasciencecentral.com/profiles/blogs/programming-for-data-science-the-polyglot-approach-python-r-sql"
+	"http://www.datasciencecentral.com/profiles/blogs/decision-scientist-vs-data-scientist"
+	"www.analyticbridge.com/profiles/blogs/pythoneer"
 	"http://www.datasciencecentral.com/forum/topics/how-to-determine-the-optimum-number-of-variables"
 	"http://www.benstopford.com/2015/04/28/elements-of-scale-composing-and-scaling-data-platforms/"
 	"http://www.datasciencecentral.com/profiles/blogs/new-in-plotly-interactive-graphs-with-ipython"
@@ -26,6 +31,7 @@
 	"http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free"
 	"http://www.datasciencecentral.com/profiles/blogs/privacy-vs-security-and-data-science"
 	"http://www.r-bloggers.com/scale-acceleration/"
+	"http://www.analyticbridge.com/profiles/blogs/detecting-patterns-with-the-naked-eye"
 	"http://www.datavizualization.com/blog/why-is-data-now-called-big-part-1"
 	"http://www.datasciencecentral.com/profiles/blogs/tutorial-how-to-detect-spurious-correlations-and-how-to-find-the-"
 	"http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free"
