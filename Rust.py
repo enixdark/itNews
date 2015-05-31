@@ -10,4 +10,5 @@
 	"http://code.tutsplus.com/tutorials/javascript-loop-optimization--cms-23997"
 	"http://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/"
 	"http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/"
+	"http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale"
 ]

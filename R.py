@@ -1,15 +1,21 @@
-
-
+"http://www.r-bloggers.com/cracking-safe-cracker-with-r/"
+"http://www.r-bloggers.com/update-on-snowdoop-a-mapreduce-alternative/"
 "http://www.r-bloggers.com/course-on-using-oracle-r-enterprise/"
 "http://www.r-bloggers.com/getting-started-with-postgresql-in-r/"
 "http://blog.datacamp.com/r-or-python-for-data-analysis/"
 "http://www.inside-r.org/r-doc/base/pmax"
+"http://www.r-bloggers.com/modeling-contagion-using-airline-networks-in-r/"
+<<<<<<< Updated upstream
 "http://www.r-bloggers.com/granger-causality-test/"
+=======
+"https://datumengineering.wordpress.com/2014/02/08/r-python/"
+>>>>>>> Stashed changes
 "http://www.r-bloggers.com/fast-parallel-computing-with-intel-phi-coprocessors/"
 "http://www.r-bloggers.com/basic-text-string-functions-in-r/"
 "http://www.r-bloggers.com/unsupervised-google-maps-image-classification/"
 "http://java.dzone.com/articles/r-removing-loops"
 "http://adv-r.had.co.nz/"
+"http://www.r-bloggers.com/lessons-learned-in-high-performance-r/"
 "http://www.r-bloggers.com/open-data-sets-you-can-use-with-r/"
 "http://www.r-bloggers.com/databases-an-ideal-application-for-r6/"
 "http://www.r-bloggers.com/more-postdoctoral-opportunities-at-iarc/"

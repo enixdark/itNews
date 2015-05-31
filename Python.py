@@ -33,6 +33,7 @@
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
+			"http://yusuf.im/wagtail-a-new-django-cms-in-the-house/"
 			"http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/"
 			"http://www.marinamele.com/taskbuster-django-tutorial"
 			"https://realpython.com/blog/python/fun-with-djangos-new-postgres-features/"
@@ -68,17 +69,26 @@
 			"http://www.willmcgugan.com/blog/tech/2015/3/14/saving-processes-and-threads-in-a-wsgi-server/"
  		],
 		"Pyramid":[
+			"http://trypyramid.com/"
 			"http://www.talkpythontome.com/episodes/show/3/pyramid-web-framework"
 			"http://www.ibm.com/developerworks/cloud/library/cl-chatapp-bluemix-app/index.html"
 			"http://davidemoro.blogspot.com/2015/03/kotti-cms-events-insert-subobjects.html"
 			"https://everystack.io/#!/catalog/components/pyramid"
 			"http://davidemoro.blogspot.com/2015/04/kotti-multilingual.html"
+			"https://www.youtube.com/watch?v=jxqCf3yZKP4"
+			"http://davidemoro.blogspot.com/2015/05/kotti-cms-elasticsearch-integration.html"
 		],
 		"Data":[
+<<<<<<< Updated upstream
 			"http://cloudacademy.com/blog/aws-machine-learning/"
 			"https://www.youtube.com/watch?v=ZMOHEh-caTc&feature=youtu.be"
 			"http://rustyrazorblade.com/2015/05/spark-streaming-with-python-and-kafka/"
 			"http://blog.rtwilson.com/how-to-log-electricity-usage-from-a-currentcost-envir-part-1/"
+=======
+			"http://noammor.github.io/noammor/ipy/str-join-benchmark.html"
+>>>>>>> Stashed changes
+
+			"http://blog.tshirtman.fr/2014/1/14/publisher-consumer-model-in-kivy"
 			"http://pythonsweetness.tumblr.com/post/119568339102/block-range-brin-indexes-in-postgresql-9-5"
 			"https://beta.oreilly.com/learning/intro-to-svm"
 			"http://pbpython.com/github-notebooks-other-updates.html"
@@ -137,6 +147,9 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+		"http://us2.campaign-archive1.com/?u=b7e774f0c4f05dcebbfee183d&id=6e60c40acd"
+		"http://doublemap.github.io/blog/2015/05/29/optimizing-python/"
+		"http://blog.eatonphil.com/2015/05/30/dynamic-generic-namespaces-in-python-are-a-pain/"
 		"http://blog.dscpl.com.au/2015/05/performance-monitoring-of-real-wsgi.html"
 		"http://lwn.net/Articles/643786/"
 		"http://blog.ldlework.com/2015/05/01/writing-safe-twisted-code/"

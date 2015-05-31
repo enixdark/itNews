@@ -14,7 +14,11 @@
 			"http://use-the-index-luke.com/blog/2014-04-01/thank-you-mysql-we-will-miss-you"
 			"http://www.dzone.com/articles/future-mysql-interview-peter"
 		],
+
 		"Postgresql":[
+			"http://adpgtech.blogspot.com/2015/05/running-pgindent-on-non-core-code-or.html"
+			"http://www.depesz.com/2015/05/23/waiting-for-9-5-tablesample-sql-standard-and-extensible/"
+			"http://bonesmoses.org/2015/05/22/pg-phriday-10-ways-to-ruin-performance-forgetting-it-exists/"
 			"http://vitesse-timing-on.blogspot.com/2015/05/comparing-two-tables.html"
 			"http://joelonsql.com/2015/05/16/finding-missing-foreign-keys/"
 			"http://www.thatguyfromdelhi.com/2015/05/postgres-finally-has-cube-rollup.html"
@@ -57,12 +61,14 @@
 		],
 		"Oracle":[],
 		"MemSQL":[
+			"http://www.infoq.com/news/2015/05/memsql4-community-edition"
 			"https://www.youtube.com/watch?v=OQAMxG7NRt4"
 			"http://www.memsql.com/releases/memsql-4/"
 		]
 
 		"SQLServer":[]
 		"Others":[
+			"https://periscope.io/blog/first-row-per-group-5x-faster.html"
 			"http://blog.memsql.com/memsql-community-edition/"
 			"https://www.periscope.io/blog/hyperloglog-in-pure-sql.html"
 			"http://www.wikivs.com/wiki/MySQL_vs_PostgreSQL"
@@ -100,6 +106,7 @@
 			"http://pizzaconnections.net/2015/03/27/148/"
 		]
 		"VoltDB":[
+			"http://voltdb.com/blog/keeping-track-counters-efficiently"
 			"http://voltdb.com/blog/voltdb-memory-database-achieves-best-class-results-running-cloud-ycsb-benchmark"
 			"http://docs.voltdb.com/UsingVoltDB/sqlref_upsert.php"
 			"http://radar.oreilly.com/2015/04/a-real-time-tool-for-a-real-time-problem.html"
@@ -285,6 +292,7 @@
 		],
 		
 		"Neo4j":[
+			"http://neo4j.com/blog/big-data-graph/"
 			"http://blog.bruggen.com/2015/05/cycling-tweets-part-5-querying.html"
 			"https://www.youtube.com/watch?v=2IjIMCJbLhc"
 			"https://www.youtube.com/watch?v=Nkd6Ei-xuxI"

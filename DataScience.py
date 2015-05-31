@@ -18,6 +18,7 @@
 	"http://www.datasciencecentral.com/profiles/blogs/an-introduction-to-social-network-analysis",
 	"https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/"
 	"https://jessesw.com/Data-Science-Skills/",
+	"http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark"
 	"http://www.analyticbridge.com/profiles/blogs/the-top-ten-worst-graphs"
 	"http://www.datasciencecentral.com/profiles/blogs/markov-logic-networks-for-better-decisions"
 	"http://www.analyticbridge.com/profiles/blogs/fake-data-science"
@@ -58,6 +59,7 @@
 ],"http://grail.cs.washington.edu/projects/timelapse/"
 
 "MachineLearning":[
+"http://priceonomics.com/machine-learning-makes-a-surprisingly-tasty-salad/"
 "http://www.analyticbridge.com/profiles/blogs/machine-learning-in-python-has-never-been-easier"
 "http://tech.gc.com/bayesian-statistics-and-multi-armed-bandits/"
 	"http://www.datasciencecentral.com/profiles/blogs/all-machine-learning-models-have-flaws-1"

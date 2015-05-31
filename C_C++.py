@@ -3,3 +3,4 @@
 "http://www.nu42.com/2015/05/cpp-new-scripting-language.html"
 "http://blogs.msdn.com/b/oldnewthing/archive/2015/05/25/10616865.aspx"
 "http://bartoszmilewski.com/2015/05/25/using-monads-in-c-to-solve-constraints-4-refactoring/"
+"http://pdimov.com/cpp2/simple_cxx11_metaprogramming.html"

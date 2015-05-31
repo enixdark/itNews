@@ -3,6 +3,7 @@
 			"http://www.webcodegeeks.com/javascript/angular-js/top-5-mistakes-angularjs-developers-make-part-1-relying-scope/"
 			"https://www.airpair.com/angularjs/posts/material-design-with-angularjs"
 			"http://ngmodules.com/"
+			"http://www.sitepoint.com/building-twitter-app-using-angularjs/"
 			"http://conceptf1.blogspot.com/p/learning-angularjs.html"
 			"http://ryanchenkie.com/angularjs-custom-filters/"
 			"http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2"
@@ -217,6 +218,8 @@
 			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 		]
 		"Nodejs":[
+			"https://nodesource.com/blog/was-this-trip-really-necessary"
+			"http://www.passportjs.org/
 			"http://blog.turret.io/hmac-in-go-python-ruby-php-and-nodejs"
 			"https://blog.indutny.com/c.cpp-in-node"
 			"https://changelog.com/155/"
@@ -402,6 +405,8 @@
 			"http://foam-framework.github.io/foam/"
 		]
 		"Others":[
+			"http://www.sitepoint.com/testing-javascript-jasmine-travis-karma/"
+			"http://ideasintosoftware.com/practical-guide-to-promises/"
 			"http://babeljs.io/users/#React"
 			"http://ryanmorr.com/true-hash-maps-in-javascript/"
 			"http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly"

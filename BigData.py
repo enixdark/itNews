@@ -85,6 +85,7 @@
 			"https://www.mapr.com/resources/videos/apache-drill-redefining-sql-hadoop-0",
 		]
 		"ApacheDrill":[
+			"http://www.datanami.com/2015/05/19/apache-drill-poised-to-crack-tough-data-challenges/"
 			"http://drill.apache.org/"
 			"http://www.zdnet.com/article/sql-and-hadoop-its-complicated"
 			"https://www.mapr.com/blog/industrys-first-schema-free-sql-engine-apache-drill-10-now-generally-available#.VVvwOryli1F"

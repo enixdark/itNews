@@ -1,5 +1,6 @@
 "Scala":[
 	"http://scalacheck.org/"
+	"http://zuchos.com/blog/2015/05/23/how-to-write-a-subscriber-for-akka-streams/"
 	"http://blog.scalac.io/2015/05/28/scala-modes.html"
 	"http://boldradius.com/blog-post/U6A9eCwAACwAFHXh/functional-state-in-scala"
 	"https://www.typesafe.com/blog/conductr-v1-released-now-available-for-trial"
@@ -17,6 +18,7 @@
 	"http://letitcrash.com/post/113805166317/akka-cluster-load-balancing"
 	"http://www.reactivemanifesto.org/"
 	"https://vimeo.com/125440021"
+	"http://alvinalexander.com/scala/mac-text-to-speech-web-service-play-framework"
 	"http://underscore.io/blog/posts/2015/05/15/slick-enrichment.html"
 	"https://developerblog.redhat.com/2015/04/22/scala-vs-node-js-as-a-restful-backend-server/"
 	"http://virtuslab.com/blog/debugging-implicits/"

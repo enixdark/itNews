@@ -65,7 +65,11 @@
 		],
 		"SaltStack":[],
 		"ElastickSearch":[
+<<<<<<< Updated upstream
 
+=======
+			"https://www.elastic.co/blog/logstash-lines-2015-05-22"
+>>>>>>> Stashed changes
 			"https://www.elastic.co/blog/this-week-in-elastic-2015-05-20"
 			"https://www.elastic.co/blog/elasticsearch-at-predikto?blade=tw"
 			"https://www.elastic.co/blog/how-to-check-logstashs-pulse"
@@ -94,5 +98,8 @@
 		]
 		"Sphinx":[
 			"http://sphinxsearch.com/blog/2015/04/22/sphinx-2-2-9-release/"
+		],
+		"ZeroMQ":[
+			"http://zguide.zeromq.org/page:all"
 		]
 	},

@@ -1,8 +1,14 @@
 "Erlang":[
+<<<<<<< Updated upstream
 		"http://erlangcentral.org/lambda-days-2015-iurii-petrov-implementing-graph-representation-model-for-parallel-and-distributed-systems-using-erlang/#.VWPLf7yli1E"
 		"http://blog.lfe.io/tutorials/2015/05/25/0929-prelude-to-otp/"
 		"http://www.rebar3.org/v3.0/docs/publishing-packages"
+=======
+		"http://view.samurajdata.se/psview.php?id=6fbf619d"
+		"http://niki.code-karma.com/2011/06/python-style-decorators-in-erlang/"
+>>>>>>> Stashed changes
 		"http://www.erlang.org/article/15"
+		"http://blog.lfe.io/tutorials/2015/05/28/1008-creating-servers-with-the-gen_server-behaviour-ii/?"
 		"http://erlangcentral.org/jeff-weiss-chat-bot-a-practical-walkthrough-of-the-powerful-features-elixirerlangotp/#.VV0ye7yli1E"
 		"https://www.erlang-solutions.com/downloads/download-elixir"
 		"http://sibilantjs.info/"

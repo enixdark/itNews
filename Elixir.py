@@ -1,5 +1,6 @@
 "Elixir":[
 	"http://learningelixir.joekain.com/cowboy-application-design/"
+	"https://www.youtube.com/watch?v=a-OCorBXX7M"
 	"https://www.youtube.com/watch?v=9wrMM8qLn5c"
 	"http://journal.dedasys.com/2015/04/23/elixir-vs-erlang-a-question-of-momentum/"
 	"http://blog.teemu.im/2015/01/25/thoughts-about-elixir/"
@@ -7,6 +8,7 @@
 	"http://pages.plataformatec.com.br/latest-elixir-news-on-the-radar-issue-5"
 	"http://www.selectedintelligence.com/post/116327140769/parallel-map-in-elixir"
 	"http://cs.wheaton.edu/~tvandrun/dmfp/"
+	"http://www.zohaib.me/monads-in-elixir-2/"
 	"http://blog.jonharrington.org/a-simple-cep-processor-in-elixir/"
 	"http://blog.plataformatec.com.br/2014/11/converting-erlang-code-into-elixir/"
 	"http://adrianhosey.blogspot.co.uk/2013/07/using-3rd-party-erlang-modules-in-elixir.html"

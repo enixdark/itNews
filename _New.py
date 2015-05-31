@@ -12,3 +12,7 @@
 "https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/"
 "http://lush.sourceforge.net/"
 "http://www.infoq.com/news/2015/05/ioda-architecture"
+"https://modulus.io/"
+"https://www.edx.org/school/iimbx"
+"http://www.datasciencecentral.com/events/intro-to-apache-spark-free-webinar?xg_source=activity"
+"https://www.google.com/design/icons/"

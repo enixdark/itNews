@@ -6,6 +6,10 @@
 		"http://inaka.net/blog/2015/03/25/hot-score-with-ruby-postgresql-and-elastic-part-1/"
 		"http://viget.com/extend/functional-programming-in-ruby-with-contracts"
 		"http://dashing.io/"
+		"http://idiosyncratic-ruby.com/27-golfing-basics.html"
+		"http://www.citrine.io/blog/2015/5/26/asynchronous-data-processing-with-ruby-rabbitmq-and-sneakers"
+		"http://shuber.io/porting-activerecord-validations-to-postgres/"
+		"https://semaphoreci.com/community/tutorials/how-to-use-capistrano-to-deploy-a-rails-application-to-a-puma-server"
 		"http://thenewstack.io/how-to-write-ruby-faster-at-the-source-code-level/"
 		"http://www.akitaonrails.com/2015/05/20/dynamic-site-as-fast-as-a-static-generated-one-with-raptor#.VWKCrbyli1F"
 		"https://medium.com/@KamilLelonek/functional-programming-dictionary-with-ruby-38e39b3ddcba"
@@ -26,6 +30,7 @@
 		"http://fredguest.com/2015/03/06/building-a-stateless-rails-api-with-react-and-twitter-oauth/"
 		"https://semaphoreci.com/community/tutorials/setting-up-the-bdd-stack-on-a-new-rails-4-application",
 		"https://github.com/diasks2/ruby-nlp",
+		"http://www.aidanf.net/posts/an-introduction-to-swift-for-ruby-developers"
 		"https://docs.compose.io/tutorials/rails-4-mongoid-heroku.html"
 		"http://suvankar.svbtle.com/devise-and-mongoid-in-rails-4"
 		"http://richonrails.com/articles/allowing-file-uploads-with-carrierwave"
