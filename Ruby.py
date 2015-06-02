@@ -38,6 +38,7 @@
 		"http://everydayrails.com/2012/07/31/rails-admin-panel-from-scratch.html"
 		"https://hackhands.com/pagination-rails-will_paginate-gem/"
 		"http://www.sitepoint.com/rubygems-slow/"
+		"http://code.tutsplus.com/articles/24-extremely-useful-ruby-gems-for-web-development--net-23863"
 		"http://www.codeomnib.us/rails-4-carrierwave-throws-uninitialized-uploader-console/"
 		"http://nithinbekal.com/posts/mongodb-aggregation-pipeline-ruby/"
 		"https://everystack.io/#!/catalog/components/erlectricity"

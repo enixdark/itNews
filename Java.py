@@ -2,7 +2,9 @@
 "http://www.javacodegeeks.com/2015/05/quasar-and-akka-a-comparison.html"
 "http://examples.javacodegeeks.com/enterprise-java/spring/spring-data-tutorial-beginners/"
 "http://www.jooq.org/java-8-and-sql"
+"http://www.infoq.com/news/2015/06/play-24-dependency-injection"
 "http://engineering.sharethrough.com/blog/2015/05/18/type-classes-for-the-java-engineer/"
+"http://www.javacodegeeks.com/2014/12/avoid-unwanted-component-scanning-of-spring-configuration.html"
 <<<<<<< Updated upstream
 "http://www.drdobbs.com/jvm/dynamic-distributed-systems-in-java/184410535"
 "http://java.dzone.com/articles/enabling-shards-existing"
@@ -10,6 +12,8 @@
 "http://www.javacodegeeks.com/2014/10/jpa-tutorial-mapping-entities-part-2.html"
 "http://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-annotations-example/"
 >>>>>>> Stashed changes
+"https://medium.com/ios-os-x-development/introducing-opener-497136c3e09c"
+"http://www.javacodegeeks.com/2015/06/java-ee-deployment-scenarios-for-docker-containers.html"
 "http://psy-lob-saw.blogspot.com/2015/05/degrees-of-lockwait-freedom.html"
 "https://docs.newrelic.com/docs/release-notes/agent-release-notes/java-release-notes"
 "http://java.dzone.com/articles/r-replacing-loops-data-frames"

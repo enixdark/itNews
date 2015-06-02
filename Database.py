@@ -16,6 +16,7 @@
 		],
 
 		"Postgresql":[
+			"http://adpgtech.blogspot.com/2015/05/goodbye-jsonbreplace-hello-jsonbset.html"
 			"http://adpgtech.blogspot.com/2015/05/running-pgindent-on-non-core-code-or.html"
 			"http://www.depesz.com/2015/05/23/waiting-for-9-5-tablesample-sql-standard-and-extensible/"
 			"http://bonesmoses.org/2015/05/22/pg-phriday-10-ways-to-ruin-performance-forgetting-it-exists/"
@@ -68,6 +69,7 @@
 
 		"SQLServer":[]
 		"Others":[
+			"http://www.techrepublic.com/article/nosql-databases-are-on-a-roll/"
 			"https://periscope.io/blog/first-row-per-group-5x-faster.html"
 			"http://blog.memsql.com/memsql-community-edition/"
 			"https://www.periscope.io/blog/hyperloglog-in-pure-sql.html"
@@ -106,6 +108,8 @@
 			"http://pizzaconnections.net/2015/03/27/148/"
 		]
 		"VoltDB":[
+			"http://tjelvarolsson.com/blog/four-tools-for-testing-your-python-code/"
+			"http://datamelon.io/blog/2015/building-a-chat-app-in-volt.html"
 			"http://voltdb.com/blog/keeping-track-counters-efficiently"
 			"http://voltdb.com/blog/voltdb-memory-database-achieves-best-class-results-running-cloud-ycsb-benchmark"
 			"http://docs.voltdb.com/UsingVoltDB/sqlref_upsert.php"
@@ -449,6 +453,7 @@
 		]
 	},
 	"Others":[
+		"http://www.methodsandtools.com/archive/acidnosqldatabase.php"
 		"http://www.infoworld.com/article/2887754/mobile-technology/how-to-choose-a-database-for-your-mobile-apps.html"
 		"https://www.youtube.com/watch?v=DkT5lbHlO1k&feature=youtu.be"
 		"https://ropensci.org/blog/2015/05/20/database-interfaces/"

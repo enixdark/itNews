@@ -5,6 +5,7 @@
 "http://blog.datacamp.com/r-or-python-for-data-analysis/"
 "http://www.inside-r.org/r-doc/base/pmax"
 "http://www.r-bloggers.com/modeling-contagion-using-airline-networks-in-r/"
+"http://wrathematics.github.io/RparallelGuide/"
 <<<<<<< Updated upstream
 "http://www.r-bloggers.com/granger-causality-test/"
 =======

@@ -9,6 +9,7 @@
 	"http://www.selectedintelligence.com/post/116327140769/parallel-map-in-elixir"
 	"http://cs.wheaton.edu/~tvandrun/dmfp/"
 	"http://www.zohaib.me/monads-in-elixir-2/"
+	"https://skillsmatter.com/meetups/7182-monads-asking-the-right-question"
 	"http://blog.jonharrington.org/a-simple-cep-processor-in-elixir/"
 	"http://blog.plataformatec.com.br/2014/11/converting-erlang-code-into-elixir/"
 	"http://adrianhosey.blogspot.co.uk/2013/07/using-3rd-party-erlang-modules-in-elixir.html"

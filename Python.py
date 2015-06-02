@@ -147,6 +147,7 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+		"http://tjelvarolsson.com/blog/four-tools-for-testing-your-python-code/"
 		"http://us2.campaign-archive1.com/?u=b7e774f0c4f05dcebbfee183d&id=6e60c40acd"
 		"http://doublemap.github.io/blog/2015/05/29/optimizing-python/"
 		"http://blog.eatonphil.com/2015/05/30/dynamic-generic-namespaces-in-python-are-a-pain/"

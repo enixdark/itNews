@@ -218,6 +218,7 @@
 			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 		]
 		"Nodejs":[
+			"https://www.youtube.com/watch?v=LFw_wPcIm8k&feature=youtu.be"
 			"https://nodesource.com/blog/was-this-trip-really-necessary"
 			"http://www.passportjs.org/
 			"http://blog.turret.io/hmac-in-go-python-ruby-php-and-nodejs"
