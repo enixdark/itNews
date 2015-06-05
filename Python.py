@@ -87,7 +87,17 @@
 =======
 			"http://noammor.github.io/noammor/ipy/str-join-benchmark.html"
 >>>>>>> Stashed changes
-
+"https://www.youtube.com/watch?v=3ZWuPVWq7p4"
+"http://pgbovine.net/cpython-internals.htm"
+"http://podcastinit.com/episode-8-mark-baggett-on-pythons-role-in-information-security.html"
+"http://underscore.io/blog/posts/2015/06/04/newsletter9.html"
+"https://opensource.com/business/15/5/api-integrations-with-python-and-zato"
+"https://www.sg.ethz.ch/team/people/ischoltes/research-insights/temporal-networks-demo/"
+"https://www.airpair.com/python/posts/optimizing-python-code"
+"https://www.youtube.com/watch?v=0YTIOn7_h_k"
+"http://www.galvanize.com/blog/2015/05/28/classifying-and-visualizing-musical-pitch-with-k-means-clustering/"
+"http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python?xg_source=activity"
+			"http://www.johndcook.com/blog/2015/06/03/mystery-curve/"
 			"http://blog.tshirtman.fr/2014/1/14/publisher-consumer-model-in-kivy"
 			"http://pythonsweetness.tumblr.com/post/119568339102/block-range-brin-indexes-in-postgresql-9-5"
 			"https://beta.oreilly.com/learning/intro-to-svm"

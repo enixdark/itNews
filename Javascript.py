@@ -1,8 +1,12 @@
 "Javascript":{
 		"Angular":[
+		"http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase-part-7--cms-23084"
 			"http://www.webcodegeeks.com/javascript/angular-js/top-5-mistakes-angularjs-developers-make-part-1-relying-scope/"
 			"https://www.airpair.com/angularjs/posts/material-design-with-angularjs"
 			"http://ngmodules.com/"
+			"http://code.ciphertrick.com/2015/05/25/display-time-relatively-in-angularjs/"
+			"http://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535"
+			"https://www.youtube.com/watch?v=o9c3U5_8tGY&feature=youtu.be&t=102"
 			"http://www.sitepoint.com/building-twitter-app-using-angularjs/"
 			"http://conceptf1.blogspot.com/p/learning-angularjs.html"
 			"http://ryanchenkie.com/angularjs-custom-filters/"
@@ -111,6 +115,7 @@
 			"http://futurice.com/blog/declarative-apps-with-polymers-two-way-data-binding"
 		]
 		"StrongLoop":[
+		 "https://strongloop.com/strongblog/loopback-geolocation-node-js-user-registration-app/"
 			"https://strongloop.com/strongblog/rethinkdb-connector-loopback-node-js-framework/"
 			"https://strongloop.com/strongblog/node-js-process-manager-production-docker/"
 			"https://strongloop.com/strongblog/es6-variable-declarations/"
@@ -346,6 +351,8 @@
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
+		"http://raganwald.com/2015/06/04/classes-are-expressions.html"
+		"https://medium.com/ecmascript-2015/es6-classes-and-inheritance-607804080906"
 			"http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6"
 			"http://reactjsnews.com/es6-gotchas/"
 			"http://es6-features.org/#Constants"
@@ -381,6 +388,7 @@
 			"http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
 		]
 		"Meteor":[
+		"https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-part-4-channels-and-chat-rooms?"
 			"https://www.compose.io/articles/meteor-sql-and-other-databases"
 			"http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/"
 			"https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV"
@@ -406,6 +414,7 @@
 			"http://foam-framework.github.io/foam/"
 		]
 		"Others":[
+		"http://influxdb.com/blog/2015/06/03/InfluxDB_clustering_design.html"
 			"http://www.sitepoint.com/testing-javascript-jasmine-travis-karma/"
 			"http://ideasintosoftware.com/practical-guide-to-promises/"
 			"http://babeljs.io/users/#React"

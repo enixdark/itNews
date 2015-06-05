@@ -11,6 +11,7 @@
 =======
 "http://www.javacodegeeks.com/2014/10/jpa-tutorial-mapping-entities-part-2.html"
 "http://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-annotations-example/"
+"http://www.javacodegeeks.com/2014/12/rabbitmq-processing-messages-serially-using-spring-integration-java-dsl.html"
 >>>>>>> Stashed changes
 "https://medium.com/ios-os-x-development/introducing-opener-497136c3e09c"
 "http://www.javacodegeeks.com/2015/06/java-ee-deployment-scenarios-for-docker-containers.html"

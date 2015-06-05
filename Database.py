@@ -46,6 +46,7 @@
 			"http://www.linuxjournal.com/content/postgresql-nosql-database"
 			"https://www.youtube.com/watch?v=NILlys4h7Fs"
 			"http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/"
+			"https://www.youtube.com/watch?v=khLaOfy6BCE"
 			"https://blog.compose.io/is-postgresql-your-next-json-database/.com&utm_campaign=buffer"
 			"http://engineering.tilt.com/7-postgresql-data-migration-hacks/"
 			"http://developers.slashdot.org/story/15/03/19/1930226/why-i-choose-postgresql-over-mysqlmariadb"
@@ -124,6 +125,8 @@
 			"http://www.cleardb.com/blog/entry?id=pr/5-8-2015/cleardb-iron-live-workload-performance-metrics"
 		]
 		"Mongodb":[
+		"http://derickrethans.nl/managing-schema-changes.html"
+		"https://www.mongodb.com/blog/post/retail-reference-architecture-part-4-recommendations-and-personalizations"
 			"http://www.devbattles.com/en/sand/post-1268-Why+You+Should+Never+Use+MongoDB"
 			"http://www.mongodb.com/blog/post/new-compression-options-mongodb-30"
 			"http://www.bennadel.com/blog/2830-learning-node-js-building-a-simple-api-powered-by-mongodb.htm"
@@ -192,14 +195,16 @@
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 		],
 		"CouchBase":[
-			""https://strongloop.com/strongblog/node-js-loopback-js-couchbase-connector/"
+			"http://www.zdnet.com/article/couchbase-nosql-database-gets-the-sql-religion/"
+		 "http://www.couchbase.com/press-releases/couchbase-introduces-n1ql-breakthrough-query-language"
+			"https://strongloop.com/strongblog/node-js-loopback-js-couchbase-connector/"
 			"http://blog.couchbase.com/manual-secondary-indexes"
 			"http://blog.couchbase.com/tutorial-implement-android-push-notifications-in-your-couchbase-mobile-app""
 			"http://blog.couchbase.com/tutorial-dropbox-datastore-sync"
 			"http://highscalability.com/blog/2015/5/20/database-scaling-redefined-scaling-demanding-queries-high-ve.html"
 			"http://blog.couchbase.com/introducing-developer-preview-for-couchbase-server-4.0"
-		"http://blog.couchbase.com/sql-for-documents-n1ql-brief-introduction-to-query-planning"
-		`"http://blog.cloudera.com/blog/2015/05/scan-improvements-in-apache-hbase-1-1-0/"
+		 "http://blog.couchbase.com/sql-for-documents-n1ql-brief-introduction-to-query-planning"
+		 "http://blog.cloudera.com/blog/2015/05/scan-improvements-in-apache-hbase-1-1-0/"
 			"http://blog.couchbase.com/inside-couchbase-server---database-change-protocol-the-super-conductor-that-wires-couchbase-server"
 			"http://blog.couchbase.com/dropbox-drops-sync"
 			"http://blog.couchbase.com/ruby-and-n1ql-first-taste"
@@ -296,6 +301,8 @@
 		],
 		
 		"Neo4j":[
+		"https://www.airpair.com/posts/review/55635b0ce7480311007471ee"
+		"https://www.youtube.com/watch?v=f9CEVf0sNOA"
 			"http://neo4j.com/blog/big-data-graph/"
 			"http://blog.bruggen.com/2015/05/cycling-tweets-part-5-querying.html"
 			"https://www.youtube.com/watch?v=2IjIMCJbLhc"
@@ -347,7 +354,10 @@
 		],
 
 		"Cassandra":[
+		 "http://www.duchess-france.org/accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/"
+		 "http://blog.parsely.com/post/1928/cass/"
 			"https://www.airpair.com/cassandra/posts/vetting-apache-cassandra"
+			"https://www.airpair.com/posts/review/5564e8871acf9811007204e8"
 			"http://www.datastax.com/dev/blog/performance-doubling-with-message-coalescing"
 			"http://www.n2ws.com/blog/how-to-backup-cassandra-hosted-on-the-aws-cloud-part-2.html"
 			"http://www.n2ws.com/blog/how-to-backup-cassandra-hosted-on-the-aws-cloud-part-1.html"
@@ -374,6 +384,7 @@
 		],
 
 		"Hbase":[
+		 "http://blog.cask.co/2015/05/scalable-distributed-transactional-queues/"
 			"https://www.dynamicyield.com/2015/05/apache-hbase-for-the-win-2/"
 			"http://www.rittmanmead.com/2015/05/using-hbase-impala-dw-offloading/"
 			"http://www.infoq.com/news/2015/04/apache-hbase-1-0"
@@ -393,6 +404,7 @@
 			"http://channel9.msdn.com/Blogs/Windows-Azure/Azure-Demo-Getting-started-with-Azure-DocumentDB-on-Nodejs-in-Linux"
 		]
 		"Riak":[
+		 "http://basho.com/basho-data-platform-the-first-nosql-data-platform-designed-for-enterprise-active-workloads/"
 			"https://www.youtube.com/watch?v=aYaz17qf7cE"
 			"http://basho.com/understanding-riak_core-building-handoff/"
 			"http://www.slideshare.net/sargund/erlangotp-and-some-of-riak"
@@ -413,6 +425,7 @@
 		]
 		
 		"ArrangoDB":[
+		 "https://www.arangodb.com/2015/06/multi-model-benchmark/"
 			"https://www.youtube.com/watch?v=DKoaRbDUbgM"
 			"https://www.arangodb.com/2015/04/digital-ocean-cluster/"
 			"https://www.arangodb.com/2014/12/18/getting-started-guacamole-rails"

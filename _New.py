@@ -23,3 +23,6 @@
 "http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html"
 "https://abdulyadi.wordpress.com/2015/06/02/which-replicated-tables-got-changes-in-bdr-replication/"
 "https://2015.nosql-matters.org/bcn/call-for-papers/"
+"http://bravenewgeek.com/distributed-systems-are-a-ux-problem/"
+"https://snap.stanford.edu/data/"
+"https://www.graylog.org/graylog-1-1-is-now-generally-available/"

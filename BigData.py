@@ -1,10 +1,13 @@
 "BigData":{
 		"http://www.dzone.com/mz/big-data"
 		"Hadoop":[
+		"http://www.datasciencecentral.com/profiles/blogs/6-cloud-based-machine-learning-services"
+		 "http://blog.cloudera.com/blog/2015/06/architectural-patterns-for-near-real-time-data-processing-with-apache-hadoop/"
 			"https://adtmag.com/articles/2015/05/21/mapr-adds-drill.aspx"
 			"http://cscarioni.blogspot.com/2015/02/clustering-customers-for-machine.html"
 			"http://hortonworks.com/blog/apache-hadoop-infrastructure-considerations-and-best-practices/"
 			"http://www.hadoop360.com/blog/hadoop-whose-to-choose"
+			"http://haskell-distributed.github.io/"
 			"http://appaloud.com/splice-machine-takes-big-step-releasing-version-1-0-hadoop-rdbms/"
 			"http://siliconangle.com/blog/2015/05/15/oracle-announces-new-spatial-graph-tools-for-hadoop-and-nosql/"
 			"http://www.datasciencecentral.com/profiles/blogs/get-started-with-hadoop-and-spark-in-10-minutes"
@@ -28,6 +31,7 @@
 			"http://www.hadoop360.com/blog/spark-shark-and-mesos-data-analytics-stack",
 			"http://www.hadoop360.com/blog/8-hadoop-articles-that-you-should-read"
 			"http://vision.cloudera.com/data-governance-in-hadoop-part-2/"
+			"https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html"
 		],
 		"ApacheStorm":[
 			"http://lucidworks.com/blog/integrating-storm-and-solr/"
@@ -95,6 +99,7 @@
 			"http://drill.apache.org/blog/2015/03/31/drill-0.8-released/"
 		],
 		"ApacheKafka":[
+			"http://thenewstack.io/apache-kafka-spark-database-real-time-trinity/?"
 			"https://cwiki.apache.org/confluence/display/KAFKA/KIP-11+-+Authorization+Interface"
 			"http://blog.confluent.io/2015/02/25/stream-data-platform-1/"
 			"http://java.dzone.com/articles/using-apache-kafka-integration"

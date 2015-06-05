@@ -11,11 +11,13 @@
 =======
 "https://datumengineering.wordpress.com/2014/02/08/r-python/"
 >>>>>>> Stashed changes
+"http://www.r-bloggers.com/beautiful-table-outputs-summarizing-mixed-effects-models-rstats/"
 "http://www.r-bloggers.com/fast-parallel-computing-with-intel-phi-coprocessors/"
 "http://www.r-bloggers.com/basic-text-string-functions-in-r/"
 "http://www.r-bloggers.com/unsupervised-google-maps-image-classification/"
 "http://java.dzone.com/articles/r-removing-loops"
 "http://adv-r.had.co.nz/"
+"http://www.r-bloggers.com/a-practical-example-of-calculating-pade-approximant-coefficients-using-r/"
 "http://www.r-bloggers.com/lessons-learned-in-high-performance-r/"
 "http://www.r-bloggers.com/open-data-sets-you-can-use-with-r/"
 "http://www.r-bloggers.com/databases-an-ideal-application-for-r6/"

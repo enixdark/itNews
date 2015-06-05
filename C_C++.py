@@ -5,3 +5,4 @@
 "http://bartoszmilewski.com/2015/05/25/using-monads-in-c-to-solve-constraints-4-refactoring/"
 "http://pdimov.com/cpp2/simple_cxx11_metaprogramming.html"
 "http://pfultz2.com/blog/2015/05/31/unique-address/"
+"https://solarianprogrammer.com/2015/06/04/opencv-video-editing-tutorial/"

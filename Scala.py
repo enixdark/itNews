@@ -18,6 +18,7 @@
 	"http://letitcrash.com/post/114395138592/akka-cluster-load-balancing"
 	"http://letitcrash.com/post/113805166317/akka-cluster-load-balancing"
 	"http://www.reactivemanifesto.org/"
+	"http://julienrf.github.io/scala-lessons/course/#%281%29"
 	"https://vimeo.com/125440021"
 	"http://java.dzone.com/articles/backpressure-action-websockets"
 	"http://alvinalexander.com/scala/mac-text-to-speech-web-service-play-framework"

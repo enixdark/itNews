@@ -6,6 +6,7 @@
 		"http://inaka.net/blog/2015/03/25/hot-score-with-ruby-postgresql-and-elastic-part-1/"
 		"http://viget.com/extend/functional-programming-in-ruby-with-contracts"
 		"http://dashing.io/"
+		"http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html"
 		"http://idiosyncratic-ruby.com/27-golfing-basics.html"
 		"http://www.citrine.io/blog/2015/5/26/asynchronous-data-processing-with-ruby-rabbitmq-and-sneakers"
 		"http://shuber.io/porting-activerecord-validations-to-postgres/"

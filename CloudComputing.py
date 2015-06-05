@@ -5,6 +5,7 @@
 			"https://aws.amazon.com/blogs/compute/running-executables-in-aws-lambda/"
 			"https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/"
 			"http://aws.amazon.com/efs/"
+			"http://m.insideaws.com/articles-tutorials/architecture/doing-your-database-aws-part1.html"
 			"http://tech.gilt.com/post/116560048224/tips-for-debugging-ec2-container-service"
 			"http://techcrunch.com/2015/04/09/amazon-launches-new-efs-file-storage-service-for-ec2"
 			"http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumes.html?adbsc=docs_20150403_42955476&adbid=583799107174604804&adbpl=tw&adbpr=66780587"
@@ -16,6 +17,7 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
+		 "http://blog.tutum.co/2015/06/03/docker-angularjs-and-tutum-part-1/"
 			"http://blog.codeship.com/automate-your-dev-workflow-with-docker/"
 			"https://blog.docker.com/2015/05/docker-tutorial-10-docker-compose/"
 			"https://www.youtube.com/watch?v=GVVtR_hrdKI&list=WL&index=6"

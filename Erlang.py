@@ -10,6 +10,8 @@
 		"http://view.samurajdata.se/psview.php?id=6fbf619d"
 		"http://niki.code-karma.com/2011/06/python-style-decorators-in-erlang/"
 >>>>>>> Stashed changes
+"http://cheezburger.com/8504868352"
+  "http://blog.lfe.io/tutorials/2015/06/05/0024-lfe-friday---queuetail1/"
 		"http://www.erlang.org/article/15"
 		"http://blog.lfe.io/tutorials/2015/05/28/1008-creating-servers-with-the-gen_server-behaviour-ii/?"
 		"http://erlangcentral.org/jeff-weiss-chat-bot-a-practical-walkthrough-of-the-powerful-features-elixirerlangotp/#.VV0ye7yli1E"
