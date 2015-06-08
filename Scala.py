@@ -20,6 +20,7 @@
 	"http://www.reactivemanifesto.org/"
 	"http://julienrf.github.io/scala-lessons/course/#%281%29"
 	"https://vimeo.com/125440021"
+	"http://www.typesafe.com/resources/case-studies-and-stories/how-hootsuite-modernized-its-url-shortener?utm_content=bufferd9059&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.VWxoVOObRVI.twitter"
 	"http://java.dzone.com/articles/backpressure-action-websockets"
 	"http://alvinalexander.com/scala/mac-text-to-speech-web-service-play-framework"
 	"http://underscore.io/blog/posts/2015/05/15/slick-enrichment.html"

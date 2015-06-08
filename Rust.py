@@ -12,4 +12,5 @@
 	"http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/"
 	"http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale"
 	"http://scattered-thoughts.net/blog/2015/06/04/three-months-of-rust/"
+	"http://unconj.ca/blog/expressing-l-systems-in-rust.html"
 ]

@@ -62,8 +62,10 @@
 	"http://www.datasciencecentral.com/profiles/blogs/text-analysis-101-explicit-semantic-analysis-esa-explained"
 	"http://www.analyticbridge.com/profiles/blogs/exploratory-data-analysis-kernel-density-estimation-conceptual"
 ],"http://grail.cs.washington.edu/projects/timelapse/"
+"http://www.datasciencecentral.com/profiles/blogs/data-fundamentals"
 
 "MachineLearning":[
+"http://www.analyticbridge.com/profiles/blogs/machine-learning-and-data-mining-books-a-baker-s-dozen-for-data"
 "http://priceonomics.com/machine-learning-makes-a-surprisingly-tasty-salad/"
 "http://www.analyticbridge.com/profiles/blogs/machine-learning-in-python-has-never-been-easier"
 "http://tech.gc.com/bayesian-statistics-and-multi-armed-bandits/"

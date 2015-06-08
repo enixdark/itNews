@@ -26,3 +26,6 @@
 "http://bravenewgeek.com/distributed-systems-are-a-ux-problem/"
 "https://snap.stanford.edu/data/"
 "https://www.graylog.org/graylog-1-1-is-now-generally-available/"
+"http://bravenewgeek.com/service-disoriented-architecture/"
+"http://stackshare.io/wix/scaling-wix-to-60m-users---from-monolith-to-microservices"
+"http://www.nytimes.com/2015/06/07/magazine/a-music-sharing-network-for-the-unconnected.html?_r=0"

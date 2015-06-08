@@ -20,7 +20,10 @@
 		],
 		"LightHttp":[],
 
+		 
 		"Ansible":[
+		"http://sdtimes.com/ansiblefest-inside-the-redesigned-ansible-2-0/"
+		"http://www.ansible.com/blog/ansiblefest-presentations"
 			"http://www.reddit.com/tb/2en3tc"
 			"https://coreos.com/blog/managing-coreos-with-ansible/#inventory-setup"
 			"http://www.ansible.com/docker"

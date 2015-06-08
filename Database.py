@@ -16,6 +16,7 @@
 		],
 
 		"Postgresql":[
+		"http://www.craigkerstiens.com/2015/06/07/Moving-past-averages-in-sql/"
 			"http://adpgtech.blogspot.com/2015/05/goodbye-jsonbreplace-hello-jsonbset.html"
 			"http://adpgtech.blogspot.com/2015/05/running-pgindent-on-non-core-code-or.html"
 			"http://www.depesz.com/2015/05/23/waiting-for-9-5-tablesample-sql-standard-and-extensible/"
@@ -193,8 +194,14 @@
 			"http://www.mongodb.com/blog/post/operations-best-practices-part-1-laying-groundwork-mongodb-high-performance"
 			"https://intellipaat.com/jaspersoft-mongodb-training/"
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
+			"https://www.mongodb.com/blog/post/retail-reference-architecture-part-3-query-optimization-and-scaling"
+			"https://www.mongodb.com/blog/post/retail-reference-architecture-part-1-building-flexible-searchable-low-latency-product"
 		],
+		"NuoDB":[
+		"http://www.nuodb.com/blog/architecting-cloud-database-applications-without-overhead"
+		]
 		"CouchBase":[
+		"http://blog.couchbase.com/mongodb-is-special-benchmarks-prove-it"
 			"http://www.zdnet.com/article/couchbase-nosql-database-gets-the-sql-religion/"
 		 "http://www.couchbase.com/press-releases/couchbase-introduces-n1ql-breakthrough-query-language"
 			"https://strongloop.com/strongblog/node-js-loopback-js-couchbase-connector/"
@@ -301,6 +308,8 @@
 		],
 		
 		"Neo4j":[
+		"http://neo4j.com/developer/guide-data-modeling/#_draw_the_data_model"
+		"http://radar.oreilly.com/2013/07/why-choose-a-graph-database.html"
 		"https://www.airpair.com/posts/review/55635b0ce7480311007471ee"
 		"https://www.youtube.com/watch?v=f9CEVf0sNOA"
 			"http://neo4j.com/blog/big-data-graph/"

@@ -127,6 +127,7 @@
 		],
 
 		"Emberjs":[
+		"http://www.toptal.com/emberjs/the-8-most-common-ember-js-developer-mistakes"
 			"http://www.emberscreencasts.com/"
 			'http://emberjs.com/blog/2015/05/10/run-up-to-two-oh.html'
 			"http://emberjs.com/blog/2015/05/13/ember-1-12-released.html"
@@ -257,6 +258,7 @@
 			"http://blog.backand.com/github-webhook-node/"
 			"http://www.sitepoint.com/basics-node-js-streams/"
 			"https://stormpath.com/blog/everything-you-ever-wanted-to-know-about-node-dot-js-sessions/"
+			"http://futurice.com/blog/reactive-mvc-and-the-virtual-dom"
 			"http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/"
 			"http://bites.goodeggs.com/posts/selenium-webdriver-nodejs-tutorial/"
 			"http://tutorialzine.com/2015/01/your-first-node-webkit-app/"
