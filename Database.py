@@ -16,6 +16,7 @@
 		],
 
 		"Postgresql":[
+		"https://www.pgcon.org/2015/schedule/events/868.en.html"
 		"http://www.craigkerstiens.com/2015/06/07/Moving-past-averages-in-sql/"
 			"http://adpgtech.blogspot.com/2015/05/goodbye-jsonbreplace-hello-jsonbset.html"
 			"http://adpgtech.blogspot.com/2015/05/running-pgindent-on-non-core-code-or.html"
@@ -126,6 +127,8 @@
 			"http://www.cleardb.com/blog/entry?id=pr/5-8-2015/cleardb-iron-live-workload-performance-metrics"
 		]
 		"Mongodb":[
+		"https://codepicnic.com/posts/feature-friday-a-new-way-to-store-your-data-with-mongodb-045117b0e0a11a242b9765e79cbf113f/"
+		"https://www.mongodb.com/blog/post/retail-reference-architecture-part-4-recommendations-and-personalizations"
 		"http://derickrethans.nl/managing-schema-changes.html"
 		"https://www.mongodb.com/blog/post/retail-reference-architecture-part-4-recommendations-and-personalizations"
 			"http://www.devbattles.com/en/sand/post-1268-Why+You+Should+Never+Use+MongoDB"
@@ -201,6 +204,7 @@
 		"http://www.nuodb.com/blog/architecting-cloud-database-applications-without-overhead"
 		]
 		"CouchBase":[
+		"http://www.couchbase.com/press-releases/n1ql-opens-couchbase-server-to-massive-sql-ecosystem"
 		"http://blog.couchbase.com/mongodb-is-special-benchmarks-prove-it"
 			"http://www.zdnet.com/article/couchbase-nosql-database-gets-the-sql-religion/"
 		 "http://www.couchbase.com/press-releases/couchbase-introduces-n1ql-breakthrough-query-language"
@@ -278,6 +282,7 @@
 			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
 		]
 		"Redis":[
+			"http://java.dzone.com/articles/introduction-redis-labs"
 			"https://www.youtube.com/watch?v=aotCPUtahDU"
 			"https://www.youtube.com/watch?v=pvNrK2ln0Dw"
 			"https://blog.newrelic.com/2015/05/11/redis-performance-metrics/"
@@ -363,6 +368,8 @@
 		],
 
 		"Cassandra":[
+		"http://www.datastax.com/2015/06/oracle-and-the-nosql-effect"
+		"https://medium.com/@mustwin/cassandra-from-a-relational-world-7bbdb0a9f1d"
 		 "http://www.duchess-france.org/accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/"
 		 "http://blog.parsely.com/post/1928/cass/"
 			"https://www.airpair.com/cassandra/posts/vetting-apache-cassandra"
@@ -393,6 +400,7 @@
 		],
 
 		"Hbase":[
+		"http://blog.cloudera.com/blog/2015/06/inside-apache-hbases-new-support-for-mobs/"
 		 "http://blog.cask.co/2015/05/scalable-distributed-transactional-queues/"
 			"https://www.dynamicyield.com/2015/05/apache-hbase-for-the-win-2/"
 			"http://www.rittmanmead.com/2015/05/using-hbase-impala-dw-offloading/"
@@ -413,6 +421,7 @@
 			"http://channel9.msdn.com/Blogs/Windows-Azure/Azure-Demo-Getting-started-with-Azure-DocumentDB-on-Nodejs-in-Linux"
 		]
 		"Riak":[
+		"https://exote.ch/blogs/aseigo/2015/06/19/riak-kv-basho-and-kolab/"
 		 "http://basho.com/basho-data-platform-the-first-nosql-data-platform-designed-for-enterprise-active-workloads/"
 			"https://www.youtube.com/watch?v=aYaz17qf7cE"
 			"http://basho.com/understanding-riak_core-building-handoff/"
@@ -475,6 +484,7 @@
 		]
 	},
 	"Others":[
+		"https://www.arangodb.com/2015/06/multi-model-benchmark"
 		"http://www.methodsandtools.com/archive/acidnosqldatabase.php"
 		"http://www.infoworld.com/article/2887754/mobile-technology/how-to-choose-a-database-for-your-mobile-apps.html"
 		"https://www.youtube.com/watch?v=DkT5lbHlO1k&feature=youtu.be"

@@ -1,5 +1,6 @@
 "Javascript":{
 		"Angular":[
+		"http://www.webcodegeeks.com/javascript/angular-js/angular-2-hello-world/"
 		"http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase-part-7--cms-23084"
 			"http://www.webcodegeeks.com/javascript/angular-js/top-5-mistakes-angularjs-developers-make-part-1-relying-scope/"
 			"https://www.airpair.com/angularjs/posts/material-design-with-angularjs"
@@ -224,6 +225,7 @@
 			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 		]
 		"Nodejs":[
+		    "https://www.airpair.com/javascript/posts/using-rethinkdb-with-expressjs"
 			"https://www.youtube.com/watch?v=LFw_wPcIm8k&feature=youtu.be"
 			"https://nodesource.com/blog/was-this-trip-really-necessary"
 			"http://www.passportjs.org/
@@ -416,6 +418,8 @@
 			"http://foam-framework.github.io/foam/"
 		]
 		"Others":[
+		"https://hacks.mozilla.org/2015/06/es6-in-depth-collections/"
+		"https://blog.engineyard.com/2015/7-patterns-refactor-javascript-query-objects"
 		"http://influxdb.com/blog/2015/06/03/InfluxDB_clustering_design.html"
 			"http://www.sitepoint.com/testing-javascript-jasmine-travis-karma/"
 			"http://ideasintosoftware.com/practical-guide-to-promises/"

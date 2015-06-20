@@ -1,0 +1,1 @@
+"http://ceylon-lang.org/blog/2015/06/12/more-type-functions/"

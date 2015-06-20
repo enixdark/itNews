@@ -1,5 +1,6 @@
 "Scala":[
 	"http://scalacheck.org/"
+	"http://www.javacodegeeks.com/2011/10/scala-tutorial-regular-expressions.html"
 	"http://doc.akka.io/docs/akka/snapshot/scala/persistence.html#Persistent_FSM"
 	"http://zuchos.com/blog/2015/05/23/how-to-write-a-subscriber-for-akka-streams/"
 	"http://blog.scalac.io/2015/05/28/scala-modes.html"
@@ -20,6 +21,7 @@
 	"http://www.reactivemanifesto.org/"
 	"http://julienrf.github.io/scala-lessons/course/#%281%29"
 	"https://vimeo.com/125440021"
+	"http://blog.higher-order.com/blog/2015/06/18/easy-performance-wins-with-scalaz/"
 	"http://www.typesafe.com/resources/case-studies-and-stories/how-hootsuite-modernized-its-url-shortener?utm_content=bufferd9059&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.VWxoVOObRVI.twitter"
 	"http://java.dzone.com/articles/backpressure-action-websockets"
 	"http://alvinalexander.com/scala/mac-text-to-speech-web-service-play-framework"

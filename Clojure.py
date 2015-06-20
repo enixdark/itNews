@@ -1,4 +1,6 @@
 "https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md"
 "http://comp-phil.blogspot.com/2015/05/destructuring-in-clojure-and-es6.htm"
 "https://www.yieldbot.com/blog/data-science-in-clojure-at-yieldbot/"
+"https://nervous.io//clojure/iris/messaging/2015/06/16/iris-clojure-part-two/"
+"http://yogthos.net/posts/2015-06-16-Figwheel-nREPL.html"
 "http://e-string.com/articles/building-a-single-page-app-with-clojurescript-reagent-and-friends/?utm_source=dlvr.it&utm_medium=twitter"

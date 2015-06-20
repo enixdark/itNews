@@ -1,6 +1,7 @@
 "Python":{
 		"Flask":[
-			""
+			"http://robertocalderon.ca/blog/flask-and-redis-is-fun/"
+			"http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972"
 			"http://hackingdistributed.com/2015/05/20/hyperdex-flask/"
 			"http://blog.miguelgrinberg.com/post/celery-and-the-flask-application-factory-pattern"
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/"
@@ -157,6 +158,15 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+		"http://rethinkdb.com/blog/chad-lung-python3/"
+		"http://ruslanspivak.com/lsbaws-part3/"
+		"https://realpython.com/blog/python/python-ruby-and-golang-a-command-line-application-comparison/"
+		"http://marcobonzanini.com/2015/05/17/mining-twitter-data-with-python-part-6-sentiment-analysis-basics/"
+		"http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/"
+		"https://blog.cloudflare.com/how-to-receive-a-million-packets/"
+		"http://klen.github.io/py-frameworks-bench/"
+		"http://githubengineering.com/exception-monitoring-and-response/"
+		"https://julien.danjou.info/blog/2015/python-and-timezones"
 		"http://tjelvarolsson.com/blog/four-tools-for-testing-your-python-code/"
 		"http://us2.campaign-archive1.com/?u=b7e774f0c4f05dcebbfee183d&id=6e60c40acd"
 		"http://doublemap.github.io/blog/2015/05/29/optimizing-python/"

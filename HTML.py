@@ -13,4 +13,5 @@
 		"http://sandersk.github.io/reading-w3c/#/"
 		"http://www.sitepoint.com/getting-started-html5-video/"
 		"http://www.webcodegeeks.com/html5/html5-local-storage-example/"
+		"http://www.sitepoint.com/build-media-player-html/"
 	],

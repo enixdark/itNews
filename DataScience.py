@@ -10,6 +10,8 @@
 	"http://www.datasciencecentral.com/profiles/blogs/new-in-plotly-interactive-graphs-with-ipython"
 	"http://www.analyticbridge.com/forum/topics/clustering-idea-for-very-large-datasets"
 	"http://closecalldatabase.com/"
+	"http://radar.oreilly.com/2015/06/the-future-of-data-at-scale.html"
+	"http://www.analyticbridge.com/profiles/blogs/assessing-model-accuracy-part-2"
 	"http://www.datasciencecentral.com/group/announcements/forum/topics/introduction-to-data-science-with-r"
 	"http://www.datasciencecentral.com/profiles/blogs/understanding-the-reality-of-real-time-analytics"
 	"http://www.datasciencecentral.com/profiles/blogs/introduction-to-predictive-analytics-for-the-absolute-beginner"

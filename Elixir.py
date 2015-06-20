@@ -9,6 +9,7 @@
 	"http://www.selectedintelligence.com/post/116327140769/parallel-map-in-elixir"
 	"http://cs.wheaton.edu/~tvandrun/dmfp/"
 	"http://www.zohaib.me/monads-in-elixir-2/"
+	"http://blog.heldscal.la/elixir-hacking.html"
 	"http://elixir-lang.org/docs/v1.0/ex_unit/ExUnit.CaptureIO.html"
 	"http://blog.plataformatec.com.br/2015/06/companies-using-elixir-in-production/"
 	"https://skillsmatter.com/meetups/7182-monads-asking-the-right-question"

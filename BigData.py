@@ -1,6 +1,8 @@
 "BigData":{
 		"http://www.dzone.com/mz/big-data"
 		"Hadoop":[
+		"http://appaloud.com/teradata-acquires-rainstor-address-big-data-archiving-using-hadoop/"
+		"http://appaloud.com/teradata-offers-mapr-within-teradatas-unified-data-architecture/"
 		"http://www.datasciencecentral.com/profiles/blogs/6-cloud-based-machine-learning-services"
 		 "http://blog.cloudera.com/blog/2015/06/architectural-patterns-for-near-real-time-data-processing-with-apache-hadoop/"
 			"https://adtmag.com/articles/2015/05/21/mapr-adds-drill.aspx"
@@ -39,6 +41,7 @@
 
 
 		"Spark":[
+		    "https://databricks.com/blog/2015/06/16/zen-and-the-art-of-spark-maintenance-with-cassandra.html?"
 			"http://hortonworks.com/hadoop-tutorial/using-apache-spark-technical-preview-with-hdp-2-2/"
 			"http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/"
 			"http://blog.cloudera.com/blog/2015/04/how-to-translate-from-mapreduce-to-apache-spark-part-2/"
@@ -114,6 +117,7 @@
 			"http://examples.javacodegeeks.com/core-java/apache-camel-hello-world-example/"
 		]
 		"Others":[
+			"http://www.datasciencecentral.com/profiles/blogs/lambda-architecture-for-big-data-systems"
 			"http://www.dzone.com/mz/big-data"
 			"http://www.datasciencecentral.com/group/resources/forum/topics/big-data-poster"
 			"http://www.theregister.co.uk/2012/11/07/big_data_analytics"

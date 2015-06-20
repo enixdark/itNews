@@ -25,6 +25,8 @@
 "https://2015.nosql-matters.org/bcn/call-for-papers/"
 "http://bravenewgeek.com/distributed-systems-are-a-ux-problem/"
 "https://snap.stanford.edu/data/"
+"http://avoidwork.github.io/rozu/"
+"http://www.cockroachlabs.com/blog/scaling-raft/"
 "https://www.graylog.org/graylog-1-1-is-now-generally-available/"
 "http://bravenewgeek.com/service-disoriented-architecture/"
 "http://stackshare.io/wix/scaling-wix-to-60m-users---from-monolith-to-microservices"

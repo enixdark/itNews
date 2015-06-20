@@ -1,6 +1,7 @@
 "Devops":{
 		"Apache":[],
 		"Nginx":[
+			"http://nginx.com/blog/nginx-1-9-2-released/"
 			"http://nginx.com/blog/socket-sharding-nginx-release-1-9-1/"
 			"https://www.scalyr.com/community/guides/an-in-depth-guide-to-nginx-metrics"
 			"http://java.dzone.com/articles/nginx-open-source-reflecting"
@@ -68,11 +69,9 @@
 		],
 		"SaltStack":[],
 		"ElastickSearch":[
-<<<<<<< Updated upstream
-
-=======
+		"http://blog.sematext.com/2015/06/16/elasticsearch-warmers-thread-pools-circuit-breakers/"
+			"https://www.elastic.co/blog/logstash-1-5-1-released"
 			"https://www.elastic.co/blog/logstash-lines-2015-05-22"
->>>>>>> Stashed changes
 			"https://www.elastic.co/blog/this-week-in-elastic-2015-05-20"
 			"https://www.elastic.co/blog/elasticsearch-at-predikto?blade=tw"
 			"https://www.elastic.co/blog/how-to-check-logstashs-pulse"

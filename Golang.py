@@ -19,6 +19,7 @@
 	"https://blog.compose.io/go-rethinkdb-and-change-feeds-part-1",
 	"http://mkaczanowski.com/golang-build-dynamic-dns-service-go/"
 	"http://java.dzone.com/articles/exploring-go-template-engine"
+	"http://www.alexedwards.net/blog/practical-persistence-sql"
 	"http://blog.scalingo.com/post/105010314493/writing-a-replacement-to-openssh-using-go-2-2"
 	"http://blog.scalingo.com/post/104426674353/writing-a-replacement-to-openssh-using-go-1-2"
 	"https://www.hakkalabs.co/articles/make-it-feel-fast-using-groupcache-library-go"
