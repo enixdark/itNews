@@ -18,6 +18,7 @@
 "http://www.r-bloggers.com/unsupervised-google-maps-image-classification/"
 "http://java.dzone.com/articles/r-removing-loops"
 "http://adv-r.had.co.nz/"
+"http://www.r-bloggers.com/new-shiny-cheat-sheet-and-video-tutorial/"
 "http://www.r-bloggers.com/a-practical-example-of-calculating-pade-approximant-coefficients-using-r/"
 "http://www.r-bloggers.com/lessons-learned-in-high-performance-r/"
 "http://www.r-bloggers.com/open-data-sets-you-can-use-with-r/"

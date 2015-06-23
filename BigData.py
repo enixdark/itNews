@@ -41,8 +41,12 @@
 
 
 		"Spark":[
+<<<<<<< Updated upstream
 		    "https://databricks.com/blog/2015/06/16/zen-and-the-art-of-spark-maintenance-with-cassandra.html?"
-			"http://hortonworks.com/hadoop-tutorial/using-apache-spark-technical-preview-with-hdp-2-2/"
+=======
+		"https://www.mapr.com/blog/quickstart-my-spark-kickstarting-your-spark-based-applications#.VX91Vryli1E"
+"https://dataissexy.wordpress.com/2015/06/23/processing-json-with-sparkling-sparkling-spark-bigdata-clojure/"			
+"http://hortonworks.com/hadoop-tutorial/using-apache-spark-technical-preview-with-hdp-2-2/"
 			"http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/"
 			"http://blog.cloudera.com/blog/2015/04/how-to-translate-from-mapreduce-to-apache-spark-part-2/"
 			"http://spark-packages.org/package/Stratio/RabbitMQ-Receiver"
@@ -73,6 +77,7 @@
 			"http://www.infoq.com/news/2015/03/pinterest-memsql-spark-streaming+news&utm_campaign=calendar"
 		],
 		"Mesos":[
+		"http://www.datasciencecentral.com/profiles/blogs/spark-shark-and-mesos-data-analytics-stack"
 			"http://www.datasciencecentral.com/profiles/blogs/spark-shark-and-mesos-data-analytics-stack"
 			"www.datasciencecentral.com/profiles/blogs/spark-shark-and-mesos-data-analytics-stack"
 			"http://www.javacodegeeks.com/2014/01/getting-started-with-apache-mesos-and-apache-aurora-using-vagrant.html"
@@ -81,6 +86,7 @@
 			"http://www.javacodegeeks.com/2015/04/apache-mesos-marathon-and-java-ee.html",
 		],
 		"Mapr":[
+		 "https://adtmag.com/articles/2015/06/10/new-mapr-hadoop.aspx"
 			"http://www.itbusinessedge.com/blogs/it-unmasked/mapr-ships-drill-sql-engine.html"
 			"https://www.mapr.com/blog/hadoop-adoption-is-the-cluster-half-full#.VVbvlOSli1E"
 			"https://www.mapr.com/blog/5-core-business-functions-can-benefit-hadoop#.VU1smeSEi-k"
@@ -102,6 +108,7 @@
 			"http://drill.apache.org/blog/2015/03/31/drill-0.8-released/"
 		],
 		"ApacheKafka":[
+		"https://www.sigmoid.com/integrating-spark-kafka-hbase-to-power-a-real-time-dashboard/"
 			"http://thenewstack.io/apache-kafka-spark-database-real-time-trinity/?"
 			"https://cwiki.apache.org/confluence/display/KAFKA/KIP-11+-+Authorization+Interface"
 			"http://blog.confluent.io/2015/02/25/stream-data-platform-1/"
@@ -117,7 +124,12 @@
 			"http://examples.javacodegeeks.com/core-java/apache-camel-hello-world-example/"
 		]
 		"Others":[
+<<<<<<< Updated upstream
 			"http://www.datasciencecentral.com/profiles/blogs/lambda-architecture-for-big-data-systems"
+=======
+		"http://www.analyticbridge.com/profiles/blogs/10-common-nlp-terms-explained-for-the-text-mining-novice"
+		"http://www.datasciencecentral.com/profiles/blogs/hadoop-vs-nosql-vs-sql-vs-newsql-by-example"
+>>>>>>> Stashed changes
 			"http://www.dzone.com/mz/big-data"
 			"http://www.datasciencecentral.com/group/resources/forum/topics/big-data-poster"
 			"http://www.theregister.co.uk/2012/11/07/big_data_analytics"

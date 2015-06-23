@@ -5,6 +5,7 @@
 			"http://www.webcodegeeks.com/javascript/angular-js/top-5-mistakes-angularjs-developers-make-part-1-relying-scope/"
 			"https://www.airpair.com/angularjs/posts/material-design-with-angularjs"
 			"http://ngmodules.com/"
+			"http://code.tutsplus.com/tutorials/build-an-angularjs-app-from-scratch-powered-by-python-eve--cms-23063"
 			"http://code.ciphertrick.com/2015/05/25/display-time-relatively-in-angularjs/"
 			"http://code.tutsplus.com/tutorials/create-a-simple-shopping-cart-using-angularjs-part-1--cms-23535"
 			"https://www.youtube.com/watch?v=o9c3U5_8tGY&feature=youtu.be&t=102"
@@ -101,6 +102,7 @@
 
 
 		"FireBase":[
+		 "https://www.youtube.com/watch?v=umZLJThityQ"
 			"https://www.firebase.com/blog/2015-05-15-introducing-firebase-queue.html"
 			"https://www.firebase.com/blog/2015-05-15-introducing-firebase-queue.html"
 			"https://www.twilio.com/blog/2015/04/get-notified-when-someone-posts-an-article-from-your-domain-on-hacker-news-using-node-js-firebase-and-twilio.html"
@@ -146,6 +148,7 @@
 
 
 		"React":[
+		 "https://facebook.github.io/react/blog/2015/06/12/deprecating-jstransform-and-react-tools.html"
 			"http://www.christianalfoni.com/articles/2015_05_18_Cerebral-developer-preview"
 			"https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918"
 			"http://www.sitepoint.com/video-getting-started-react/"
@@ -202,6 +205,8 @@
 		],
 
 		"Express":[
+		"http://www.codekitchen.ca/guide-to-structuring-and-building-a-restful-api-using-express-4/?utm_campaign=linkplug&utm_content=linkplug-Rbk4&utm_medium=linkplug&utm_source=linkplug&utm_term=linkplug-angularjs-job-board-contractor-listings"
+		"https://www.airpair.com/javascript/posts/using-rethinkdb-with-expressjs"
 			"http://webapplog.com/jade-handlebars-express"
 			"http://throwerr.com/2015/05/15/get-started-with-routing-in-express-4-0/"
 			"http://webapplog.com/url-parameters-and-routing-in-express-js/"
@@ -225,6 +230,7 @@
 			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 		]
 		"Nodejs":[
+		"https://www.airpair.com/javascript/posts/the-chemical-wedding-of-rethinkdb-and-nodejs"
 		    "https://www.airpair.com/javascript/posts/using-rethinkdb-with-expressjs"
 			"https://www.youtube.com/watch?v=LFw_wPcIm8k&feature=youtu.be"
 			"https://nodesource.com/blog/was-this-trip-really-necessary"
@@ -355,6 +361,8 @@
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
+		"http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
+		"http://teeohhem.com/why-destructuring-is-a-terrible-idea-in-es6/"
 		"http://raganwald.com/2015/06/04/classes-are-expressions.html"
 		"https://medium.com/ecmascript-2015/es6-classes-and-inheritance-607804080906"
 			"http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6"
@@ -392,6 +400,7 @@
 			"http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
 		]
 		"Meteor":[
+		"http://meteortips.com/second-meteor-tutorial"
 		"https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-part-4-channels-and-chat-rooms?"
 			"https://www.compose.io/articles/meteor-sql-and-other-databases"
 			"http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/"
@@ -412,12 +421,17 @@
 			"https://www.meteor.com/blog/2015/03/17/meteor-104-mongo-cordova-template-subscriptions"
 		],
 		"Mean":[
+		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
 			"https://hackhands.com/how-to-get-started-on-the-mean-stack/"
 		],
 		"FOAM":[
 			"http://foam-framework.github.io/foam/"
 		]
 		"Others":[
+		"http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack/"
+		"https://leanpub.com/exploring-es6/read"
+		"http://www.2ality.com/2015/06/web-assembly.htmlhttp://www.2ality.com/2015/06/web-assembly.html"
+		"http://www.infoworld.com/article/2937159/application-development/mean-vs-lamp-your-next-programming-project.html"
 		"https://hacks.mozilla.org/2015/06/es6-in-depth-collections/"
 		"https://blog.engineyard.com/2015/7-patterns-refactor-javascript-query-objects"
 		"http://influxdb.com/blog/2015/06/03/InfluxDB_clustering_design.html"

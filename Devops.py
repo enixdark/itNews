@@ -1,7 +1,13 @@
 "Devops":{
 		"Apache":[],
 		"Nginx":[
+<<<<<<< Updated upstream
 			"http://nginx.com/blog/nginx-1-9-2-released/"
+=======
+		"http://nginx.com/blog/thread-pools-boost-performance-9x/"
+		"http://www.infoq.com/news/2015/06/nginx-design-performance-scale-?"
+		 "http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/"
+		 "http://nginx.com/blog/how-nginx-plans-to-support-http2/"
 			"http://nginx.com/blog/socket-sharding-nginx-release-1-9-1/"
 			"https://www.scalyr.com/community/guides/an-in-depth-guide-to-nginx-metrics"
 			"http://java.dzone.com/articles/nginx-open-source-reflecting"
@@ -9,6 +15,7 @@
 			"http://java.dzone.com/articles/live-activity-monitoring-nginx"
 			"http://www.sitepoint.com/set-automatic-virtual-hosts-nginx-apache/"
 			"http://nginx.org/en/CHANGES"
+			"http://nginx.com/resources/admin-guide/nginx-ssl-termination/"
 			"https://blog.docker.com/2015/04/tips-for-deploying-nginx-official-image-with-docker/"
 			"http://nginx.com/blog/nginx-open-source-reflecting-back-and-looking-ahead/"
 			"https://www.conetix.com.au/blog/apache-vs-nginx-vs-openlitespeed-part-1"
@@ -69,8 +76,13 @@
 		],
 		"SaltStack":[],
 		"ElastickSearch":[
+<<<<<<< Updated upstream
 		"http://blog.sematext.com/2015/06/16/elasticsearch-warmers-thread-pools-circuit-breakers/"
 			"https://www.elastic.co/blog/logstash-1-5-1-released"
+=======
+
+   "https://www.elastic.co/blog/this-week-in-elastic-2015-06-17"
+>>>>>>> Stashed changes
 			"https://www.elastic.co/blog/logstash-lines-2015-05-22"
 			"https://www.elastic.co/blog/this-week-in-elastic-2015-05-20"
 			"https://www.elastic.co/blog/elasticsearch-at-predikto?blade=tw"

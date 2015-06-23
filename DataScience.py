@@ -67,6 +67,9 @@
 "http://www.datasciencecentral.com/profiles/blogs/data-fundamentals"
 
 "MachineLearning":[
+"http://www.mbmlbook.com/Introduction.html"
+"http://www.datasciencecentral.com/profiles/blogs/how-do-i-learn-machine-learning"
+"http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/"
 "http://www.analyticbridge.com/profiles/blogs/machine-learning-and-data-mining-books-a-baker-s-dozen-for-data"
 "http://priceonomics.com/machine-learning-makes-a-surprisingly-tasty-salad/"
 "http://www.analyticbridge.com/profiles/blogs/machine-learning-in-python-has-never-been-easier"

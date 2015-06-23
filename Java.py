@@ -10,9 +10,12 @@
 "http://java.dzone.com/articles/enabling-shards-existing"
 =======
 "http://www.javacodegeeks.com/2014/10/jpa-tutorial-mapping-entities-part-2.html"
+"http://java-is-the-new-c.blogspot.com/2014/10/why-protocols-are-messy-concept.html"
 "http://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-annotations-example/"
 "http://www.javacodegeeks.com/2014/12/rabbitmq-processing-messages-serially-using-spring-integration-java-dsl.html"
 >>>>>>> Stashed changes
+"http://blog.takipi.com/5-features-in-java-9-that-will-change-how-you-develop-software-and-2-that-wont/?utm_content=buffer371b6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+"https://blogs.oracle.com/java/entry/java_ee_8_roadmap_update"
 "https://medium.com/ios-os-x-development/introducing-opener-497136c3e09c"
 "http://www.javacodegeeks.com/2015/06/java-ee-deployment-scenarios-for-docker-containers.html"
 "http://psy-lob-saw.blogspot.com/2015/05/degrees-of-lockwait-freedom.html"
@@ -124,4 +127,5 @@
 		"http://www.javacodegeeks.com/2013/10/when-and-how-to-use-a-threadlocal.html"
 		"http://examples.javacodegeeks.com/enterprise-java/spring/aop/spring-aop-example/"
 		"http://sdtimes.com/a-functional-programming-crash-course-for-java-developers/"
+		"http://www.vasinov.com/blog/16-months-of-functional-programming/"
 ],

@@ -21,6 +21,9 @@
 	"http://blog.plataformatec.com.br/2015/04/build-embedded-and-start-permanent-in-elixir-1-0-4/"
 	"https://blog.process-one.net/embedding-ejabberd-into-an-elixir-phoenix-web-application/"
 	"https://renatomoya.github.io/2015/05/09/Building-a-versioned-REST-API-with-Phoenix-Framework.html"
+	"http://blog.drewolson.org/elixir-streams/"
+	"http://blog.heldscal.la/elixir-hacking.html"
+	"http://www.marksense.net/visual-i-mean-flow-based-programming/"
 	"http://erlangcentral.org/martin-kavalar-martin-schurrer-fast-continuous-deployment-of-an-elixir-gameserver-and-phoenix-web-app-using-hot-code-upgrades/#.VVbjUOSli1E"
 ],
 

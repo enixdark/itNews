@@ -19,6 +19,7 @@
 		"http://designsparkle.com/css-hover-effects/"
 		"http://cssmatter.com/blog/the-top-5-bootstrap-themes-free/"
 		"http://www.designsrazzi.com/2015/free-image-hover-effects/"
+		"http://www.sitepoint.com/future-generation-css-selectors-level-4/"
 		"https://navaspot.wordpress.com/2015/03/31/erlang-maps-basics/",
 		"http://www.abeautifulsite.net/whipping-file-inputs-into-shape-with-bootstrap-3/"
 		"http://dolftax.com/2015/04/Designing-a-document-based-collaboration-interface_v2/"

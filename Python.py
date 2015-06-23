@@ -34,6 +34,8 @@
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
+		"http://dailytechvideo.com/video-208-anton-caceres-asynchronous-web-development-with-python-3/"
+		"http://arunrocks.com/python-3-cheatsheet-for-djangonauts/"
 			"http://yusuf.im/wagtail-a-new-django-cms-in-the-house/"
 			"http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/"
 			"http://www.marinamele.com/taskbuster-django-tutorial"
@@ -70,6 +72,8 @@
 			"http://www.willmcgugan.com/blog/tech/2015/3/14/saving-processes-and-threads-in-a-wsgi-server/"
  		],
 		"Pyramid":[
+		"https://realpython.com/blog/python/create-a-rest-api-in-minutes-with-pyramid-and-ramses/#.VYgUeDzGLO4.twitter"
+		"https://aiopyramid.readthedocs.org/"
 			"http://trypyramid.com/"
 			"http://www.talkpythontome.com/episodes/show/3/pyramid-web-framework"
 			"http://www.ibm.com/developerworks/cloud/library/cl-chatapp-bluemix-app/index.html"
@@ -80,14 +84,13 @@
 			"http://davidemoro.blogspot.com/2015/05/kotti-cms-elasticsearch-integration.html"
 		],
 		"Data":[
-<<<<<<< Updated upstream
+		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
+		"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
 			"http://cloudacademy.com/blog/aws-machine-learning/"
 			"https://www.youtube.com/watch?v=ZMOHEh-caTc&feature=youtu.be"
 			"http://rustyrazorblade.com/2015/05/spark-streaming-with-python-and-kafka/"
 			"http://blog.rtwilson.com/how-to-log-electricity-usage-from-a-currentcost-envir-part-1/"
-=======
 			"http://noammor.github.io/noammor/ipy/str-join-benchmark.html"
->>>>>>> Stashed changes
 "https://www.youtube.com/watch?v=3ZWuPVWq7p4"
 "http://pgbovine.net/cpython-internals.htm"
 "http://podcastinit.com/episode-8-mark-baggett-on-pythons-role-in-information-security.html"
@@ -158,6 +161,7 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+		"https://aws.amazon.com/blogs/aws/now-available-aws-sdk-for-python-3-boto3/"
 		"http://rethinkdb.com/blog/chad-lung-python3/"
 		"http://ruslanspivak.com/lsbaws-part3/"
 		"https://realpython.com/blog/python/python-ruby-and-golang-a-command-line-application-comparison/"
@@ -167,12 +171,17 @@
 		"http://klen.github.io/py-frameworks-bench/"
 		"http://githubengineering.com/exception-monitoring-and-response/"
 		"https://julien.danjou.info/blog/2015/python-and-timezones"
+		"http://pbpython.com/pandas-google-forms-part1.html"
+		"http://www.laurentluce.com/posts/least-frequently-used-cache-eviction-scheme-with-complexity-o1-in-python/"
+		"http://podcastinit.com/episode-8-mark-baggett-on-pythons-role-in-information-security.html"
+		"http://www.webcodegeeks.com/python/python-decorator-simplifying-delegate-pattern/"
 		"http://tjelvarolsson.com/blog/four-tools-for-testing-your-python-code/"
 		"http://us2.campaign-archive1.com/?u=b7e774f0c4f05dcebbfee183d&id=6e60c40acd"
 		"http://doublemap.github.io/blog/2015/05/29/optimizing-python/"
 		"http://blog.eatonphil.com/2015/05/30/dynamic-generic-namespaces-in-python-are-a-pain/"
 		"http://blog.dscpl.com.au/2015/05/performance-monitoring-of-real-wsgi.html"
 		"http://lwn.net/Articles/643786/"
+		"http://willdrevo.com/downloading-youtube-and-soundcloud-audio-with-python-and-pandas/"
 		"http://blog.ldlework.com/2015/05/01/writing-safe-twisted-code/"
 		"http://willdrevo.com/downloading-youtube-and-soundcloud-audio-with-python-and-pandas/"
 		"http://blog.hakril.net/articles/2-understanding-python-execution-tracer.html"

@@ -6,6 +6,8 @@
 		"http://inaka.net/blog/2015/03/25/hot-score-with-ruby-postgresql-and-elastic-part-1/"
 		"http://viget.com/extend/functional-programming-in-ruby-with-contracts"
 		"http://dashing.io/"
+		"http://blog.couchbase.com/ruby-and-n1ql-first-taste"
+		"http://www.spinacms.com/"
 		"http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html"
 		"http://idiosyncratic-ruby.com/27-golfing-basics.html"
 		"http://www.citrine.io/blog/2015/5/26/asynchronous-data-processing-with-ruby-rabbitmq-and-sneakers"
@@ -20,11 +22,16 @@
 		"http://code.tutsplus.com/tutorials/service-objects-with-rails-using-aldous--cms-23689"
 		"http://www.justinweiss.com/blog/2015/04/06/how-to-debug-ruby-performance-problems-in-production/"
 		"http://www.sitepoint.com/rethinkdb-ruby/"
+<<<<<<< Updated upstream
 		"http://www.sitepoint.com/julia-rubyists-crunch-numbers/"
 		"https://engineering.heroku.com/blogs/2015-02-04-incremental-gc"
 		"http://www.leighhalliday.com/avoid-race-conditions-with-postgres-locks"
 		"http://erniemiller.org/2015/06/16/rails-application-rb-recommendations/"
 		"http://raganwald.com/2015/06/17/functional-mixins.html"
+=======
+		"http://blog.honeybadger.io/using-lambdas-in-ruby/"
+		"http://blog.honeybadger.io/understanding-the-rails-jquery-csrf-vulnerability-cve-2015-1840/"
+>>>>>>> Stashed changes
 		"http://www.sitepoint.com/build-monitoring-widgets-ruby-bitbar/"
 		"http://dev.mensfeld.pl/2015/04/ruby-global-method-cache-invalidation-impact-on-a-single-and-multithreaded-applications/"
 		"http://teotti.com/create-maintainable-mongodb-queries-in-ruby-with-query-object-and-mongoid-criterias/"
@@ -68,6 +75,8 @@
 		"http://benjamintan.io/blog/2015/03/28/ruby-block-patterns-and-how-to-implement-file-open/"
 		"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		"http://awesome-ruby.com/"
+		"http://blog.erlware.org/monolith-vs-microservices-where-to-start/"
+		"http://patshaughnessy.net/2015/6/18/dont-let-your-data-out-of-the-database"
 		"http://www.justinweiss.com/blog/2015/05/11/a-new-way-to-understand-your-rails-apps-performance/"
 		"http://www.sitepoint.com/ruby-uses-memory/"
 		"http://blog.plataformatec.com.br/2015/05/nobody-told-me-minitest-was-this-fun/"
@@ -84,6 +93,7 @@
 	],
 
 "Rails":[
+"http://wyeworks.com/blog/2015/6/11/how-to-build-a-rails-5-api-only-and-backbone-application"
 	"https://bugsnag.com/blog/replacing-the-rails-asset-pipeline-with-gulp"
 	"https://nulogy.com/articles/replacing-rails-asset-pipeline#.VUSFIeSEi-k"
 	"http://weblog.rubyonrails.org/2015/5/2/welcome-to-gsoc-15/"

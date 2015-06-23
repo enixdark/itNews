@@ -17,6 +17,8 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
+		"http://techcrunch.com/2015/06/22/docker-coreos-google-microsoft-amazon-and-others-agree-to-develop-common-container-standard/#.wpvdcb:5J1m"
+		"https://blog.docker.com/2015/06/announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates/"
 		 "http://blog.tutum.co/2015/06/03/docker-angularjs-and-tutum-part-1/"
 			"http://blog.codeship.com/automate-your-dev-workflow-with-docker/"
 			"https://blog.docker.com/2015/05/docker-tutorial-10-docker-compose/"

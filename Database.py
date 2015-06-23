@@ -1,6 +1,7 @@
 "Database":{
 		"SQL":[
 		"MySQL":[
+		"http://www.linuxveda.com/2015/06/17/install-mysql-mariadb-secure-configure/"
 			"https://www.youtube.com/watch?v=IRTgsxL9V8g"
 			"http://githubengineering.com/using-mysql-performance-schema-for-workload-analysis/"
 			"http://mysqlserverteam.com/the-mysql-optimizer-cost-model-project/"
@@ -16,7 +17,11 @@
 		],
 
 		"Postgresql":[
+<<<<<<< Updated upstream
 		"https://www.pgcon.org/2015/schedule/events/868.en.html"
+=======
+		"http://www.pateldenish.com/2015/06/postgres-replication-using-replication-slots.html"
+>>>>>>> Stashed changes
 		"http://www.craigkerstiens.com/2015/06/07/Moving-past-averages-in-sql/"
 			"http://adpgtech.blogspot.com/2015/05/goodbye-jsonbreplace-hello-jsonbset.html"
 			"http://adpgtech.blogspot.com/2015/05/running-pgindent-on-non-core-code-or.html"
@@ -91,7 +96,8 @@
 			"http://blog.fanout.io/2015/05/20/building-a-realtime-api-with-rethinkdb/"
 			"http://www.rethinkdb.com/blog/rethinkdb-pubnub/"
 			"http://blog.fanout.io/2015/05/20/building-a-realtime-api-with-rethinkdb/"
-	        "http://rethinkdb.com/blog/realtime-web/"
+	  "http://rethinkdb.com/blog/realtime-web/"
+	  "http://antirez.com/news/89"
 			"https://www.compose.io/articles/re-updates-for-redis-and-rethinkdb/"
 			"http://rob.conery.io/2015/04/17/rethinkdb-2-0-is-amazing/"
 			"http://www.datacenterknowledge.com/archives/2015/04/14/rethinkdbs-open-source-nosql-now-production-ready/"
@@ -111,6 +117,7 @@
 			"http://pizzaconnections.net/2015/03/27/148/"
 		]
 		"VoltDB":[
+		"http://voltdb.com/products/featuresbenefits/reasons-behind-voltdb-architecture"
 			"http://tjelvarolsson.com/blog/four-tools-for-testing-your-python-code/"
 			"http://datamelon.io/blog/2015/building-a-chat-app-in-volt.html"
 			"http://voltdb.com/blog/keeping-track-counters-efficiently"
@@ -127,7 +134,11 @@
 			"http://www.cleardb.com/blog/entry?id=pr/5-8-2015/cleardb-iron-live-workload-performance-metrics"
 		]
 		"Mongodb":[
+<<<<<<< Updated upstream
 		"https://codepicnic.com/posts/feature-friday-a-new-way-to-store-your-data-with-mongodb-045117b0e0a11a242b9765e79cbf113f/"
+=======
+		"http://codedependant.net/2015/06/12/rest-apis-with-node-tastypie-and-mongo-part-1/"
+>>>>>>> Stashed changes
 		"https://www.mongodb.com/blog/post/retail-reference-architecture-part-4-recommendations-and-personalizations"
 		"http://derickrethans.nl/managing-schema-changes.html"
 		"https://www.mongodb.com/blog/post/retail-reference-architecture-part-4-recommendations-and-personalizations"
@@ -196,15 +207,21 @@
 			"http://www.mongodb.com/blog/post/announcing-next-generation-drivers-mongodb"
 			"http://www.mongodb.com/blog/post/operations-best-practices-part-1-laying-groundwork-mongodb-high-performance"
 			"https://intellipaat.com/jaspersoft-mongodb-training/"
+			"https://www.mongodb.com/blog/post/on-selecting-a-shard-key-for-mongodb"
 			"https://www.mongodb.com/blog/post/server-selection-next-generation-mongodb-drivers"
 			"https://www.mongodb.com/blog/post/retail-reference-architecture-part-3-query-optimization-and-scaling"
 			"https://www.mongodb.com/blog/post/retail-reference-architecture-part-1-building-flexible-searchable-low-latency-product"
 		],
 		"NuoDB":[
+		"http://www.nuodb.com/resources/press-releases/nuodb-reaches-one-million-transactions-minute-dbt2-test"
 		"http://www.nuodb.com/blog/architecting-cloud-database-applications-without-overhead"
 		]
 		"CouchBase":[
+		"http://blog.couchbase.com/2015/june/using-jil-for-custom-json-serialization-in-the-couchbase-.net-sdk"
 		"http://www.couchbase.com/press-releases/n1ql-opens-couchbase-server-to-massive-sql-ecosystem"
+=======
+		"http://connect15.couchbase.com/agenda/extreme-client-side-tweaking-couchbase-criteo/"
+>>>>>>> Stashed changes
 		"http://blog.couchbase.com/mongodb-is-special-benchmarks-prove-it"
 			"http://www.zdnet.com/article/couchbase-nosql-database-gets-the-sql-religion/"
 		 "http://www.couchbase.com/press-releases/couchbase-introduces-n1ql-breakthrough-query-language"
@@ -263,6 +280,7 @@
 			"http://blog.couchbase.com/introducing-developer-preview-for-couchbase-server-4.0"
 		],
 		"CouchDB":[	
+		 "http://blog.couchdb.org/2015/06/18/couchdb-weekly-news-june-18-2015/"
 			"http://docs.ehealthafrica.org/couchdb-best-practices/"
 			"http://www.terlici.com/2015/04/28/couchdb-node-express.html"
 			"http://blogs.the451group.com/information_management/2011/12/09/the-geographic-distribution-of-nosql-skills-couchdb-and-neo4j/"
@@ -282,7 +300,11 @@
 			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
 		]
 		"Redis":[
+<<<<<<< Updated upstream
 			"http://java.dzone.com/articles/introduction-redis-labs"
+=======
+		"http://antirez.com/news/89"
+>>>>>>> Stashed changes
 			"https://www.youtube.com/watch?v=aotCPUtahDU"
 			"https://www.youtube.com/watch?v=pvNrK2ln0Dw"
 			"https://blog.newrelic.com/2015/05/11/redis-performance-metrics/"
@@ -313,6 +335,8 @@
 		],
 		
 		"Neo4j":[
+		"http://www.lyonwj.com/2015/06/16/nlp-with-neo4j/"
+		"http://neo4j.com/blog/new-on-neo4j-the-neo4j-2-3-0-milestone-2-release-is-here/"
 		"http://neo4j.com/developer/guide-data-modeling/#_draw_the_data_model"
 		"http://radar.oreilly.com/2013/07/why-choose-a-graph-database.html"
 		"https://www.airpair.com/posts/review/55635b0ce7480311007471ee"
@@ -368,8 +392,12 @@
 		],
 
 		"Cassandra":[
+<<<<<<< Updated upstream
 		"http://www.datastax.com/2015/06/oracle-and-the-nosql-effect"
 		"https://medium.com/@mustwin/cassandra-from-a-relational-world-7bbdb0a9f1d"
+=======
+		"http://www.datastax.com/dev/blog/whats-new-in-cassandra-2-2-json-support"
+>>>>>>> Stashed changes
 		 "http://www.duchess-france.org/accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/"
 		 "http://blog.parsely.com/post/1928/cass/"
 			"https://www.airpair.com/cassandra/posts/vetting-apache-cassandra"
@@ -437,6 +465,7 @@
 			"http://sphinxsearch.com/blog/2015/03/11/sphinx-2-2-8-release/"
 		]
 		"Solr":[
+		 "http://engineering.bloomreach.com/solr-compute-cloud-an-elastic-solr-infrastructure/"
 			"http://lucidworks.com/blog/hyperloglog-field-value-cardinality-stats/"
 			"http://www.zdnet.com/article/why-apache-solr-search-is-on-the-rise-and-why-its-going-solo/"
 			"http://recology.info/2015/03/faster-solr/"
@@ -484,7 +513,11 @@
 		]
 	},
 	"Others":[
+<<<<<<< Updated upstream
 		"https://www.arangodb.com/2015/06/multi-model-benchmark"
+=======
+	"http://searchdatamanagement.techtarget.com/feature/Which-in-memory-DBMS-best-fits-your-companys-needs"
+>>>>>>> Stashed changes
 		"http://www.methodsandtools.com/archive/acidnosqldatabase.php"
 		"http://www.infoworld.com/article/2887754/mobile-technology/how-to-choose-a-database-for-your-mobile-apps.html"
 		"https://www.youtube.com/watch?v=DkT5lbHlO1k&feature=youtu.be"
