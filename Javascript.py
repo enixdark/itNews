@@ -311,6 +311,7 @@
 			"http://knowthen.com/episode-10-building-realtime-applications-just-got-easy/"
 		]
 		"BackBonejs":[
+		 "http://www.zsoltnagy.eu/ten-tips-for-writing-maintainable-code-in-backbonejs/"
 			"http://danhough.com/blog/backbone-mixins/"
 			"https://roost.bocoup.com/2015/austin/blog/why-backbone/"
 			"http://www.webcodegeeks.com/javascript/backbone-js/backbone-js-events-example"
@@ -428,6 +429,11 @@
 			"http://foam-framework.github.io/foam/"
 		]
 		"Others":[
+		"https://codewords.recurse.com/issues/three/pseudosynchronous-javascript"
+		"www.computing.co.uk/ctg/analysis/2414546/why-the-washington-post-chose-mongodb-over-couchbase-for-its-submission-platform-app"
+		"http://osvaldas.info/detecting-css-animation-transition-end-with-javascript"
+		"http://www.sitepoint.com/9-javascript-libraries-working-with-local-storage/"
+		"https://mbebenita.github.io/LLJS/"
 		"http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack/"
 		"https://leanpub.com/exploring-es6/read"
 		"http://www.2ality.com/2015/06/web-assembly.htmlhttp://www.2ality.com/2015/06/web-assembly.html"

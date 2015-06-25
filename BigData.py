@@ -41,12 +41,10 @@
 
 
 		"Spark":[
-<<<<<<< Updated upstream
-		    "https://databricks.com/blog/2015/06/16/zen-and-the-art-of-spark-maintenance-with-cassandra.html?"
-=======
-		"https://www.mapr.com/blog/quickstart-my-spark-kickstarting-your-spark-based-applications#.VX91Vryli1E"
-"https://dataissexy.wordpress.com/2015/06/23/processing-json-with-sparkling-sparkling-spark-bigdata-clojure/"			
-"http://hortonworks.com/hadoop-tutorial/using-apache-spark-technical-preview-with-hdp-2-2/"
+		 "https://databricks.com/blog/2015/06/16/zen-and-the-art-of-spark-maintenance-with-cassandra.html?"
+		 "https://www.mapr.com/blog/quickstart-my-spark-kickstarting-your-spark-based-applications#.VX91Vryli1E"
+   "https://dataissexy.wordpress.com/2015/06/23/processing-json-with-sparkling-sparkling-spark-bigdata-clojure/"			
+   "http://hortonworks.com/hadoop-tutorial/using-apache-spark-technical-preview-with-hdp-2-2/"
 			"http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/"
 			"http://blog.cloudera.com/blog/2015/04/how-to-translate-from-mapreduce-to-apache-spark-part-2/"
 			"http://spark-packages.org/package/Stratio/RabbitMQ-Receiver"
@@ -77,6 +75,8 @@
 			"http://www.infoq.com/news/2015/03/pinterest-memsql-spark-streaming+news&utm_campaign=calendar"
 		],
 		"Mesos":[
+		"https://www.typesafe.com/blog/using-spark-kafka-cassandra-and-akka-on-mesos-for-real-time-personalization"
+		"https://www.mapr.com/blog/yarn-vs-mesos-cant-we-all-just-get-along#.VYuY4byli1E"
 		"http://www.datasciencecentral.com/profiles/blogs/spark-shark-and-mesos-data-analytics-stack"
 			"http://www.datasciencecentral.com/profiles/blogs/spark-shark-and-mesos-data-analytics-stack"
 			"www.datasciencecentral.com/profiles/blogs/spark-shark-and-mesos-data-analytics-stack"
@@ -123,13 +123,14 @@
 			"http://examples.javacodegeeks.com/core-java/apache-camel-timer-example/"
 			"http://examples.javacodegeeks.com/core-java/apache-camel-hello-world-example/"
 		]
+		"ApacheMahout":[
+		 "http://analyticsbot.ml/2015/06/generating-recommendations-using-apache-mahout-part-1/"
+   "http://analyticsbot.ml/2015/06/generating-recommendations-using-apache-mahout-part-2-using-hadoop/"
+		]
 		"Others":[
-<<<<<<< Updated upstream
 			"http://www.datasciencecentral.com/profiles/blogs/lambda-architecture-for-big-data-systems"
-=======
-		"http://www.analyticbridge.com/profiles/blogs/10-common-nlp-terms-explained-for-the-text-mining-novice"
-		"http://www.datasciencecentral.com/profiles/blogs/hadoop-vs-nosql-vs-sql-vs-newsql-by-example"
->>>>>>> Stashed changes
+		 "http://www.analyticbridge.com/profiles/blogs/10-common-nlp-terms-explained-for-the-text-mining-novice"
+		 "http://www.datasciencecentral.com/profiles/blogs/hadoop-vs-nosql-vs-sql-vs-newsql-by-example"
 			"http://www.dzone.com/mz/big-data"
 			"http://www.datasciencecentral.com/group/resources/forum/topics/big-data-poster"
 			"http://www.theregister.co.uk/2012/11/07/big_data_analytics"

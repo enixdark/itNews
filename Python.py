@@ -1,5 +1,7 @@
 "Python":{
 		"Flask":[
+		 "http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql-part-5--cms-23384"
+		 "http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql-part-4--cms-23187"
 			"http://robertocalderon.ca/blog/flask-and-redis-is-fun/"
 			"http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972"
 			"http://hackingdistributed.com/2015/05/20/hyperdex-flask/"
@@ -84,6 +86,7 @@
 			"http://davidemoro.blogspot.com/2015/05/kotti-cms-elasticsearch-integration.html"
 		],
 		"Data":[
+
 		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
 		"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
 			"http://cloudacademy.com/blog/aws-machine-learning/"
@@ -161,6 +164,8 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+		"http://blog.yhathq.com/posts/roc-curves.html"
+		"http://blog.dscpl.com.au/2015/05/performance-monitoring-of-real-wsgi.html"
 		"https://aws.amazon.com/blogs/aws/now-available-aws-sdk-for-python-3-boto3/"
 		"http://rethinkdb.com/blog/chad-lung-python3/"
 		"http://ruslanspivak.com/lsbaws-part3/"

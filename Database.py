@@ -134,7 +134,7 @@
 			"http://www.cleardb.com/blog/entry?id=pr/5-8-2015/cleardb-iron-live-workload-performance-metrics"
 		]
 		"Mongodb":[
-<<<<<<< Updated upstream
+		"https://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-1?jmp=twitter"
 		"https://codepicnic.com/posts/feature-friday-a-new-way-to-store-your-data-with-mongodb-045117b0e0a11a242b9765e79cbf113f/"
 =======
 		"http://codedependant.net/2015/06/12/rest-apis-with-node-tastypie-and-mongo-part-1/"
@@ -392,12 +392,10 @@
 		],
 
 		"Cassandra":[
-<<<<<<< Updated upstream
+		"http://www.datasciencecentral.com/profiles/blogs/cassandra-modeling-for-real-time-analytics"
 		"http://www.datastax.com/2015/06/oracle-and-the-nosql-effect"
 		"https://medium.com/@mustwin/cassandra-from-a-relational-world-7bbdb0a9f1d"
-=======
 		"http://www.datastax.com/dev/blog/whats-new-in-cassandra-2-2-json-support"
->>>>>>> Stashed changes
 		 "http://www.duchess-france.org/accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/"
 		 "http://blog.parsely.com/post/1928/cass/"
 			"https://www.airpair.com/cassandra/posts/vetting-apache-cassandra"

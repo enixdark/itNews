@@ -22,6 +22,8 @@
 "https://vimeo.com/123834986"
 "http://nixos.org/"
 "http://steshaw.org/plt/"
+"http://theburningmonk.com/2015/06/all-the-fp-talks-at-ndc-oslo/"
+"http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html"
 "http://www.datasciencecentral.com/group/announcements/forum/topics/book-practical-machine-learning-a-new-look-at-anomaly-detection"
 "http://unisonweb.org/2015-06-12/editing.html"
 "http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html"

@@ -1,5 +1,5 @@
 "Erlang":[
-<<<<<<< Updated upstream
+  "http://howistart.org/posts/erlang/1"
 		"http://paper.li/ErlangLisp"
 		"https://www.youtube.com/watch?v=TcUqGIHq8rA"
 		"http://erlangcentral.org/lambda-days-2015-iurii-petrov-implementing-graph-representation-model-for-parallel-and-distributed-systems-using-erlang/#.VWPLf7yli1E"
@@ -20,6 +20,7 @@
 		"http://erlangcentral.org/jeff-weiss-chat-bot-a-practical-walkthrough-of-the-powerful-features-elixirerlangotp/#.VV0ye7yli1E"
 		"https://www.erlang-solutions.com/downloads/download-elixir"
 		"http://sibilantjs.info/"
+		"http://erlangcentral.org/scalable-is-awesome-literally-garrett-smith-erlang-user-conference-2015/#.VYvSYLyli1E"
 		"http://www.silpion.de/elixirconfeu-in-krakau-was-erlang-und-elixir-alles-koennen/"
 		"http://www.erlang.org/doc/apps/erts/alt_dist.html"
 		"http://blog.lfe.io/tutorials/2015/05/22/0224-lfe-friday---queuecons2/"

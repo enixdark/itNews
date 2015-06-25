@@ -22,7 +22,11 @@
 	"https://blog.process-one.net/embedding-ejabberd-into-an-elixir-phoenix-web-application/"
 	"https://renatomoya.github.io/2015/05/09/Building-a-versioned-REST-API-with-Phoenix-Framework.html"
 	"http://blog.drewolson.org/elixir-streams/"
+	"http://lfe.gitbooks.io/quick-start/content/1.html"
 	"http://blog.heldscal.la/elixir-hacking.html"
+	"http://www.martinfowler.com/articles/refactoring-pipelines.html"
+	"http://variousandsundry.com/cs/blog/2015/06/24/core-elixir-file-dot-stat/"
+	"http://variousandsundry.com/cs/blog/2015/06/22/core-elixir-introduction-and-the-file-library"
 	"http://www.marksense.net/visual-i-mean-flow-based-programming/"
 	"http://erlangcentral.org/martin-kavalar-martin-schurrer-fast-continuous-deployment-of-an-elixir-gameserver-and-phoenix-web-app-using-hot-code-upgrades/#.VVbjUOSli1E"
 ],
