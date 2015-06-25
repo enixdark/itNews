@@ -1,1 +1,0 @@
-"http://cotsjournalonline.com/articles/view/102810"

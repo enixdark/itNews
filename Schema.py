@@ -1,1 +1,0 @@
-"http://journal.stuffwithstuff.com/2010/10/29/bootstrapping-a-type-system/"

@@ -1,1 +1,0 @@
-"https://developer.mozilla.org/en-US/Firefox/Multiprocess_Firefox"
