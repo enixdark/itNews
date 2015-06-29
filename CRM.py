@@ -1,0 +1,1 @@
+"http://code.tutsplus.com/tutorials/create-a-simple-crm-in-wordpress-restricting-hiding-unused-admin-menu-items--cms-22983"
