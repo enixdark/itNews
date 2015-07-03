@@ -20,6 +20,8 @@
 	"http://letitcrash.com/post/114395138592/akka-cluster-load-balancing"
 	"http://letitcrash.com/post/113805166317/akka-cluster-load-balancing"
 	"http://www.reactivemanifesto.org/"
+	"http://quantifind.com/blog/2015/06/throttling-instantiations-of-scala-futures-1/"
+	"https://thebhwgroup.com/blog/isomorphic-web-design-react-scala"
 	"http://reactivemongo.org/releases/0.11.0/documentation/release-details.html"
 	"http://notes.implicit.ly/post/122717755689/specs2-3-6-2"
 	"http://underscore.io/blog/posts/2015/06/25/keeping-scala-simple.html"

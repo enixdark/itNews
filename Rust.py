@@ -14,6 +14,7 @@
 	"http://scattered-thoughts.net/blog/2015/06/04/three-months-of-rust/"
 	"http://unconj.ca/blog/expressing-l-systems-in-rust.html"
 	"https://gist.github.com/oakes/4af1023b6c5162c6f8f0"
+	"http://jakegoulding.com/rust-ffi-omnibus/"
 	"http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/"
 	"http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/"
 	"http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html"

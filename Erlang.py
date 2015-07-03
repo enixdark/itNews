@@ -1,4 +1,5 @@
 "Erlang":[
+  "http://www.cs.kent.ac.uk/ErlangMasterClasses/#class1"
   "http://howistart.org/posts/erlang/1"
 		"http://paper.li/ErlangLisp"
 		"https://www.youtube.com/watch?v=TcUqGIHq8rA"
@@ -15,6 +16,8 @@
   "http://www.javacodegeeks.com/2011/04/erlang-vs-java-memory-architecture.html"
   "http://blog.lfe.io/tutorials/2015/06/05/0024-lfe-friday---queuetail1/"
 		"http://www.erlang.org/article/15"
+		"https://www.youtube.com/watch?v=YGuAXS0Cy_8"
+		"http://www.functionalgeekery.com/episode-22-lambdaconf-2015-part-1/?utm_source=dlvr.it&utm_medium=twitter"
 		"http://blog.lfe.io/tutorials/2015/05/28/1008-creating-servers-with-the-gen_server-behaviour-ii/?"
 		"http://erlangcentral.org/jeff-weiss-chat-bot-a-practical-walkthrough-of-the-powerful-features-elixirerlangotp/#.VV0ye7yli1E"
 		"https://www.erlang-solutions.com/downloads/download-elixir"

@@ -1,5 +1,6 @@
 "CloudComputing":{
 		"AWS":[
+		 "http://blogs.aws.amazon.com/bigdata/post/Tx1R28PXR3NAO1I/How-Expedia-Implemented-Near-Real-time-Analysis-of-Interdependent-Datasets?adbsc=social_blogs_20150702_48506036&adbid=616411027782012928&adbpl=tw&adbpr=66780587"
 			"https://cloudnative.io/blog/2015/05/lambda-chat/"
 			"https://medium.com/aws-activate-startup-blog/cluster-based-architectures-using-docker-and-amazon-ec2-container-service-f74fa86254bf"
 			"https://aws.amazon.com/blogs/compute/running-executables-in-aws-lambda/"

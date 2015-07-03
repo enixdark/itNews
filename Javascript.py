@@ -233,6 +233,7 @@
 			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 		]
 		"Nodejs":[
+		"http://danialk.github.io/blog/2013/02/20/simple-authentication-in-nodejs/"
 		"https://www.airpair.com/javascript/posts/the-chemical-wedding-of-rethinkdb-and-nodejs"
 		    "https://www.airpair.com/javascript/posts/using-rethinkdb-with-expressjs"
 			"https://www.youtube.com/watch?v=LFw_wPcIm8k&feature=youtu.be"
@@ -323,6 +324,7 @@
 			"http://www.webcodegeeks.com/javascript/backbone-js/backbone-js-events-example/"
 		],
 		"Webrtc":[
+		"http://www.sitepoint.com/using-the-media-capture-api/"
 			"http://sdelements.github.io/lets-chat/"
 			"http://thejackalofjavascript.com/node-webkit-webrtc-and-angularjs-a-video-chat-client/"
 		],
@@ -366,6 +368,8 @@
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
+		"http://www.2ality.com/2015/06/tail-call-optimization.html"
+		"https://leanpub.com/b/learnes6"
 		"http://raganwald.com/2015/06/26/decorators-in-es7.html"
 		"http://blog.keithcirkel.co.uk/metaprogramming-in-es6-symbols/"
 		"http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
@@ -407,6 +411,7 @@
 			"http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
 		]
 		"Meteor":[
+		"http://info.meteor.com/blog/whats-coming-in-meteor-12-and-beyond"
 		"http://meteortips.com/second-meteor-tutorial"
 		"https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-part-4-channels-and-chat-rooms?"
 			"https://www.compose.io/articles/meteor-sql-and-other-databases"
@@ -428,6 +433,7 @@
 			"https://www.meteor.com/blog/2015/03/17/meteor-104-mongo-cordova-template-subscriptions"
 		],
 		"Mean":[
+		 "http://blog.codeship.com/running-mean-web-application-docker-containers-aws/"
 		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
 			"https://hackhands.com/how-to-get-started-on-the-mean-stack/"
 		],

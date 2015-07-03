@@ -18,6 +18,7 @@
 		],
 
 		"Postgresql":[
+		"https://www.compose.io/articles/coming-in-postgresql-9-5/"
 		"https://www.pgcon.org/2015/schedule/events/868.en.html"
 		"http://www.pateldenish.com/2015/06/postgres-replication-using-replication-slots.html"
 		"http://www.craigkerstiens.com/2015/06/07/Moving-past-averages-in-sql/"
@@ -76,6 +77,7 @@
 
 		"SQLServer":[]
 		"Others":[
+		"http://wozniak.ca/what-orms-have-taught-me-just-learn-sql"
 			"http://www.techrepublic.com/article/nosql-databases-are-on-a-roll/"
 			"https://periscope.io/blog/first-row-per-group-5x-faster.html"
 			"http://blog.memsql.com/memsql-community-edition/"
@@ -91,6 +93,7 @@
 			"http://java.dzone.com/articles/illustrating-primary-key"
 		]
 		"RethinkDB":[
+		"http://blog.hiphipjorge.com/connecting-2-rethinkdb-clusters-with-proxy-node/"
 			"https://strongloop.com/strongblog/rethinkdb-connector-loopback-node-js-framework/"
 			"http://blog.fanout.io/2015/05/20/building-a-realtime-api-with-rethinkdb/"
 			"http://www.rethinkdb.com/blog/rethinkdb-pubnub/"
@@ -134,6 +137,7 @@
 			"http://www.cleardb.com/blog/entry?id=pr/5-8-2015/cleardb-iron-live-workload-performance-metrics"
 		]
 		"Mongodb":[
+		"https://www.mongodb.com/world2015?utm_content=buffer800b2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 		"https://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-1?jmp=twitter"
 		"https://codepicnic.com/posts/feature-friday-a-new-way-to-store-your-data-with-mongodb-045117b0e0a11a242b9765e79cbf113f/"
 		"http://codedependant.net/2015/06/12/rest-apis-with-node-tastypie-and-mongo-part-1/"
@@ -215,6 +219,9 @@
 		"http://www.nuodb.com/blog/architecting-cloud-database-applications-without-overhead"
 		]
 		"CouchBase":[
+		"http://blog.couchbase.com/couchbase-spark-connector-1.0-beta-release"
+		"http://www.couchbase.com/preview/couchbase-server-4-0"
+		"http://blog.couchbase.com/user-profile-store-advanced-data-modeling"
 		"http://connect15.couchbase.com/agenda/google-cloud-couchbase-server-zero-millions-operations-time/"
 		"http://blog.couchbase.com/user-profile-store-advanced-data-modeling"
 		"http://blog.couchbase.com/2015/june/using-jil-for-custom-json-serialization-in-the-couchbase-.net-sdk"
@@ -331,6 +338,7 @@
 		],
 		
 		"Neo4j":[
+		"http://neo4j.com/blog/the-neo4j-slack-integration-youve-been-waiting-for-is-here/"
 		"http://neo4jrb.io/blog/2015/06/26/5-0-0_final.html"
 		"http://www.lyonwj.com/2015/06/16/nlp-with-neo4j/"
 		"http://neo4j.com/blog/new-on-neo4j-the-neo4j-2-3-0-milestone-2-release-is-here/"
@@ -389,6 +397,8 @@
 		],
 
 		"Cassandra":[
+  "https://databricks.com/blog/2015/06/16/zen-and-the-art-of-spark-maintenance-with-cassandra.html?utm_content=buffer67b89&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+		"http://www.datastax.com/dev/blog/new-in-cassandra-3-0-materialized-views"
 		"http://planetcassandra.org/blog/synchronizing-clocks-in-a-cassandra-cluster-pt-2-solutions/"
 		"http://www.datasciencecentral.com/profiles/blogs/cassandra-modeling-for-real-time-analytics"
 		"http://www.datastax.com/2015/06/oracle-and-the-nosql-effect"
@@ -545,7 +555,7 @@
 	]
 	,
 	"Scheduled":[
-
+	 "http://allyourbaseconf.com/2015/"
 		"http://java.dzone.com/articles/its-little-things-plsql-null"
 		"https://academy.datastax.com/"
 		"http://www.datastax.com/what-we-offer/products-services/training?utm_source=twitter&utm_name=Social&utm_medium=Free&utm_term=datastaxhttp://www.datastax.com/what-we-offer/products-services/training?utm_source=twitter&utm_name=Social&utm_medium=Free&utm_term=datastax"

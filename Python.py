@@ -1,6 +1,7 @@
 "Python":{
 		"Flask":[
-
+		"http://python-eve.org/index.html"
+		"http://code.tutsplus.com/tutorials/build-an-angularjs-app-powered-by-python-eve-part-2--cms-23383"
    "http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql-part-7--cms-23518"
 		 "http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql-part-6--cms-23402"
 		 "http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql-part-5--cms-23384"
@@ -30,15 +31,18 @@
 			"http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/"
 			"http://www.matthieuamiguet.ch/blog/synchronize-clients-flask-application-websockets"
 			"http://python.talkera.org/login-authentication-with-flask/
+			"http://www.talkpythontome.com/episodes/show/9/docker-for-the-python-developer"
 			"http://tutsbucket.com/tutorials/building-a-blog-using-flask-and-angularjs-part-1/.com"
 			"http://techstonia.github.io/twilio-voice-blog.html.com"
 			"http://www.matthieuamiguet.ch/blog/synchronize-clients-flask-application-websockets.com"
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/"
 			"https://realpython.com/blog/python/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/#.VVk65rJUgX0.twitter"
 			""
+			"https://www.youtube.com/watch?v=Cu6A96TUy_o&utm_content=buffer0b855&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
+		"http://owaislone.org/blog/modern-frontends-with-django/"
 		"https://realpython.com/blog/python/the-minimum-viable-test-suite/#.VZCyLhwkuYw.twitter"
 		"http://www.coglib.com/~icordasc/blog/2015/06/cutting-off-the-internet-part-i.html"
 		"http://dailytechvideo.com/video-208-anton-caceres-asynchronous-web-development-with-python-3/"
@@ -170,6 +174,9 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+		"http://www.fullstackpython.com/vim.html"
+		"http://nbviewer.ipython.org/github/brandomr/document_cluster/blob/master/cluster_analysis_web.ipynb?"
+		"http://marcobonzanini.com/2015/05/17/mining-twitter-data-with-python-part-6-sentiment-analysis-basics/"
 		"http://www.brython.info/"
 		"http://www.vinta.com.br/blog/2015/uploading-files-from-the-frontend-to-S3.html"
 		"http://mattwetmore.me/posts/parsing-combinators-with-parser-combinators.html"
@@ -196,6 +203,7 @@
 		"http://blog.dscpl.com.au/2015/05/performance-monitoring-of-real-wsgi.html"
 		"http://lwn.net/Articles/643786/"
 		"http://willdrevo.com/downloading-youtube-and-soundcloud-audio-with-python-and-pandas/"
+		"http://blog.ldlework.com/2015/05/01/writing-safe-twisted-code/"
 		"http://blog.ldlework.com/2015/05/01/writing-safe-twisted-code/"
 		"http://willdrevo.com/downloading-youtube-and-soundcloud-audio-with-python-and-pandas/"
 		"http://blog.hakril.net/articles/2-understanding-python-execution-tracer.html"

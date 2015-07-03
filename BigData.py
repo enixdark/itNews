@@ -75,6 +75,7 @@
 			"http://www.infoq.com/news/2015/03/pinterest-memsql-spark-streaming+news&utm_campaign=calendar"
 		],
 		"Mesos":[
+		"https://mesosphere.com/blog/2015/06/21/web-application-analytics-using-docker-and-marathon/"
 		"https://speakerdeck.com/pyr/mesomatic-the-cluster-is-a-library"
 		"https://www.mapr.com/blog/my-experience-running-docker-containers-on-mesos"
 		"https://www.typesafe.com/blog/using-spark-kafka-cassandra-and-akka-on-mesos-for-real-time-personalization"
@@ -132,6 +133,7 @@
    "http://analyticsbot.ml/2015/06/generating-recommendations-using-apache-mahout-part-2-using-hadoop/"
 		]
 		"Others":[
+		 "http://www.datasciencecentral.com/profiles/blogs/batch-vs-real-time-data-processing"
 			"http://www.datasciencecentral.com/profiles/blogs/lambda-architecture-for-big-data-systems"
 		 "http://www.analyticbridge.com/profiles/blogs/10-common-nlp-terms-explained-for-the-text-mining-novice"
 		 "http://www.datasciencecentral.com/profiles/blogs/hadoop-vs-nosql-vs-sql-vs-newsql-by-example"
