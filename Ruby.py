@@ -6,8 +6,12 @@
 		"http://inaka.net/blog/2015/03/25/hot-score-with-ruby-postgresql-and-elastic-part-1/"
 		"http://viget.com/extend/functional-programming-in-ruby-with-contracts"
 		"http://dashing.io/"
+<<<<<<< Updated upstream
 		"http://blog.couchbase.com/ruby-and-n1ql-first-taste"
 		"http://www.spinacms.com/"
+=======
+		"http://www.sitepoint.com/ruby-error-handling-beyond-basics/"
+>>>>>>> Stashed changes
 		"http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html"
 		"http://idiosyncratic-ruby.com/27-golfing-basics.html"
 		"http://www.citrine.io/blog/2015/5/26/asynchronous-data-processing-with-ruby-rabbitmq-and-sneakers"
