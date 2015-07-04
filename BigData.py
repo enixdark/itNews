@@ -42,11 +42,14 @@
 
 		"Spark":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		 "https://databricks.com/blog/2015/06/16/zen-and-the-art-of-spark-maintenance-with-cassandra.html?"
 		 "https://www.mapr.com/blog/quickstart-my-spark-kickstarting-your-spark-based-applications#.VX91Vryli1E"
    "https://dataissexy.wordpress.com/2015/06/23/processing-json-with-sparkling-sparkling-spark-bigdata-clojure/"			
    "http://hortonworks.com/hadoop-tutorial/using-apache-spark-technical-preview-with-hdp-2-2/"
 =======
+=======
+>>>>>>> Stashed changes
 			"http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark"
 		    "https://databricks.com/blog/2015/06/16/zen-and-the-art-of-spark-maintenance-with-cassandra.html?"
 			"http://hortonworks.com/hadoop-tutorial/using-apache-spark-technical-preview-with-hdp-2-2/"

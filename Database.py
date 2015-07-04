@@ -1,11 +1,15 @@
 "Database":{
 		"SQL":[
 		"MySQL":[
+<<<<<<< Updated upstream
 
 		"http://www.linuxveda.com/2015/06/17/install-mysql-mariadb-secure-configure/"
 
 		    "http://www.sitepoint.com/using-node-mysql-javascript-client/"
 
+=======
+		    "http://www.sitepoint.com/using-node-mysql-javascript-client/"
+>>>>>>> Stashed changes
 			"https://www.youtube.com/watch?v=IRTgsxL9V8g"
 			"http://githubengineering.com/using-mysql-performance-schema-for-workload-analysis/"
 			"http://mysqlserverteam.com/the-mysql-optimizer-cost-model-project/"

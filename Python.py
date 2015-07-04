@@ -37,8 +37,12 @@
 		],
 		"Django":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"http://dailytechvideo.com/video-208-anton-caceres-asynchronous-web-development-with-python-3/"
 		"http://arunrocks.com/python-3-cheatsheet-for-djangonauts/"
+=======
+			"http://mrben.co.uk/entry/a-reusable-confirm-field-update-pattern-for-django/"
+>>>>>>> Stashed changes
 =======
 			"http://mrben.co.uk/entry/a-reusable-confirm-field-update-pattern-for-django/"
 >>>>>>> Stashed changes
@@ -169,9 +173,14 @@
 		]
 		"Others":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"http://blog.yhathq.com/posts/roc-curves.html"
 		"http://blog.dscpl.com.au/2015/05/performance-monitoring-of-real-wsgi.html"
 		"https://aws.amazon.com/blogs/aws/now-available-aws-sdk-for-python-3-boto3/"
+=======
+		"http://morepypy.blogspot.ca/2015/06/pypy-260-release.html"
+		"http://lwn.net/Articles/643786/"
+>>>>>>> Stashed changes
 =======
 		"http://morepypy.blogspot.ca/2015/06/pypy-260-release.html"
 		"http://lwn.net/Articles/643786/"

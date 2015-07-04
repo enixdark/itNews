@@ -7,8 +7,12 @@
 		"http://viget.com/extend/functional-programming-in-ruby-with-contracts"
 		"http://dashing.io/"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"http://blog.couchbase.com/ruby-and-n1ql-first-taste"
 		"http://www.spinacms.com/"
+=======
+		"http://www.sitepoint.com/ruby-error-handling-beyond-basics/"
+>>>>>>> Stashed changes
 =======
 		"http://www.sitepoint.com/ruby-error-handling-beyond-basics/"
 >>>>>>> Stashed changes
