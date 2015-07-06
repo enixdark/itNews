@@ -11,7 +11,11 @@
 "http://java-is-the-new-c.blogspot.com/2014/10/why-protocols-are-messy-concept.html"
 "http://examples.javacodegeeks.com/enterprise-java/hibernate/hibernate-annotations-example/"
 "http://www.javacodegeeks.com/2014/12/rabbitmq-processing-messages-serially-using-spring-integration-java-dsl.html"
+<<<<<<< Updated upstream
 "http://www.javacodegeeks.com/2015/06/java-rest-jax-rs-2-0-how-to-handle-date-time-and-timestamp-data-types.html"
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 "http://blog.takipi.com/5-features-in-java-9-that-will-change-how-you-develop-software-and-2-that-wont/?utm_content=buffer371b6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 "https://blogs.oracle.com/java/entry/java_ee_8_roadmap_update"
 "https://medium.com/ios-os-x-development/introducing-opener-497136c3e09c"

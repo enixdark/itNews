@@ -8,6 +8,7 @@
 		"http://dashing.io/"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"http://blog.couchbase.com/ruby-and-n1ql-first-taste"
 		"http://www.spinacms.com/"
 =======
@@ -15,6 +16,10 @@
 >>>>>>> Stashed changes
 =======
 		"http://www.sitepoint.com/ruby-error-handling-beyond-basics/"
+>>>>>>> Stashed changes
+=======
+		"http://blog.couchbase.com/ruby-and-n1ql-first-taste"
+		"http://www.spinacms.com/"
 >>>>>>> Stashed changes
 		"http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html"
 		"http://idiosyncratic-ruby.com/27-golfing-basics.html"
@@ -31,11 +36,16 @@
 		"http://www.justinweiss.com/blog/2015/04/06/how-to-debug-ruby-performance-problems-in-production/"
 		"http://www.sitepoint.com/rethinkdb-ruby/"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"http://www.sitepoint.com/julia-rubyists-crunch-numbers/"
 		"https://engineering.heroku.com/blogs/2015-02-04-incremental-gc"
 		"http://www.leighhalliday.com/avoid-race-conditions-with-postgres-locks"
 		"http://erniemiller.org/2015/06/16/rails-application-rb-recommendations/"
 		"http://raganwald.com/2015/06/17/functional-mixins.html"
+=======
+		"http://blog.honeybadger.io/using-lambdas-in-ruby/"
+		"http://blog.honeybadger.io/understanding-the-rails-jquery-csrf-vulnerability-cve-2015-1840/"
+>>>>>>> Stashed changes
 =======
 		"http://blog.honeybadger.io/using-lambdas-in-ruby/"
 		"http://blog.honeybadger.io/understanding-the-rails-jquery-csrf-vulnerability-cve-2015-1840/"
@@ -102,9 +112,12 @@
 	],
 
 "Rails":[
+<<<<<<< Updated upstream
 "https://blog.nvisium.com/2015/06/using-rails-5-attributes-api-today-in.html"
 "http://www.justinweiss.com/blog/2015/06/23/how-to-preload-rails-scopes/"
 "https://shellycloud.com/blog/2015/06/integrating-braintree-payments-with-rails"
+=======
+>>>>>>> Stashed changes
 "http://wyeworks.com/blog/2015/6/11/how-to-build-a-rails-5-api-only-and-backbone-application"
 	"https://bugsnag.com/blog/replacing-the-rails-asset-pipeline-with-gulp"
 	"https://nulogy.com/articles/replacing-rails-asset-pipeline#.VUSFIeSEi-k"

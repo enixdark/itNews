@@ -20,6 +20,7 @@
 	"http://letitcrash.com/post/114395138592/akka-cluster-load-balancing"
 	"http://letitcrash.com/post/113805166317/akka-cluster-load-balancing"
 	"http://www.reactivemanifesto.org/"
+<<<<<<< Updated upstream
 	"http://quantifind.com/blog/2015/06/throttling-instantiations-of-scala-futures-1/"
 	"https://thebhwgroup.com/blog/isomorphic-web-design-react-scala"
 	"http://reactivemongo.org/releases/0.11.0/documentation/release-details.html"
@@ -27,6 +28,8 @@
 	"http://underscore.io/blog/posts/2015/06/25/keeping-scala-simple.html"
 	"http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-RC4/scala/stream-parallelism.html"
 	"https://www.youtube.com/watch?index=12&list=PL3E5A85E74A3140BA&v=Cz4EXe7phgE"
+=======
+>>>>>>> Stashed changes
 	"https://www.voxxed.com/blog/2015/06/building-a-more-powerful-simpler-scala/"
 	"http://www.gradlesummit.com/conference/santa_clara/2015/06/session?id=33414"
 	"http://julienrf.github.io/scala-lessons/course/#%281%29"

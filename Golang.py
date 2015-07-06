@@ -23,7 +23,10 @@
 	"https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf"
 	"https://blog.compose.io/go-rethinkdb-and-changefeeds-part-2"
 	"https://www.youtube.com/watch?v=x5__QAIxQZw"
+<<<<<<< Updated upstream
 	"http://www.esdrasbeleza.com/2015/04/27/image-processing-with-go/"
+=======
+>>>>>>> Stashed changes
 	"https://blog.compose.io/go-rethinkdb-and-change-feeds-part-1",
 	"http://mkaczanowski.com/golang-build-dynamic-dns-service-go/"
 	"http://java.dzone.com/articles/exploring-go-template-engine"

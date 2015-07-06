@@ -101,6 +101,7 @@
 ]
 
 
+<<<<<<< Updated upstream
 "FireBase":[
 "https://www.youtube.com/watch?v=umZLJThityQ"
 "https://www.firebase.com/blog/2015-05-15-introducing-firebase-queue.html"
@@ -128,6 +129,35 @@
 "https://medium.com/node-js-javascript/io-js-week-of-april-3rd-a4e1fe0c38c1"
 "https://iojs.org/en/faq.html"
 ],
+=======
+		"FireBase":[
+		 "https://www.youtube.com/watch?v=umZLJThityQ"
+			"https://www.firebase.com/blog/2015-05-15-introducing-firebase-queue.html"
+			"https://www.firebase.com/blog/2015-05-15-introducing-firebase-queue.html"
+			"https://www.twilio.com/blog/2015/04/get-notified-when-someone-posts-an-article-from-your-domain-on-hacker-news-using-node-js-firebase-and-twilio.html"
+			"https://www.firebase.com/blog/2015-04-10-realtime-maps-cartodb-firebase.html"
+			"http://java.dzone.com/articles/sign-firebase-facebook-using"
+			"https://www.firebase.com/docs/ios/examples.html"
+			"https://www.firebase.com/blog/2015-03-20-fireside-chat-testlio.html"
+			"https://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy"
+			"https://www.youtube.com/watch?v=D-k0MeWdpao&list=PLT-DLWOBKbB6gEvXXbznfNY_opQonXMsk"
+		],
+		"Polymer":[
+			"https://blog.polymer-project.org/announcements/2015/05/14/0.9-release/"
+			"http://futurice.com/blog/declarative-apps-with-polymers-two-way-data-binding"
+		]
+		"StrongLoop":[
+		 "https://strongloop.com/strongblog/loopback-geolocation-node-js-user-registration-app/"
+			"https://strongloop.com/strongblog/rethinkdb-connector-loopback-node-js-framework/"
+			"https://strongloop.com/strongblog/node-js-process-manager-production-docker/"
+			"https://strongloop.com/strongblog/es6-variable-declarations/"
+		]
+		"iojs":[
+			"https://www.codeschool.com/blog/2015/05/08/whats-new-in-io-js-2-0-0/"
+			"https://medium.com/node-js-javascript/io-js-week-of-april-3rd-a4e1fe0c38c1"
+			"https://iojs.org/en/faq.html"
+		],
+>>>>>>> Stashed changes
 
 "Emberjs":[
 "http://www.toptal.com/emberjs/the-8-most-common-ember-js-developer-mistakes"
@@ -525,6 +555,7 @@
 ]
 =======
 		"React":[
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 		"http://brentvatne.ca/react-native-newsletter/28-06-2015.html"
 		"http://www.sitepoint.com/video-understanding-react-events/"
@@ -533,6 +564,9 @@
 =======
 			"http://jxnblk.com/react-icons/"
 >>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
+=======
+		 "https://facebook.github.io/react/blog/2015/06/12/deprecating-jstransform-and-react-tools.html"
+>>>>>>> Stashed changes
 			"http://www.christianalfoni.com/articles/2015_05_18_Cerebral-developer-preview"
 			"https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918"
 			"http://www.sitepoint.com/video-getting-started-react/"
@@ -753,6 +787,7 @@
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 		"http://www.2ality.com/2015/06/tail-call-optimization.html"
 		"https://leanpub.com/b/learnes6"
@@ -763,6 +798,10 @@
 =======
 		"http://es6katas.org/"
 >>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
+=======
+		"http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
+		"http://teeohhem.com/why-destructuring-is-a-terrible-idea-in-es6/"
+>>>>>>> Stashed changes
 		"http://raganwald.com/2015/06/04/classes-are-expressions.html"
 		"https://medium.com/ecmascript-2015/es6-classes-and-inheritance-607804080906"
 			"http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6"
@@ -825,11 +864,15 @@
 			"https://www.meteor.com/blog/2015/03/17/meteor-104-mongo-cordova-template-subscriptions"
 		],
 		"Mean":[
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 		 "http://blog.codeship.com/running-mean-web-application-docker-containers-aws/"
 		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
 =======
 >>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
+=======
+		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
+>>>>>>> Stashed changes
 			"https://hackhands.com/how-to-get-started-on-the-mean-stack/"
 		],
 		"FOAM":[

@@ -67,7 +67,10 @@
 "http://www.datasciencecentral.com/profiles/blogs/data-fundamentals"
 
 "MachineLearning":[
+<<<<<<< Updated upstream
 "http://www.mbmlbook.com/Introduction.html"
+=======
+>>>>>>> Stashed changes
 "http://www.datasciencecentral.com/profiles/blogs/how-do-i-learn-machine-learning"
 "http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/"
 "http://www.analyticbridge.com/profiles/blogs/machine-learning-and-data-mining-books-a-baker-s-dozen-for-data"

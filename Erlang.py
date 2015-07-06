@@ -9,11 +9,19 @@
 		"http://ferd.ca/rtb-where-erlang-blooms.html"
 		"http://view.samurajdata.se/psview.php?id=6fbf619d"
 		"http://niki.code-karma.com/2011/06/python-style-decorators-in-erlang/"
+<<<<<<< Updated upstream
   "http://blog.lfe.io/announcements/2014/12/27/1641-easy-python-from-lfeerlang/"
   "http://cheezburger.com/8504868352"
   "http://c2.com/cgi/wiki?ActorsModel"
   "http://ninenines.eu/talks/cowboy-2/#/1"
   "http://www.javacodegeeks.com/2011/04/erlang-vs-java-memory-architecture.html"
+=======
+>>>>>>> Stashed changes
+"http://blog.lfe.io/announcements/2014/12/27/1641-easy-python-from-lfeerlang/"
+"http://cheezburger.com/8504868352"
+"http://ninenines.eu/talks/cowboy-2/#/1"
+"http://www.javacodegeeks.com/2011/04/erlang-vs-java-memory-architecture.html"
+>>>>>>> Stashed changes
   "http://blog.lfe.io/tutorials/2015/06/05/0024-lfe-friday---queuetail1/"
 		"http://www.erlang.org/article/15"
 		"https://www.youtube.com/watch?v=YGuAXS0Cy_8"
@@ -22,7 +30,10 @@
 		"http://erlangcentral.org/jeff-weiss-chat-bot-a-practical-walkthrough-of-the-powerful-features-elixirerlangotp/#.VV0ye7yli1E"
 		"https://www.erlang-solutions.com/downloads/download-elixir"
 		"http://sibilantjs.info/"
+<<<<<<< Updated upstream
 		"http://erlangcentral.org/scalable-is-awesome-literally-garrett-smith-erlang-user-conference-2015/#.VYvSYLyli1E"
+=======
+>>>>>>> Stashed changes
 		"http://www.silpion.de/elixirconfeu-in-krakau-was-erlang-und-elixir-alles-koennen/"
 		"http://www.erlang.org/doc/apps/erts/alt_dist.html"
 		"http://blog.lfe.io/tutorials/2015/05/22/0224-lfe-friday---queuecons2/"

@@ -25,6 +25,7 @@
 "http://www.typesafe.com/resources/case-studies-and-stories/how-hootsuite-modernized-its-url-shortener"
 "http://www.magicsplat.com/articles/oo.html"
 "https://vimeo.com/123834986"
+<<<<<<< Updated upstream
 "https://medium.com/@antoniogioia/all-you-need-to-know-about-dynamic-port-forwarding-using-ssh-socks5-proxy-and-a-linux-debian-vps-c4503921400f"
 "https://blog.process-one.net/ejabberd-15-06/"
 "http://nixos.org/"
@@ -35,21 +36,31 @@
 "http://theburningmonk.com/2015/06/all-the-fp-talks-at-ndc-oslo/"
 "http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html"
 "http://www.datasciencecentral.com/group/announcements/forum/topics/book-practical-machine-learning-a-new-look-at-anomaly-detection"
+=======
+"http://nixos.org/"
+>>>>>>> Stashed changes
 "http://unisonweb.org/2015-06-12/editing.html"
 "http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html"
 "https://abdulyadi.wordpress.com/2015/06/02/which-replicated-tables-got-changes-in-bdr-replication/"
 "https://2015.nosql-matters.org/bcn/call-for-papers/"
 "http://bravenewgeek.com/distributed-systems-are-a-ux-problem/"
 "https://snap.stanford.edu/data/"
+<<<<<<< Updated upstream
 "http://www.fefe.de/gatling/?ref=hn"
 "https://queue.acm.org/detail.cfm?id=2611829"
 "http://avoidwork.github.io/rozu/"
 "http://www.cockroachlabs.com/blog/scaling-raft/"
 "http://wryun.github.io/es-shell/"
+=======
+>>>>>>> Stashed changes
 "http://labs.domipheus.com/blog/designing-a-cpu-in-vhdl-part-1-rationale-tools-method/"
 "https://www.graylog.org/graylog-1-1-is-now-generally-available/"
 "http://bravenewgeek.com/service-disoriented-architecture/"
 "http://stackshare.io/wix/scaling-wix-to-60m-users---from-monolith-to-microservices"
 "http://www.nytimes.com/2015/06/07/magazine/a-music-sharing-network-for-the-unconnected.html?_r=0"
 "https://www.mapr.com/blog/apache-drill-essentials-new-hadoop-on-demand-training-course-now-available#.VXkfYbyli1E"
+<<<<<<< Updated upstream
 "https://www.youtube.com/watch?v=h36PGcA_8Cc&index=1&list=PLOU2XLYxmsIIxexEszFQujHy38pG4pIk0&linkId=14884224"
+=======
+"https://www.youtube.com/watch?v=h36PGcA_8Cc&index=1&list=PLOU2XLYxmsIIxexEszFQujHy38pG4pIk0&linkId=14884224"
+>>>>>>> Stashed changes
