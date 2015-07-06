@@ -4,9 +4,14 @@
 	"http://golanggo.com/post/115334564374/how-to-do-stream-multiplexing-in-go",
 	"http://golanggo.com/post/115333889744/quick-and-dirty-guide-to-deploying-go-apps",
 	"https://www.kaihag.com/https-and-go/"
+<<<<<<< HEAD
 	"http://daviddengcn.blogspot.nl/2015/06/an-alternative-design-for-containerheap.html"
+=======
+	"http://alpacalunchbox.com/building-lightweight-apis-with-go/"
+>>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
 	"http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/"
 	"https://www.youtube.com/watch?v=gRpUfjTwSOo"
+	"http://andygrunwald.com/blog/2015/06/20/resources-to-learn-golang/"
 	"https://www.hakkalabs.co/articles/getting-started-gopherjs"
 	"http://biasedbit.com/blog/golang-custom-transports/"
 	"http://www.smartjava.org/content/using-go-build-rest-service-top-mongodb"

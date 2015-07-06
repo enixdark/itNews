@@ -1,7 +1,15 @@
 "Database":{
 		"SQL":[
 		"MySQL":[
+<<<<<<< Updated upstream
+
 		"http://www.linuxveda.com/2015/06/17/install-mysql-mariadb-secure-configure/"
+
+		    "http://www.sitepoint.com/using-node-mysql-javascript-client/"
+
+=======
+		    "http://www.sitepoint.com/using-node-mysql-javascript-client/"
+>>>>>>> Stashed changes
 			"https://www.youtube.com/watch?v=IRTgsxL9V8g"
 			"http://githubengineering.com/using-mysql-performance-schema-for-workload-analysis/"
 			"http://mysqlserverteam.com/the-mysql-optimizer-cost-model-project/"
@@ -18,9 +26,17 @@
 		],
 
 		"Postgresql":[
+<<<<<<< HEAD
 		"https://www.compose.io/articles/coming-in-postgresql-9-5/"
 		"https://www.pgcon.org/2015/schedule/events/868.en.html"
 		"http://www.pateldenish.com/2015/06/postgres-replication-using-replication-slots.html"
+=======
+
+		"https://www.pgcon.org/2015/schedule/events/868.en.html"
+
+		"http://www.pateldenish.com/2015/06/postgres-replication-using-replication-slots.html"
+
+>>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
 		"http://www.craigkerstiens.com/2015/06/07/Moving-past-averages-in-sql/"
 			"http://adpgtech.blogspot.com/2015/05/goodbye-jsonbreplace-hello-jsonbset.html"
 			"http://adpgtech.blogspot.com/2015/05/running-pgindent-on-non-core-code-or.html"
@@ -140,7 +156,13 @@
 		"https://www.mongodb.com/world2015?utm_content=buffer800b2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 		"https://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-1?jmp=twitter"
 		"https://codepicnic.com/posts/feature-friday-a-new-way-to-store-your-data-with-mongodb-045117b0e0a11a242b9765e79cbf113f/"
+<<<<<<< HEAD
 		"http://codedependant.net/2015/06/12/rest-apis-with-node-tastypie-and-mongo-part-1/"
+=======
+
+		"http://codedependant.net/2015/06/12/rest-apis-with-node-tastypie-and-mongo-part-1/"
+
+>>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
 		"https://www.mongodb.com/blog/post/retail-reference-architecture-part-4-recommendations-and-personalizations"
 		"http://derickrethans.nl/managing-schema-changes.html"
 		"https://www.mongodb.com/blog/post/retail-reference-architecture-part-4-recommendations-and-personalizations"
@@ -226,7 +248,13 @@
 		"http://blog.couchbase.com/user-profile-store-advanced-data-modeling"
 		"http://blog.couchbase.com/2015/june/using-jil-for-custom-json-serialization-in-the-couchbase-.net-sdk"
 		"http://www.couchbase.com/press-releases/n1ql-opens-couchbase-server-to-massive-sql-ecosystem"
+<<<<<<< HEAD
 		"http://connect15.couchbase.com/agenda/extreme-client-side-tweaking-couchbase-criteo/"
+=======
+
+		"http://connect15.couchbase.com/agenda/extreme-client-side-tweaking-couchbase-criteo/"
+
+>>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
 		"http://blog.couchbase.com/mongodb-is-special-benchmarks-prove-it"
 			"http://www.zdnet.com/article/couchbase-nosql-database-gets-the-sql-religion/"
 		 "http://www.couchbase.com/press-releases/couchbase-introduces-n1ql-breakthrough-query-language"
@@ -306,8 +334,16 @@
 			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
 		]
 		"Redis":[
+<<<<<<< HEAD
 			"http://java.dzone.com/articles/introduction-redis-labs"
 		 "http://antirez.com/news/89"
+=======
+
+			"http://java.dzone.com/articles/introduction-redis-labs"
+
+		"http://antirez.com/news/89"
+
+>>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
 			"https://www.youtube.com/watch?v=aotCPUtahDU"
 			"https://www.youtube.com/watch?v=pvNrK2ln0Dw"
 			"https://blog.newrelic.com/2015/05/11/redis-performance-metrics/"
@@ -472,6 +508,7 @@
 			"http://sphinxsearch.com/blog/2015/03/11/sphinx-2-2-8-release/"
 		]
 		"Solr":[
+		 "http://examples.javacodegeeks.com/enterprise-java/apache-solr/solr-highlighting-example/"
 		 "http://engineering.bloomreach.com/solr-compute-cloud-an-elastic-solr-infrastructure/"
 			"http://lucidworks.com/blog/hyperloglog-field-value-cardinality-stats/"
 			"http://www.zdnet.com/article/why-apache-solr-search-is-on-the-rise-and-why-its-going-solo/"
@@ -520,9 +557,17 @@
 		]
 	},
 	"Others":[
+<<<<<<< HEAD
 	"http://linkis.com/insidebigdata.com/20/cg15s"
 		"https://www.arangodb.com/2015/06/multi-model-benchmark"
 	 "http://searchdatamanagement.techtarget.com/feature/Which-in-memory-DBMS-best-fits-your-companys-needs"
+=======
+
+		"https://www.arangodb.com/2015/06/multi-model-benchmark"
+
+	"http://searchdatamanagement.techtarget.com/feature/Which-in-memory-DBMS-best-fits-your-companys-needs"
+
+>>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
 		"http://www.methodsandtools.com/archive/acidnosqldatabase.php"
 		"http://www.infoworld.com/article/2887754/mobile-technology/how-to-choose-a-database-for-your-mobile-apps.html"
 		"https://www.youtube.com/watch?v=DkT5lbHlO1k&feature=youtu.be"

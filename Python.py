@@ -42,11 +42,22 @@
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
+<<<<<<< HEAD
 		"http://owaislone.org/blog/modern-frontends-with-django/"
 		"https://realpython.com/blog/python/the-minimum-viable-test-suite/#.VZCyLhwkuYw.twitter"
 		"http://www.coglib.com/~icordasc/blog/2015/06/cutting-off-the-internet-part-i.html"
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
 		"http://dailytechvideo.com/video-208-anton-caceres-asynchronous-web-development-with-python-3/"
 		"http://arunrocks.com/python-3-cheatsheet-for-djangonauts/"
+=======
+			"http://mrben.co.uk/entry/a-reusable-confirm-field-update-pattern-for-django/"
+>>>>>>> Stashed changes
+=======
+			"http://mrben.co.uk/entry/a-reusable-confirm-field-update-pattern-for-django/"
+>>>>>>> Stashed changes
 			"http://yusuf.im/wagtail-a-new-django-cms-in-the-house/"
 			"http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/"
 			"http://www.marinamele.com/taskbuster-django-tutorial"
@@ -95,24 +106,30 @@
 			"http://davidemoro.blogspot.com/2015/05/kotti-cms-elasticsearch-integration.html"
 		],
 		"Data":[
+<<<<<<< HEAD
 "http://matthewrocklin.com/blog/work/2015/06/18/Categoricals/"
 		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
 		"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
+=======
+
+			"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
+			"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
+>>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
 			"http://cloudacademy.com/blog/aws-machine-learning/"
 			"https://www.youtube.com/watch?v=ZMOHEh-caTc&feature=youtu.be"
 			"http://rustyrazorblade.com/2015/05/spark-streaming-with-python-and-kafka/"
 			"http://blog.rtwilson.com/how-to-log-electricity-usage-from-a-currentcost-envir-part-1/"
 			"http://noammor.github.io/noammor/ipy/str-join-benchmark.html"
-"https://www.youtube.com/watch?v=3ZWuPVWq7p4"
-"http://pgbovine.net/cpython-internals.htm"
-"http://podcastinit.com/episode-8-mark-baggett-on-pythons-role-in-information-security.html"
-"http://underscore.io/blog/posts/2015/06/04/newsletter9.html"
-"https://opensource.com/business/15/5/api-integrations-with-python-and-zato"
-"https://www.sg.ethz.ch/team/people/ischoltes/research-insights/temporal-networks-demo/"
-"https://www.airpair.com/python/posts/optimizing-python-code"
-"https://www.youtube.com/watch?v=0YTIOn7_h_k"
-"http://www.galvanize.com/blog/2015/05/28/classifying-and-visualizing-musical-pitch-with-k-means-clustering/"
-"http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python?xg_source=activity"
+			"https://www.youtube.com/watch?v=3ZWuPVWq7p4"
+			"http://pgbovine.net/cpython-internals.htm"
+			"http://podcastinit.com/episode-8-mark-baggett-on-pythons-role-in-information-security.html"
+			"http://underscore.io/blog/posts/2015/06/04/newsletter9.html"
+			"https://opensource.com/business/15/5/api-integrations-with-python-and-zato"
+			"https://www.sg.ethz.ch/team/people/ischoltes/research-insights/temporal-networks-demo/"
+			"https://www.airpair.com/python/posts/optimizing-python-code"
+			"https://www.youtube.com/watch?v=0YTIOn7_h_k"
+			"http://www.galvanize.com/blog/2015/05/28/classifying-and-visualizing-musical-pitch-with-k-means-clustering/"
+			"http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python?xg_source=activity"
 			"http://www.johndcook.com/blog/2015/06/03/mystery-curve/"
 			"http://blog.tshirtman.fr/2014/1/14/publisher-consumer-model-in-kivy"
 			"http://pythonsweetness.tumblr.com/post/119568339102/block-range-brin-indexes-in-postgresql-9-5"
@@ -174,15 +191,28 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+<<<<<<< HEAD
 		"http://www.fullstackpython.com/vim.html"
 		"http://nbviewer.ipython.org/github/brandomr/document_cluster/blob/master/cluster_analysis_web.ipynb?"
 		"http://marcobonzanini.com/2015/05/17/mining-twitter-data-with-python-part-6-sentiment-analysis-basics/"
 		"http://www.brython.info/"
 		"http://www.vinta.com.br/blog/2015/uploading-files-from-the-frontend-to-S3.html"
 		"http://mattwetmore.me/posts/parsing-combinators-with-parser-combinators.html"
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
 		"http://blog.yhathq.com/posts/roc-curves.html"
 		"http://blog.dscpl.com.au/2015/05/performance-monitoring-of-real-wsgi.html"
 		"https://aws.amazon.com/blogs/aws/now-available-aws-sdk-for-python-3-boto3/"
+=======
+		"http://morepypy.blogspot.ca/2015/06/pypy-260-release.html"
+		"http://lwn.net/Articles/643786/"
+>>>>>>> Stashed changes
+=======
+		"http://morepypy.blogspot.ca/2015/06/pypy-260-release.html"
+		"http://lwn.net/Articles/643786/"
+>>>>>>> Stashed changes
 		"http://rethinkdb.com/blog/chad-lung-python3/"
 		"http://ruslanspivak.com/lsbaws-part3/"
 		"https://realpython.com/blog/python/python-ruby-and-golang-a-command-line-application-comparison/"
