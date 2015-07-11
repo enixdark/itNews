@@ -42,6 +42,7 @@
 
 		"Spark":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		 "https://databricks.com/blog/2015/06/16/zen-and-the-art-of-spark-maintenance-with-cassandra.html?"
 		 "https://www.mapr.com/blog/quickstart-my-spark-kickstarting-your-spark-based-applications#.VX91Vryli1E"
    "https://dataissexy.wordpress.com/2015/06/23/processing-json-with-sparkling-sparkling-spark-bigdata-clojure/"			
@@ -49,6 +50,8 @@
 
 			"http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark"
 		    "https://databricks.com/blog/2015/06/16/zen-and-the-art-of-spark-maintenance-with-cassandra.html?"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 		"https://www.mapr.com/blog/quickstart-my-spark-kickstarting-your-spark-based-applications#.VX91Vryli1E"
@@ -84,11 +87,14 @@
 		],
 		"Mesos":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"https://mesosphere.com/blog/2015/06/21/web-application-analytics-using-docker-and-marathon/"
 		"https://speakerdeck.com/pyr/mesomatic-the-cluster-is-a-library"
 		"https://www.mapr.com/blog/my-experience-running-docker-containers-on-mesos"
 		"https://www.typesafe.com/blog/using-spark-kafka-cassandra-and-akka-on-mesos-for-real-time-personalization"
 		"https://www.mapr.com/blog/yarn-vs-mesos-cant-we-all-just-get-along#.VYuY4byli1E"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 		"http://www.datasciencecentral.com/profiles/blogs/spark-shark-and-mesos-data-analytics-stack"
@@ -104,8 +110,11 @@
 		]
 		"Mapr":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"https://www.mapr.com/blog/evolution-database-schemas-using-sql-nosql#.VZtolryli1E"
 		 "https://www.mapr.com/blog/hbase-and-mapr-db-designed-distribution-scale-and-speed#.VY5XMbyli1E"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 		 "https://adtmag.com/articles/2015/06/10/new-mapr-hadoop.aspx"
@@ -152,6 +161,7 @@
 		]
 		"Others":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 		 "http://www.datasciencecentral.com/profiles/blogs/batch-vs-real-time-data-processing"
 			"http://www.datasciencecentral.com/profiles/blogs/lambda-architecture-for-big-data-systems"
@@ -161,6 +171,10 @@
 		"http://www.analyticbridge.com/profiles/blogs/10-common-nlp-terms-explained-for-the-text-mining-novice"
 		"http://www.datasciencecentral.com/profiles/blogs/hadoop-vs-nosql-vs-sql-vs-newsql-by-example"
 
+=======
+		"http://www.analyticbridge.com/profiles/blogs/10-common-nlp-terms-explained-for-the-text-mining-novice"
+		"http://www.datasciencecentral.com/profiles/blogs/hadoop-vs-nosql-vs-sql-vs-newsql-by-example"
+>>>>>>> Stashed changes
 =======
 		"http://www.analyticbridge.com/profiles/blogs/10-common-nlp-terms-explained-for-the-text-mining-novice"
 		"http://www.datasciencecentral.com/profiles/blogs/hadoop-vs-nosql-vs-sql-vs-newsql-by-example"

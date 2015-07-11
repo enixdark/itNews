@@ -21,6 +21,7 @@
 	"http://letitcrash.com/post/113805166317/akka-cluster-load-balancing"
 	"http://www.reactivemanifesto.org/"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	"http://blog.scalac.io/2015/07/09/slick-3-overview.html"
 	"http://baweaver.com/blog/2015/06/20/a-functional-programming-primer-for-spark/"
 	"https://medium.com/@PointerIO/building-a-startup-with-javascript-and-scala-579544ed7a99"
@@ -33,6 +34,8 @@
 	"http://underscore.io/blog/posts/2015/06/25/keeping-scala-simple.html"
 	"http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-RC4/scala/stream-parallelism.html"
 	"https://www.youtube.com/watch?index=12&list=PL3E5A85E74A3140BA&v=Cz4EXe7phgE"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======

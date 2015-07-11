@@ -26,6 +26,7 @@
 "http://www.magicsplat.com/articles/oo.html"
 "https://vimeo.com/123834986"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 "https://www.youtube.com/watch?v=C8orjQLacTo"
 "https://medium.com/@antoniogioia/all-you-need-to-know-about-dynamic-port-forwarding-using-ssh-socks5-proxy-and-a-linux-debian-vps-c4503921400f"
 "https://blog.process-one.net/ejabberd-15-06/"
@@ -43,6 +44,9 @@
 =======
 "http://nixos.org/"
 >>>>>>> Stashed changes
+=======
+"http://nixos.org/"
+>>>>>>> Stashed changes
 "http://unisonweb.org/2015-06-12/editing.html"
 "http://www.javacodegeeks.com/2013/01/15-online-learning-websites-that-you-should-check-out.html"
 "https://abdulyadi.wordpress.com/2015/06/02/which-replicated-tables-got-changes-in-bdr-replication/"
@@ -51,11 +55,14 @@
 "https://snap.stanford.edu/data/"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 "http://www.fefe.de/gatling/?ref=hn"
 "https://queue.acm.org/detail.cfm?id=2611829"
 "http://avoidwork.github.io/rozu/"
 "http://www.cockroachlabs.com/blog/scaling-raft/"
 "http://wryun.github.io/es-shell/"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -68,7 +75,11 @@
 "https://www.mapr.com/blog/apache-drill-essentials-new-hadoop-on-demand-training-course-now-available#.VXkfYbyli1E"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 "https://www.youtube.com/watch?v=h36PGcA_8Cc&index=1&list=PLOU2XLYxmsIIxexEszFQujHy38pG4pIk0&linkId=14884224"
+=======
+"https://www.youtube.com/watch?v=h36PGcA_8Cc&index=1&list=PLOU2XLYxmsIIxexEszFQujHy38pG4pIk0&linkId=14884224"
+>>>>>>> Stashed changes
 =======
 "https://www.youtube.com/watch?v=h36PGcA_8Cc&index=1&list=PLOU2XLYxmsIIxexEszFQujHy38pG4pIk0&linkId=14884224"
 >>>>>>> Stashed changes

@@ -575,6 +575,9 @@
 =======
 		"React":[
 		 "https://facebook.github.io/react/blog/2015/06/12/deprecating-jstransform-and-react-tools.html"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			"http://www.christianalfoni.com/articles/2015_05_18_Cerebral-developer-preview"
 			"https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918"
@@ -797,6 +800,7 @@
 		]
 		"ECMASCript":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 		"https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841"
 		"http://www.2ality.com/2015/06/tail-call-optimization.html"
@@ -812,6 +816,10 @@
 		"http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
 		"http://teeohhem.com/why-destructuring-is-a-terrible-idea-in-es6/"
 
+=======
+		"http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
+		"http://teeohhem.com/why-destructuring-is-a-terrible-idea-in-es6/"
+>>>>>>> Stashed changes
 =======
 		"http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
 		"http://teeohhem.com/why-destructuring-is-a-terrible-idea-in-es6/"
@@ -879,6 +887,7 @@
 		],
 		"Mean":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 
 		 "http://blog.codeship.com/running-mean-web-application-docker-containers-aws/"
@@ -888,6 +897,9 @@
 
 		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
 
+=======
+		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
+>>>>>>> Stashed changes
 =======
 		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
 >>>>>>> Stashed changes

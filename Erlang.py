@@ -24,7 +24,10 @@
 =======
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 "http://blog.lfe.io/tutorials/2015/07/08/1416-freebsd--lfe-images-docker-like-functionality-with-ezjail/?utm_source=dlvr.it&utm_medium=twitter "
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 "http://blog.lfe.io/announcements/2014/12/27/1641-easy-python-from-lfeerlang/"
@@ -32,6 +35,9 @@
 "http://ninenines.eu/talks/cowboy-2/#/1"
 "http://www.javacodegeeks.com/2011/04/erlang-vs-java-memory-architecture.html"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -45,7 +51,10 @@
 		"http://sibilantjs.info/"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"http://erlangcentral.org/scalable-is-awesome-literally-garrett-smith-erlang-user-conference-2015/#.VYvSYLyli1E"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======

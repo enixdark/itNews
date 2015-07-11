@@ -69,7 +69,10 @@
 "MachineLearning":[
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 "http://www.mbmlbook.com/Introduction.html"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======

@@ -45,6 +45,7 @@
 		],
 		"Django":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/"
 		"http://www.fullstackpython.com/django.html"
 		"https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/"
@@ -57,6 +58,8 @@
 		"http://mrben.co.uk/entry/a-reusable-confirm-field-update-pattern-for-django/"
 
 		"http://mrben.co.uk/entry/a-reusable-confirm-field-update-pattern-for-django/"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 		"http://dailytechvideo.com/video-208-anton-caceres-asynchronous-web-development-with-python-3/"
@@ -98,8 +101,11 @@
  		],
 		"Pyramid":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"https://realpython.com/blog/python/create-a-rest-api-in-minutes-with-pyramid-and-ramses/"
 		"https://realpython.com/blog/python/create-a-rest-api-in-minutes-with-pyramid-and-ramses/#.VYgUeDzGLO4.twitter"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 		"https://aiopyramid.readthedocs.org/"
@@ -113,6 +119,8 @@
 			"http://davidemoro.blogspot.com/2015/05/kotti-cms-elasticsearch-integration.html"
 		],
 		"Data":[
+		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
+		"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
 <<<<<<< Updated upstream
 "http://matthewrocklin.com/blog/work/2015/06/18/Categoricals/"
 		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
@@ -203,6 +211,7 @@
 		]
 		"Others":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 		"http://www.fullstackpython.com/vim.html"
 		"http://nbviewer.ipython.org/github/brandomr/document_cluster/blob/master/cluster_analysis_web.ipynb?"
@@ -229,6 +238,8 @@
 		"https://julien.danjou.info/blog/2015/python-and-timezones"
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 		"http://pbpython.com/pandas-google-forms-part1.html"
 		"http://www.laurentluce.com/posts/least-frequently-used-cache-eviction-scheme-with-complexity-o1-in-python/"
 		"http://podcastinit.com/episode-8-mark-baggett-on-pythons-role-in-information-security.html"
@@ -241,7 +252,10 @@
 		"http://lwn.net/Articles/643786/"
 		"http://willdrevo.com/downloading-youtube-and-soundcloud-audio-with-python-and-pandas/"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"http://blog.ldlework.com/2015/05/01/writing-safe-twisted-code/"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 		"http://blog.ldlework.com/2015/05/01/writing-safe-twisted-code/"

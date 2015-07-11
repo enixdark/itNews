@@ -3,6 +3,7 @@
 "https://www.yieldbot.com/blog/data-science-in-clojure-at-yieldbot/"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 "https://nervous.io//clojure/iris/messaging/2015/06/16/iris-clojure-part-two/"
 "http://yogthos.net/posts/2015-06-16-Figwheel-nREPL.html"
 "http://mneise.github.io/posts/2015-06-22-week-4.html?utm_source=dlvr.it&utm_medium=twitter"
@@ -12,6 +13,12 @@
 "http://blog.cognitect.com/blog/2015/6/30/clojure-17"
 "http://www.greghendershott.com/fear-of-macros/"
 "http://blog.juxt.pro/posts/component-meet-schema.html"
+=======
+"http://mneise.github.io/posts/2015-06-08-week-2.html?utm_source=dlvr.it&utm_medium=twitter"
+"http://blog.sfmishras.com/2015/06/a-function-evaluating-eval.html"
+"kimh.github.io/clojure-by-example/#hello,-world"
+"http://www.greghendershott.com/fear-of-macros/"
+>>>>>>> Stashed changes
 =======
 "http://mneise.github.io/posts/2015-06-08-week-2.html?utm_source=dlvr.it&utm_medium=twitter"
 "http://blog.sfmishras.com/2015/06/a-function-evaluating-eval.html"
@@ -34,9 +41,12 @@
 "http://blog.fikesfarm.com/posts/2015-06-19-portable-macro-musing.html"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 "http://immutant.org/news/2015/06/22/announcing-2-0-2/"
 "http://blog.juxt.pro/posts/why-clojurescript-matters.html"
 "http://mneise.github.io/posts/2015-06-29-week-5.html?utm_source=dlvr.it&utm_medium=twitter"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======

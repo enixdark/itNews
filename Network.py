@@ -24,7 +24,10 @@
 	"http://www.potaroo.net/ispcol/2015-06/mptcp.html"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	"https://http2.akamai.com/demo"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
