@@ -571,6 +571,11 @@
 
 		 "https://facebook.github.io/react/blog/2015/06/12/deprecating-jstransform-and-react-tools.html"
 
+<<<<<<< Updated upstream
+=======
+		"React":[
+		 "https://facebook.github.io/react/blog/2015/06/12/deprecating-jstransform-and-react-tools.html"
+>>>>>>> Stashed changes
 			"http://www.christianalfoni.com/articles/2015_05_18_Cerebral-developer-preview"
 			"https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918"
 			"http://www.sitepoint.com/video-getting-started-react/"
@@ -791,6 +796,7 @@
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
+<<<<<<< Updated upstream
 
 		"https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841"
 		"http://www.2ality.com/2015/06/tail-call-optimization.html"
@@ -806,6 +812,10 @@
 		"http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
 		"http://teeohhem.com/why-destructuring-is-a-terrible-idea-in-es6/"
 
+=======
+		"http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
+		"http://teeohhem.com/why-destructuring-is-a-terrible-idea-in-es6/"
+>>>>>>> Stashed changes
 		"http://raganwald.com/2015/06/04/classes-are-expressions.html"
 		"https://medium.com/ecmascript-2015/es6-classes-and-inheritance-607804080906"
 			"http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6"
@@ -868,6 +878,7 @@
 			"https://www.meteor.com/blog/2015/03/17/meteor-104-mongo-cordova-template-subscriptions"
 		],
 		"Mean":[
+<<<<<<< Updated upstream
 
 
 		 "http://blog.codeship.com/running-mean-web-application-docker-containers-aws/"
@@ -877,6 +888,9 @@
 
 		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
 
+=======
+		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
+>>>>>>> Stashed changes
 			"https://hackhands.com/how-to-get-started-on-the-mean-stack/"
 		],
 		"FOAM":[

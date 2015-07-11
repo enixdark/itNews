@@ -24,7 +24,10 @@
 	"https://blog.compose.io/go-rethinkdb-and-changefeeds-part-2"
 	"https://www.youtube.com/watch?v=x5__QAIxQZw"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	"http://www.esdrasbeleza.com/2015/04/27/image-processing-with-go/"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 	"https://blog.compose.io/go-rethinkdb-and-change-feeds-part-1",

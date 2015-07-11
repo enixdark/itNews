@@ -23,11 +23,17 @@
   "http://www.proctor-it.com/dfw-erlang-erlang-elixir-and-lfe-on-a-raspberry-pi/"
 =======
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 "http://blog.lfe.io/tutorials/2015/07/08/1416-freebsd--lfe-images-docker-like-functionality-with-ezjail/?utm_source=dlvr.it&utm_medium=twitter "
+=======
+>>>>>>> Stashed changes
 "http://blog.lfe.io/announcements/2014/12/27/1641-easy-python-from-lfeerlang/"
 "http://cheezburger.com/8504868352"
 "http://ninenines.eu/talks/cowboy-2/#/1"
 "http://www.javacodegeeks.com/2011/04/erlang-vs-java-memory-architecture.html"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   "http://blog.lfe.io/tutorials/2015/06/05/0024-lfe-friday---queuetail1/"
 		"http://www.erlang.org/article/15"
@@ -38,7 +44,10 @@
 		"https://www.erlang-solutions.com/downloads/download-elixir"
 		"http://sibilantjs.info/"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"http://erlangcentral.org/scalable-is-awesome-literally-garrett-smith-erlang-user-conference-2015/#.VYvSYLyli1E"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 		"http://www.silpion.de/elixirconfeu-in-krakau-was-erlang-und-elixir-alles-koennen/"

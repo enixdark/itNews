@@ -44,6 +44,7 @@
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
+<<<<<<< Updated upstream
 		"https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/"
 		"http://www.fullstackpython.com/django.html"
 		"https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/"
@@ -56,6 +57,8 @@
 		"http://mrben.co.uk/entry/a-reusable-confirm-field-update-pattern-for-django/"
 
 		"http://mrben.co.uk/entry/a-reusable-confirm-field-update-pattern-for-django/"
+=======
+>>>>>>> Stashed changes
 		"http://dailytechvideo.com/video-208-anton-caceres-asynchronous-web-development-with-python-3/"
 		"http://arunrocks.com/python-3-cheatsheet-for-djangonauts/"
 			"http://yusuf.im/wagtail-a-new-django-cms-in-the-house/"
@@ -94,8 +97,11 @@
 			"http://www.willmcgugan.com/blog/tech/2015/3/14/saving-processes-and-threads-in-a-wsgi-server/"
  		],
 		"Pyramid":[
+<<<<<<< Updated upstream
 		"https://realpython.com/blog/python/create-a-rest-api-in-minutes-with-pyramid-and-ramses/"
 		"https://realpython.com/blog/python/create-a-rest-api-in-minutes-with-pyramid-and-ramses/#.VYgUeDzGLO4.twitter"
+=======
+>>>>>>> Stashed changes
 		"https://aiopyramid.readthedocs.org/"
 			"http://trypyramid.com/"
 			"http://www.talkpythontome.com/episodes/show/3/pyramid-web-framework"
@@ -107,6 +113,7 @@
 			"http://davidemoro.blogspot.com/2015/05/kotti-cms-elasticsearch-integration.html"
 		],
 		"Data":[
+<<<<<<< Updated upstream
 "http://matthewrocklin.com/blog/work/2015/06/18/Categoricals/"
 		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
 		"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
@@ -114,6 +121,11 @@
 			"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
 		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
 		"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
+=======
+		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
+		"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
 			"http://cloudacademy.com/blog/aws-machine-learning/"
 			"https://www.youtube.com/watch?v=ZMOHEh-caTc&feature=youtu.be"
 			"http://rustyrazorblade.com/2015/05/spark-streaming-with-python-and-kafka/"
@@ -190,6 +202,7 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
+<<<<<<< Updated upstream
 
 		"http://www.fullstackpython.com/vim.html"
 		"http://nbviewer.ipython.org/github/brandomr/document_cluster/blob/master/cluster_analysis_web.ipynb?"
@@ -214,6 +227,8 @@
 		"http://klen.github.io/py-frameworks-bench/"
 		"http://githubengineering.com/exception-monitoring-and-response/"
 		"https://julien.danjou.info/blog/2015/python-and-timezones"
+=======
+>>>>>>> Stashed changes
 		"http://pbpython.com/pandas-google-forms-part1.html"
 		"http://www.laurentluce.com/posts/least-frequently-used-cache-eviction-scheme-with-complexity-o1-in-python/"
 		"http://podcastinit.com/episode-8-mark-baggett-on-pythons-role-in-information-security.html"
@@ -225,7 +240,10 @@
 		"http://blog.dscpl.com.au/2015/05/performance-monitoring-of-real-wsgi.html"
 		"http://lwn.net/Articles/643786/"
 		"http://willdrevo.com/downloading-youtube-and-soundcloud-audio-with-python-and-pandas/"
+<<<<<<< Updated upstream
 		"http://blog.ldlework.com/2015/05/01/writing-safe-twisted-code/"
+=======
+>>>>>>> Stashed changes
 		"http://blog.ldlework.com/2015/05/01/writing-safe-twisted-code/"
 		"http://willdrevo.com/downloading-youtube-and-soundcloud-audio-with-python-and-pandas/"
 		"http://blog.hakril.net/articles/2-understanding-python-execution-tracer.html"

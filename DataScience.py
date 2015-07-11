@@ -68,7 +68,10 @@
 
 "MachineLearning":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 "http://www.mbmlbook.com/Introduction.html"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 "http://www.datasciencecentral.com/profiles/blogs/how-do-i-learn-machine-learning"

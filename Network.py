@@ -23,7 +23,10 @@
 	"http://www.javacodegeeks.com/2014/11/an-introduction-to-rest.html"
 	"http://www.potaroo.net/ispcol/2015-06/mptcp.html"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	"https://http2.akamai.com/demo"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 	"http://code.tutsplus.com/tutorials/moving-wordpress-moving-a-multisite-network--cms-22771"
