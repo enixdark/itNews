@@ -9,6 +9,7 @@
 	"http://www.selectedintelligence.com/post/116327140769/parallel-map-in-elixir"
 	"http://cs.wheaton.edu/~tvandrun/dmfp/"
 	"http://www.zohaib.me/monads-in-elixir-2/"
+	"http://bendyworks.com/elm-frontend-right-now/"
 	"http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/"
 	"http://blog.heldscal.la/elixir-hacking.html"
 	"http://shanesveller.com/blog/2015/06/11/running-a-phoenix-app-via-docker-compose/"
@@ -25,7 +26,7 @@
 	"https://blog.process-one.net/embedding-ejabberd-into-an-elixir-phoenix-web-application/"
 	"https://renatomoya.github.io/2015/05/09/Building-a-versioned-REST-API-with-Phoenix-Framework.html"
 	"http://blog.drewolson.org/elixir-streams/"
-<<<<<<< Updated upstream
+ "http://variousandsundry.com/cs/blog/2015/07/07/core-elixir-home-on-the-range-module/?utm_source=dlvr.it&utm_medium=twitter"
 	"http://www.neo.com/2014/01/14/elixir-and-the-internet-of-things-handling-a-stampede"
 	"http://lfe.gitbooks.io/quick-start/content/1.html-"
 	"http://blog.heldscal.la/elixir-hacking.html"

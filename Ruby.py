@@ -21,6 +21,7 @@
 		"http://blog.couchbase.com/ruby-and-n1ql-first-taste"
 		"http://www.spinacms.com/"
 >>>>>>> Stashed changes
+
 		"http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html"
 		"http://idiosyncratic-ruby.com/27-golfing-basics.html"
 		"http://www.citrine.io/blog/2015/5/26/asynchronous-data-processing-with-ruby-rabbitmq-and-sneakers"
@@ -112,15 +113,20 @@
 	],
 
 "Rails":[
-<<<<<<< Updated upstream
+"https://quickleft.com/blog/getting-started-with-active-job/"
+"http://deepakhb.blogspot.com/2014/01/setting-up-resque-and-resque-scheduler.html"
+"http://tech.taskrabbit.com/blog/2013/09/28/resque-bus/"
+"http://tutorials.jumpstartlab.com/topics/performance/background_jobs.html"
+"http://www.sitepoint.com/comparing-background-processing-libraries-resque/"
+"http://tutorials.jumpstartlab.com/topics/performance/background_jobs.html"
 "https://blog.nvisium.com/2015/06/using-rails-5-attributes-api-today-in.html"
 "http://www.justinweiss.com/blog/2015/06/23/how-to-preload-rails-scopes/"
 "https://shellycloud.com/blog/2015/06/integrating-braintree-payments-with-rails"
-=======
->>>>>>> Stashed changes
+"http://blog.aha.io/index.php/using-nested-selects-for-performance-in-rails/"
 "http://wyeworks.com/blog/2015/6/11/how-to-build-a-rails-5-api-only-and-backbone-application"
 	"https://bugsnag.com/blog/replacing-the-rails-asset-pipeline-with-gulp"
 	"https://nulogy.com/articles/replacing-rails-asset-pipeline#.VUSFIeSEi-k"
 	"http://weblog.rubyonrails.org/2015/5/2/welcome-to-gsoc-15/"
 	"https://dev.firmafon.dk/blog/rails-5-much-faster-collection-rendering/"
+	"http://www.hemju.com/2011/03/rails-cron-job-scheduling-using-redis-resque-and-rufus/"
 ]

@@ -20,7 +20,11 @@
 	"http://letitcrash.com/post/114395138592/akka-cluster-load-balancing"
 	"http://letitcrash.com/post/113805166317/akka-cluster-load-balancing"
 	"http://www.reactivemanifesto.org/"
+	"http://blog.scalac.io/2015/07/09/slick-3-overview.html"
+	"http://baweaver.com/blog/2015/06/20/a-functional-programming-primer-for-spark/"
+	"https://medium.com/@PointerIO/building-a-startup-with-javascript-and-scala-579544ed7a99"
 <<<<<<< Updated upstream
+"https://speakerdeck.com/inkytonik/llvm-and-scala"
 	"http://quantifind.com/blog/2015/06/throttling-instantiations-of-scala-futures-1/"
 	"https://thebhwgroup.com/blog/isomorphic-web-design-react-scala"
 	"http://reactivemongo.org/releases/0.11.0/documentation/release-details.html"

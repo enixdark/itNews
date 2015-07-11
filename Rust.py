@@ -15,6 +15,8 @@
 	"http://unconj.ca/blog/expressing-l-systems-in-rust.html"
 	"https://gist.github.com/oakes/4af1023b6c5162c6f8f0"
 	"http://jakegoulding.com/rust-ffi-omnibus/"
+	"https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/"
 	"http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/"
 	"http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/"
 	"http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html"
+	"http://wafflespeanut.github.io/blog/2015/07/05/a-pythonist-getting-rusty-these-days-dot/"

@@ -101,7 +101,7 @@
 ]
 
 
-<<<<<<< Updated upstream
+
 "FireBase":[
 "https://www.youtube.com/watch?v=umZLJThityQ"
 "https://www.firebase.com/blog/2015-05-15-introducing-firebase-queue.html"
@@ -129,7 +129,7 @@
 "https://medium.com/node-js-javascript/io-js-week-of-april-3rd-a4e1fe0c38c1"
 "https://iojs.org/en/faq.html"
 ],
-=======
+
 		"FireBase":[
 		 "https://www.youtube.com/watch?v=umZLJThityQ"
 			"https://www.firebase.com/blog/2015-05-15-introducing-firebase-queue.html"
@@ -157,7 +157,7 @@
 			"https://medium.com/node-js-javascript/io-js-week-of-april-3rd-a4e1fe0c38c1"
 			"https://iojs.org/en/faq.html"
 		],
->>>>>>> Stashed changes
+
 
 "Emberjs":[
 "http://www.toptal.com/emberjs/the-8-most-common-ember-js-developer-mistakes"
@@ -177,7 +177,7 @@
 
 
 
-<<<<<<< Updated upstream
+
 "React":[
 "https://facebook.github.io/react/blog/2015/06/12/deprecating-jstransform-and-react-tools.html"
 "http://jxnblk.com/react-icons/"
@@ -262,6 +262,8 @@
 "http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 ]
 "Nodejs":[
+"http://www.tamas.io/simple-chat-application-using-node-js-and-socket-io/"
+"http://www.tamas.io/advanced-chat-using-node-js-and-socket-io-episode-1/"
 "https://www.airpair.com/javascript/posts/the-chemical-wedding-of-rethinkdb-and-nodejs"
 "https://www.airpair.com/javascript/posts/using-rethinkdb-with-expressjs"
 "https://www.youtube.com/watch?v=LFw_wPcIm8k&feature=youtu.be"
@@ -394,12 +396,12 @@
 "http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 ]
 "ECMASCript":[
-<<<<<<< Updated upstream
+
 "http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
 "http://teeohhem.com/why-destructuring-is-a-terrible-idea-in-es6/"
-=======
+
 "http://es6katas.org/"
->>>>>>> Stashed changes
+
 "http://raganwald.com/2015/06/04/classes-are-expressions.html"
 "https://medium.com/ecmascript-2015/es6-classes-and-inheritance-607804080906"
 "http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6"
@@ -437,6 +439,7 @@
 "http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
 ]
 "Meteor":[
+"https://rocket.chat/"
 "http://meteortips.com/second-meteor-tutorial"
 "https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-part-4-channels-and-chat-rooms?"
 "https://www.compose.io/articles/meteor-sql-and-other-databases"
@@ -458,6 +461,7 @@
 "https://www.meteor.com/blog/2015/03/17/meteor-104-mongo-cordova-template-subscriptions"
 ],
 "Mean":[
+"http://engineering.paiza.io/entry/2015/07/09/154028"
 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
 "https://hackhands.com/how-to-get-started-on-the-mean-stack/"
 ],
@@ -553,20 +557,20 @@
 "Compiler&Interpyer":[
 "http://howjs.com/zFiG/2"
 ]
-=======
-		"React":[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
+
+		"Reactjs":[
+
+		"http://binarylies.ghost.io/reactjs-nestable-menu-manager/"
 		"http://brentvatne.ca/react-native-newsletter/28-06-2015.html"
 		"http://www.sitepoint.com/video-understanding-react-events/"
 		"http://antjanus.com/blog/web-development-tutorials/front-end-development/comprehensive-beginners-guide-to-reactjs/"
 		 "https://facebook.github.io/react/blog/2015/06/12/deprecating-jstransform-and-react-tools.html"
-=======
+
 			"http://jxnblk.com/react-icons/"
->>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
-=======
+
+
 		 "https://facebook.github.io/react/blog/2015/06/12/deprecating-jstransform-and-react-tools.html"
->>>>>>> Stashed changes
+
 			"http://www.christianalfoni.com/articles/2015_05_18_Cerebral-developer-preview"
 			"https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918"
 			"http://www.sitepoint.com/video-getting-started-react/"
@@ -646,11 +650,11 @@
 			"http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 		]
 		"Nodejs":[
-<<<<<<< HEAD
+		"http://cryto.net/~joepie91/blog/2015/05/14/using-promises-bluebird-with-express/"
 		"http://danialk.github.io/blog/2013/02/20/simple-authentication-in-nodejs/"
 		"https://www.airpair.com/javascript/posts/the-chemical-wedding-of-rethinkdb-and-nodejs"
-=======
->>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
+
+
 		    "https://www.airpair.com/javascript/posts/using-rethinkdb-with-expressjs"
 			"https://www.youtube.com/watch?v=LFw_wPcIm8k&feature=youtu.be"
 			"https://nodesource.com/blog/was-this-trip-really-necessary"
@@ -731,11 +735,11 @@
 			"http://knowthen.com/episode-10-building-realtime-applications-just-got-easy/"
 		]
 		"BackBonejs":[
-<<<<<<< HEAD
+
 		"https://medium.com/@victordoss/building-backbone-apps-using-flux-f656fd8a873a"
 		 "http://www.zsoltnagy.eu/ten-tips-for-writing-maintainable-code-in-backbonejs/"
-=======
->>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
+
+
 			"http://danhough.com/blog/backbone-mixins/"
 			"https://roost.bocoup.com/2015/austin/blog/why-backbone/"
 			"http://www.webcodegeeks.com/javascript/backbone-js/backbone-js-events-example"
@@ -787,21 +791,21 @@
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
+
+		"https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841"
 		"http://www.2ality.com/2015/06/tail-call-optimization.html"
 		"https://leanpub.com/b/learnes6"
 		"http://raganwald.com/2015/06/26/decorators-in-es7.html"
 		"http://blog.keithcirkel.co.uk/metaprogramming-in-es6-symbols/"
 		"http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
 		"http://teeohhem.com/why-destructuring-is-a-terrible-idea-in-es6/"
-=======
+
 		"http://es6katas.org/"
->>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
-=======
+
+
 		"http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
 		"http://teeohhem.com/why-destructuring-is-a-terrible-idea-in-es6/"
->>>>>>> Stashed changes
+
 		"http://raganwald.com/2015/06/04/classes-are-expressions.html"
 		"https://medium.com/ecmascript-2015/es6-classes-and-inheritance-607804080906"
 			"http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6"
@@ -839,11 +843,11 @@
 			"http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
 		]
 		"Meteor":[
-<<<<<<< HEAD
+
 		"http://info.meteor.com/blog/whats-coming-in-meteor-12-and-beyond"
 		"http://meteortips.com/second-meteor-tutorial"
-=======
->>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
+
+
 		"https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-part-4-channels-and-chat-rooms?"
 			"https://www.compose.io/articles/meteor-sql-and-other-databases"
 			"http://blog.differential.com/scaling-meteor-to-20000-users-in-7-days/"
@@ -864,21 +868,23 @@
 			"https://www.meteor.com/blog/2015/03/17/meteor-104-mongo-cordova-template-subscriptions"
 		],
 		"Mean":[
-<<<<<<< Updated upstream
-<<<<<<< HEAD
+
+
 		 "http://blog.codeship.com/running-mean-web-application-docker-containers-aws/"
 		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
-=======
->>>>>>> 1952b1243e310eddd86c399f59cc76d22c5fb678
-=======
+
+
+
 		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
->>>>>>> Stashed changes
+
 			"https://hackhands.com/how-to-get-started-on-the-mean-stack/"
 		],
 		"FOAM":[
 			"http://foam-framework.github.io/foam/"
 		]
 		"Others":[
+		"https://hacks.mozilla.org/2015/06/the-state-of-web-components/"
+		"http://www.sitepoint.com/improving-responsive-web-design-ress/"
 		"https://hacks.mozilla.org/2015/06/es6-in-depth-collections/"
 		"https://blog.engineyard.com/2015/7-patterns-refactor-javascript-query-objects"
 		"http://influxdb.com/blog/2015/06/03/InfluxDB_clustering_design.html"
@@ -958,7 +964,7 @@
 		"Compiler&Interpyer":[
 			"http://howjs.com/zFiG/2"
 		]
->>>>>>> Stashed changes
+
 
 "Framework":[
 "http://jsblocks.com/"

@@ -10,13 +10,20 @@
 		"http://view.samurajdata.se/psview.php?id=6fbf619d"
 		"http://niki.code-karma.com/2011/06/python-style-decorators-in-erlang/"
 <<<<<<< Updated upstream
+"http://blog.lfe.io/tutorials/2015/07/08/1349-dragonflybsd--lfe/?utm_source=dlvr.it&utm_medium=twitter"
+"http://blog.imgtec.com/mips-processors/erlang-now-on-mips-pic32-mcus-microchip"
   "http://blog.lfe.io/announcements/2014/12/27/1641-easy-python-from-lfeerlang/"
   "http://cheezburger.com/8504868352"
   "http://c2.com/cgi/wiki?ActorsModel"
   "http://ninenines.eu/talks/cowboy-2/#/1"
+
+  "http://erlangcentral.org/http2-and-you-joe-devivo-erlang-user-conference-2015/#.VaCxLLyli1E"
+  "http://www.ostinelli.net/an-evaluation-of-erlang-global-process-registries-meet-syn/"
   "http://www.javacodegeeks.com/2011/04/erlang-vs-java-memory-architecture.html"
+  "http://www.proctor-it.com/dfw-erlang-erlang-elixir-and-lfe-on-a-raspberry-pi/"
 =======
 >>>>>>> Stashed changes
+"http://blog.lfe.io/tutorials/2015/07/08/1416-freebsd--lfe-images-docker-like-functionality-with-ezjail/?utm_source=dlvr.it&utm_medium=twitter "
 "http://blog.lfe.io/announcements/2014/12/27/1641-easy-python-from-lfeerlang/"
 "http://cheezburger.com/8504868352"
 "http://ninenines.eu/talks/cowboy-2/#/1"

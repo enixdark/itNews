@@ -25,7 +25,7 @@
 "http://www.typesafe.com/resources/case-studies-and-stories/how-hootsuite-modernized-its-url-shortener"
 "http://www.magicsplat.com/articles/oo.html"
 "https://vimeo.com/123834986"
-<<<<<<< Updated upstream
+"https://www.youtube.com/watch?v=C8orjQLacTo"
 "https://medium.com/@antoniogioia/all-you-need-to-know-about-dynamic-port-forwarding-using-ssh-socks5-proxy-and-a-linux-debian-vps-c4503921400f"
 "https://blog.process-one.net/ejabberd-15-06/"
 "http://nixos.org/"

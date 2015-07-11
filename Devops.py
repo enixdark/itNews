@@ -1,18 +1,18 @@
 "Devops":{
 		"Apache":[],
 		"Nginx":[
-<<<<<<< Updated upstream
+
 		"https://www.nginx.com/blog/thread-pools-boost-performance-9x/"
 			"http://nginx.com/blog/nginx-1-9-2-released/"
 		"http://nginx.com/blog/thread-pools-boost-performance-9x/"
 		"http://www.infoq.com/news/2015/06/nginx-design-performance-scale-?"
 		 "http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/"
 		 "http://nginx.com/blog/how-nginx-plans-to-support-http2/"
-=======
-		"http://nginx.com/blog/thread-pools-boost-performance-9x/"
+   "https://www.nginx.com/blog/nginx-plus-on-amazon-ec2-getting-started/"		
+  "http://nginx.com/blog/thread-pools-boost-performance-9x/"
 		"http://www.infoq.com/news/2015/06/nginx-design-performance-scale-?"
 		 "http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/"
->>>>>>> Stashed changes
+		 "https://www.nginx.com/blog/introduction-to-microservices/"
 			"http://nginx.com/blog/socket-sharding-nginx-release-1-9-1/"
 			"https://www.scalyr.com/community/guides/an-in-depth-guide-to-nginx-metrics"
 			"http://java.dzone.com/articles/nginx-open-source-reflecting"
@@ -81,15 +81,15 @@
 		],
 		"SaltStack":[],
 		"ElastickSearch":[
-<<<<<<< Updated upstream
+
+		"http://blog.qbox.io/elasticsearch-mapping-tutorial"
+		"http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html"
+		"https://www.elastic.co/blog/this-week-in-elastic-2015-07-08"
 		"https://t.co/XVzWBeZ8KJ"
 		"https://www.elastic.co/blog/elasticsearch-logging-secrets?blade=tw"
 		"http://blog.sematext.com/2015/06/16/elasticsearch-warmers-thread-pools-circuit-breakers/"
 			"https://www.elastic.co/blog/logstash-1-5-1-released"
    "https://www.elastic.co/blog/elasticsearch-2.0.0.beta1-coming-soon"
-=======
-
->>>>>>> Stashed changes
    "https://www.elastic.co/blog/this-week-in-elastic-2015-06-17"
 			"https://www.elastic.co/blog/logstash-lines-2015-05-22"
 			"https://www.elastic.co/blog/this-week-in-elastic-2015-05-20"
