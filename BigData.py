@@ -41,8 +41,9 @@
 
 
 		"Spark":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+		 ""
+		 "http://www.cakesolutions.net/teamblogs/distributed-dataflow-computing-optimisations-in-apache-spark"
+   "http://www.cakesolutions.net/teamblogs/apache-spark-machine-learning-pipelines"
 		 "https://databricks.com/blog/2015/06/16/zen-and-the-art-of-spark-maintenance-with-cassandra.html?"
 		 "https://www.mapr.com/blog/quickstart-my-spark-kickstarting-your-spark-based-applications#.VX91Vryli1E"
    "https://dataissexy.wordpress.com/2015/06/23/processing-json-with-sparkling-sparkling-spark-bigdata-clojure/"			
@@ -50,10 +51,7 @@
 
 			"http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark"
 		    "https://databricks.com/blog/2015/06/16/zen-and-the-art-of-spark-maintenance-with-cassandra.html?"
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 		"https://www.mapr.com/blog/quickstart-my-spark-kickstarting-your-spark-based-applications#.VX91Vryli1E"
 			"http://hortonworks.com/hadoop-tutorial/using-apache-spark-technical-preview-with-hdp-2-2/"
 			"http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/"
@@ -85,18 +83,21 @@
 			"https://haifengl.wordpress.com/2014/09/07/big-data-analytics-shark-and-spark-sql/"
 			"http://www.infoq.com/news/2015/03/pinterest-memsql-spark-streaming+news&utm_campaign=calendar"
 		],
+		"Apache Thrill":[
+			"http://blog.cloudera.com/blog/2015/07/thrift-client-authentication-support-in-apache-hbase-1-0/"
+		]
 		"Mesos":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+		"http://www.infoq.com/presentations/apache-mesos"
+		"http://open.mesosphere.com/intro-course/intro.html"
+		"https://mesosphere.com/blog/2015/07/23/intel-explains-its-new-program-to-accelerate-cloud-computing-for-all/"
+		"http://blog.memsql.com/deploy-memsql-with-mesosphere/"
 		"https://mesosphere.com/blog/2015/06/21/web-application-analytics-using-docker-and-marathon/"
 		"https://speakerdeck.com/pyr/mesomatic-the-cluster-is-a-library"
 		"https://www.mapr.com/blog/my-experience-running-docker-containers-on-mesos"
 		"https://www.typesafe.com/blog/using-spark-kafka-cassandra-and-akka-on-mesos-for-real-time-personalization"
 		"https://www.mapr.com/blog/yarn-vs-mesos-cant-we-all-just-get-along#.VYuY4byli1E"
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 		"http://www.datasciencecentral.com/profiles/blogs/spark-shark-and-mesos-data-analytics-stack"
 			"http://www.datasciencecentral.com/profiles/blogs/spark-shark-and-mesos-data-analytics-stack"
 			"www.datasciencecentral.com/profiles/blogs/spark-shark-and-mesos-data-analytics-stack"
@@ -106,17 +107,15 @@
 			"http://www.javacodegeeks.com/2015/04/apache-mesos-marathon-and-java-ee.html",
 		],
 		"ApacheDrill":[
+		"https://www.mapr.com/blog/apache-drill-how-create-new-function?utm_source=twitter&utm_medium=social&utm_content=Oktopost-twitter-profile&utm_campaign=Oktopost-Content+Curation+July+2015&campaign=2015_Social_twitter&source=Social#.VbrhyJO1nDc"
+		 "https://www.mapr.com/blog/apache-drill-how-create-new-function#.VbiU0JO1nDc"
 			"http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark"
 		]
 		"Mapr":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+		"http://appaloud.com/nosql-mapr-db-now-available-for-free-within-mapr-community-edition/"
+		"https://www.mapr.com/blog/mining-big-data-wheel#.VbbXypO1nDc"
 		"https://www.mapr.com/blog/evolution-database-schemas-using-sql-nosql#.VZtolryli1E"
 		 "https://www.mapr.com/blog/hbase-and-mapr-db-designed-distribution-scale-and-speed#.VY5XMbyli1E"
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 		 "https://adtmag.com/articles/2015/06/10/new-mapr-hadoop.aspx"
 			"http://www.itbusinessedge.com/blogs/it-unmasked/mapr-ships-drill-sql-engine.html"
 			"https://www.mapr.com/blog/hadoop-adoption-is-the-cluster-half-full#.VVbvlOSli1E"
@@ -139,6 +138,7 @@
 			"http://drill.apache.org/blog/2015/03/31/drill-0.8-released/"
 		],
 		"ApacheKafka":[
+		"http://www.michael-noll.com/blog/2014/08/18/apache-kafka-training-deck-and-tutorial/"
 		"https://www.sigmoid.com/integrating-spark-kafka-hbase-to-power-a-real-time-dashboard/"
 			"http://thenewstack.io/apache-kafka-spark-database-real-time-trinity/?"
 			"https://cwiki.apache.org/confluence/display/KAFKA/KIP-11+-+Authorization+Interface"
@@ -160,9 +160,6 @@
    "http://analyticsbot.ml/2015/06/generating-recommendations-using-apache-mahout-part-2-using-hadoop/"
 		]
 		"Others":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
 		 "http://www.datasciencecentral.com/profiles/blogs/batch-vs-real-time-data-processing"
 			"http://www.datasciencecentral.com/profiles/blogs/lambda-architecture-for-big-data-systems"
 		 "http://www.analyticbridge.com/profiles/blogs/10-common-nlp-terms-explained-for-the-text-mining-novice"
@@ -170,15 +167,6 @@
 
 		"http://www.analyticbridge.com/profiles/blogs/10-common-nlp-terms-explained-for-the-text-mining-novice"
 		"http://www.datasciencecentral.com/profiles/blogs/hadoop-vs-nosql-vs-sql-vs-newsql-by-example"
-
-=======
-		"http://www.analyticbridge.com/profiles/blogs/10-common-nlp-terms-explained-for-the-text-mining-novice"
-		"http://www.datasciencecentral.com/profiles/blogs/hadoop-vs-nosql-vs-sql-vs-newsql-by-example"
->>>>>>> Stashed changes
-=======
-		"http://www.analyticbridge.com/profiles/blogs/10-common-nlp-terms-explained-for-the-text-mining-novice"
-		"http://www.datasciencecentral.com/profiles/blogs/hadoop-vs-nosql-vs-sql-vs-newsql-by-example"
->>>>>>> Stashed changes
 			"http://www.dzone.com/mz/big-data"
 			"http://www.datasciencecentral.com/group/resources/forum/topics/big-data-poster"
 			"http://www.theregister.co.uk/2012/11/07/big_data_analytics"

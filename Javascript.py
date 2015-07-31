@@ -170,6 +170,7 @@
 "http://www.sitepoint.com/twitter-authentication-ember-js-torii/"
 ],
 "Hapijs":[
+"http://stackshare.io/lob/verify-user-addresses-via-postcard-with-lob---mandrill---hapi"
 "http://rafaelcorral.com/blog/building-a-restful-api-in-node-using-hapi-js-8"
 "http://dailyjs.com/2015/03/16/hapijs-fullstack-stringformatter/"
 ]
@@ -262,6 +263,7 @@
 "http://cylonjs.com/blog/2015/04/08/cylon-1.0.0/"
 ]
 "Nodejs":[
+"http://www.brandonwerner.com/2015/07/14/building-a-node-js-rest-api-todo-server-with-mongodb-and-oauth2-protection/"
 "http://www.tamas.io/simple-chat-application-using-node-js-and-socket-io/"
 "http://www.tamas.io/advanced-chat-using-node-js-and-socket-io-episode-1/"
 "https://www.airpair.com/javascript/posts/the-chemical-wedding-of-rethinkdb-and-nodejs"
@@ -379,6 +381,7 @@
 "http://www.webcodegeeks.com/javascript/jquery/jquery-dialog-example/"
 ],
 "TYpeScript":[
+"http://blogs.msdn.com/b/typescript/archive/2015/07/20/announcing-typescript-1-5.aspx"
 "http://jj09.net/building-large-scale-web-applications-with-typescript/"
 "http://blogs.msdn.com/b/typescript/archive/2015/04/30/announcing-typescript-1-5-beta.aspx"
 "http://blog.mgechev.com/2015/04/06/angular2-first-impressions/"
@@ -439,6 +442,7 @@
 "http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
 ]
 "Meteor":[
+"https://www.twilio.com/blog/2015/07/building-a-group-messaging-app-with-meteor-mongodb-and-twilio.html?utm_content=18576446&utm_medium=social&utm_source=twitter"
 "https://rocket.chat/"
 "http://meteortips.com/second-meteor-tutorial"
 "https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-part-4-channels-and-chat-rooms?"
@@ -576,6 +580,9 @@
 		"React":[
 		 "https://facebook.github.io/react/blog/2015/06/12/deprecating-jstransform-and-react-tools.html"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -799,9 +806,6 @@
 			"http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/"
 		]
 		"ECMASCript":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
 		"https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841"
 		"http://www.2ality.com/2015/06/tail-call-optimization.html"
 		"https://leanpub.com/b/learnes6"
@@ -815,15 +819,6 @@
 
 		"http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
 		"http://teeohhem.com/why-destructuring-is-a-terrible-idea-in-es6/"
-
-=======
-		"http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
-		"http://teeohhem.com/why-destructuring-is-a-terrible-idea-in-es6/"
->>>>>>> Stashed changes
-=======
-		"http://news.softpedia.com/news/ECMAScript-6-the-Latest-Version-of-JavaScript-Finally-Released-484657.shtml"
-		"http://teeohhem.com/why-destructuring-is-a-terrible-idea-in-es6/"
->>>>>>> Stashed changes
 		"http://raganwald.com/2015/06/04/classes-are-expressions.html"
 		"https://medium.com/ecmascript-2015/es6-classes-and-inheritance-607804080906"
 			"http://www.slideshare.net/NeilGreen1/type-script-vs-coffeescript-vs-es6"
@@ -861,7 +856,7 @@
 			"http://www.datavizualization.com/blog/d3-data-visualizations-case-study-apple-patents"
 		]
 		"Meteor":[
-
+		"http://angular-meteor.com/tutorials/angular1/bootstrapping"
 		"http://info.meteor.com/blog/whats-coming-in-meteor-12-and-beyond"
 		"http://meteortips.com/second-meteor-tutorial"
 
@@ -886,8 +881,7 @@
 			"https://www.meteor.com/blog/2015/03/17/meteor-104-mongo-cordova-template-subscriptions"
 		],
 		"Mean":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 
 
 		 "http://blog.codeship.com/running-mean-web-application-docker-containers-aws/"
@@ -897,18 +891,13 @@
 
 		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
 
-=======
-		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
->>>>>>> Stashed changes
-=======
-		 "http://www.sitepoint.com/creating-a-web-app-with-matlab-and-the-mean-stack/"
->>>>>>> Stashed changes
 			"https://hackhands.com/how-to-get-started-on-the-mean-stack/"
 		],
 		"FOAM":[
 			"http://foam-framework.github.io/foam/"
 		]
 		"Others":[
+		"https://curiosity-driven.org/monads-in-javascript"
 		"https://hacks.mozilla.org/2015/06/the-state-of-web-components/"
 		"http://www.sitepoint.com/improving-responsive-web-design-ress/"
 		"https://hacks.mozilla.org/2015/06/es6-in-depth-collections/"

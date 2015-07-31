@@ -20,12 +20,11 @@
 	"http://letitcrash.com/post/114395138592/akka-cluster-load-balancing"
 	"http://letitcrash.com/post/113805166317/akka-cluster-load-balancing"
 	"http://www.reactivemanifesto.org/"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+	"http://www.toptal.com/scala/why-should-i-learn-scala"
+"http://longcao.org/2015/07/09/functional-error-accumulation-in-scala"
 	"http://blog.scalac.io/2015/07/09/slick-3-overview.html"
 	"http://baweaver.com/blog/2015/06/20/a-functional-programming-primer-for-spark/"
 	"https://medium.com/@PointerIO/building-a-startup-with-javascript-and-scala-579544ed7a99"
-<<<<<<< Updated upstream
 "https://speakerdeck.com/inkytonik/llvm-and-scala"
 	"http://quantifind.com/blog/2015/06/throttling-instantiations-of-scala-futures-1/"
 	"https://thebhwgroup.com/blog/isomorphic-web-design-react-scala"
@@ -34,12 +33,6 @@
 	"http://underscore.io/blog/posts/2015/06/25/keeping-scala-simple.html"
 	"http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-RC4/scala/stream-parallelism.html"
 	"https://www.youtube.com/watch?index=12&list=PL3E5A85E74A3140BA&v=Cz4EXe7phgE"
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 	"https://www.voxxed.com/blog/2015/06/building-a-more-powerful-simpler-scala/"
 	"http://www.gradlesummit.com/conference/santa_clara/2015/06/session?id=33414"
 	"http://julienrf.github.io/scala-lessons/course/#%281%29"
@@ -66,8 +59,13 @@
 	"http://movio.co/blog/6-months-slick/"
 	"https://typesafe.com/activator/template/akka-http-microservice"
 	"http://scala-exercises.47deg.com/"
+	"https://prezi.com/3wmewobf8i4z/ibm-and-scala/"
 	"https://di-in-scala.github.io/#akka"
 	"http://kc.my-junk.info/di-ioc-dip/"
+	"http://blog.scalac.io/2015/07/30/websockets-server-with-akka-http.html"
+	"https://www.typesafe.com/blog/using-spark-kafka-cassandra-and-akka-on-mesos-for-real-time-personalization?utm_content=buffer8dc18&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+	"https://www.parleys.com/tutorial/functional-patterns-scala-beginners?utm_content=bufferdf7d2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+	"https://bchazalet.github.io/2015/07/19/scalajs-electron-skeleton/"
 	"http://www.javacodegeeks.com/2014/01/i-dont-like-scala.html"
 	"http://www.javacodegeeks.com/2013/12/playing-with-futures.html"
 	"http://www.cakesolutions.net/teamblogs/category-theory-patterns-in-scala"

@@ -7,40 +7,32 @@
 		"http://blog.lfe.io/tutorials/2015/05/25/0929-prelude-to-otp/"
 		"http://www.rebar3.org/v3.0/docs/publishing-packages"
 		"http://ferd.ca/rtb-where-erlang-blooms.html"
+		"http://erlangcentral.org/building-a-scalable-real-time-bidding-exchange-philip-clarke-erlang-user-conference-2015/#.VaSV5ryli1E"
 		"http://view.samurajdata.se/psview.php?id=6fbf619d"
 		"http://niki.code-karma.com/2011/06/python-style-decorators-in-erlang/"
-<<<<<<< Updated upstream
+"http://blog.licenser.net/blog/2015/07/10/migrating-to-rebar3/"
 "http://blog.lfe.io/tutorials/2015/07/08/1349-dragonflybsd--lfe/?utm_source=dlvr.it&utm_medium=twitter"
 "http://blog.imgtec.com/mips-processors/erlang-now-on-mips-pic32-mcus-microchip"
   "http://blog.lfe.io/announcements/2014/12/27/1641-easy-python-from-lfeerlang/"
   "http://cheezburger.com/8504868352"
   "http://c2.com/cgi/wiki?ActorsModel"
+  "http://michal.muskala.eu/2015/07/07/creating-ecto-adapters.html?utm_source=dlvr.it&utm_medium=twitter"
   "http://ninenines.eu/talks/cowboy-2/#/1"
+  "http://joedevivo.com/2015/07/09/integer-representation-in-hpack.html?utm_source=dlvr.it&utm_medium=twitter"
 
   "http://erlangcentral.org/http2-and-you-joe-devivo-erlang-user-conference-2015/#.VaCxLLyli1E"
   "http://www.ostinelli.net/an-evaluation-of-erlang-global-process-registries-meet-syn/"
   "http://www.javacodegeeks.com/2011/04/erlang-vs-java-memory-architecture.html"
   "http://www.proctor-it.com/dfw-erlang-erlang-elixir-and-lfe-on-a-raspberry-pi/"
-=======
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+======
+
 "http://blog.lfe.io/tutorials/2015/07/08/1416-freebsd--lfe-images-docker-like-functionality-with-ezjail/?utm_source=dlvr.it&utm_medium=twitter "
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 "http://blog.lfe.io/announcements/2014/12/27/1641-easy-python-from-lfeerlang/"
 "http://cheezburger.com/8504868352"
 "http://ninenines.eu/talks/cowboy-2/#/1"
 "http://www.javacodegeeks.com/2011/04/erlang-vs-java-memory-architecture.html"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
   "http://blog.lfe.io/tutorials/2015/06/05/0024-lfe-friday---queuetail1/"
 		"http://www.erlang.org/article/15"
 		"https://www.youtube.com/watch?v=YGuAXS0Cy_8"
@@ -49,16 +41,9 @@
 		"http://erlangcentral.org/jeff-weiss-chat-bot-a-practical-walkthrough-of-the-powerful-features-elixirerlangotp/#.VV0ye7yli1E"
 		"https://www.erlang-solutions.com/downloads/download-elixir"
 		"http://sibilantjs.info/"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 		"http://erlangcentral.org/scalable-is-awesome-literally-garrett-smith-erlang-user-conference-2015/#.VYvSYLyli1E"
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 		"http://www.silpion.de/elixirconfeu-in-krakau-was-erlang-und-elixir-alles-koennen/"
 		"http://www.erlang.org/doc/apps/erts/alt_dist.html"
 		"http://blog.lfe.io/tutorials/2015/05/22/0224-lfe-friday---queuecons2/"
@@ -74,14 +59,20 @@
 		"https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ&app=desktop",
 		"https://www.youtube.com/watch?v=uwpakTIg9r8",
 		"https://www.youtube.com/watch?v=XpfGptXxdRY",
+		"http://threedevsandamaybe.com/erlang-and-clojure-with-steven-proctor/"
+		"http://inaka.net/blog/2015/07/14/erlang-config-include/"
 		"https://www.youtube.com/watch?v=GO_97_6w5lU"
 		"https://www.youtube.com/watch?v=Dgbm3BRmzuI&list=PLWbHc_FXPo2hAfi8bz65wpBrCjeKtncB-&index=4"
 		"http://www.basho.com/bet365/"
+		"http://erlangcentral.org/erlang-couchdb-and-the-ibm-cloud/#.VacMwryli1E"
 		"http://www.proctor-it.com/erlang-thursday-queue-split-2"
 		"http://www.erlangpatterns.org/patterns.html"
+		"http://learningelixir.joekain.com/yamlix-lists-and-maps/?utm_source=dlvr.it&utm_medium=twitter"
 		"http://www.proctor-it.com/erlang-thursday-calendar-day_of_the_week-3/"
 		"https://medium.com/@jlouis666/breaking-erlang-maps-4-4ebc3c64068c"
 		"http://www.erlangpatterns.org/index.html"
+		"http://ricon.io/agenda/"
+		"http://jlouisramblings.blogspot.ro/2013/01/how-erlang-does-scheduling.html"
 		"http://erlangcentral.org/erlang-factory-sf-2015-joseph-blomstedt-data-structure-adventure/#.VSu5--SEi-k"
 		"http://blog.layer.com/building-the-internets-next-messaging-system/"
 		"https://everystack.io/#!/catalog/components/nitrogen"

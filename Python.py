@@ -1,6 +1,8 @@
 "Python":{
 		"Flask":[
 		"http://python-eve.org/index.html"
+		"https://realpython.com/blog/python/flask-by-example-integrating-flask-and-angularjs"
+		"http://jeffknupp.com/blog/2015/07/12/flask-and-sqlalchemy-magic"
 		"https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part1"
 		"http://code.tutsplus.com/tutorials/build-an-angularjs-app-powered-by-python-eve-part-2--cms-23383"
    "http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql-part-7--cms-23518"
@@ -44,10 +46,11 @@
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+		"http://www.tsartsaris.gr/How-to-write-faster-from-Python-to-Neo4j-with-OpenMpi"
+"https://www.caktusgroup.com/blog/2015/07/28/using-unsaved-related-models-sample-data-django-18/"
 		"https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/"
 		"http://www.fullstackpython.com/django.html"
+		"https://www.endgame.com/blog/open-sourcing-your-own-python-library-101"
 		"https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/"
 		"http://owaislone.org/blog/modern-frontends-with-django/"
 		"https://realpython.com/blog/python/the-minimum-viable-test-suite/#.VZCyLhwkuYw.twitter"
@@ -58,10 +61,7 @@
 		"http://mrben.co.uk/entry/a-reusable-confirm-field-update-pattern-for-django/"
 
 		"http://mrben.co.uk/entry/a-reusable-confirm-field-update-pattern-for-django/"
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 		"http://dailytechvideo.com/video-208-anton-caceres-asynchronous-web-development-with-python-3/"
 		"http://arunrocks.com/python-3-cheatsheet-for-djangonauts/"
 			"http://yusuf.im/wagtail-a-new-django-cms-in-the-house/"
@@ -100,14 +100,10 @@
 			"http://www.willmcgugan.com/blog/tech/2015/3/14/saving-processes-and-threads-in-a-wsgi-server/"
  		],
 		"Pyramid":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 		"https://realpython.com/blog/python/create-a-rest-api-in-minutes-with-pyramid-and-ramses/"
 		"https://realpython.com/blog/python/create-a-rest-api-in-minutes-with-pyramid-and-ramses/#.VYgUeDzGLO4.twitter"
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 		"https://aiopyramid.readthedocs.org/"
 			"http://trypyramid.com/"
 			"http://www.talkpythontome.com/episodes/show/3/pyramid-web-framework"
@@ -121,19 +117,12 @@
 		"Data":[
 		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
 		"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
-<<<<<<< Updated upstream
+
 "http://matthewrocklin.com/blog/work/2015/06/18/Categoricals/"
 		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
 		"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
-			"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
-			"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
-		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
-		"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
-=======
-		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
-		"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
+
+
 			"http://cloudacademy.com/blog/aws-machine-learning/"
 			"https://www.youtube.com/watch?v=ZMOHEh-caTc&feature=youtu.be"
 			"http://rustyrazorblade.com/2015/05/spark-streaming-with-python-and-kafka/"
@@ -210,9 +199,6 @@
 			"https://www.python.org/dev/peps/pep-0485/"
 		]
 		"Others":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
 		"http://www.fullstackpython.com/vim.html"
 		"http://nbviewer.ipython.org/github/brandomr/document_cluster/blob/master/cluster_analysis_web.ipynb?"
 		"http://marcobonzanini.com/2015/05/17/mining-twitter-data-with-python-part-6-sentiment-analysis-basics/"
@@ -236,10 +222,6 @@
 		"http://klen.github.io/py-frameworks-bench/"
 		"http://githubengineering.com/exception-monitoring-and-response/"
 		"https://julien.danjou.info/blog/2015/python-and-timezones"
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 		"http://pbpython.com/pandas-google-forms-part1.html"
 		"http://www.laurentluce.com/posts/least-frequently-used-cache-eviction-scheme-with-complexity-o1-in-python/"
 		"http://podcastinit.com/episode-8-mark-baggett-on-pythons-role-in-information-security.html"
@@ -251,13 +233,7 @@
 		"http://blog.dscpl.com.au/2015/05/performance-monitoring-of-real-wsgi.html"
 		"http://lwn.net/Articles/643786/"
 		"http://willdrevo.com/downloading-youtube-and-soundcloud-audio-with-python-and-pandas/"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 		"http://blog.ldlework.com/2015/05/01/writing-safe-twisted-code/"
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 		"http://blog.ldlework.com/2015/05/01/writing-safe-twisted-code/"
 		"http://willdrevo.com/downloading-youtube-and-soundcloud-audio-with-python-and-pandas/"
 		"http://blog.hakril.net/articles/2-understanding-python-execution-tracer.html"
@@ -324,6 +300,7 @@
 			"http://radimrehurek.com/2014/03/data-streaming-in-python-generators-iterators-iterables/"
 			"http://agiliq.com/blog/2014/05/supervisor-with-django-and-gunicorn/"
 			"https://vimeo.com/79539317"
+			"http://www.coglib.com/~icordasc/blog/2015/07/moving-pep8-to-the-pycqa.html"
 			"http://lignos.org/py_antipatterns/"
 			"http://agiliq.com/blog/2014/08/deploying-a-django-app-on-amazon-ec2-instance/"
 			"http://blog.jonparrott.com/a-web-based-log-viewer-for-app-engine-with-gevent-and-socket-io/"
@@ -367,6 +344,8 @@
 			"http://www.giantflyingsaucer.com/blog/?p=5541&utm_content=bufferb9677&utm_medium=social&utm_source=twitter.com"
 			"https://everystack.io/#!/catalog/components/pycassa"
 			"http://asyncio.org/",
+			"http://python-notes.curiousefficiency.org/en/latest/python3/text_file_processing.html"
+			"http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/"
 			"https://www.youtube.com/watch?v=SF9BFf0mL4E"
 			"http://tech.zalando.com/posts/entering-kernel-namespaces-with-python.html"
 			"https://everystack.io/#!/catalog/components/bjoern"
@@ -481,6 +460,7 @@
 				"https://www.youtube.com/watch?v=GVVtR_hrdKI&list=PLkA60AVN3hh9Sh-5OENT8RsFHjwtk2Z_l"
 			]
 			"OThers":[
+			 "http://www.ibis-project.org/"
 				"http://astrocodeschool.com/blog/video-func-prog/"
 			]
 		}	

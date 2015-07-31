@@ -11,6 +11,7 @@
 =======
 "https://datumengineering.wordpress.com/2014/02/08/r-python/"
 >>>>>>> Stashed 
+"http://www.r-bloggers.com/rstudio-and-github/"
 "http://www.r-bloggers.com/ipython-markdown-opportunities-in-ipython-notebooks-and-rstudio/"
 "http://www.r-bloggers.com/beautiful-table-outputs-summarizing-mixed-effects-models-rstats/"
 "http://www.r-bloggers.com/fast-parallel-computing-with-intel-phi-coprocessors/"

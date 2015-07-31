@@ -14,6 +14,10 @@
 	"http://blog.heldscal.la/elixir-hacking.html"
 	"http://shanesveller.com/blog/2015/06/11/running-a-phoenix-app-via-docker-compose/"
 	"https://www.youtube.com/watch?v=QXcedVc2LQM"
+	"http://elixir-lang.org/crash-course.html"
+	"http://blog.johanwarlander.com/2015/07/19/on-elixir-and-static-typing"
+	"http://nithinbekal.com/posts/phoenix-chat/"
+	"http://wsmoak.net/2015/07/20/phoenix-fitbit-oauth2-part-1.html"
 	"http://elixir-lang.org/docs/v1.0/ex_unit/ExUnit.CaptureIO.html"
 	"http://blog.plataformatec.com.br/2015/06/companies-using-elixir-in-production/"
 	"https://skillsmatter.com/meetups/7182-monads-asking-the-right-question"
@@ -26,8 +30,7 @@
 	"https://blog.process-one.net/embedding-ejabberd-into-an-elixir-phoenix-web-application/"
 	"https://renatomoya.github.io/2015/05/09/Building-a-versioned-REST-API-with-Phoenix-Framework.html"
 	"http://blog.drewolson.org/elixir-streams/"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+"http://elixirstream.com/"
  "http://variousandsundry.com/cs/blog/2015/07/07/core-elixir-home-on-the-range-module/?utm_source=dlvr.it&utm_medium=twitter"
 	"http://www.neo.com/2014/01/14/elixir-and-the-internet-of-things-handling-a-stampede"
 	"http://lfe.gitbooks.io/quick-start/content/1.html-"
@@ -35,15 +38,13 @@
 	"http://www.martinfowler.com/articles/refactoring-pipelines.html"
 	"http://variousandsundry.com/cs/blog/2015/06/24/core-elixir-file-dot-stat/"
 	"http://variousandsundry.com/cs/blog/2015/06/22/core-elixir-introduction-and-the-file-library"
-=======
+
 	"http://blog.heldscal.la/elixir-hacking.html"
->>>>>>> Stashed changes
-=======
+
 	"http://blog.heldscal.la/elixir-hacking.html"
->>>>>>> Stashed changes
-=======
 	"http://blog.heldscal.la/elixir-hacking.html"
->>>>>>> Stashed changes
+
+	"http://blog.heldscal.la/elixir-hacking.html"
 	"http://www.marksense.net/visual-i-mean-flow-based-programming/"
 	"http://erlangcentral.org/martin-kavalar-martin-schurrer-fast-continuous-deployment-of-an-elixir-gameserver-and-phoenix-web-app-using-hot-code-upgrades/#.VVbjUOSli1E"
 ],

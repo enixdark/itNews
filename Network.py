@@ -22,16 +22,7 @@
 	"http://chimera.labs.oreilly.com/books/1230000000545/ch12.html"
 	"http://www.javacodegeeks.com/2014/11/an-introduction-to-rest.html"
 	"http://www.potaroo.net/ispcol/2015-06/mptcp.html"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 	"https://http2.akamai.com/demo"
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 	"http://code.tutsplus.com/tutorials/moving-wordpress-moving-a-multisite-network--cms-22771"
 	"https://www.youtube.com/watch?v=SF9BFf0mL4E&utm_content=bufferf2f10&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 ]"http://www.potaroo.net/ispcol/2015-06/mptcp.html"

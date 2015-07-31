@@ -26,15 +26,10 @@
 		],
 
 		"Postgresql":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
-
+  "http://clarkdave.net/2013/06/what-can-you-do-with-postgresql-and-json/"
 		"https://www.compose.io/articles/coming-in-postgresql-9-5/"
 		"https://www.pgcon.org/2015/schedule/events/868.en.html"
 		"http://www.pateldenish.com/2015/06/postgres-replication-using-replication-slots.html"
-
-
 		"https://www.pgcon.org/2015/schedule/events/868.en.html"
 
 		"http://www.pateldenish.com/2015/06/postgres-replication-using-replication-slots.html"
@@ -43,12 +38,8 @@
 
 		"http://www.pateldenish.com/2015/06/postgres-replication-using-replication-slots.html"
  
-=======
+
 		"http://www.pateldenish.com/2015/06/postgres-replication-using-replication-slots.html"
->>>>>>> Stashed changes
-=======
-		"http://www.pateldenish.com/2015/06/postgres-replication-using-replication-slots.html"
->>>>>>> Stashed changes
 		"http://www.craigkerstiens.com/2015/06/07/Moving-past-averages-in-sql/"
 			"http://adpgtech.blogspot.com/2015/05/goodbye-jsonbreplace-hello-jsonbset.html"
 			"http://adpgtech.blogspot.com/2015/05/running-pgindent-on-non-core-code-or.html"
@@ -97,6 +88,7 @@
 		],
 		"Oracle":[],
 		"MemSQL":[
+		"http://blog.memsql.com/json-column-type/"
 		 "http://blog.memsql.com/top-5-questions-answered-at-spark-summit/"
 			"http://www.infoq.com/news/2015/05/memsql4-community-edition"
 			"https://www.youtube.com/watch?v=OQAMxG7NRt4"
@@ -147,16 +139,11 @@
 			"http://pizzaconnections.net/2015/03/27/148/"
 		]
 		"VoltDB":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
+		"http://voltdb.com/blog/how-docker-simplifies-distributed-systems-development-voltdb"
+		"http://voltdb.com/blog/linux-transparent-huge-pages-and-voltdb"
+		"http://voltdb.com/products/whatsnew"
 		"http://voltdb.com/blog/voltdb-cross-datacenter-database-replication"
 
- 
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 		"http://voltdb.com/products/featuresbenefits/reasons-behind-voltdb-architecture"
 			"http://tjelvarolsson.com/blog/four-tools-for-testing-your-python-code/"
 			"http://datamelon.io/blog/2015/building-a-chat-app-in-volt.html"
@@ -174,8 +161,7 @@
 			"http://www.cleardb.com/blog/entry?id=pr/5-8-2015/cleardb-iron-live-workload-performance-metrics"
 		]
 		"Mongodb":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 
 		"https://www.mongodb.com/world2015?utm_content=buffer800b2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 		"https://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-1?jmp=twitter"
@@ -190,12 +176,7 @@
 
 		"http://codedependant.net/2015/06/12/rest-apis-with-node-tastypie-and-mongo-part-1/"
  
-=======
-		"http://codedependant.net/2015/06/12/rest-apis-with-node-tastypie-and-mongo-part-1/"
->>>>>>> Stashed changes
-=======
-		"http://codedependant.net/2015/06/12/rest-apis-with-node-tastypie-and-mongo-part-1/"
->>>>>>> Stashed changes
+
 		"https://www.mongodb.com/blog/post/retail-reference-architecture-part-4-recommendations-and-personalizations"
 		"http://derickrethans.nl/managing-schema-changes.html"
 		"https://www.mongodb.com/blog/post/retail-reference-architecture-part-4-recommendations-and-personalizations"
@@ -274,8 +255,9 @@
 		"http://www.nuodb.com/blog/architecting-cloud-database-applications-without-overhead"
 		]
 		"CouchBase":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+		"http://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-2"
+		"http://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-1"
+		"http://blog.couchbase.com/traveling-with-couchbase-using-the-java-sdk"
 		"http://blog.couchbase.com/introducing-n1ql-sql-gene-in-nosql"
 
 		"http://blog.couchbase.com/couchbase-spark-connector-1.0-beta-release"
@@ -295,12 +277,7 @@
 
 		"http://connect15.couchbase.com/agenda/extreme-client-side-tweaking-couchbase-criteo/"
  
-=======
-		"http://connect15.couchbase.com/agenda/extreme-client-side-tweaking-couchbase-criteo/"
->>>>>>> Stashed changes
-=======
-		"http://connect15.couchbase.com/agenda/extreme-client-side-tweaking-couchbase-criteo/"
->>>>>>> Stashed changes
+
 		"http://blog.couchbase.com/mongodb-is-special-benchmarks-prove-it"
 			"http://www.zdnet.com/article/couchbase-nosql-database-gets-the-sql-religion/"
 		 "http://www.couchbase.com/press-releases/couchbase-introduces-n1ql-breakthrough-query-language"
@@ -360,16 +337,11 @@
 		],
 
 		"CouchDB":[
+		"http://blog.couchdb.org/2015/07/23/couchdb-weekly-news-july-23-2015/"
 		 "http://docs.ehealthafrica.org/couchdb-best-practices/"
 
 		"CouchDB":[	
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
- 
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 		 "http://blog.couchdb.org/2015/06/18/couchdb-weekly-news-june-18-2015/"
 			"http://docs.ehealthafrica.org/couchdb-best-practices/"
 			"http://www.terlici.com/2015/04/28/couchdb-node-express.html"
@@ -390,9 +362,8 @@
 			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
 		]
 		"Redis":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
+		"http://sorentwo.com/2015/07/27/optimizing-redis-usage-for-caching.html"
+		"http://serenitydb.org/"
 		"http://cristian.regolo.cc/2015/07/07/introducing-the-geo-api-in-redis.html"
 			"http://java.dzone.com/articles/introduction-redis-labs"
 		 "http://antirez.com/news/89"
@@ -405,13 +376,7 @@
  1952b1243e310eddd86c399f59cc76d22c5fb678
 
 		"http://antirez.com/news/89"
- 
-=======
-		"http://antirez.com/news/89"
->>>>>>> Stashed changes
-=======
-		"http://antirez.com/news/89"
->>>>>>> Stashed changes
+
 			"https://www.youtube.com/watch?v=aotCPUtahDU"
 			"https://www.youtube.com/watch?v=pvNrK2ln0Dw"
 			"https://blog.newrelic.com/2015/05/11/redis-performance-metrics/"
@@ -442,18 +407,13 @@
 		],
 		
 		"Neo4j":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+		"http://neo4j.com/blog/whats-new-in-rneo4j-nicole-white/"
+		"http://neo4j.com/blog/create-a-ruby-on-rails-app-with-neo4j-screencast-series/"
+  "http://blog.bruggen.com/2015/07/loading-belgian-corporate-registry-into.html"
 		"http://neo4j.com/blog/export-csv-from-neo4j-curl-cypher-jq/"
 		"http://neo4j.com/blog/solve-network-management-problems-with-neo4j/"
 		"http://neo4j.com/blog/the-neo4j-slack-integration-youve-been-waiting-for-is-here/"
 		"http://neo4jrb.io/blog/2015/06/26/5-0-0_final.html"
-
- 
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 		"http://www.lyonwj.com/2015/06/16/nlp-with-neo4j/"
 		"http://neo4j.com/blog/new-on-neo4j-the-neo4j-2-3-0-milestone-2-release-is-here/"
 		"http://neo4j.com/developer/guide-data-modeling/#_draw_the_data_model"
@@ -511,21 +471,12 @@
 		],
 
 		"Cassandra":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
   "https://databricks.com/blog/2015/06/16/zen-and-the-art-of-spark-maintenance-with-cassandra.html?utm_content=buffer67b89&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 		"http://www.datastax.com/dev/blog/new-in-cassandra-3-0-materialized-views"
 		"http://planetcassandra.org/blog/synchronizing-clocks-in-a-cassandra-cluster-pt-2-solutions/"
 		"http://www.datasciencecentral.com/profiles/blogs/cassandra-modeling-for-real-time-analytics"
 		"http://www.datastax.com/2015/06/oracle-and-the-nosql-effect"
 		"https://medium.com/@mustwin/cassandra-from-a-relational-world-7bbdb0a9f1d"
-
- 
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 		"http://www.datastax.com/dev/blog/whats-new-in-cassandra-2-2-json-support"
 		 "http://www.duchess-france.org/accelerometer-time-series-and-prediction-with-android-cassandra-and-spark/"
 		 "http://blog.parsely.com/post/1928/cass/"
@@ -644,29 +595,17 @@
 		]
 	},
 	"Others":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-
 
 	"http://linkis.com/insidebigdata.com/20/cg15s"
 		"https://www.arangodb.com/2015/06/multi-model-benchmark"
 	 "http://searchdatamanagement.techtarget.com/feature/Which-in-memory-DBMS-best-fits-your-companys-needs"
-
-
 		"https://www.arangodb.com/2015/06/multi-model-benchmark"
-
 	"http://searchdatamanagement.techtarget.com/feature/Which-in-memory-DBMS-best-fits-your-companys-needs"
-
  1952b1243e310eddd86c399f59cc76d22c5fb678
-
+ "http://fortune.com/2015/06/03/couchbase-mongodb-embrace-sql/?xid=timehp-category"
 	"http://searchdatamanagement.techtarget.com/feature/Which-in-memory-DBMS-best-fits-your-companys-needs"
  	"http://blog.jupo.org/2015/07/08/curiodb-a-distributed-persistent-redis-clone/"
-=======
 	"http://searchdatamanagement.techtarget.com/feature/Which-in-memory-DBMS-best-fits-your-companys-needs"
->>>>>>> Stashed changes
-=======
-	"http://searchdatamanagement.techtarget.com/feature/Which-in-memory-DBMS-best-fits-your-companys-needs"
->>>>>>> Stashed changes
 		"http://www.methodsandtools.com/archive/acidnosqldatabase.php"
 		"http://www.infoworld.com/article/2887754/mobile-technology/how-to-choose-a-database-for-your-mobile-apps.html"
 		"https://www.youtube.com/watch?v=DkT5lbHlO1k&feature=youtu.be"

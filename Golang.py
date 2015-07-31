@@ -26,7 +26,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	"http://www.esdrasbeleza.com/2015/04/27/image-processing-with-go/"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======

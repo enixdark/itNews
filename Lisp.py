@@ -4,3 +4,4 @@
 "http://www.buildyourownlisp.com/contents"
 "http://www.defmacro.org/ramblings/lisp.html"
 "http://tech.grammarly.com/blog/posts/Running-Lisp-in-Production.html"
+"http://bitsavers.trailing-edge.com/pdf/mit/cadr/chinual_6thEd_Jan84/"

@@ -1,8 +1,10 @@
 "Devops":{
 		"Apache":[],
 		"Nginx":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+		"http://dennisreimann.de/blog/configuring-nginx-for-the-asset-pipeline/"
+		"http://vladigleba.com/blog/2014/03/27/deploying-rails-apps-part-4-configuring-nginx/"
+		"https://codesachin.wordpress.com/2015/07/20/how-to-deploy-multiple-node-js-socket-io-servers-with-nginx-and-ssl/"
+  "http://geekflare.com/nginx-webserver-security-hardening-guide/"
 
 		"https://www.nginx.com/blog/thread-pools-boost-performance-9x/"
 			"http://nginx.com/blog/nginx-1-9-2-released/"
@@ -15,16 +17,12 @@
 		"http://www.infoq.com/news/2015/06/nginx-design-performance-scale-?"
 		 "http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/"
 		 "https://www.nginx.com/blog/introduction-to-microservices/"
-=======
+  "http://www.gotealeaf.com/blog/setting-up-your-production-server-with-nginx-and-unicorn"
 		"http://nginx.com/blog/thread-pools-boost-performance-9x/"
 		"http://www.infoq.com/news/2015/06/nginx-design-performance-scale-?"
 		 "http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/"
->>>>>>> Stashed changes
-=======
-		"http://nginx.com/blog/thread-pools-boost-performance-9x/"
-		"http://www.infoq.com/news/2015/06/nginx-design-performance-scale-?"
-		 "http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/"
->>>>>>> Stashed changes
+
+
 			"http://nginx.com/blog/socket-sharding-nginx-release-1-9-1/"
 			"https://www.scalyr.com/community/guides/an-in-depth-guide-to-nginx-metrics"
 			"http://java.dzone.com/articles/nginx-open-source-reflecting"
@@ -93,9 +91,8 @@
 		],
 		"SaltStack":[],
 		"ElastickSearch":[
-
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+		"https://www.elastic.co/blog/mongodb-monitoring-with-packetbeat-and-elasticsearch"
+  "https://www.elastic.co/blog/api-ing-us-government-540-co-story?blade=tw"
 		"http://blog.qbox.io/elasticsearch-mapping-tutorial"
 		"http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html"
 		"https://www.elastic.co/blog/this-week-in-elastic-2015-07-08"
@@ -104,10 +101,7 @@
 		"http://blog.sematext.com/2015/06/16/elasticsearch-warmers-thread-pools-circuit-breakers/"
 			"https://www.elastic.co/blog/logstash-1-5-1-released"
    "https://www.elastic.co/blog/elasticsearch-2.0.0.beta1-coming-soon"
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
    "https://www.elastic.co/blog/this-week-in-elastic-2015-06-17"
 			"https://www.elastic.co/blog/logstash-lines-2015-05-22"
 			"https://www.elastic.co/blog/this-week-in-elastic-2015-05-20"

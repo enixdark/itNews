@@ -1,5 +1,6 @@
 "CloudComputing":{
 		"AWS":[
+		 "https://aws.amazon.com/blogs/aws/aws-week-in-review-july-13-2015/"
 		 "http://blogs.aws.amazon.com/bigdata/post/Tx1R28PXR3NAO1I/How-Expedia-Implemented-Near-Real-time-Analysis-of-Interdependent-Datasets?adbsc=social_blogs_20150702_48506036&adbid=616411027782012928&adbpl=tw&adbpr=66780587"
 			"https://cloudnative.io/blog/2015/05/lambda-chat/"
 			"https://medium.com/aws-activate-startup-blog/cluster-based-architectures-using-docker-and-amazon-ec2-container-service-f74fa86254bf"
@@ -18,6 +19,10 @@
 			"http://purple.herokuapp.com/"
 		]
 		"Docker":[
+		"http://flurdy.com/docs/docker/docker_compose_machine_swarm_cloud.html"
+		"http://blog.arungupta.me/multicontainer-applications-docker-compose-swarm/"
+		"http://blog.dscpl.com.au/2015/06/proxying-to-python-web-application.html"
+		"http://www.kennybastani.com/2015/07/spring-cloud-docker-microservices.html"
 		"http://techcrunch.com/2015/06/22/docker-coreos-google-microsoft-amazon-and-others-agree-to-develop-common-container-standard/#.wpvdcb:5J1m"
 		"https://blog.docker.com/2015/06/announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates/"
 		 "http://blog.tutum.co/2015/06/03/docker-angularjs-and-tutum-part-1/"
