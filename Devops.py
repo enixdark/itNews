@@ -45,6 +45,7 @@
 
 		 
 		"Ansible":[
+		"http://www.mod.fi/article/deploying-phoenix-website-with-ansible"
 		"http://sdtimes.com/ansiblefest-inside-the-redesigned-ansible-2-0/"
 		"http://www.ansible.com/blog/ansiblefest-presentations"
 			"http://www.reddit.com/tb/2en3tc"

@@ -72,6 +72,7 @@
 		"https://medium.com/@jlouis666/breaking-erlang-maps-4-4ebc3c64068c"
 		"http://www.erlangpatterns.org/index.html"
 		"http://ricon.io/agenda/"
+		"http://prog21.dadgum.com/70.html"
 		"http://jlouisramblings.blogspot.ro/2013/01/how-erlang-does-scheduling.html"
 		"http://erlangcentral.org/erlang-factory-sf-2015-joseph-blomstedt-data-structure-adventure/#.VSu5--SEi-k"
 		"http://blog.layer.com/building-the-internets-next-messaging-system/"

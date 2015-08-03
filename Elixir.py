@@ -9,6 +9,7 @@
 	"http://www.selectedintelligence.com/post/116327140769/parallel-map-in-elixir"
 	"http://cs.wheaton.edu/~tvandrun/dmfp/"
 	"http://www.zohaib.me/monads-in-elixir-2/"
+	"http://blog.jonharrington.org/elixir-and-czmq/"
 	"http://bendyworks.com/elm-frontend-right-now/"
 	"http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/"
 	"http://blog.heldscal.la/elixir-hacking.html"
