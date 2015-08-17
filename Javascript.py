@@ -180,6 +180,7 @@
 
 
 "React":[
+"http://www.infoq.com/news/2014/05/facebook-mvc-flux"
 "https://facebook.github.io/react/blog/2015/06/12/deprecating-jstransform-and-react-tools.html"
 "http://jxnblk.com/react-icons/"
 "http://www.christianalfoni.com/articles/2015_05_18_Cerebral-developer-preview"
@@ -897,6 +898,7 @@
 			"http://foam-framework.github.io/foam/"
 		]
 		"Others":[
+		"https://rreverser.com/es6-modules-are-dead-long-live-c-preprocessor/"
 		"https://curiosity-driven.org/monads-in-javascript"
 		"https://hacks.mozilla.org/2015/06/the-state-of-web-components/"
 		"http://www.sitepoint.com/improving-responsive-web-design-ress/"

@@ -55,15 +55,20 @@
 		"http://erlangcentral.org/lambda-days-2015-alexei-sholik-functional-survival-in-the-world-of-concurrent-io/#.VVbt6uSli1E"
 		"http://inaka.net/blog/2015/04/20/beautiful-code/"
 		"http://inaka.net/blog/2015/04/20/gadget/"
+		"http://trigonakis.com/blog/2011/04/18/introduction-to-erlang-list-lists-module/"
 		"http://erlangcentral.org/other-erldocs-alpha/#.VR1ZsMuEi-k",
 		"https://www.youtube.com/playlist?list=PLWbHc_FXPo2h0sJW6X2RZDtT1ndw6KKpQ&app=desktop",
 		"https://www.youtube.com/watch?v=uwpakTIg9r8",
 		"https://www.youtube.com/watch?v=XpfGptXxdRY",
+		"https://blog.process-one.net/xmpp-radar-newsletter-1/"
+		"http://trigonakis.com/blog/2011/04/18/introduction-to-erlang-list-lists-module/"
 		"http://threedevsandamaybe.com/erlang-and-clojure-with-steven-proctor/"
 		"http://inaka.net/blog/2015/07/14/erlang-config-include/"
 		"https://www.youtube.com/watch?v=GO_97_6w5lU"
 		"https://www.youtube.com/watch?v=Dgbm3BRmzuI&list=PLWbHc_FXPo2hAfi8bz65wpBrCjeKtncB-&index=4"
 		"http://www.basho.com/bet365/"
+		"http://erlangcentral.org/fredrik-linder-realtime-performance-at-scale-erlang-user-conference-2015/"
+		"http://searchdatamanagement.techtarget.com/feature/Riak-NoSQL-DBMS-overview"
 		"http://erlangcentral.org/erlang-couchdb-and-the-ibm-cloud/#.VacMwryli1E"
 		"http://www.proctor-it.com/erlang-thursday-queue-split-2"
 		"http://www.erlangpatterns.org/patterns.html"
@@ -72,7 +77,10 @@
 		"https://medium.com/@jlouis666/breaking-erlang-maps-4-4ebc3c64068c"
 		"http://www.erlangpatterns.org/index.html"
 		"http://ricon.io/agenda/"
+		"http://christophermeiklejohn.com/publications/erlang-workshop-2015-preprint.pdf"
 		"http://prog21.dadgum.com/70.html"
+		"http://paper.li/ErlangLisp/1397422779?edition_id=d6f94bd0-4451-11e5-9ebc-002590a5ba2d"
+		"http://www.infoq.com/presentations/consistent-computation"
 		"http://jlouisramblings.blogspot.ro/2013/01/how-erlang-does-scheduling.html"
 		"http://erlangcentral.org/erlang-factory-sf-2015-joseph-blomstedt-data-structure-adventure/#.VSu5--SEi-k"
 		"http://blog.layer.com/building-the-internets-next-messaging-system/"

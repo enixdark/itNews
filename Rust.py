@@ -1,4 +1,5 @@
 "Rust":[
+ "https://rust.zeef.com/harris.brakmic"
 	"http://xania.org/201505/on-rust-performance"
 	"http://blog.rust-lang.org/2015/04/03/Rust-1.0-beta.html"
 	"https://rnestler.github.io/more-rust-compared-to-c.html"
@@ -15,6 +16,7 @@
 	"http://unconj.ca/blog/expressing-l-systems-in-rust.html"
 	"https://gist.github.com/oakes/4af1023b6c5162c6f8f0"
 	"http://jakegoulding.com/rust-ffi-omnibus/"
+	"http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html"
 	"https://medium.com/jim-fleming/complex-types-with-rust-s-ffi-315d14619479"
 	"http://vaskir.blogspot.ru/2015/04/computing-cryptography-hashes-rust-vs-f.html"
 	"https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/"
@@ -23,3 +25,4 @@
 	"http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html"
 	"https://doc.rust-lang.org/nightly/adv-book/"
 	"http://wafflespeanut.github.io/blog/2015/07/05/a-pythonist-getting-rusty-these-days-dot/"
+	"http://www.infoq.com/news/2015/08/rust-12-released"

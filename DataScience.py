@@ -1,6 +1,7 @@
 "DataScience":[
+ "http://www.datasciencecentral.com/m/discussion?id=6448529%3ATopic%3A213313"
 	"http://www.datasciencecentral.com/profiles/blogs/lesson-8-graph-databases"
-`	"http://www.datasciencecentral.com/profiles/blogs/must-read-before-attending-any-data-science-interview"
+ "http://www.datasciencecentral.com/profiles/blogs/must-read-before-attending-any-data-science-interview"
 	"http://www.datasciencecentral.com/profiles/blogs/programming-for-data-science-the-polyglot-approach-python-r-sql"
 	"http://www.datasciencecentral.com/profiles/blogs/decision-scientist-vs-data-scientist"
 	"www.analyticbridge.com/profiles/blogs/pythoneer"
@@ -24,6 +25,7 @@
 	"http://www.datasciencecentral.com/profiles/blogs/an-introduction-to-social-network-analysis",
 	"https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/"
 	"https://jessesw.com/Data-Science-Skills/"
+	"https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/"
 	"http://www.datasciencecentral.com/profiles/blogs/60-r-resources"
 	"http://www.datasciencecentral.com/video/deep-learning-intelligence-from-big-data"
 	"http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark"

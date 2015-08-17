@@ -115,6 +115,7 @@
 			"http://davidemoro.blogspot.com/2015/05/kotti-cms-elasticsearch-integration.html"
 		],
 		"Data":[
+		"http://nicschrading.com/project/Intro-to-NLP-with-spaCy/"
 		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
 		"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
 
@@ -197,8 +198,11 @@
 			"https://www.python.org/dev/peps/pep-0487/#trait-descriptors"
 			"https://www.python.org/dev/peps/pep-0486/"
 			"https://www.python.org/dev/peps/pep-0485/"
+			"http://pythontips.com/2015/08/17/intermediate-python-released/"
 		]
 		"Others":[
+		"http://www.slideshare.net/DonaldMiner/hadoop-with-python?from_m_app=ios"
+		"http://mekhami.com/unit/testing/doubles/2015/07/30/Meaningful-Test-Doubles.html"
 		"http://www.fullstackpython.com/vim.html"
 		"http://nbviewer.ipython.org/github/brandomr/document_cluster/blob/master/cluster_analysis_web.ipynb?"
 		"http://marcobonzanini.com/2015/05/17/mining-twitter-data-with-python-part-6-sentiment-analysis-basics/"
@@ -445,6 +449,7 @@
 		}
 
 		"Benchmark":[
+		"http://charlesleifer.com/blog/using-sqlite4-s-lsm-storage-engine-as-a-stand-alone-nosql-database-with-python/"
 			"http://blog.gmludo.eu/2015/02/macro-benchmark-with-django-flask-and-asyncio.html"
 			"http://www.cdotson.com/2014/08/nodejs-vs-python-vs-pypy-a-simple-performance-comparison/"
 			"http://morepypy.blogspot.com/2011/08/pypy-is-faster-than-c-again-string.html"

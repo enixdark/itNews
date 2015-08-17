@@ -4,6 +4,8 @@
 	"http://engineering.imvu.com/2015/06/20/testable-io-in-haskell-2/"
 	"https://realm.io/news/swift-summit-abizer-nasir-lessons-from-haskell/"
 	"http://haskell-distributed.github.io/"
+	"http://www.brendanhay.nz/amazonka-1-0-release/"
+	"http://www.gilmi.xyz/post/2015/08/12/how-haskell-models-io"
 	"https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/"
 	"https://pragprog.com/magazines/2012-08/thinking-functionally-with-haskell"
 	"https://www.fpcomplete.com/user/agocorona/moving-haskell-processes-between-nodes-transient-effects-iv"

@@ -1,4 +1,5 @@
 "Elixir":[
+ "http://elixirstream.com/"
 	"http://learningelixir.joekain.com/cowboy-application-design/"
 	"https://www.youtube.com/watch?v=a-OCorBXX7M"
 	"https://www.youtube.com/watch?v=9wrMM8qLn5c"
@@ -9,7 +10,9 @@
 	"http://www.selectedintelligence.com/post/116327140769/parallel-map-in-elixir"
 	"http://cs.wheaton.edu/~tvandrun/dmfp/"
 	"http://www.zohaib.me/monads-in-elixir-2/"
+	"http://variousandsundry.com/cs/blog/2015/08/06/core-elixir-system-dot-tmp-dir-slash-0/?utm_content=buffer7d9c0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 	"http://blog.jonharrington.org/elixir-and-czmq/"
+	"http://www.zohaib.me/p2p-webrtc-file-sharing-app-broker-using-phoenix/"
 	"http://bendyworks.com/elm-frontend-right-now/"
 	"http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/"
 	"http://blog.heldscal.la/elixir-hacking.html"

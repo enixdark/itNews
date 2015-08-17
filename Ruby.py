@@ -140,7 +140,9 @@
 		"http://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/"
 		"https://www.rubycasts.io/episodes/decorating-ruby-classes-to-extend-behavior"
 		"https://intercityup.com/blog/integrate-rubocop-in-your-workflow.html"
+		"http://blog.rubyrabbitmq.info/blog/2015/08/16/bunny-2-dot-1-0-is-released/"
 	],
+
 
 "Rails":[
 "http://craftingruby.com/posts/2013/02/19/conditionally-map-a-single-route-to-different-controllers.html"

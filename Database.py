@@ -87,6 +87,9 @@
 			"http://8kb.co.uk/blog/2015/04/02/being-cavalier-with-slony-nodes-and-pg_dumppg_restore/",
 		],
 		"Oracle":[],
+		"SQLite4":[
+			"http://www.sqlite.org/src4/doc/trunk/www/lsmusr.wiki#introduction_to_lsm"
+		]
 		"MemSQL":[
 		"http://blog.memsql.com/json-column-type/"
 		 "http://blog.memsql.com/top-5-questions-answered-at-spark-summit/"
@@ -139,6 +142,7 @@
 			"http://pizzaconnections.net/2015/03/27/148/"
 		]
 		"VoltDB":[
+		"http://voltdb.com/news/voltdb-named-strong-performer-memory-database-platforms-market-independent-research-firm"
 		"http://voltdb.com/blog/how-docker-simplifies-distributed-systems-development-voltdb"
 		"http://voltdb.com/blog/linux-transparent-huge-pages-and-voltdb"
 		"http://voltdb.com/products/whatsnew"
@@ -406,8 +410,12 @@
 			"https://github.com/no13bus/redispapa.com&utm_campaign=buffer",
 
 		],
-		
+		"CurioDb":[
+		"https://github.com/stephenmcd/curiodb"
+		]
 		"Neo4j":[
+		"https://databaseline.wordpress.com/2015/08/16/mapping-a-value-stream-in-neo4j/"
+		"http://neo4j.com/blog/create-a-ruby-on-rails-app-with-neo4j-screencast-series/"
 		"http://neo4j.com/blog/whats-new-in-rneo4j-nicole-white/"
 		"http://neo4j.com/blog/create-a-ruby-on-rails-app-with-neo4j-screencast-series/"
   "http://blog.bruggen.com/2015/07/loading-belgian-corporate-registry-into.html"
@@ -508,6 +516,10 @@
 			"https://www.youtube.com/watch?t=30&v=eqOPn5EtR7Q&utm_content=bufferc4c9d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 		],
 
+		"DynamoDB":[
+			"https://medium.com/aws-activate-startup-blog/building-dynamic-dashboards-using-lambda-and-dynamodb-streams-part-1-217e2318ae17"
+		]
+
 		"Hbase":[
 		"http://blog.cloudera.com/blog/2015/06/inside-apache-hbases-new-support-for-mobs/"
 		 "http://blog.cask.co/2015/05/scalable-distributed-transactional-queues/"
@@ -545,6 +557,9 @@
 		],
 		"Sphinx":[
 			"http://sphinxsearch.com/blog/2015/03/11/sphinx-2-2-8-release/"
+		]
+		"Berkeley DB":[
+			"https://web.stanford.edu/class/cs276a/projects/docs/berkeleydb/reftoc.html"
 		]
 		"Solr":[
 		 "http://examples.javacodegeeks.com/enterprise-java/apache-solr/solr-highlighting-example/"

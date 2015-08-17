@@ -100,6 +100,8 @@
 		"http://blog.agiledeveloper.com/2015/07/being-lazy-in-java-like-in-scala.html"
 		"http://javarevisited.blogspot.com/2015/06/difference-between-dependency-injection.html"
 		"http://www.javacodegeeks.com/2013/12/anatomy-of-a-java-decompiler.html"
+		"http://blog.frankel.ch/creative-rx-usage-in-testing-setup"
+		"http://examples.javacodegeeks.com/enterprise-java/spring/spring-data-redis-example"
 		"http://www.javacodegeeks.com/2015/04/caching-of-web-content-with-springs-cache-manager.html"
 		"http://www.javacodegeeks.com/2013/12/java-nested-transaction-using-threadlocal-in-pojo.html"
 		"http://www.javacodegeeks.com/2013/12/mastering-java-bytecode.html"
