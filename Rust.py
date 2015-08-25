@@ -16,6 +16,7 @@
 	"http://unconj.ca/blog/expressing-l-systems-in-rust.html"
 	"https://gist.github.com/oakes/4af1023b6c5162c6f8f0"
 	"http://jakegoulding.com/rust-ffi-omnibus/"
+	"http://huonw.github.io/blog/2015/08/simd-in-rust/"
 	"http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html"
 	"https://medium.com/jim-fleming/complex-types-with-rust-s-ffi-315d14619479"
 	"http://vaskir.blogspot.ru/2015/04/computing-cryptography-hashes-rust-vs-f.html"

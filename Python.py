@@ -125,6 +125,7 @@
 
 
 			"http://cloudacademy.com/blog/aws-machine-learning/"
+			"http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github"
 			"https://www.youtube.com/watch?v=ZMOHEh-caTc&feature=youtu.be"
 			"http://rustyrazorblade.com/2015/05/spark-streaming-with-python-and-kafka/"
 			"http://blog.rtwilson.com/how-to-log-electricity-usage-from-a-currentcost-envir-part-1/"

@@ -618,6 +618,7 @@
 		"https://www.arangodb.com/2015/06/multi-model-benchmark"
 	"http://searchdatamanagement.techtarget.com/feature/Which-in-memory-DBMS-best-fits-your-companys-needs"
  1952b1243e310eddd86c399f59cc76d22c5fb678
+ "https://www.compose.io/articles/building-and-breaking-replica-sets-in-mongodb/"
  "http://fortune.com/2015/06/03/couchbase-mongodb-embrace-sql/?xid=timehp-category"
 	"http://searchdatamanagement.techtarget.com/feature/Which-in-memory-DBMS-best-fits-your-companys-needs"
  	"http://blog.jupo.org/2015/07/08/curiodb-a-distributed-persistent-redis-clone/"

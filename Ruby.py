@@ -145,6 +145,7 @@
 
 
 "Rails":[
+"https://thinkster.io/angular-rails/"
 "http://craftingruby.com/posts/2013/02/19/conditionally-map-a-single-route-to-different-controllers.html"
 "https://blog.phusion.nl/2015/07/21/introducing-the-passenger-library-project/"
 "http://sorentwo.com/2015/07/20/high-performance-caching-with-readthis.html"
