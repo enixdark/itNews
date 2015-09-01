@@ -1,4 +1,5 @@
 "Erlang":[
+		"https://abdullin.com/erlang/basics/"
   "http://www.cs.kent.ac.uk/ErlangMasterClasses/#class1"
   "http://howistart.org/posts/erlang/1"
 		"http://paper.li/ErlangLisp"

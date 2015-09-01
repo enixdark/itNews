@@ -11,6 +11,7 @@
 	"http://cs.wheaton.edu/~tvandrun/dmfp/"
 	"http://blog.brng.us/2015-08-17-wiring-refluxt-and-react-to-phoenix-websockets.html"
 	"http://www.zohaib.me/monads-in-elixir-2/"
+	"http://onor.io/2015/08/27/railway-oriented-programming-in-elixir/"
 	"http://variousandsundry.com/cs/blog/2015/08/06/core-elixir-system-dot-tmp-dir-slash-0/"
 	"http://blog.jonharrington.org/elixir-and-czmq/"
 	"http://www.zohaib.me/p2p-webrtc-file-sharing-app-broker-using-phoenix/"

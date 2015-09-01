@@ -69,6 +69,7 @@
 	"https://docs.google.com/presentation/d/1XzHkaTDAQQTJFHjYAdP4dCkaqXZzudj7IRHwNGDFwYQ/edit#slide=id.g35f391192_00"
 	"https://prezi.com/3wmewobf8i4z/ibm-and-scala/"
 	"https://di-in-scala.github.io/#akka"
+	"http://nordicapis.com/using-spark-to-create-apis-in-scala/"
 	"http://kc.my-junk.info/di-ioc-dip/"
 	"http://blog.scalac.io/2015/07/30/websockets-server-with-akka-http.html"
 	"https://www.typesafe.com/blog/using-spark-kafka-cassandra-and-akka-on-mesos-for-real-time-personalization?utm_content=buffer8dc18&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"

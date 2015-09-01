@@ -10,6 +10,7 @@
 		 "http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql-part-5--cms-23384"
 		 "http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql-part-4--cms-23187"
 			"http://robertocalderon.ca/blog/flask-and-redis-is-fun/"
+
 			"http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972"
 			"http://hackingdistributed.com/2015/05/20/hyperdex-flask/"
 			"http://blog.miguelgrinberg.com/post/celery-and-the-flask-application-factory-pattern"
@@ -46,6 +47,7 @@
 			"https://realpython.com/blog/python/the-ultimate-flask-front-end/.com#.VP2fV1lXx-Y.reddit"
 		],
 		"Django":[
+		"http://reinout.vanrees.org/weblog/2015/08/31/django-site-with-javascript-frontend.html"
 		"http://www.tsartsaris.gr/How-to-write-faster-from-Python-to-Neo4j-with-OpenMpi"
 "https://www.caktusgroup.com/blog/2015/07/28/using-unsaved-related-models-sample-data-django-18/"
 		"https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/"
@@ -115,6 +117,8 @@
 			"http://davidemoro.blogspot.com/2015/05/kotti-cms-elasticsearch-integration.html"
 		],
 		"Data":[
+		"http://brandonrose.org/clustering"
+		"http://www.bayespy.org/examples/lda.html"
 		"http://nicschrading.com/project/Intro-to-NLP-with-spaCy/"
 		"https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization"
 		"http://www.datasciencecentral.com/profiles/blogs/how-to-parallel-programming-in-r-and-python-video"
@@ -202,6 +206,7 @@
 			"http://pythontips.com/2015/08/17/intermediate-python-released/"
 		]
 		"Others":[
+		"https://gun.io/blog/learn-sql/"
 		"http://www.slideshare.net/DonaldMiner/hadoop-with-python?from_m_app=ios"
 		"http://mekhami.com/unit/testing/doubles/2015/07/30/Meaningful-Test-Doubles.html"
 		"http://www.fullstackpython.com/vim.html"

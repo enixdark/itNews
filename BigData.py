@@ -41,7 +41,8 @@
 
 
 		"Spark":[
-		 ""
+			"http://blog.madhukaraphatak.com/analysing-csv-data-in-spark/"
+		 "http://blog.cloudera.com/blog/2015/08/using-apache-spark-for-massively-parallel-nlp-at-tripadvisor/"
 		 "http://www.cakesolutions.net/teamblogs/distributed-dataflow-computing-optimisations-in-apache-spark"
    "http://www.cakesolutions.net/teamblogs/apache-spark-machine-learning-pipelines"
 		 "https://databricks.com/blog/2015/06/16/zen-and-the-art-of-spark-maintenance-with-cassandra.html?"
@@ -87,7 +88,7 @@
 			"http://blog.cloudera.com/blog/2015/07/thrift-client-authentication-support-in-apache-hbase-1-0/"
 		]
 		"Mesos":[
-
+		"http://www.projectcalico.org/mesos-networking-leaps-forward-with-calico/"
 		"http://www.infoq.com/presentations/apache-mesos"
 		"http://open.mesosphere.com/intro-course/intro.html"
 		"https://mesosphere.com/blog/2015/07/23/intel-explains-its-new-program-to-accelerate-cloud-computing-for-all/"
@@ -112,6 +113,7 @@
 			"http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark"
 		]
 		"Mapr":[
+		"https://www.mapr.com/blog/high-performance-c-apis-mapr-db"
 		"http://appaloud.com/nosql-mapr-db-now-available-for-free-within-mapr-community-edition/"
 		"https://www.mapr.com/blog/mining-big-data-wheel#.VbbXypO1nDc"
 		"https://www.mapr.com/blog/evolution-database-schemas-using-sql-nosql#.VZtolryli1E"

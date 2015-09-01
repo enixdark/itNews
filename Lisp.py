@@ -5,3 +5,4 @@
 "http://www.defmacro.org/ramblings/lisp.html"
 "http://tech.grammarly.com/blog/posts/Running-Lisp-in-Production.html"
 "http://bitsavers.trailing-edge.com/pdf/mit/cadr/chinual_6thEd_Jan84/"
+"http://stdioe.blogspot.com.tr/2015/08/lisp-for-c-programmer-numerical.html"

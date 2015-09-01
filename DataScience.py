@@ -1,4 +1,5 @@
 "DataScience":[
+	"http://www.kdnuggets.com/2013/02/online-courses-statistics-machine-learning-analytics.html"
  "http://www.datasciencecentral.com/m/discussion?id=6448529%3ATopic%3A213313"
 	"http://www.datasciencecentral.com/profiles/blogs/lesson-8-graph-databases"
  "http://www.datasciencecentral.com/profiles/blogs/must-read-before-attending-any-data-science-interview"
@@ -75,14 +76,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 "http://www.mbmlbook.com/Introduction.html"
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+"https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/"
 "http://www.datasciencecentral.com/profiles/blogs/how-do-i-learn-machine-learning"
 "http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/"
 "http://www.analyticbridge.com/profiles/blogs/machine-learning-and-data-mining-books-a-baker-s-dozen-for-data"

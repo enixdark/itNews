@@ -116,6 +116,8 @@
 			"http://java.dzone.com/articles/illustrating-primary-key"
 		]
 		"RethinkDB":[
+
+		"http://sagemath.blogspot.com/2015/08/react-flux-rethinkdb-and-sagemathcloud.html?m=1"
 		"http://blog.hiphipjorge.com/connecting-2-rethinkdb-clusters-with-proxy-node/"
 			"https://strongloop.com/strongblog/rethinkdb-connector-loopback-node-js-framework/"
 			"http://blog.fanout.io/2015/05/20/building-a-realtime-api-with-rethinkdb/"
