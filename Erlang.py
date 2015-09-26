@@ -1,4 +1,5 @@
 "Erlang":[
+	"https://medium.com/@kansi/getting-started-with-erlang-d6ef711b25db"
 		"https://abdullin.com/erlang/basics/"
   "http://www.cs.kent.ac.uk/ErlangMasterClasses/#class1"
   "http://howistart.org/posts/erlang/1"
@@ -20,7 +21,7 @@
   "http://michal.muskala.eu/2015/07/07/creating-ecto-adapters.html?utm_source=dlvr.it&utm_medium=twitter"
   "http://ninenines.eu/talks/cowboy-2/#/1"
   "http://joedevivo.com/2015/07/09/integer-representation-in-hpack.html?utm_source=dlvr.it&utm_medium=twitter"
-
+  ""
   "http://erlangcentral.org/http2-and-you-joe-devivo-erlang-user-conference-2015/#.VaCxLLyli1E"
   "http://www.ostinelli.net/an-evaluation-of-erlang-global-process-registries-meet-syn/"
   "http://www.javacodegeeks.com/2011/04/erlang-vs-java-memory-architecture.html"

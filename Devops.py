@@ -1,6 +1,7 @@
 "Devops":{
 		"Apache":[],
 		"Nginx":[
+		"http://techcrunch.com/2015/09/16/nginx-brings-http2-support-to-its-commercial-release/"
 		"http://dennisreimann.de/blog/configuring-nginx-for-the-asset-pipeline/"
 		"http://vladigleba.com/blog/2014/03/27/deploying-rails-apps-part-4-configuring-nginx/"
 		"https://codesachin.wordpress.com/2015/07/20/how-to-deploy-multiple-node-js-socket-io-servers-with-nginx-and-ssl/"
@@ -12,7 +13,7 @@
 		"http://www.infoq.com/news/2015/06/nginx-design-performance-scale-?"
 		 "http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/"
 		 "http://nginx.com/blog/how-nginx-plans-to-support-http2/"
-   "https://www.nginx.com/blog/nginx-plus-on-amazon-ec2-getting-started/"		
+   "https://www.nginx.com/blog/nginx-plus-on-amazon-ec2-getting-started/"
   "http://nginx.com/blog/thread-pools-boost-performance-9x/"
 		"http://www.infoq.com/news/2015/06/nginx-design-performance-scale-?"
 		 "http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/"
@@ -92,6 +93,8 @@
 		],
 		"SaltStack":[],
 		"ElastickSearch":[
+		"https://www.elastic.co/blog/road-to-a-better-user-search-experience?blade=tw"
+		"http://amsterdam.luminis.eu/2015/08/31/elasticsearch-2-0-and-pipeline-aggregations/"
 		"https://www.elastic.co/blog/mongodb-monitoring-with-packetbeat-and-elasticsearch"
   "https://www.elastic.co/blog/api-ing-us-government-540-co-story?blade=tw"
 		"http://blog.qbox.io/elasticsearch-mapping-tutorial"

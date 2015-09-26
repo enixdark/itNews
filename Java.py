@@ -1,7 +1,9 @@
 "Java":[
+"http://202.45.139.84:10035/doc/java-tutorial/jena-tutorial-40.html"
 "http://www.javacodegeeks.com/2015/05/quasar-and-akka-a-comparison.html"
 "http://examples.javacodegeeks.com/enterprise-java/spring/spring-data-tutorial-beginners/"
 "http://www.jooq.org/java-8-and-sql"
+"https://www.indiegogo.com/projects/junit-lambda#/story"
 "http://www.infoq.com/news/2015/06/play-24-dependency-injection"
 "http://engineering.sharethrough.com/blog/2015/05/18/type-classes-for-the-java-engineer/"
 "http://www.javacodegeeks.com/2014/12/avoid-unwanted-component-scanning-of-spring-configuration.html"

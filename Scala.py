@@ -1,4 +1,7 @@
 "Scala":[
+"http://blog.scalac.io/2015/09/24/scala_js.html"
+ "http://danielwestheide.com/scala/neophytes.html"
+	"http://paulosuzart.github.io/blog/2015/09/23/database-functional-mapping-with-slick/"
 	"http://scalacheck.org/"
 	"http://www.javacodegeeks.com/2011/10/scala-tutorial-regular-expressions.html"
 	"http://doc.akka.io/docs/akka/snapshot/scala/persistence.html#Persistent_FSM"
@@ -63,6 +66,7 @@
 	"https://medium.com/@Algomancer/zero-to-deeplearning-with-scala-cd7de43a641e"
 	"https://typesafe.com/activator/template/akka-http-microservice"
 	"http://scala-exercises.47deg.com/"
+	"http://code.hootsuite.com/introduction-to-futures-in-scala/"
 	"http://chariotsolutions.com/blog/post/better-scala-tuples-with-shapeless/"
 	"http://www.slideshare.net/sinisalyh/scala-data-pipelines-spotify"
 	"http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0/scala.html"

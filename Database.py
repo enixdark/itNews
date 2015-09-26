@@ -116,7 +116,7 @@
 			"http://java.dzone.com/articles/illustrating-primary-key"
 		]
 		"RethinkDB":[
-
+		"http://www.infoworld.com/article/2975838/database/build-real-time-web-apps-with-rethinkdb.html"
 		"http://sagemath.blogspot.com/2015/08/react-flux-rethinkdb-and-sagemathcloud.html?m=1"
 		"http://blog.hiphipjorge.com/connecting-2-rethinkdb-clusters-with-proxy-node/"
 			"https://strongloop.com/strongblog/rethinkdb-connector-loopback-node-js-framework/"
@@ -140,6 +140,7 @@
 			"https://foundationdb.com/key-value-store/versus"
 		],
 		"Oritendb":[
+			"http://www.infoq.com/fr/presentations/orientdb-2nd-generation-multimodel-nosql"
 			"http://pizzaconnections.net/2015/04/09/analyze-a-class-diagram-with-orientdb/"
 			"http://pizzaconnections.net/2015/03/27/148/"
 		]
@@ -167,7 +168,8 @@
 			"http://www.cleardb.com/blog/entry?id=pr/5-8-2015/cleardb-iron-live-workload-performance-metrics"
 		]
 		"Mongodb":[
-
+		"http://emptysqua.re/blog/mongo-shell-crud-api/"
+		"https://www.mongodb.com/blog/post/the-new-mongodb-rust-driver"
 		"https://www.mongodb.com/blog/post/your-ultimate-guide-to-rolling-upgrades"
 		"https://www.mongodb.com/world2015?utm_content=buffer800b2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
 		"https://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-1?jmp=twitter"
@@ -344,6 +346,7 @@
 		],
 
 		"CouchDB":[
+		"http://blog.couchdb.org/2015/09/03/couchdb-weekly-news-september-03-2015/"
 		"http://blog.couchdb.org/2015/07/23/couchdb-weekly-news-july-23-2015/"
 		 "http://docs.ehealthafrica.org/couchdb-best-practices/"
 
@@ -369,6 +372,8 @@
 			"http://blog.couchbase.com/first-steps-with-pouchdb--sync-gateway-todomvc-todolite"
 		]
 		"Redis":[
+		"http://antirez.com/news/92"
+		"https://www.compose.io/articles/why-and-how-to-redis-with-your-mongodb/"
 		"http://sorentwo.com/2015/07/27/optimizing-redis-usage-for-caching.html"
 		"http://serenitydb.org/"
 		"http://cristian.regolo.cc/2015/07/07/introducing-the-geo-api-in-redis.html"
@@ -414,8 +419,21 @@
 		],
 		"CurioDb":[
 		"https://github.com/stephenmcd/curiodb"
+		],
+		"TitanDb":[
+			"http://thinkaurelius.github.io/titan/"
+		]
+		"Scylladb":[
+			"http://www.scylladb.com/"
+
 		]
 		"Neo4j":[
+		"http://neo4j.com/blog/neo4j-2-3-milestone-3-release/"
+		"http://neo4j.com/blog/other-graph-database-technologies/"
+		"http://www.markhneedham.com/blog/2013/06/24/neo4j-spatial-indexing-football-stadiums-using-the-rest-api/"
+		"http://www.lyonwj.com/mapping-the-worlds-airports-with-neo4j-spatial-and-openflights-part-1/"
+		"http://neo4j.com/blog/multi-level-marketing-world-of-warcraft-neo4j/"
+		"http://neo4j.com/blog/import-10m-stack-overflow-questions/"
 		"https://databaseline.wordpress.com/2015/08/16/mapping-a-value-stream-in-neo4j/"
 		"http://neo4j.com/blog/create-a-ruby-on-rails-app-with-neo4j-screencast-series/"
 		"http://neo4j.com/blog/whats-new-in-rneo4j-nicole-white/"
@@ -519,6 +537,7 @@
 		],
 
 		"DynamoDB":[
+			"http://blog.cloudability.com/eight-ways-to-lower-your-dynamodb-costs/"
 			"https://medium.com/aws-activate-startup-blog/building-dynamic-dashboards-using-lambda-and-dynamodb-streams-part-1-217e2318ae17"
 		]
 
@@ -544,6 +563,7 @@
 			"http://channel9.msdn.com/Blogs/Windows-Azure/Azure-Demo-Getting-started-with-Azure-DocumentDB-on-Nodejs-in-Linux"
 		]
 		"Riak":[
+		"http://basho.com/posts/business/spotlight-planes-trains-automobiles-hotels-and-nosql-onetwotrip-powered-by-riak-kv/"
 		"http://www.slideshare.net/BashoTechnologies/a-little-about-message-queues-boston-riak-meetup"
 		"https://exote.ch/blogs/aseigo/2015/06/19/riak-kv-basho-and-kolab/"
 		 "http://basho.com/basho-data-platform-the-first-nosql-data-platform-designed-for-enterprise-active-workloads/"
@@ -613,7 +633,7 @@
 		]
 	},
 	"Others":[
-
+	"https://www.linkedin.com/pulse/finding-valuable-outliers-opportunities-using-graph-spatial-urich"
 	"http://linkis.com/insidebigdata.com/20/cg15s"
 		"https://www.arangodb.com/2015/06/multi-model-benchmark"
 	 "http://searchdatamanagement.techtarget.com/feature/Which-in-memory-DBMS-best-fits-your-companys-needs"

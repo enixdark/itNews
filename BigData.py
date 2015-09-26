@@ -1,6 +1,8 @@
 "BigData":{
 		"http://www.dzone.com/mz/big-data"
 		"Hadoop":[
+		"http://getindata.com/blog/post/avoiding-the-mess-in-the-hadoop-cluster-part-2/"
+		"http://getindata.com/blog/post/avoiding-the-mess-from-the-hadoop-cluster-part-1/"
 		"http://appaloud.com/teradata-acquires-rainstor-address-big-data-archiving-using-hadoop/"
 		"http://appaloud.com/teradata-offers-mapr-within-teradatas-unified-data-architecture/"
 		"http://www.datasciencecentral.com/profiles/blogs/6-cloud-based-machine-learning-services"
@@ -39,8 +41,12 @@
 			"http://lucidworks.com/blog/integrating-storm-and-solr/"
 		]
 
-
+		"Flink":[
+			"http://data-artisans.com/kafka-flink-a-practical-how-to/"
+			"http://flink.apache.org/news/2015/08/24/introducing-flink-gelly.html"
+		]
 		"Spark":[
+			"https://developer.ibm.com/bluemix/2015/09/04/speed-sql-queries-spark-sql/"
 			"http://blog.madhukaraphatak.com/analysing-csv-data-in-spark/"
 		 "http://blog.cloudera.com/blog/2015/08/using-apache-spark-for-massively-parallel-nlp-at-tripadvisor/"
 		 "http://www.cakesolutions.net/teamblogs/distributed-dataflow-computing-optimisations-in-apache-spark"
@@ -108,6 +114,7 @@
 			"http://www.javacodegeeks.com/2015/04/apache-mesos-marathon-and-java-ee.html",
 		],
 		"ApacheDrill":[
+		"https://www.mapr.com/blog/how-convert-csv-file-apache-parquet-using-apache-drill"
 		"https://www.mapr.com/blog/apache-drill-how-create-new-function?utm_source=twitter&utm_medium=social&utm_content=Oktopost-twitter-profile&utm_campaign=Oktopost-Content+Curation+July+2015&campaign=2015_Social_twitter&source=Social#.VbrhyJO1nDc"
 		 "https://www.mapr.com/blog/apache-drill-how-create-new-function#.VbiU0JO1nDc"
 			"http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark"

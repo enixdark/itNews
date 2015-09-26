@@ -117,6 +117,7 @@
 			"http://davidemoro.blogspot.com/2015/05/kotti-cms-elasticsearch-integration.html"
 		],
 		"Data":[
+		"http://nicolewhite.github.io/neo4j-jupyter/twitter.html"
 		"http://brandonrose.org/clustering"
 		"http://www.bayespy.org/examples/lda.html"
 		"http://nicschrading.com/project/Intro-to-NLP-with-spaCy/"

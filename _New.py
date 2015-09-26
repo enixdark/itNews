@@ -49,6 +49,7 @@
 "http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html"
 "http://www.datasciencecentral.com/group/announcements/forum/topics/book-practical-machine-learning-a-new-look-at-anomaly-detection"
 "http://nixos.org/"
+"https://blog.twitter.com/2015/diffy-testing-services-without-writing-tests"
 "https://www.elastic.co/webinars/adding-spark-and-security-to-elasticsearch-for-hadoop?blade=tw"
 "https://pycon.jp/2015/ja/proposals/vote/133/"
 "http://www.infoq.com/presentations/techniques-server-debug"
